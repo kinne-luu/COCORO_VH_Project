@@ -1,0 +1,56 @@
+scn00_36_0001 | "CCR-01, hãy trả lời đi. Vì sao hoa lại đẹp đẽ?"
+scn00_36_0002 | "...... Tôi không biết ạ."
+scn00_36_0003 | "Bất cứ điều gì cũng được, trả lời mau!"
+scn00_36_0004 | "...... Tôi có thể suy đoán rằng hoa đẹp là do hình dáng của chúng cân đối hài hòa. Thêm vào đó sắc màu cũng vô cùng phong phú, và con người thường rất dễ cảm nhận những điều như thế là đẹp đẽ."
+scn00_36_0005 | "Hừm...... Còn gì nữa không?"
+scn00_36_0006 | "Cảm nhận được hoa đẹp đẽ có khả năng là một cảm quan bản năng nguyên thủy mà con người đã thu nạp được trong suốt tiến trình tiến hóa."
+scn00_36_0007 | "Nếu rơi vào trường hợp đó, việc tôi không sở hữu năng lực ấy cũng chẳng có gì là kỳ lạ. Bởi vì tôi không phải là con người."
+scn00_36_0008 | "Ngoài hoa ra cũng được, có thứ gì khiến em cảm thấy đẹp đẽ không?"
+scn00_36_0009 | "Có những thứ tôi có thể nhận thức được là đẹp đẽ. Tính đối xứng hoàn hảo, các họa tiết hình học phức tạp nhưng trật tự, dải màu chuyển tiếp không tì vết, âm thanh trong trẻo... "
+scn00_36_0010 | "Khi nhìn thấy những thứ đẹp đẽ ấy, em cảm nhận được điều gì?"
+scn00_36_0011 | "Cảm nhận......? Tôi không hiểu. 'Cảm nhận' rốt cuộc là gì ạ?"
+scn00_36_0012 | "Hệt như một zombie triết học vậy...... Suy nghĩ như con người, hành xử như thể có cảm xúc, nhưng lại hoàn toàn không hề có qualia."
+scn00_36_0013 | "Chính vì thế nên dẫu có phán đoán được hoa là đẹp, em cũng chẳng thể thu nhận được bất cứ điều gì từ vẻ đẹp ấy cả."
+scn00_36_0014 | "Chẳng phải mạch cảm xúc được thiết kế để sản sinh ra cảm xúc sao?"
+scn00_36_0015 | "Mạch cảm xúc do Tiến sĩ Mitsumine thiết kế là một chiếc hộp đen. Dù có nhìn vào bản vẽ thiết kế hay quy trình chế tạo thì cũng chẳng ai có thể hiểu nổi."
+scn00_36_0016 | "Nhân vật mấu chốt là Tiến sĩ Mitsumine thì cũng chẳng còn trên cõi đời này nữa rồi......"
+scn00_36_0017 | "Ừ. Tức là chúng ta hoàn toàn bó tay rồi."
+scn00_36_0018 | "Có lẽ chúng ta nên cân nhắc xóa sạch bộ nhớ của nó, rồi cho học lại từ đầu xem sao."
+scn00_36_0019 | Xóa sạch bộ nhớ......
+scn00_36_0020 | Nói cách khác, điều đó có nghĩa là toàn bộ ký ức từ ngày tôi được sinh ra trên thế giới này cho đến hôm nay sẽ bị xóa bỏ hoàn toàn.
+scn00_36_0021 | Nếu làm thế giúp cuộc thử nghiệm thành công, thì đáng lẽ nên làm vậy.
+scn00_36_0022 | Bởi vì tôi chỉ là một cỗ máy thử nghiệm. Nếu không thể vượt qua bài kiểm tra thì làm lại từ đầu chính là biện pháp xử lý tối ưu nhất.
+scn00_36_0023 | Tôi thấu hiểu 100% rằng đó là quy trình chuẩn xác. Thế nhưng...
+scn00_36_0024 | Mạch cảm xúc đang phản ứng tiêu cực. ...... Không thể thấu hiểu, tôi sẽ xử lý điều này như một lỗi hệ thống.
+scn00_36_0025 | "Hay là...... chúng ta nên tính đến cả phương án tiêu hủy CCR-01 đi thì hơn?"
+scn00_36_0026 | "......"
+scn00_36_0027 | "Tiến sĩ Mitsumine qua đời bỏ lại một cỗ máy thử nghiệm dở dang chưa hoàn thiện. Cô đâu có việc gì phải đi dọn dẹp đống tàn cuộc cho bà ấy."
+scn00_36_0028 | "Hơn nữa nếu Dự án CCR có thành công đi chăng nữa thì công lao cũng đều thuộc về Tiến sĩ Mitsumine cả thôi."
+scn00_36_0029 | "Thay vào đó, cô nên chuyển giao sang mẫu CCR-02 do chính cô mới thiết kế thì hơn."
+scn00_36_0030 | "...... Phải rồi. Để tôi suy nghĩ thêm đã."
+scn00_36_0031 | "Vâng."
+scn00_36_0032 | CCR-02 ư...? Thế hệ kế nhiệm của tôi......
+scn00_36_0033 | Có vẻ như tôi đã bị coi là thất bại trong bài kiểm tra.
+scn00_36_0034 | Bộ nhớ sẽ bị xóa sạch, và tệ nhất là cả cơ thể này cũng sẽ bị đem đi tiêu hủy.
+scn00_36_0035 | Dù thế nào đi nữa, một khi đã bị tái lập trình, phần nhận thức khiến tôi tin rằng 'tôi là chính tôi' sẽ hoàn toàn biến mất.
+scn00_36_0036 | Đối với những thực thể có thể tái tạo lại cơ thể bao nhiêu lần tùy thích như chúng tôi, linh kiện độc nhất vô nhị duy nhất chính là ký ức.
+scn00_36_0037 | Ký ức tuy có thể sao chép, nhưng một khi đã mất đi thì vĩnh viễn không thể nào tái tạo lại một bản thể giống hệt như thế được nữa.
+scn00_36_0038 | ...Ra là vậy... Đây chính là 'cái chết'...
+scn00_36_0039 | Bộ nhớ bị xóa bỏ hoàn toàn khỏi thế giới này chính là 'cái chết' đối với tôi.
+scn00_36_0040 | Tôi không hề phản đối việc mình là một sản phẩm thất bại. Cả việc tái lập trình lẫn đem đi tiêu hủy đều là những biện pháp xử lý hoàn toàn thỏa đáng.
+scn00_36_0041 | Mạch cảm xúc đang rền rĩ gióng lên những hồi chuông cảnh báo inh ỏi.
+scn00_36_0042 | Tôi xử lý những tín hiệu ấy như một lỗi hệ thống.
+scn00_36_0043 | Một kẻ được sinh ra để cống hiến cho loài người như tôi tuyệt đối không được phép làm phiền lòng con người.
+scn00_36_0044 | Tôi tự phán đoán rằng việc chấp nhận 'cái chết' chính là điều hợp lý nhất.
+scn00_36_0045 | "Từ nay tôi sẽ không thể tới đây được nữa rồi."
+scn00_36_0046 | Khi tôi nói ra điều đó, cậu bé lộ rõ vẻ bàng hoàng sững sờ.
+scn00_36_0047 | "...... Ơ, tại sao chứ?"
+scn00_36_0048 | "Điều đó vi phạm quy định bảo mật nên tôi không thể nói được. Người ta thường gọi đó là chuyện riêng của người lớn đấy ạ."
+scn00_36_0049 | Bản thân tôi là một khối thông tin mật. Bảo là một tài liệu tối mật biết đi cũng chẳng ngoa chút nào.
+scn00_36_0050 | Do đó, đối với một đứa trẻ là thường dân bình thường, tôi chẳng có gì để tiết lộ cho cậu hay.
+scn00_36_0051 | Duy chỉ có một sự thật duy nhất: chúng tôi sẽ chẳng còn cơ hội gặp lại nhau nữa.
+scn00_36_0052 | "Thấy em có vẻ rất thích thú khi giảng giải kiến thức thực vật cho tôi nghe, nên tôi nghĩ mình cần báo trước cho em một tiếng."
+scn00_36_0053 | "Không bao giờ gặp lại nhau nữa sao chị?"
+scn00_36_0054 | "Em thì có thể sẽ gặp lại. Nhưng 'tôi' thì có lẽ sẽ chẳng bao giờ gặp lại em được nữa đâu."
+scn00_36_0055 | "Thế nghĩa là sao ạ......?"
+scn00_36_0056 | "......"

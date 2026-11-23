@@ -1,0 +1,3357 @@
+{
+  "evals": {
+    "base": [
+      [
+        "call",
+        "global.UiloadExtraGridChain.setup"
+      ]
+    ],
+    "drawspeed_slider": [
+      [
+        "call",
+        "SetupSliderCenter",
+        "50"
+      ]
+    ],
+    "names": [],
+    "sublang": [
+      [
+        "call",
+        "SetupLRSpinButton",
+        "sublang_prev",
+        "sublang_next"
+      ]
+    ],
+    "textlang": [
+      [
+        "call",
+        "SetupLRSpinButton",
+        "textlang_prev",
+        "textlang_next"
+      ]
+    ],
+    "uilang": [
+      [
+        "call",
+        "SetupLRSpinButton",
+        "uilang_prev",
+        "uilang_next"
+      ]
+    ]
+  },
+  "holdimage": [
+    "config_page0_jp__pack",
+    "config_page0__pack",
+    "config_base__pack"
+  ],
+  "imports": [
+    "config_base_jp"
+  ],
+  "names": [
+    "pos_top",
+    "pos_next",
+    "scroll_term",
+    "fullscreen_off",
+    "fullscreen_on",
+    "uilang_prev",
+    "uilang_next",
+    "uilang",
+    "lang_ui",
+    "textlang_prev",
+    "textlang_next",
+    "textlang",
+    "lang_text",
+    "sublang_prev",
+    "sublang_next",
+    "sublang",
+    "lang_sub",
+    "drawspeed_help",
+    "drawspeed_slider",
+    "drawspeed_line",
+    "drawspeed_base",
+    "voicespeed_help",
+    "voicespeed_slider",
+    "voicespeed_line",
+    "voicespeed_base",
+    "vspeedsync_on",
+    "vspeedsync_off",
+    "savequit_on",
+    "savequit_off",
+    "touchmode_on",
+    "touchmode_off",
+    "pos0",
+    "pos1",
+    "pos2",
+    "pos3",
+    "pos4",
+    "base",
+    "fullscreen",
+    "vspeedsync",
+    "savequit",
+    "touchmode",
+    "head_fullscreen",
+    "head_uilang",
+    "head_textlang",
+    "head_sublang",
+    "head_drawspeed",
+    "head_voicespeed",
+    "head_vspeedsync",
+    "head_savequit",
+    "head_touchmode",
+    "textspeed_slider",
+    "autospeed_slider",
+    "skipspeed_slider",
+    "vspeedsync_chk",
+    "vspeedsync_rev",
+    "savequit_chk",
+    "savequit_rev",
+    "fullscreen_chk",
+    "fullscreen_rev",
+    "touchmode_chk",
+    "touchmode_rev"
+  ],
+  "order": null,
+  "packbase": [
+    "config_s1display",
+    "config_s0base"
+  ],
+  "packhash": [
+    7608314914093391395,
+    -5026597495216160296,
+    1189139983220454832,
+    3168842971297419996,
+    5614609877855562835,
+    -7269570148754436180,
+    -7320957753849922,
+    987828580637835201,
+    5158012786834742272,
+    8174083366552843584,
+    -8041986492432702934,
+    -7755667904395578259,
+    6689334284978519548,
+    -7772266046860639351,
+    -2432596074847750140,
+    7554763982390026780,
+    463336049946261631,
+    -8375125587365137281,
+    4531366028202752699,
+    -8644570559987733062,
+    -279922126555590006,
+    -2099469626784985866,
+    6513950554593679127,
+    -6917048174179172730,
+    -3453082258428739657,
+    -7328844493754920638,
+    -6694915163222405627
+  ],
+  "packlist": [
+    [
+      519,
+      532,
+      126,
+      41,
+      0,
+      11135
+    ],
+    [
+      282,
+      583,
+      204,
+      34,
+      0,
+      11133
+    ],
+    [
+      502,
+      47,
+      121,
+      41,
+      0,
+      11132
+    ],
+    [
+      564,
+      291,
+      78,
+      40,
+      0,
+      11136
+    ],
+    [
+      562,
+      448,
+      93,
+      34,
+      0,
+      10946
+    ],
+    [
+      519,
+      573,
+      126,
+      41,
+      0,
+      11134
+    ],
+    [
+      0,
+      93,
+      282,
+      66,
+      0,
+      11056
+    ],
+    [
+      282,
+      93,
+      282,
+      66,
+      0,
+      11070
+    ],
+    [
+      0,
+      159,
+      282,
+      66,
+      0,
+      11048
+    ],
+    [
+      282,
+      159,
+      282,
+      66,
+      0,
+      11052
+    ],
+    [
+      0,
+      225,
+      282,
+      66,
+      0,
+      11062
+    ],
+    [
+      0,
+      291,
+      282,
+      66,
+      0,
+      11066
+    ],
+    [
+      282,
+      403,
+      311,
+      45,
+      0,
+      10861
+    ],
+    [
+      282,
+      538,
+      217,
+      45,
+      0,
+      11043
+    ],
+    [
+      0,
+      0,
+      538,
+      47,
+      0,
+      10909
+    ],
+    [
+      282,
+      493,
+      237,
+      45,
+      0,
+      10944
+    ],
+    [
+      519,
+      493,
+      149,
+      39,
+      0,
+      10977
+    ],
+    [
+      282,
+      357,
+      386,
+      46,
+      0,
+      10874
+    ],
+    [
+      593,
+      403,
+      65,
+      37,
+      0,
+      11010
+    ],
+    [
+      282,
+      448,
+      280,
+      45,
+      0,
+      10848
+    ],
+    [
+      0,
+      47,
+      502,
+      46,
+      0,
+      10813
+    ],
+    [
+      0,
+      357,
+      282,
+      66,
+      0,
+      10826
+    ],
+    [
+      0,
+      423,
+      282,
+      66,
+      0,
+      10840
+    ],
+    [
+      0,
+      489,
+      282,
+      66,
+      0,
+      10832
+    ],
+    [
+      0,
+      555,
+      282,
+      66,
+      0,
+      10836
+    ],
+    [
+      282,
+      225,
+      282,
+      66,
+      0,
+      10818
+    ],
+    [
+      282,
+      291,
+      282,
+      66,
+      0,
+      10822
+    ]
+  ],
+  "result": {
+    "__gridchain": {
+      "groups": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5
+      ],
+      "grpedges": [
+        [
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            4,
+            3,
+            2
+          ],
+          [
+            4,
+            3,
+            2
+          ],
+          [
+            2
+          ],
+          [
+            4
+          ]
+        ],
+        [
+          [
+            6,
+            5
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            5
+          ],
+          [
+            6
+          ]
+        ],
+        [
+          [
+            7
+          ],
+          [
+            8
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            8,
+            7
+          ]
+        ],
+        [
+          [
+            9
+          ],
+          [
+            10
+          ],
+          [
+            10,
+            9
+          ],
+          [
+            10,
+            9
+          ]
+        ],
+        [
+          [
+            11
+          ],
+          [
+            12
+          ],
+          [
+            12,
+            11
+          ],
+          [
+            12,
+            11
+          ]
+        ]
+      ],
+      "grplinks": [
+        [
+          null,
+          null,
+          null,
+          [
+            1,
+            4,
+            5,
+            2,
+            3
+          ],
+          "page0scr"
+        ],
+        [
+          null,
+          null,
+          [
+            0
+          ],
+          [
+            4,
+            5,
+            2,
+            3
+          ],
+          "page0lang"
+        ],
+        [
+          null,
+          null,
+          [
+            5,
+            4,
+            1,
+            0
+          ],
+          [
+            3
+          ],
+          "page0sld"
+        ],
+        [
+          null,
+          null,
+          [
+            2,
+            5,
+            4,
+            1,
+            0
+          ],
+          null,
+          "page0sync"
+        ],
+        [
+          null,
+          null,
+          [
+            1,
+            0
+          ],
+          [
+            5,
+            2,
+            3
+          ],
+          "page1"
+        ],
+        [
+          null,
+          null,
+          [
+            4,
+            1,
+            0
+          ],
+          [
+            2,
+            3
+          ],
+          "page1tm"
+        ]
+      ],
+      "hash": -3418785877564135869,
+      "links": [
+        [
+          -1,
+          [
+            1
+          ],
+          -1,
+          null,
+          "fullscreen_off"
+        ],
+        [
+          [
+            0
+          ],
+          -1,
+          -1,
+          null,
+          "fullscreen_on"
+        ],
+        [
+          -1,
+          -1,
+          null,
+          [
+            3,
+            4
+          ],
+          "uilang"
+        ],
+        [
+          -1,
+          -1,
+          [
+            2
+          ],
+          [
+            4
+          ],
+          "textlang"
+        ],
+        [
+          -1,
+          -1,
+          [
+            3,
+            2
+          ],
+          null,
+          "sublang"
+        ],
+        [
+          null,
+          null,
+          null,
+          [
+            6
+          ],
+          "drawspeed_slider"
+        ],
+        [
+          null,
+          null,
+          [
+            5
+          ],
+          null,
+          "voicespeed_slider"
+        ],
+        [
+          -1,
+          [
+            8
+          ],
+          null,
+          -1,
+          "vspeedsync_on"
+        ],
+        [
+          [
+            7
+          ],
+          -1,
+          null,
+          -1,
+          "vspeedsync_off"
+        ],
+        [
+          -1,
+          [
+            10
+          ],
+          null,
+          null,
+          "savequit_on"
+        ],
+        [
+          [
+            9
+          ],
+          -1,
+          null,
+          null,
+          "savequit_off"
+        ],
+        [
+          -1,
+          [
+            12
+          ],
+          null,
+          null,
+          "touchmode_on"
+        ],
+        [
+          [
+            11
+          ],
+          -1,
+          null,
+          null,
+          "touchmode_off"
+        ]
+      ],
+      "names": {
+        "drawspeed_slider": 5,
+        "fullscreen_off": 0,
+        "fullscreen_on": 1,
+        "savequit_off": 10,
+        "savequit_on": 9,
+        "sublang": 4,
+        "textlang": 3,
+        "touchmode_off": 12,
+        "touchmode_on": 11,
+        "uilang": 2,
+        "voicespeed_slider": 6,
+        "vspeedsync_off": 8,
+        "vspeedsync_on": 7
+      },
+      "opposite": [
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        8,
+        7,
+        10,
+        9,
+        12,
+        11
+      ],
+      "radios": {
+        "fullscreen": [
+          0,
+          1
+        ],
+        "savequit": [
+          9,
+          10
+        ],
+        "touchmode": [
+          11,
+          12
+        ],
+        "vspeedsync": [
+          7,
+          8
+        ]
+      },
+      "rects": [
+        [
+          852,
+          156,
+          282,
+          76,
+          "fullscreen_off",
+          null,
+          null
+        ],
+        [
+          1182,
+          156,
+          282,
+          76,
+          "fullscreen_on",
+          null,
+          null
+        ],
+        [
+          839,
+          308,
+          637,
+          74,
+          "uilang",
+          null,
+          null
+        ],
+        [
+          839,
+          458,
+          637,
+          74,
+          "textlang",
+          null,
+          null
+        ],
+        [
+          839,
+          608,
+          637,
+          74,
+          "sublang",
+          null,
+          null
+        ],
+        [
+          653,
+          1047,
+          1009,
+          94,
+          "drawspeed_slider",
+          null,
+          null
+        ],
+        [
+          653,
+          1197,
+          1009,
+          94,
+          "voicespeed_slider",
+          null,
+          null
+        ],
+        [
+          852,
+          1355,
+          282,
+          76,
+          "vspeedsync_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          1355,
+          282,
+          76,
+          "vspeedsync_off",
+          null,
+          null
+        ],
+        [
+          852,
+          755,
+          282,
+          76,
+          "savequit_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          755,
+          282,
+          76,
+          "savequit_off",
+          null,
+          null
+        ],
+        [
+          852,
+          906,
+          282,
+          76,
+          "touchmode_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          906,
+          282,
+          76,
+          "touchmode_off",
+          null,
+          null
+        ]
+      ],
+      "uniq": "option_display_pc"
+    },
+    "_lang": {
+      "class": "button",
+      "height": 74,
+      "name": "_lang",
+      "overlay": "001:opr_ov|002:opr_ov",
+      "uiname": "_lang",
+      "uistates": {
+        "hotspot": {
+          "h": 48,
+          "ox": 514,
+          "oy": 25,
+          "storage": "",
+          "w": 48
+        },
+        "normal": {
+          "ch": 74,
+          "cw": 637,
+          "cx": 0,
+          "cy": 70,
+          "h": 74,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0__pack",
+          "w": 637
+        },
+        "text_cn": {
+          "ch": 41,
+          "cw": 126,
+          "cx": 519,
+          "cy": 532,
+          "h": 41,
+          "ox": 257,
+          "oy": 17,
+          "storage": "config_page0_jp__pack",
+          "w": 126
+        },
+        "text_en": {
+          "ch": 34,
+          "cw": 204,
+          "cx": 282,
+          "cy": 583,
+          "h": 34,
+          "ox": 218,
+          "oy": 21,
+          "storage": "config_page0_jp__pack",
+          "w": 204
+        },
+        "text_jp": {
+          "ch": 41,
+          "cw": 121,
+          "cx": 502,
+          "cy": 47,
+          "h": 41,
+          "ox": 263,
+          "oy": 17,
+          "storage": "config_page0_jp__pack",
+          "w": 121
+        },
+        "text_kr": {
+          "ch": 40,
+          "cw": 78,
+          "cx": 564,
+          "cy": 291,
+          "h": 40,
+          "ox": 281,
+          "oy": 18,
+          "storage": "config_page0_jp__pack",
+          "w": 78
+        },
+        "text_none": {
+          "ch": 34,
+          "cw": 93,
+          "cx": 562,
+          "cy": 448,
+          "h": 34,
+          "ox": 274,
+          "oy": 21,
+          "storage": "config_page0_jp__pack",
+          "w": 93
+        },
+        "text_tw": {
+          "ch": 41,
+          "cw": 126,
+          "cx": 519,
+          "cy": 573,
+          "h": 41,
+          "ox": 257,
+          "oy": 17,
+          "storage": "config_page0_jp__pack",
+          "w": 126
+        }
+      },
+      "width": 637,
+      "x": 839,
+      "y": 159
+    },
+    "autospeed_slider": {
+      "class": "",
+      "name": "autospeed_slider",
+      "onchangefunc": "Current.func(\"onSpeedSliderChange\")",
+      "onchangefuncdata": "\"autospeed\"",
+      "uiname": "autospeed_slider",
+      "uistates": {}
+    },
+    "base": {
+      "class": "base",
+      "height": 1080,
+      "name": "base",
+      "storagex": 0,
+      "storagey": 0,
+      "uiname": "base",
+      "uistates": {
+        "nosave": {
+          "h": 1080,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1920
+        }
+      },
+      "width": 1920,
+      "x": 0,
+      "y": 0
+    },
+    "drawspeed_base": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "drawspeed_base",
+      "uiname": "drawspeed_base",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 116,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 1080
+    },
+    "drawspeed_help": {
+      "class": "area",
+      "height": 108,
+      "name": "drawspeed_help",
+      "uiname": "drawspeed_help",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 1047
+    },
+    "drawspeed_line": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "drawspeed_line",
+      "uiname": "drawspeed_line",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 153,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 1080
+    },
+    "drawspeed_slider": {
+      "class": "slider",
+      "height": 94,
+      "name": "drawspeed_slider",
+      "onchangefunc": "Current.func(\"onSpeedSliderChange\")",
+      "onchangefuncdata": "\"drawspeed\"",
+      "uiname": "drawspeed_slider",
+      "uistates": {
+        "disable": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "normal": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "nosave": {
+          "h": 94,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1009
+        }
+      },
+      "width": 1009,
+      "x": 653,
+      "y": 1047
+    },
+    "fullscreen": {
+      "class": "area",
+      "height": 90,
+      "name": "fullscreen",
+      "uiname": "fullscreen",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 93,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 93,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 166
+    },
+    "fullscreen_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"setBasicOptionValue/fullscreen/toggle\")",
+      "name": "fullscreen_chk",
+      "uiname": "fullscreen_chk",
+      "uistates": {}
+    },
+    "fullscreen_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"setBasicOptionValue/fullscreen/off\")",
+      "groupName": "fullscreen",
+      "height": 76,
+      "name": "fullscreen_off",
+      "uiname": "fullscreen_off",
+      "uistates": {
+        "nosave": {
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 282
+        },
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 93,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 159,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 159,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 156
+    },
+    "fullscreen_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"setBasicOptionValue/fullscreen/on\")",
+      "groupName": "fullscreen",
+      "height": 76,
+      "name": "fullscreen_on",
+      "uiname": "fullscreen_on",
+      "uistates": {
+        "nosave": {
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 282
+        },
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 93,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 225,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 291,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 156
+    },
+    "fullscreen_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"setBasicOptionValue/fullscreen/toggle\")",
+      "name": "fullscreen_rev",
+      "uiname": "fullscreen_rev",
+      "uistates": {}
+    },
+    "head_drawspeed": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_drawspeed",
+      "overlay": "line|drawspeed",
+      "uiname": "head_drawspeed",
+      "uistates": {
+        "drawspeed": {
+          "ch": 45,
+          "cw": 311,
+          "cx": 282,
+          "cy": 403,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 311
+        },
+        "fullscreen": {
+          "ch": 45,
+          "cw": 217,
+          "cx": 282,
+          "cy": 538,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 217
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page0__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        },
+        "savequit": {
+          "ch": 47,
+          "cw": 538,
+          "cx": 0,
+          "cy": 0,
+          "h": 47,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 538
+        },
+        "sublang": {
+          "ch": 45,
+          "cw": 237,
+          "cx": 282,
+          "cy": 493,
+          "h": 45,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 237
+        },
+        "textlang": {
+          "ch": 39,
+          "cw": 149,
+          "cx": 519,
+          "cy": 493,
+          "h": 39,
+          "ox": 74,
+          "oy": 5,
+          "storage": "config_page0_jp__pack",
+          "w": 149
+        },
+        "touchmode": {
+          "ch": 46,
+          "cw": 386,
+          "cx": 282,
+          "cy": 357,
+          "h": 46,
+          "ox": 71,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 386
+        },
+        "uilang": {
+          "ch": 37,
+          "cw": 65,
+          "cx": 593,
+          "cy": 403,
+          "h": 37,
+          "ox": 72,
+          "oy": 6,
+          "storage": "config_page0_jp__pack",
+          "w": 65
+        },
+        "voicespeed": {
+          "ch": 45,
+          "cw": 280,
+          "cx": 282,
+          "cy": 448,
+          "h": 45,
+          "ox": 69,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 280
+        },
+        "vspeedsync": {
+          "ch": 46,
+          "cw": 502,
+          "cx": 0,
+          "cy": 47,
+          "h": 46,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 502
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1077
+    },
+    "head_fullscreen": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_fullscreen",
+      "overlay": "line|fullscreen",
+      "uiname": "head_fullscreen",
+      "uistates": {
+        "drawspeed": {
+          "ch": 45,
+          "cw": 311,
+          "cx": 282,
+          "cy": 403,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 311
+        },
+        "fullscreen": {
+          "ch": 45,
+          "cw": 217,
+          "cx": 282,
+          "cy": 538,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 217
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page0__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        },
+        "savequit": {
+          "ch": 47,
+          "cw": 538,
+          "cx": 0,
+          "cy": 0,
+          "h": 47,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 538
+        },
+        "sublang": {
+          "ch": 45,
+          "cw": 237,
+          "cx": 282,
+          "cy": 493,
+          "h": 45,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 237
+        },
+        "textlang": {
+          "ch": 39,
+          "cw": 149,
+          "cx": 519,
+          "cy": 493,
+          "h": 39,
+          "ox": 74,
+          "oy": 5,
+          "storage": "config_page0_jp__pack",
+          "w": 149
+        },
+        "touchmode": {
+          "ch": 46,
+          "cw": 386,
+          "cx": 282,
+          "cy": 357,
+          "h": 46,
+          "ox": 71,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 386
+        },
+        "uilang": {
+          "ch": 37,
+          "cw": 65,
+          "cx": 593,
+          "cy": 403,
+          "h": 37,
+          "ox": 72,
+          "oy": 6,
+          "storage": "config_page0_jp__pack",
+          "w": 65
+        },
+        "voicespeed": {
+          "ch": 45,
+          "cw": 280,
+          "cx": 282,
+          "cy": 448,
+          "h": 45,
+          "ox": 69,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 280
+        },
+        "vspeedsync": {
+          "ch": 46,
+          "cw": 502,
+          "cx": 0,
+          "cy": 47,
+          "h": 46,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 502
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 178
+    },
+    "head_savequit": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_savequit",
+      "overlay": "line|savequit",
+      "uiname": "head_savequit",
+      "uistates": {
+        "drawspeed": {
+          "ch": 45,
+          "cw": 311,
+          "cx": 282,
+          "cy": 403,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 311
+        },
+        "fullscreen": {
+          "ch": 45,
+          "cw": 217,
+          "cx": 282,
+          "cy": 538,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 217
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page0__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        },
+        "savequit": {
+          "ch": 47,
+          "cw": 538,
+          "cx": 0,
+          "cy": 0,
+          "h": 47,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 538
+        },
+        "sublang": {
+          "ch": 45,
+          "cw": 237,
+          "cx": 282,
+          "cy": 493,
+          "h": 45,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 237
+        },
+        "textlang": {
+          "ch": 39,
+          "cw": 149,
+          "cx": 519,
+          "cy": 493,
+          "h": 39,
+          "ox": 74,
+          "oy": 5,
+          "storage": "config_page0_jp__pack",
+          "w": 149
+        },
+        "touchmode": {
+          "ch": 46,
+          "cw": 386,
+          "cx": 282,
+          "cy": 357,
+          "h": 46,
+          "ox": 71,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 386
+        },
+        "uilang": {
+          "ch": 37,
+          "cw": 65,
+          "cx": 593,
+          "cy": 403,
+          "h": 37,
+          "ox": 72,
+          "oy": 6,
+          "storage": "config_page0_jp__pack",
+          "w": 65
+        },
+        "voicespeed": {
+          "ch": 45,
+          "cw": 280,
+          "cx": 282,
+          "cy": 448,
+          "h": 45,
+          "ox": 69,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 280
+        },
+        "vspeedsync": {
+          "ch": 46,
+          "cw": 502,
+          "cx": 0,
+          "cy": 47,
+          "h": 46,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 502
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 777
+    },
+    "head_sublang": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_sublang",
+      "overlay": "line|sublang",
+      "uiname": "head_sublang",
+      "uistates": {
+        "drawspeed": {
+          "ch": 45,
+          "cw": 311,
+          "cx": 282,
+          "cy": 403,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 311
+        },
+        "fullscreen": {
+          "ch": 45,
+          "cw": 217,
+          "cx": 282,
+          "cy": 538,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 217
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page0__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        },
+        "savequit": {
+          "ch": 47,
+          "cw": 538,
+          "cx": 0,
+          "cy": 0,
+          "h": 47,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 538
+        },
+        "sublang": {
+          "ch": 45,
+          "cw": 237,
+          "cx": 282,
+          "cy": 493,
+          "h": 45,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 237
+        },
+        "textlang": {
+          "ch": 39,
+          "cw": 149,
+          "cx": 519,
+          "cy": 493,
+          "h": 39,
+          "ox": 74,
+          "oy": 5,
+          "storage": "config_page0_jp__pack",
+          "w": 149
+        },
+        "touchmode": {
+          "ch": 46,
+          "cw": 386,
+          "cx": 282,
+          "cy": 357,
+          "h": 46,
+          "ox": 71,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 386
+        },
+        "uilang": {
+          "ch": 37,
+          "cw": 65,
+          "cx": 593,
+          "cy": 403,
+          "h": 37,
+          "ox": 72,
+          "oy": 6,
+          "storage": "config_page0_jp__pack",
+          "w": 65
+        },
+        "voicespeed": {
+          "ch": 45,
+          "cw": 280,
+          "cx": 282,
+          "cy": 448,
+          "h": 45,
+          "ox": 69,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 280
+        },
+        "vspeedsync": {
+          "ch": 46,
+          "cw": 502,
+          "cx": 0,
+          "cy": 47,
+          "h": 46,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 502
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 627
+    },
+    "head_textlang": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_textlang",
+      "overlay": "line|textlang",
+      "uiname": "head_textlang",
+      "uistates": {
+        "drawspeed": {
+          "ch": 45,
+          "cw": 311,
+          "cx": 282,
+          "cy": 403,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 311
+        },
+        "fullscreen": {
+          "ch": 45,
+          "cw": 217,
+          "cx": 282,
+          "cy": 538,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 217
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page0__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        },
+        "savequit": {
+          "ch": 47,
+          "cw": 538,
+          "cx": 0,
+          "cy": 0,
+          "h": 47,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 538
+        },
+        "sublang": {
+          "ch": 45,
+          "cw": 237,
+          "cx": 282,
+          "cy": 493,
+          "h": 45,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 237
+        },
+        "textlang": {
+          "ch": 39,
+          "cw": 149,
+          "cx": 519,
+          "cy": 493,
+          "h": 39,
+          "ox": 74,
+          "oy": 5,
+          "storage": "config_page0_jp__pack",
+          "w": 149
+        },
+        "touchmode": {
+          "ch": 46,
+          "cw": 386,
+          "cx": 282,
+          "cy": 357,
+          "h": 46,
+          "ox": 71,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 386
+        },
+        "uilang": {
+          "ch": 37,
+          "cw": 65,
+          "cx": 593,
+          "cy": 403,
+          "h": 37,
+          "ox": 72,
+          "oy": 6,
+          "storage": "config_page0_jp__pack",
+          "w": 65
+        },
+        "voicespeed": {
+          "ch": 45,
+          "cw": 280,
+          "cx": 282,
+          "cy": 448,
+          "h": 45,
+          "ox": 69,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 280
+        },
+        "vspeedsync": {
+          "ch": 46,
+          "cw": 502,
+          "cx": 0,
+          "cy": 47,
+          "h": 46,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 502
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 477
+    },
+    "head_touchmode": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_touchmode",
+      "overlay": "line|touchmode",
+      "uiname": "head_touchmode",
+      "uistates": {
+        "drawspeed": {
+          "ch": 45,
+          "cw": 311,
+          "cx": 282,
+          "cy": 403,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 311
+        },
+        "fullscreen": {
+          "ch": 45,
+          "cw": 217,
+          "cx": 282,
+          "cy": 538,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 217
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page0__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        },
+        "savequit": {
+          "ch": 47,
+          "cw": 538,
+          "cx": 0,
+          "cy": 0,
+          "h": 47,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 538
+        },
+        "sublang": {
+          "ch": 45,
+          "cw": 237,
+          "cx": 282,
+          "cy": 493,
+          "h": 45,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 237
+        },
+        "textlang": {
+          "ch": 39,
+          "cw": 149,
+          "cx": 519,
+          "cy": 493,
+          "h": 39,
+          "ox": 74,
+          "oy": 5,
+          "storage": "config_page0_jp__pack",
+          "w": 149
+        },
+        "touchmode": {
+          "ch": 46,
+          "cw": 386,
+          "cx": 282,
+          "cy": 357,
+          "h": 46,
+          "ox": 71,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 386
+        },
+        "uilang": {
+          "ch": 37,
+          "cw": 65,
+          "cx": 593,
+          "cy": 403,
+          "h": 37,
+          "ox": 72,
+          "oy": 6,
+          "storage": "config_page0_jp__pack",
+          "w": 65
+        },
+        "voicespeed": {
+          "ch": 45,
+          "cw": 280,
+          "cx": 282,
+          "cy": 448,
+          "h": 45,
+          "ox": 69,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 280
+        },
+        "vspeedsync": {
+          "ch": 46,
+          "cw": 502,
+          "cx": 0,
+          "cy": 47,
+          "h": 46,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 502
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 928
+    },
+    "head_uilang": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_uilang",
+      "overlay": "line|uilang",
+      "uiname": "head_uilang",
+      "uistates": {
+        "drawspeed": {
+          "ch": 45,
+          "cw": 311,
+          "cx": 282,
+          "cy": 403,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 311
+        },
+        "fullscreen": {
+          "ch": 45,
+          "cw": 217,
+          "cx": 282,
+          "cy": 538,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 217
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page0__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        },
+        "savequit": {
+          "ch": 47,
+          "cw": 538,
+          "cx": 0,
+          "cy": 0,
+          "h": 47,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 538
+        },
+        "sublang": {
+          "ch": 45,
+          "cw": 237,
+          "cx": 282,
+          "cy": 493,
+          "h": 45,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 237
+        },
+        "textlang": {
+          "ch": 39,
+          "cw": 149,
+          "cx": 519,
+          "cy": 493,
+          "h": 39,
+          "ox": 74,
+          "oy": 5,
+          "storage": "config_page0_jp__pack",
+          "w": 149
+        },
+        "touchmode": {
+          "ch": 46,
+          "cw": 386,
+          "cx": 282,
+          "cy": 357,
+          "h": 46,
+          "ox": 71,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 386
+        },
+        "uilang": {
+          "ch": 37,
+          "cw": 65,
+          "cx": 593,
+          "cy": 403,
+          "h": 37,
+          "ox": 72,
+          "oy": 6,
+          "storage": "config_page0_jp__pack",
+          "w": 65
+        },
+        "voicespeed": {
+          "ch": 45,
+          "cw": 280,
+          "cx": 282,
+          "cy": 448,
+          "h": 45,
+          "ox": 69,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 280
+        },
+        "vspeedsync": {
+          "ch": 46,
+          "cw": 502,
+          "cx": 0,
+          "cy": 47,
+          "h": 46,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 502
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 327
+    },
+    "head_voicespeed": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_voicespeed",
+      "overlay": "line|voicespeed",
+      "uiname": "head_voicespeed",
+      "uistates": {
+        "drawspeed": {
+          "ch": 45,
+          "cw": 311,
+          "cx": 282,
+          "cy": 403,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 311
+        },
+        "fullscreen": {
+          "ch": 45,
+          "cw": 217,
+          "cx": 282,
+          "cy": 538,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 217
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page0__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        },
+        "savequit": {
+          "ch": 47,
+          "cw": 538,
+          "cx": 0,
+          "cy": 0,
+          "h": 47,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 538
+        },
+        "sublang": {
+          "ch": 45,
+          "cw": 237,
+          "cx": 282,
+          "cy": 493,
+          "h": 45,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 237
+        },
+        "textlang": {
+          "ch": 39,
+          "cw": 149,
+          "cx": 519,
+          "cy": 493,
+          "h": 39,
+          "ox": 74,
+          "oy": 5,
+          "storage": "config_page0_jp__pack",
+          "w": 149
+        },
+        "touchmode": {
+          "ch": 46,
+          "cw": 386,
+          "cx": 282,
+          "cy": 357,
+          "h": 46,
+          "ox": 71,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 386
+        },
+        "uilang": {
+          "ch": 37,
+          "cw": 65,
+          "cx": 593,
+          "cy": 403,
+          "h": 37,
+          "ox": 72,
+          "oy": 6,
+          "storage": "config_page0_jp__pack",
+          "w": 65
+        },
+        "voicespeed": {
+          "ch": 45,
+          "cw": 280,
+          "cx": 282,
+          "cy": 448,
+          "h": 45,
+          "ox": 69,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 280
+        },
+        "vspeedsync": {
+          "ch": 46,
+          "cw": 502,
+          "cx": 0,
+          "cy": 47,
+          "h": 46,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 502
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1227
+    },
+    "head_vspeedsync": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_vspeedsync",
+      "overlay": "line|vspeedsync",
+      "uiname": "head_vspeedsync",
+      "uistates": {
+        "drawspeed": {
+          "ch": 45,
+          "cw": 311,
+          "cx": 282,
+          "cy": 403,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 311
+        },
+        "fullscreen": {
+          "ch": 45,
+          "cw": 217,
+          "cx": 282,
+          "cy": 538,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 217
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page0__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        },
+        "savequit": {
+          "ch": 47,
+          "cw": 538,
+          "cx": 0,
+          "cy": 0,
+          "h": 47,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 538
+        },
+        "sublang": {
+          "ch": 45,
+          "cw": 237,
+          "cx": 282,
+          "cy": 493,
+          "h": 45,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 237
+        },
+        "textlang": {
+          "ch": 39,
+          "cw": 149,
+          "cx": 519,
+          "cy": 493,
+          "h": 39,
+          "ox": 74,
+          "oy": 5,
+          "storage": "config_page0_jp__pack",
+          "w": 149
+        },
+        "touchmode": {
+          "ch": 46,
+          "cw": 386,
+          "cx": 282,
+          "cy": 357,
+          "h": 46,
+          "ox": 71,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 386
+        },
+        "uilang": {
+          "ch": 37,
+          "cw": 65,
+          "cx": 593,
+          "cy": 403,
+          "h": 37,
+          "ox": 72,
+          "oy": 6,
+          "storage": "config_page0_jp__pack",
+          "w": 65
+        },
+        "voicespeed": {
+          "ch": 45,
+          "cw": 280,
+          "cx": 282,
+          "cy": 448,
+          "h": 45,
+          "ox": 69,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 280
+        },
+        "vspeedsync": {
+          "ch": 46,
+          "cw": 502,
+          "cx": 0,
+          "cy": 47,
+          "h": 46,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page0_jp__pack",
+          "w": 502
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1377
+    },
+    "lang_sub": {
+      "class": "area",
+      "height": 97,
+      "name": "lang_sub",
+      "uiname": "lang_sub",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 608
+    },
+    "lang_text": {
+      "class": "area",
+      "height": 97,
+      "name": "lang_text",
+      "uiname": "lang_text",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 458
+    },
+    "lang_ui": {
+      "class": "area",
+      "height": 97,
+      "name": "lang_ui",
+      "uiname": "lang_ui",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 308
+    },
+    "pos0": {
+      "class": "area",
+      "height": 64,
+      "name": "pos0",
+      "uiname": "pos0",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 192
+    },
+    "pos1": {
+      "class": "area",
+      "height": 65,
+      "name": "pos1",
+      "uiname": "pos1",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 341
+    },
+    "pos2": {
+      "class": "area",
+      "height": 65,
+      "name": "pos2",
+      "uiname": "pos2",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 491
+    },
+    "pos3": {
+      "class": "area",
+      "height": 65,
+      "name": "pos3",
+      "uiname": "pos3",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 641
+    },
+    "pos4": {
+      "class": "area",
+      "height": 64,
+      "name": "pos4",
+      "uiname": "pos4",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 791
+    },
+    "pos_next": {
+      "class": "area",
+      "height": 17,
+      "name": "pos_next",
+      "uiname": "pos_next",
+      "uistates": {},
+      "width": 930,
+      "x": 228,
+      "y": 892
+    },
+    "pos_top": {
+      "class": "area",
+      "height": 17,
+      "name": "pos_top",
+      "uiname": "pos_top",
+      "uistates": {},
+      "width": 930,
+      "x": 228,
+      "y": 142
+    },
+    "savequit": {
+      "class": "area",
+      "height": 90,
+      "name": "savequit",
+      "uiname": "savequit",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 357,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 423,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 765
+    },
+    "savequit_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"setBasicOptionValue/savequit/toggle\")",
+      "name": "savequit_chk",
+      "uiname": "savequit_chk",
+      "uistates": {}
+    },
+    "savequit_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"setBasicOptionValue/savequit/off\")",
+      "groupName": "savequit",
+      "height": 76,
+      "name": "savequit_off",
+      "uiname": "savequit_off",
+      "uistates": {
+        "nosave": {
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 282
+        },
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 423,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 489,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 555,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 755
+    },
+    "savequit_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"setBasicOptionValue/savequit/on\")",
+      "groupName": "savequit",
+      "height": 76,
+      "name": "savequit_on",
+      "uiname": "savequit_on",
+      "uistates": {
+        "nosave": {
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 282
+        },
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 357,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 225,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 291,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 755
+    },
+    "savequit_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"setBasicOptionValue/savequit/toggle\")",
+      "name": "savequit_rev",
+      "uiname": "savequit_rev",
+      "uistates": {}
+    },
+    "scroll_term": {
+      "class": "layer",
+      "height": 2,
+      "layer": "(~null~)",
+      "name": "scroll_term",
+      "uiname": "scroll_term",
+      "uistates": {
+        "(~null~)": {
+          "h": 2,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 18
+        }
+      },
+      "width": 18,
+      "x": 228,
+      "y": 1618
+    },
+    "skipspeed_slider": {
+      "class": "",
+      "name": "skipspeed_slider",
+      "onchangefunc": "Current.func(\"onSpeedSliderChange\")",
+      "onchangefuncdata": "\"skipspeed\"",
+      "uiname": "skipspeed_slider",
+      "uistates": {}
+    },
+    "sublang": {
+      "class": "copy",
+      "copy": "_lang",
+      "exp": "Current.cmd(\"changeLanguage_sub/1\")",
+      "height": 74,
+      "name": "sublang",
+      "subref": null,
+      "uiname": "sublang",
+      "uistates": {},
+      "width": 637,
+      "x": 839,
+      "y": 608
+    },
+    "sublang_next": {
+      "class": "button",
+      "exp": "Current.cmd(\"changeLanguage_sub/1\")",
+      "height": 74,
+      "name": "sublang_next",
+      "tabfocus": "false",
+      "uiname": "sublang_next",
+      "uistates": {
+        "off": {
+          "ch": 74,
+          "cw": 75,
+          "cx": 637,
+          "cy": 70,
+          "h": 74,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0__pack",
+          "w": 75
+        },
+        "over": {
+          "ch": 74,
+          "cw": 75,
+          "cx": 712,
+          "cy": 70,
+          "h": 74,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0__pack",
+          "w": 75
+        }
+      },
+      "width": 75,
+      "x": 1401,
+      "y": 608
+    },
+    "sublang_prev": {
+      "class": "button",
+      "exp": "Current.cmd(\"changeLanguage_sub/-1\")",
+      "height": 74,
+      "name": "sublang_prev",
+      "tabfocus": "false",
+      "uiname": "sublang_prev",
+      "uistates": {
+        "off": {
+          "ch": 74,
+          "cw": 75,
+          "cx": 787,
+          "cy": 70,
+          "h": 74,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0__pack",
+          "w": 75
+        },
+        "over": {
+          "ch": 74,
+          "cw": 75,
+          "cx": 862,
+          "cy": 70,
+          "h": 74,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0__pack",
+          "w": 75
+        }
+      },
+      "width": 75,
+      "x": 839,
+      "y": 608
+    },
+    "textlang": {
+      "class": "copy",
+      "copy": "_lang",
+      "exp": "Current.cmd(\"changeLanguage_text/1\")",
+      "height": 74,
+      "name": "textlang",
+      "subref": null,
+      "uiname": "textlang",
+      "uistates": {},
+      "width": 637,
+      "x": 839,
+      "y": 458
+    },
+    "textlang_next": {
+      "class": "button",
+      "exp": "Current.cmd(\"changeLanguage_text/1\")",
+      "height": 74,
+      "name": "textlang_next",
+      "tabfocus": "false",
+      "uiname": "textlang_next",
+      "uistates": {
+        "off": {
+          "ch": 74,
+          "cw": 75,
+          "cx": 637,
+          "cy": 70,
+          "h": 74,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0__pack",
+          "w": 75
+        },
+        "over": {
+          "ch": 74,
+          "cw": 75,
+          "cx": 712,
+          "cy": 70,
+          "h": 74,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0__pack",
+          "w": 75
+        }
+      },
+      "width": 75,
+      "x": 1401,
+      "y": 458
+    },
+    "textlang_prev": {
+      "class": "button",
+      "exp": "Current.cmd(\"changeLanguage_text/-1\")",
+      "height": 74,
+      "name": "textlang_prev",
+      "tabfocus": "false",
+      "uiname": "textlang_prev",
+      "uistates": {
+        "off": {
+          "ch": 74,
+          "cw": 75,
+          "cx": 787,
+          "cy": 70,
+          "h": 74,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0__pack",
+          "w": 75
+        },
+        "over": {
+          "ch": 74,
+          "cw": 75,
+          "cx": 862,
+          "cy": 70,
+          "h": 74,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0__pack",
+          "w": 75
+        }
+      },
+      "width": 75,
+      "x": 839,
+      "y": 458
+    },
+    "textspeed_slider": {
+      "class": "",
+      "name": "textspeed_slider",
+      "onchangefunc": "Current.func(\"onSpeedSliderChange\")",
+      "onchangefuncdata": "\"textspeed\"",
+      "uiname": "textspeed_slider",
+      "uistates": {}
+    },
+    "touchmode": {
+      "class": "area",
+      "height": 90,
+      "name": "touchmode",
+      "uiname": "touchmode",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 357,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 423,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 916
+    },
+    "touchmode_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"setBasicOptionValue/touchmode/toggle\")",
+      "name": "touchmode_chk",
+      "uiname": "touchmode_chk",
+      "uistates": {}
+    },
+    "touchmode_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"setBasicOptionValue/touchmode/off\")",
+      "groupName": "touchmode",
+      "height": 76,
+      "name": "touchmode_off",
+      "uiname": "touchmode_off",
+      "uistates": {
+        "nosave": {
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 282
+        },
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 423,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 489,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 555,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 906
+    },
+    "touchmode_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"setBasicOptionValue/touchmode/on\")",
+      "groupName": "touchmode",
+      "height": 76,
+      "name": "touchmode_on",
+      "uiname": "touchmode_on",
+      "uistates": {
+        "nosave": {
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 282
+        },
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 357,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 225,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 291,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 906
+    },
+    "touchmode_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"setBasicOptionValue/touchmode/toggle\")",
+      "name": "touchmode_rev",
+      "uiname": "touchmode_rev",
+      "uistates": {}
+    },
+    "uilang": {
+      "class": "copy",
+      "copy": "_lang",
+      "exp": "Current.cmd(\"changeLanguage_ui/1\")",
+      "height": 74,
+      "name": "uilang",
+      "subref": null,
+      "uiname": "uilang",
+      "uistates": {},
+      "width": 637,
+      "x": 839,
+      "y": 308
+    },
+    "uilang_next": {
+      "class": "button",
+      "exp": "Current.cmd(\"changeLanguage_ui/1\")",
+      "height": 74,
+      "name": "uilang_next",
+      "tabfocus": "false",
+      "uiname": "uilang_next",
+      "uistates": {
+        "off": {
+          "ch": 74,
+          "cw": 75,
+          "cx": 637,
+          "cy": 70,
+          "h": 74,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0__pack",
+          "w": 75
+        },
+        "over": {
+          "ch": 74,
+          "cw": 75,
+          "cx": 712,
+          "cy": 70,
+          "h": 74,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0__pack",
+          "w": 75
+        }
+      },
+      "width": 75,
+      "x": 1401,
+      "y": 308
+    },
+    "uilang_prev": {
+      "class": "button",
+      "exp": "Current.cmd(\"changeLanguage_ui/-1\")",
+      "height": 74,
+      "name": "uilang_prev",
+      "tabfocus": "false",
+      "uiname": "uilang_prev",
+      "uistates": {
+        "off": {
+          "ch": 74,
+          "cw": 75,
+          "cx": 787,
+          "cy": 70,
+          "h": 74,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0__pack",
+          "w": 75
+        },
+        "over": {
+          "ch": 74,
+          "cw": 75,
+          "cx": 862,
+          "cy": 70,
+          "h": 74,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0__pack",
+          "w": 75
+        }
+      },
+      "width": 75,
+      "x": 839,
+      "y": 308
+    },
+    "voicespeed_base": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "voicespeed_base",
+      "uiname": "voicespeed_base",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 116,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 1230
+    },
+    "voicespeed_help": {
+      "class": "area",
+      "height": 108,
+      "name": "voicespeed_help",
+      "uiname": "voicespeed_help",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 1197
+    },
+    "voicespeed_line": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "voicespeed_line",
+      "uiname": "voicespeed_line",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 153,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 1230
+    },
+    "voicespeed_slider": {
+      "class": "slider",
+      "height": 94,
+      "max": "100",
+      "min": "0",
+      "name": "voicespeed_slider",
+      "onchangefunc": "Current.func(\"changeBasicSlider\")",
+      "onchangefuncdata": "\"voicespeed\"",
+      "uiname": "voicespeed_slider",
+      "uistates": {
+        "disable": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "normal": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "nosave": {
+          "h": 94,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1009
+        }
+      },
+      "width": 1009,
+      "x": 653,
+      "y": 1197
+    },
+    "vspeedsync": {
+      "class": "area",
+      "height": 90,
+      "name": "vspeedsync",
+      "uiname": "vspeedsync",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 357,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 423,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1365
+    },
+    "vspeedsync_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"setBasicOptionValue/vspeedsync/toggle\")",
+      "name": "vspeedsync_chk",
+      "uiname": "vspeedsync_chk",
+      "uistates": {}
+    },
+    "vspeedsync_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"setBasicOptionValue/vspeedsync/off\")",
+      "groupName": "vspeedsync",
+      "height": 76,
+      "name": "vspeedsync_off",
+      "uiname": "vspeedsync_off",
+      "uistates": {
+        "nosave": {
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 282
+        },
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 423,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 489,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 555,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 1355
+    },
+    "vspeedsync_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"setBasicOptionValue/vspeedsync/on\")",
+      "groupName": "vspeedsync",
+      "height": 76,
+      "name": "vspeedsync_on",
+      "uiname": "vspeedsync_on",
+      "uistates": {
+        "nosave": {
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 282
+        },
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 357,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 225,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 291,
+          "h": 66,
+          "ox": 0,
+          "oy": 10,
+          "storage": "config_page0_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 1355
+    },
+    "vspeedsync_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"setBasicOptionValue/vspeedsync/toggle\")",
+      "name": "vspeedsync_rev",
+      "uiname": "vspeedsync_rev",
+      "uistates": {}
+    }
+  }
+}

@@ -1,0 +1,64 @@
+# scene=scn00_32 batch=1/3 dòng 1-60 / 175
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_32_0001 | ひなた(Hinata) | （父さんから……電話？？） | (Dad is... calling me?) | （父亲打来的……电话？？）
+scn00_32_0002 | - | 頭が真っ白になりながら、俺は目の前に置かれた受話器を見つめた。 | I blankly stare at the phone in front of me, unsure what to do. | 我变得大脑一片空白，呆呆地盯着放在我面前的话筒。
+scn00_32_0003 | 大地(Daichi) | 「これを使え」 | "You can use this." | “用这个吧”
+scn00_32_0004 | - | 大地がコードレスフォンにも接続できる古いキーボードを渡してくれた。 | Daichi hands me an old-looking keyboard that can be connected to the phone. | 大地将能接在无绳电话上的旧键盘交给了我。
+scn00_32_0005 | - | これで文字を打ち込めば、機械音声が代わりにしゃべってくれる。 | If I type using this, the input will be converted to electronic speech. | 用这个打字就能让机械音替我说话。
+scn00_32_0006 | - | 俺のような、口が利けない人のための道具だ。 | It's a tool for people like me who can't speak. | 是为我这种说话不利索的人准备的。
+scn00_32_0007 | ひなた(Hinata) | 「……ぁぅぁぅ……」 | "Ah, uh..." | “……啊呜啊呜……”
+scn00_32_0008 | ひなた(Hinata) | （ありがとう） | (Thank you.) | （谢谢）
+scn00_32_0009 | 大地(Daichi) | 「いいって」 | "You're welcome." | “没事”
+scn00_32_0010 | - | 大地は答えながら、風音に目配せする。 | Daichi shoots Kazane a glance. | 大地一边回答着我，一边给风音使了个眼色。
+scn00_32_0011 | 風音(Kazane) | 「何かあったら呼んで。すぐ飛んでくっから」 | "Call us if you need anything, okay? We'll be right there." | “有什么事就叫我，我会立刻冲过来的”
+scn00_32_0012 | - | 風音は大地と一緒に部屋を出ていって、俺は一人残された。 | Kazane and Daichi leave the room to give me some privacy. | 风音和大地一起离开了房间，只留下了我一个人。
+scn00_32_0013 | - | 目の前には電話。 | The phone still lies undisturbed in front of me. | 面前摆着电话。
+scn00_32_0014 | - | その向こうには、父がいる。 | My dad is on the other side of the line. | 电话另一边是父亲。
+scn00_32_0015 | - | 『厄災』以来、会うどころかまともに口もきいていない父親が。 | I haven't seen him since the Calamity, much less spoken to him. | ‘灾厄’发生后，别说见面了，甚至连话都没说过的父亲。
+scn00_32_0016 | - | …………。 | ... | …………
+scn00_32_0017 | - | こんな落ち込んでいる時に、父と会話などしたくない。 | Honestly, I don't want to talk to him right now. Not when I'm feeling like this. | 这种消沉的时候，完全不想和父亲说话。
+scn00_32_0018 | - | このまま通信を切ってしまおうか？ | Should I just hang up? | 要直接挂断吗？
+scn00_32_0019 | - | 通信切断ボタンに指をかける。 | My finger hovers over the "end call" button. | 我将手指放在了挂断键上。
+scn00_32_0020 | ひなた(Hinata) | 「…………」 | "..." | “…………”
+scn00_32_0021 | - | テーブルに、一冊の図鑑があった。 | The encyclopedia is still on the table. | 桌子上放着一册图鉴。
+scn00_32_0022 | - | 血のついた包みに入れられ、植物園の落とし物箱の中で忘れ去られていた、俺の誕生日プレゼント。 | My birthday present, wrapped in a piece of bloody wrapping paper and left in the lost-and-found box at the garden. | 那是包在沾血包装里，被遗忘在植物园的失物箱中，送给我的生日礼物。
+scn00_32_0023 | - | これがなぜあそこにあったのか。 | What was it doing there? | 它为什么会在那里。
+scn00_32_0024 | - | 俺に冷たかった父が、どうしてプレゼントを用意していたのか。 | Why would my dad, who was always so cold to me, buy me a present? | 对我很冷淡的父亲，为什么会为我准备礼物。
+scn00_32_0025 | - | それを確かめられるチャンスでもあった。 | This would be my chance to ask him. | 现在正是确认这些的机会。
+scn00_32_0026 | - | 俺は切断ボタンにかかっていた指を放し、キーボードを接続した。 | I pull my finger away from the "end call" button and instead work on connecting the keyboard. | 我移开了放在挂断键上的手指，连接上了键盘。
+scn00_32_0027 | - | 受話器をスピーカーモードに切り替え、キーボードで文字を入力する。 | I set the phone to speaker mode and start typing. | 将话筒切换成外放模式，用键盘输入着文字。
+scn00_32_0028 | - | 『はい』 | "Hello?" | ‘嗯’
+scn00_32_0029 | - | 機械音声が鳴った。 | A mechanical voice rings out. | 机械音响了起来。
+scn00_32_0030 | - | 短い沈黙。向こう側の戸惑いが[うかが]窺える。 | A short silence follows, telling me that he's confused. | 短暂的沉默，可以看得出对方很困惑。
+scn00_32_0031 | 父(Dad) | 『ひなた……なのか？』 | <Hinata... Is that you?> | ‘日向……是你吗？’
+scn00_32_0032 | - | 『はい』 | "Yes." | ‘嗯’
+scn00_32_0033 | 父(Dad) | 『もしかしておまえ……また、声が……』 | <Did you... lose your voice again?> | ‘难道说……你又……’
+scn00_32_0034 | - | 『はい』 | "Yes." | ‘嗯’
+scn00_32_0035 | - | まるで、あらかじめ設定されたワードのように、『はい』と繰り返す。 | I repeat the same thing, as if that's all I was programmed to do. | 就好像是预先设定好的一样，不断地重复着‘嗯’。
+scn00_32_0036 | - | それ以上のニュアンスを込めた言葉を入力したくない。 | I don't want to type anything more nuanced than that. | 我不想输入包含更多情感的词语。
+scn00_32_0037 | - | 父さんと、向き合いたくない。 | I don't want to talk to my dad. | 我不想面对父亲。
+scn00_32_0038 | 父(Dad) | 『霧香さんから連絡をもらった』 | <Kirika-san got in contact with me.> | ‘雾香联系我了’
+scn00_32_0039 | ひなた(Hinata) | （霧香さんが……？） | (Kirika-san did?) | （雾香小姐……？）
+scn00_32_0040 | 父(Dad) | 『ひなたが大変な状態だから、引き取ってあげてほしいと』 | <She said you were having a rough time. She'd like me to come get you.> | ‘说日向现在陷入了很不妙的状况中，希望我能带你离开’
+scn00_32_0041 | - | え……？ | Huh? | 哎……？
+scn00_32_0042 | - | 『どういうこと』 | "What?" | ‘什么意思’
+scn00_32_0043 | 父(Dad) | 『ひどく落ち込んでいる様子だったから、事情は聞けなかった。だが、そうか……。またしゃべれなくなってしまったのか』 | <She sounded rather dejected, so I didn't ask her for any details, but... I see, you've lost your voice again.> | ‘我感觉她很消沉，就没有问详细情况。这样啊……你又说不出话来了啊’
+scn00_32_0044 | - | 父さんは、それで納得をしたようだった。 | He talks as if everything suddenly makes sense to him. | 父亲貌似理解了。
+scn00_32_0045 | - | …………。 | ... | …………
+scn00_32_0046 | - | また気まずい沈黙が流れた。 | A long, awkward silence follows. | 尴尬的沉默再次流淌了起来。
+scn00_32_0047 | 父(Dad) | 『……霧香さんは、おまえが私の元へ帰る事を望んでいる。私も、そうしたい。おまえが[ゆる]赦してくれるなら』 | <Kirika-san wants you to come live with me. That's what I'd like, too, if you're okay with it.> | ‘……雾香希望你能回到我这里，我也想这么做，如果你能宽恕我的话’
+scn00_32_0048 | - | 『勝手な事を言うな』 | "Cut the crap." | ‘别自作主张了’
+scn00_32_0049 | - | 反射的にキーボードを叩いていた。 | I type in the first response that comes to mind. | 我反射般敲着键盘。
+scn00_32_0050 | - | 言葉が強くなった事をすぐに後悔するが、父への憎しみがそれを打ち消す。 | I immediately regret reacting so aggressively, but my grudge against my dad overpowers everything else. | 虽然很快就对语气太重而感到后悔，但却被对父亲的憎恨抵消了。
+scn00_32_0051 | 父(Dad) | 『そう……だな』 | <Right...> | ‘说得……是啊’
+scn00_32_0052 | - | 父さんとしても、霧香さんから急に連絡を受けて、どう対処すべきか考えはまとまっていないんだろう。 | My dad probably hasn't had much time to come up with a plan, considering Kirika-san called him out of nowhere. | 父亲应该也是突然收到雾香小姐的联络，还没想好要如何处理吧。
+scn00_32_0053 | - | それはつまり、考えるより先に俺に連絡をくれたという事なんじゃないだろうか？ | Does that mean he called me first before thinking of anything else? | 也就是说，他是不是在思考前就先给我打了电话？
+scn00_32_0054 | ひなた(Hinata) | （あの父さんに限って、ありえない……） | (That's a little hard to believe, knowing Dad...) | （唯独父亲不可能这样……）
+scn00_32_0055 | - | きっと、市長だった頃の世間体をまだ気にしているんだろう。 | I'm sure he's just concerned about how he looks in the eyes of others. He was that way when he was mayor, too. | 一定是还在顾及当市长时的体面吧。
+scn00_32_0056 | - | それか、自分に課した戒律のような生き方のルールに縛られているのか。 | Or maybe he's following another one of his self-imposed rules that he's sworn to live by. | 还是说，他是被自己戒律般生活方式的规矩束缚住了吗？
+scn00_32_0057 | - | 『もう切っていいかな』 | "Is that all?" | ‘我可以挂电话了吗’
+scn00_32_0058 | - | …………。 | ... | …………
+scn00_32_0059 | 父(Dad) | 『……もう少し、話したい。ダメか？』 | <...Can we talk a bit more?> | ‘……我还想再聊一会儿，不行吗？’
+scn00_32_0060 | - | 『話す事なんてない』 | "I have nothing to say to you." | ‘没什么好聊的’

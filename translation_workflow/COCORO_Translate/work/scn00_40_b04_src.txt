@@ -1,0 +1,63 @@
+# scene=scn00_40 batch=4/7 dòng 180-238 / 394
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_40_0180 | ココロ(Cocoro) | 『いいえ。ヒトの幸福のために尽くすのが、ワタシたちの役目ですから』 | "I only did my duty. It is our duty to ensure the happiness of humans." | “不用谢，毕竟为人类的幸福而努力，就是我们的使命”
+scn00_40_0181 | 父(Dad) | 『君も一緒に行こう』 | "You should come with us, too." | “你也一起来吧”
+scn00_40_0182 | ココロ(Cocoro) | 『ワタシはここを離れられません。そう命じられているからです』 | "I cannot leave this place. I've been ordered to stay here." | “我无法离开这里，因为我被下达了这种命令”
+scn00_40_0183 | ココロ(Cocoro) | 『それに、他にも逃げ遅れているヒトがいるかもしれませんから、救助に向かいます』 | "Besides, there may be other humans here who have failed to evacuate. I will rescue them." | “而且，可能还会有其他没来得及逃走的人类，我要去救助他们”
+scn00_40_0184 | ココロ(Cocoro) | 「バックヤードに、逃げ遅れた職員の方々が隠れていたので、外へ誘導しましたが……無事に逃げ[の]延びられたのですね」 | "There were a number of people taking shelter in the staff room, so I led them outside... It seems they made it out safely, then." | “后院里还躲着一些没来得及逃走的职员们，我就将他们带到了外面……看来他们是平安逃脱了啊”
+scn00_40_0185 | 田中(Tanaka) | 「こないだね、そちらの彼からあなたの行方を聞かれて、久しぶりに昔の仲間に連絡を取ってみたのよ」 | "A while ago, this young man asked me about your whereabouts, so I reached out to some old friends I hadn't talked to in years." | “前不久，我在被那个小伙子询问了你的去向后，便去和许久没有联系过的朋友们联系了一下”
+scn00_40_0186 | 田中(Tanaka) | 「そしたら、そんな事があったって教えてくれて。あなたのおかげで、みんな無事だったそうよ」 | "They told me what happened that night—that they all escaped safely thanks to you." | “然后，他们便告诉了我这件事，说是多亏了你，大家才都能够平安无事哦”
+scn00_40_0187 | 田中(Tanaka) | 「代わりにお礼を言わせて。ありがとう」 | "Allow me to thank you on their behalf." | “就让我替他们道个谢吧，谢谢你”
+scn00_40_0188 | ココロ(Cocoro) | 「いえ……ヒトの役に立つのが、ワタシたちロボットの役目ですので」 | "Oh, no... It's our duty as robots to help humans." | “没什么……毕竟帮助人类就是我们机器人的使命”
+scn00_40_0189 | - | 田中さんは、握っていたココロの手を何度も振って、感謝の気持ちを伝えた。 | Tanaka-san shakes Cocoro's hand over and over to express her feelings of gratitude. | 田中女士不停摇着心的手，向她传达着感谢之情。
+scn00_40_0190 | - | ココロは困惑気味に、それを受け止めていた。 | Cocoro simply lets her, unsure how to react. | 心则一副困惑的样子，接受着这一切。
+scn00_40_0191 | 風音(Kazane) | 「あたしは知ってた。ココロちゃんの事」 | "I actually knew about Cocoro-chan." | “我早就知道心的事了”
+scn00_40_0192 | - | 風音があえて大きな声で、皆に聞こえるように言った。 | Kazane deliberately raises her voice enough for everyone to overhear. | 为了让大家都听到，风音特意用很大的声音说道。
+scn00_40_0193 | 風音(Kazane) | 「でも、そんなのどうでもよかったよ。だってココロちゃんはいい子だし、もう友達だったからな！」 | "But I didn't think it made any difference. I mean, Cocoro-chan's such a nice girl, and we were friends already." | “但是，这些都不重要，因为心是个好孩子，我已经和她成为朋友了！”
+scn00_40_0194 | こさめ(Kosame) | 「わ、私も！　知らなかったけど……友達！」 | "I-I agree! I didn't know, but... We're friends!" | “我、我也是！　虽然不是早就知道……但也是朋友！”
+scn00_40_0195 | ココロ(Cocoro) | 「こさめ……。すみません、正体を隠していて」 | "Kosame... I'm sorry for hiding what I really am from you." | “小雨……对不起，我一直都隐瞒着身份”
+scn00_40_0196 | こさめ(Kosame) | 「ううん、関係ないよ。ココちゃんとはもう友達だもん」 | "It's okay. It doesn't matter—we're friends already either way." | “没关系的，心儿已经是我的朋友了”
+scn00_40_0197 | 大地(Daichi) | 「ああ。こさめの命を助けてくれた恩人だしな」 | "Yeah. And you're the hero who saved Kosame's life." | “是啊，她也是小雨的救命恩人啊”
+scn00_40_0198 | 犬(Dog) | 「ワンワン！！」 | "Woof woof!" | “汪汪！！”
+scn00_40_0199 | 町内会長(Neighborhood Chief) | 「驚いたけど、ココロちゃんがいい子だというのは、私たちもよく知っていますよ」 | "I was surprised to find out the truth, but at that point I already knew that Cocoro-chan was a good girl." | “虽然事实很让人吃惊，但心是个好孩子这一点，我们都十分清楚啊”
+scn00_40_0200 | 住民Ａ(Resident A) | 「ああ、海岸を綺麗にしてくれたしな！」 | "Yeah. She cleaned up the beach, too!" | “是啊，她还让海岸变干净了！”
+scn00_40_0201 | 住民Ｂ(Resident B) | 「いつも元気に挨拶してくれるの、実は結構嬉しかったよ」 | "Her energetic greetings always brightened my day." | “她总会精神地打招呼，我听到其实还感觉挺开心的呢”
+scn00_40_0202 | ココロ(Cocoro) | 「みなさん……」 | "Everyone..." | “大家……”
+scn00_40_0203 | - | 関わりの深かった人々には、ココロの人柄がもう伝わっている。 | Everybody who's interacted with Cocoro before knows what kind of girl she is. | 和她关系好的人们已经将心的人品传达给了大家。
+scn00_40_0204 | - | しかし、そうでない人たちは戸惑いの色を隠せない。 | But those who don't know her very well have trouble hiding their doubts. | 可是，和她关系没那么好的人们脸上仍然有掩饰不住的困惑。
+scn00_40_0205 | - | この街の住人は皆、『厄災』を経験しており、ロボットへの嫌悪や恐怖が他の地域より強い。 | Everyone in this town experienced the Calamity. People here have harbored more hatred and fear toward robots than in other places. | 这条街上的居民都经历过‘灾厄’，对机器人的厌恶和恐惧要比其他地方的人更强。
+scn00_40_0206 | - | そうでなくても、人のように話し、友達になれるロボットに困惑しているだろう。 | And regardless, a hyperrealistic humanoid robot acting overly friendly is bound to make some people uncomfortable. | 即便不是如此，他们也会对能像人一样说话，能做朋友的机器人感到十分困惑吧。
+scn00_40_0207 | 町内会長(Neighborhood Chief) | 「もう危険はない……んだよね？」 | "So there's no danger anymore... Is there?" | “已经……没有危险了吧？”
+scn00_40_0208 | ココロ(Cocoro) | 「…………」 | "..." | “…………”
+scn00_40_0209 | - | ココロが悲しげに俯く。 | Cocoro quietly averts her gaze. | 心难过地低下了头。
+scn00_40_0210 | - | ココロ自身もそれを断言はできないはずだ。 | Not even Cororo can guarantee that nothing will happen in the future. | 心自己应该也无法断言。
+scn00_40_0211 | - | ココロがアレロパシーを発する事はないとしても、なんらかの事故を起こす可能性はあるからだ。 | Even if she can't emit allelopathy herself, the possibility of some kind of bug or incident occurring in the future isn't zero. | 即便心不再引发化感作用，也有可能会引发某种事故。
+scn00_40_0212 | ひなた(Hinata) | （言うなら今しかない） | (Now's my chance to say it.) | （要说就只能趁现在了）
+scn00_40_0213 | - | 俺はココロの隣りに並び、手を握った。 | I stand next to Cocoro and take hold of her hand. | 我站到了心的身边，握住了她的手。
+scn00_40_0214 | ココロ(Cocoro) | 「？？」 | "Huh?" | “？？”
+scn00_40_0215 | ひなた(Hinata) | 「俺……三峯ひなたは、ここにいるココロと婚約しました！」 | "I... Mitsumine Hinata, am officially engaged to Cocoro!" | “我……三峯日向，和这位心缔结了婚约！”
+scn00_40_0216 | 風音(Kazane) | 「ええっ！！？」 | "What!?" | “哎！！？”
+scn00_40_0217 | 大地(Daichi) | 「マジかよ……！！？」 | "Are you serious...!?" | “真的假的啊……！！？”
+scn00_40_0218 | こさめ(Kosame) | 「ココちゃん結婚するの？」 | "Coco-chan, you're getting married?" | “心儿要结婚了吗？”
+scn00_40_0219 | - | 驚きとともにざわめきが広がっていく。 | Murmurs of surprise spread through the crowd. | 嘈杂声随着惊讶扩散了开来。
+scn00_40_0220 | ひなた(Hinata) | 「そうだよね、ココロ」 | "We are, aren't we, Cocoro?" | “你说对吧，心”
+scn00_40_0221 | ココロ(Cocoro) | 「……は、はい。しました」 | "...Y-Yes. We're engaged." | “……是、是的，是有这回事”
+scn00_40_0222 | 町内会長(Neighborhood Chief) | 「ロボットと……結婚……」 | "You're marrying... a robot?" | “和机器人……结婚……”
+scn00_40_0223 | ひなた(Hinata) | 「みなさん、今すぐ理解しろとは言いません。しかし、これだけは知っててほしい」 | "I'm not expecting you all to approve of it. I just want everyone to know." | “各位，我不会要求大家立刻就能理解，但是，有一点我希望你们能知道”
+scn00_40_0224 | ひなた(Hinata) | 「ココロには心があります。そう生み出されたヒューマノイドなんです」 | "Cocoro has a soul. She's a humanoid that was designed that way." | “心是拥有人心的，她就是被这样制造出来的仿生人”
+scn00_40_0225 | ひなた(Hinata) | 「『厄災』を体験し、不安に思う人もいるかと思います。今後、もし何かあった場合、彼女の家族として俺が責任を負います」 | "I understand that it might make some of you uneasy after having lived through the Calamity, but if anything similar happens again, I will take full responsibility as her spouse." | “我想或许有人在经历过‘灾厄’后，会放不下心。所以今后，如果真发生了什么事，就由我这个家人来替她承担责任”
+scn00_40_0226 | ココロ(Cocoro) | 「ひなたさん……」 | "Hinata-san..." | “日向先生……”
+scn00_40_0227 | - | ぎゅっ――ココロが俺の手を握り返してくる。 | Squeeze... Cocoro's grip on my hand tightens. | 心用力回握了我的手。
+scn00_40_0228 | - | その手は震えていて、不安な気持ちが伝わってきていた。 | I can feel it shaking. She must be anxious, too. | 我从她颤抖的手中感受到了不安。
+scn00_40_0229 | - | そう、この娘は不安を感じ、人々の視線に[おび]怯える心を持っている。 | That's right... She has a soul that makes her feel anxious when she's the center of attention. | 没错，她拥有能感受到不安，会害怕人们视线的心灵。
+scn00_40_0230 | 風音(Kazane) | 「お…………おめでとう！！！！」 | "Uh... Congratulations!!!" | “恭、恭喜你们！！！！”
+scn00_40_0231 | 大地(Daichi) | 「ああ、おめでとう！」 | "Yeah, congrats, dude!" | “嗯，恭喜你们”
+scn00_40_0232 | こさめ(Kosame) | 「おめでとうココちゃん、ひなたさん」 | "Congratulations, Coco-chan, Hinata-san!" | “恭喜心儿、日向先生”
+scn00_40_0233 | 犬(Dog) | 「ワン！　ワン！！」 | "Woof! Woof!" | “汪！　汪！！”
+scn00_40_0234 | - | 風音に続いて、まばらな拍手が起こる。 | A few more people applaud, following Kazane's example. | 在风音的带领下四周响起了稀稀拉拉的掌声。
+scn00_40_0235 | - | だが、大半の人々は戸惑いを深めたようだった。 | But the majority still seem confused. | 但是，大部分人更加困惑了。
+scn00_40_0236 | ひなた(Hinata) | 「だから俺たちの事……あたたかく見守っててほしいです！」 | "I'd really appreciate it... if you could watch over us warmly!" | “所以……我希望大家可以用温暖的目光守望着我们”
+scn00_40_0237 | - | そう宣言すると、俺はココロの手を引いて、その場を後にした。 | With my declaration made, I turn my back and walk away, pulling Cocoro along with me by the hand. | 我在如此宣言过后，便拉着心的手离开了那里。
+scn00_40_0238 | - | 部屋に戻り、ふたりきりになって思わず息をついた。 | Once we're safely back inside my apartment, I can't help but let out a deep sigh. | 回到房间变成两个人独处的状态后，我便下意识松了口气。

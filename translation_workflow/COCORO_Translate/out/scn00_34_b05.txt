@@ -1,0 +1,43 @@
+scn00_34_0242 | "Cho cháu đi cùng với!"
+scn00_34_0243 | "Không được. Chú hiểu tâm trạng của cháu, nhưng có đi cùng thì cháu cũng chỉ vướng chân vướng tay mà thôi."
+scn00_34_0244 | "Thay vào đó, hãy quay về thị trấn báo tình hình cho mọi người. Rồi hướng dẫn bà con sơ tán vào những nơi an toàn trong nhà càng nhanh càng tốt."
+scn00_34_0245 | "Cháu hiểu rồi."
+scn00_34_0246 | "Trăm sự nhờ hai người giúp bọn họ. Đứa đó... Cocoro tuyệt đối không phải là một robot xấu xa đâu. Cháu đi đây!"
+scn00_34_0247 | "......"
+scn00_34_0248 | "Chúng ta đi thôi, Chủ nhiệm. Tranh thủ lúc Đội Tiêu Trừ và đám robot an ninh đang giằng co với nhau."
+scn00_34_0249 | "Ừ..."
+scn00_34_0250 | <Không... sao... nữa... rồi... Theo... em...>
+scn00_34_0251 | Sau khi hạ gục đám robot an ninh lao tới tấn công, CCR-02 dẫn tôi vào một căn phòng nằm sâu bên trong cơ sở nghiên cứu.
+scn00_34_0252 | Nơi này là...
+scn00_34_0253 | <Phòng... bảo... trì... Nơi... để... sửa... chữa... bọn... em...>
+scn00_34_0254 | Nơi đây chính là bên trong tòa nghiên cứu tại Phân khu Trung tâm.
+scn00_34_0255 | Nếu sử dụng các trang thiết bị ở đây thì chẳng phải có thể bảo trì cho Cocoro hay sao?
+scn00_34_0256 | Thế nhưng, xét theo diện tích căn phòng, có vẻ nơi này không phải để bảo trì toàn bộ robot của Trung tâm.
+scn00_34_0257 | Nhiều khả năng đây là cơ sở dành riêng cho Cocoro. Dù sao thì Cocoro cũng từng được phát triển dưới danh nghĩa một dự án tối mật.
+scn00_34_0258 | <Đằng... kia...>
+scn00_34_0259 | "......?"
+scn00_34_0260 | Cocoro!
+scn00_34_0261 | Cocoro đang nằm ở đằng đó.
+scn00_34_0262 | Người máy sinh học không hề thở. Khi nhắm nghiền mắt nằm bất động, người ta chẳng thể nào biết được họ còn sống hay đã chết.
+scn00_34_0263 | <Cocoro có sao không em?>
+scn00_34_0264 | <Không... sao...>
+scn00_34_0265 | <Suýt... nữa... thì... hỏng... Nhưng... em... đã... cố... gắng... sửa... chữa... rồi...>
+scn00_34_0266 | <Em biết cách sử dụng trang thiết bị ở đây sao?>
+scn00_34_0267 | <...Em... đã... làm... cho... nó... hoạt... động... được...>
+scn00_34_0268 | Làm cho hoạt động được ư?
+scn00_34_0269 | Cách nói ấy nghe hệt như thể vốn dĩ không dùng được, nhưng em ấy đã tìm cách xoay xở để vận hành được vậy.
+scn00_34_0270 | Nhưng mà, ra là vậy. Em ấy đã sửa chữa cho Cocoro.
+scn00_34_0271 | Thật may quá...
+scn00_34_0272 | Những vết thương ngoài thân do cú va chạm với xe tải dường như đã biến mất hoàn toàn.
+scn00_34_0273 | Thế nhưng, đó chỉ là vẻ bề ngoài, chắc hẳn bên trong vẫn chưa thể hồi phục hoàn toàn được.
+scn00_34_0274 | <Cocoro đang ngủ sao em?>
+scn00_34_0275 | ......
+scn00_34_0276 | CCR-02 không trả lời.
+scn00_34_0277 | <Chị... ấy... cự... tuyệt... thức... tỉnh...>
+scn00_34_0278 | Cự tuyệt thức tỉnh ư?
+scn00_34_0279 | Cocoro từng tha thiết muốn dừng mọi chức năng hoạt động.
+scn00_34_0280 | Dù có sửa chữa được những tổn hại trên cơ thể, nhưng nếu bản thân cô ấy không còn ý chí muốn tỉnh lại thì cũng chẳng thể tái khởi động được sao?
+scn00_34_0281 | <Tại sao em lại dẫn anh đến tận nơi này?>
+scn00_34_0282 | Em ấy từng nói muốn tôi cứu chị gái mình... tức Cocoro.
+scn00_34_0283 | <Nếu... là... anh... Hinata............ anh... sẽ... đưa... chị... gái... quay... về... được...>
+scn00_34_0284 | <Xin... anh... hãy... cứu... lấy... chị... em... với...>

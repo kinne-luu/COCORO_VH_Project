@@ -1,0 +1,31 @@
+# scene=scn00_27 batch=4/4 dòng 179-205 / 205
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_27_0179 | - | 風音がバットをハデに振り回す。もちろん当たらないように気を付けて。 | Kazane swings her baseball bat around, but she's obviously being careful not to hit anyone. | 风音用力挥舞着球棒，当然也在注意着不打到人。
+scn00_27_0180 | - | 大乱闘という名の茶番劇が始まった。 | I suppose I have no choice but to sit back and watch this "fight scene" play out. They've always liked putting on plays, so... | 名为大乱斗的戏码开始上演了。
+scn00_27_0181 | ココロ(Cocoro) | 「中足キャンセルラッシュからの中・大・キャンセル・ドラゴンパンチ！」 | "Medium into Rush Cancel, then Strong, Fierce into Dragon Punch!" | “中段踢取消接中・大・取消・升龙拳！”
+scn00_27_0182 | 光太郎(Kotaro) | 「うわーーやられたーーーー」 | "Aghhhh! You got me!" | “呜哇——被干掉了————”
+scn00_27_0183 | こさめ(Kosame) | 「わーーーー」 | "Wahhhh!" | “哇————”
+scn00_27_0184 | ココロ(Cocoro) | 「きまった」 | "I did them in." | “我赢了”
+scn00_27_0185 | 風音(Kazane) | 「くそう、おぼえてろよっ」 | "Dammit! We'll remember this!" | “可恶，你给我记住啊”
+scn00_27_0186 | - | 風音が落ちてたバットをちゃんと拾って逃げていく。 | Kazane picks up the baseball bat before running away. | 风音把掉在地上的球棒捡起来之后才跑的。
+scn00_27_0187 | こさめ(Kosame) | （ココちゃん、がんばってね！） | "Coco-chan, good luck!" | （心儿，加油啊！）
+scn00_27_0188 | ココロ(Cocoro) | （ワタシはいつだってベストを尽くします） | "I always strive to do my best." | （我一直都在尽力而为）
+scn00_27_0189 | 光太郎(Kotaro) | 「いやぁ、いい子じゃないか。うらやましいぞ少年」 | "She's such a nice girl. You're making me jealous, kiddo." | “哎呀，真是个好孩子啊，真羡慕你啊少年”
+scn00_27_0190 | ひなた(Hinata) | 「……（コクン）」 | "*nod*..." | “……（点头）”
+scn00_27_0191 | - | 頷く事しかできない俺を見て、光太郎さんは優しく笑う。 | When all I'm able to muster is a nod, Kotaro-san responds with a kind smile. | 光太郎先生看到我只能点头的样子后，温柔地笑了。
+scn00_27_0192 | 光太郎(Kotaro) | 「いざとなったら、おまえがココロちゃんを守ってやるんだぞ」 | "Next time it might be your turn to protect ." | “真到了危急关头，你可得保护好心啊”
+scn00_27_0193 | ひなた(Hinata) | 「？」 | "...?" | “？”
+scn00_27_0194 | 光太郎(Kotaro) | （駆除隊が何か狙ってる、気を付けろ） | "The extermination squad is planning something. Stay on your guard." | （驱除队在谋划着什么，当心一点）
+scn00_27_0195 | ひなた(Hinata) | （え？） | (Huh?) | （哎？）
+scn00_27_0196 | 光太郎(Kotaro) | 「じゃあな、デート楽しんでこい！」 | "See you. Enjoy your date!" | “再见啦，好好享受约会吧！”
+scn00_27_0197 | - | 光太郎さんは意味深な言葉を残すと、こさめちゃんを車椅子ごと抱えて去っていった。見た目によらず、力が強いようだ。 | Kotaro-san leaves me with an ominous warning before picking up Kosame-chan again, wheelchair and all, and carrying her away. He's stronger than he looks. | 光太郎先生留下了一句意味深长的话语后，便将小雨连同轮椅一起抱起来离开了。他貌似比看上去要有力气啊。
+scn00_27_0198 | ひなた(Hinata) | （駆除隊が……ココロを狙ってるって事？） | (The extermination squad... Are they after Cocoro?) | （驱除队……盯上了心吗？）
+scn00_27_0199 | - | 事情聴取の事だろうか。あれから何も言ってきてないが。 | I wonder if they still want to question her. I haven't heard a peep from them about that. | 是指问话的事吗，在那之后他们也什么都没再说过了。
+scn00_27_0200 | ココロ(Cocoro) | 「安心してください、ひなたさん。悪は[ほろ]滅びました」 | "You can rest easy, Hinata-san. Justice has prevailed." | “请放心吧，日向先生，恶人已经被消灭了”
+scn00_27_0201 | - | 不良をおっぱらったココロが、カッコよく勝利ポーズを決めている。 | Cocoro, having "fought off the delinquents," strikes a heroic pose. | 赶走了混混的心摆出了帅气的胜利姿势。
+scn00_27_0202 | ココロ(Cocoro) | 「ふふふ、今頃ひなたさんはワタシにトゥンクしている事でしょう」 | "Hehehe, I bet you're falling head over heels for me right about now, Hinata-san." | “呵呵呵，现在日向先生应该对我心动了吧”
+scn00_27_0203 | ひなた(Hinata) | （すごくいいところだったんだけどな……） | (Well... Things were just getting good,  we got interrupted...) | （好不容易才进入了不错的氛围啊……）
+scn00_27_0204 | - | ココロの仕組んだ事のようなので、絡んできた不良役の三人にはなんの罪もない。 | It would seem that Cocoro is the mastermind behind this scheme, so I can't blame the three "delinquent" actors for playing their roles... | 因为这貌似是心一手策划的，所以缠上来的三个混混也都没错。
+scn00_27_0205 | - | でも、誰も悪くなくても悲劇が起こってしまう事はあるのだった。 | But sometimes, tragedies happen even when nobody is at fault. | 但是，即便没人有错也会引发悲剧。

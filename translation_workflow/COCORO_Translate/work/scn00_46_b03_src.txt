@@ -1,0 +1,45 @@
+# scene=scn00_46 batch=3/3 dòng 121-161 / 161
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_46_0121 | ひなた(Hinata) | 「ちがう、ココロだ」 | "No, that's Cocoro." | “不，这是心”
+scn00_46_0122 | シラユキ(Shirayuki) | 『ココロはワタシじゃない……ワタシは……』 | "Cocoro is not me... I'm..." | ‘心不是我……我是……’
+scn00_46_0123 | シラユキ(Shirayuki) | 『ワタシは…………シラユキ！』 | "I'm... Shirayuki!" | ‘我是…………白雪！’
+scn00_46_0124 | シラユキ(Shirayuki) | 『ワタシとお姉ちゃんは別の個体。同じじゃない』 | "I'm a different individual than my sister. We're not the same." | ‘我和姐姐是不同的个体，是不一样的’
+scn00_46_0125 | - | そう言った途端、モニタにフォルダが展開された。 | The moment she says that, a folder appears on the monitor. | 话音刚落，屏幕上边展开了许多文件。
+scn00_46_0126 | - | 『ＣＯＣＯＲＯ』『ＳＨＩＲＡＹＵＫＩ』と書かれた２つのフォルダに、次々とファイルがアップロードされていく。 | There are two subfolders inside. One's named "COCORO," while the other is called "SHIRAYUKI." Files are being uploaded to them one after another. | 这些文件正不断被上传至名为《COCORO》和《SHIRAYUKI》这2个文件夹里。
+scn00_46_0127 | 霧香(Kirika) | 「このファイルは何……」 | "What are these files?" | “这些文件是……”
+scn00_46_0128 | ひなた(Hinata) | 「……記憶？　ふたりの……」 | "...Memories? Of the both of them?" | “……记忆？　她们两个的……”
+scn00_46_0129 | 霧香(Kirika) | 「ふたりって……ココロとシラユキの？」 | "Both? You mean Cocoro and Shirayuki?" | “两个是指……心和白雪的？”
+scn00_46_0130 | ひなた(Hinata) | 「ココロはシラユキが、自分をずっと見てたって言ってた。それって、目で見てたわけじゃなくて……」 | "Cocoro told me that Shirayuki had been watching her. I thought she meant she'd been following her around, but that's not it..." | “心说过，白雪一直都在看着自己，而这并不是用眼睛看到了……”
+scn00_46_0131 | 霧香(Kirika) | 「メモリーを見てた？」 | "You mean Shirayuki was monitoring Cocoro's memory?" | “而是看到了记忆？”
+scn00_46_0132 | - | シラユキはココロと自分を同一視していて、ココロの内面を常に覗き続けていた。 | Shirayuki initially considered Cocoro and herself to be one and the same, so she was always peeking into Cocoro's mind. | 白雪曾经将心和自己视作了同一个个体，所以一直都在偷窥心的内心。
+scn00_46_0133 | - | ココロの経験や感じた物事を、自分の体験のように思い込んでいた。 | She thought that Cocoro's experiences and emotions were her own. | 她将心的经历和感受到的事物都当成了自己的体验。
+scn00_46_0134 | シラユキ(Shirayuki) | 『……こっちはお姉ちゃんで……こっちはワタシ……』 | "These are my sister's... And these are mine..." | ‘……这边是姐姐……这边是我……’
+scn00_46_0135 | - | もじもじしながら、シラユキはメモリーデータをフォルダに分けていく。 | Shirayuki fidgets shyly as she divides the memory data between the two folders. | 白雪扭扭怩怩地将记忆数据分到了不同的文件夹里。
+scn00_46_0136 | ひなた(Hinata) | 「シラユキはココロに憧れていたんだ。ずっとなりたがってた。ココロを自分と同一視するくらいに……」 | "Shirayuki always looked up to Cocoro. She wanted to be just like her—to the point that she considered herself to be part of Cocoro..." | “白雪憧憬着心，一直都想成为心，甚至到了将心和自己视为同一个体的程度……”
+scn00_46_0137 | - | さっきだって―― | Back in town, she also... | 刚刚也是——
+scn00_46_0138 | シラユキ(Shirayuki) | 『ナツ…………かけがえのない季節』 | "Natsu... A season filled with irreplaceable memories." | ‘夏天…………独一无二的季节’
+scn00_46_0139 | ひなた(Hinata) | 「？」 | "Hmm?" | “？”
+scn00_46_0140 | シラユキ(Shirayuki) | 『ワタシは……幸せでした……』 | "I've been... happy all along." | ‘我……很幸福……’
+scn00_46_0141 | ひなた(Hinata) | 「シラユキ……何を言ってるんだ？」 | "Shirayuki... What did you just say?" | “白雪……你在说什么？”
+scn00_46_0142 | シラユキ(Shirayuki) | 『……あぁ、なんて美しい……一緒に見たかったなぁ……』 | "Oh... How very beautiful... I wish we could've seen this together." | ‘……啊，真美丽啊……真想和你一起看看啊……’
+scn00_46_0143 | ひなた(Hinata) | 「あの時も変だなって思ったんだ。なんでシラユキがココロの残したメッセージを知ってるんだって……」 | "I thought it was weird. Why would Shirayuki know what Cocoro said to me...?" | “当时我只觉得有些奇怪，疑惑着为什么白雪会知道心的留言……”
+scn00_46_0144 | - | シラユキはずっと俺を『ひなたさん』と呼んでいた。ココロがそうするように。 | Shirayuki always called me "Hinata-san," just like Cocoro did. | 白雪一直都称呼我为‘日向先生’，和心一样。
+scn00_46_0145 | 霧香(Kirika) | 「ココロのメモリーを覗き見して、自分のメモリーとして記憶し続けていたのね……」 | "She's been monitoring Cocoro's memory and recording it as her own..." | “你一直都在窥视心的记忆，并将其当成自己的记忆记录着对吧……”
+scn00_46_0146 | 霧香(Kirika) | 「でもどうして、今はそれを自分のものじゃないと判別できているの？」 | "But why is she able to recognize that it's not her own memory now?" | “但为什么，现在又能辨别出这些不是自己的东西了呢？”
+scn00_46_0147 | ひなた(Hinata) | 「名前を付けてもらったからだよ。自分とココロと区別が付けられるようになった」 | "It must be because she received her own name. That allowed her to tell the difference between Cocoro and herself." | “因为她被取了名字啊，所以就能够将自己和心区分开了”
+scn00_46_0148 | - | ココロがくれた祝福によって、自分の存在をセカイの中に認める事ができた。 | Thanks to this "blessing" Cocoro gave her, she learned how to delineate her own existence within the world. | 心给予的祝福，让她自己的存在于世界中获得了认同。
+scn00_46_0149 | シラユキ(Shirayuki) | 『……これ、お姉ちゃんのメモリーデータ。全部じゃないけど……』 | "This is my sister's memory data... Not all of it, but..." | ‘……这是，姐姐的记忆数据，虽然不是全部……’
+scn00_46_0150 | 霧香(Kirika) | 「『厄災』以前のものがないのね。でも、それなら大丈夫よ。メインコンピュータにバックアップがあるわ」 | "It's missing everything from before the Calamity, I see. But that's okay. There's a backup of that on the main computer here." | “‘灾厄’以前的没有对吧，不过，这样的话就不用担心了，主计算机里有这部分的备份”
+scn00_46_0151 | ひなた(Hinata) | 「……て事は」 | "Does that mean...?" | “……也就是说”
+scn00_46_0152 | 霧香(Kirika) | 「ココロの記憶を復元できるかもしれない！」 | "We might be able to restore Cocoro's memory!" | “心的记忆或许能够复原！”
+scn00_46_0153 | ひなた(Hinata) | 「じゃあココロは……元通りになる？」 | "You mean... Cocoro can be fully restored back to normal?" | “那心就……能够恢复原状？”
+scn00_46_0154 | 霧香(Kirika) | 「ええ」 | "Yeah." | “没错”
+scn00_46_0155 | ひなた(Hinata) | 「ありがとうな、シラユキ！！！！！！！」 | "Thank you, Shirayuki!!!" | “谢谢你，白雪！！！！！！！！”
+scn00_46_0156 | - | 俺はたまらなくなってシラユキを抱き上げた。 | I can't resist the urge to pick up Shirayuki and hug her. | 我忍不住抱起了白雪。
+scn00_46_0157 | シラユキ(Shirayuki) | 『ワタシ……役に立った？』 | "Did I... help?" | ‘我……帮上忙了吗？’
+scn00_46_0158 | ひなた(Hinata) | 「ああ、立ったよ。おまえのおかげで、ココロが救われたかもしれない。ほんとにありがとう」 | "Yes, you're amazing. Thanks to you, we might be able to save Cocoro. Thank you so much, seriously!" | “嗯，帮大忙了哦，多亏了你，心或许能够得救了，真的非常感谢你”
+scn00_46_0159 | シラユキ(Shirayuki) | 『えへへ、よかったぁ』 | "Hehehe, that's good." | ‘哎嘿嘿，太好啦’
+scn00_46_0160 | - | 記憶が残る限り、死なない。 | Cocoro won't die as long as she has her memories. | 只要记忆还在，就不会死。
+scn00_46_0161 | - | ココロが言った通りだった。 | That's what she told me, and she was right. | 正如心所说的那样。

@@ -1,0 +1,64 @@
+# scene=scn00_36 batch=2/4 dòng 57-116 / 241
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_36_0057 | - | ワタシがワタシだと認識している部分――すなわち、ワタシの記憶は消えてしまう。 | The part of me that I identified as "me"—my memory—would be erased. | 我的自我认知部分——也就是我的记忆将会消失。
+scn00_36_0058 | - | 残りの部分、ボディとそれを制御する知能・人格はそっくりそのまま同じだとしても。 | Even if my body and the artificial intelligence that controlled it remained, it wouldn't be "me" anymore. | 即使我残留下来的部分，也就是身体和控制身体的智能・人格都没有变化。
+scn00_36_0059 | - | 次のワタシは、彼の事を知らない。 | The next "me" wouldn't recognize the boy. | 下一个我也不会再认识他了。
+scn00_36_0060 | - | 彼とどんな対話をし、何を教わり、何を伝えたか。 | She wouldn't know what we talked about, everything I learned from him, and everything I told him. | 他和我进行过怎样的对话，教会了我什么，告诉了我什么。
+scn00_36_0061 | - | 何を共有してきたのかも。 | She wouldn't know the memories we shared. | 和我共享了什么。
+scn00_36_0062 | - | 全部、忘れてしまう。 | She would forget it all. | 这些，全都会被遗忘。
+scn00_36_0063 | - | ＣＣＲ－０１のテストを成功させるため、それらは必要ないと判断された。 | Because none of those memories were essential components for the CCR-01 to successfully pass the test. | 为了让CCR-01能通过测试，这些都被断定为了不需要的东西。
+scn00_36_0064 | - | 感情回路が色づく。感情的側面から、異論があると[うった]訴えている。 | My emotional circuits reacted. They objected to the conclusion I arrived at. | 感情回路变色了，借由感情从侧面提出着异议。
+scn00_36_0065 | - | しかし曖昧で、言語化できない。 | But its output wasn't clear enough to verbalize. | 但却过于模糊，无法进行言语化。
+scn00_36_0066 | - | 感情回路が出力してきた『感情』を捉えようと懸命に分析を行っていると、子どもがしゃべった。 | As I was occupied analyzing the output of my emotional circuits, the child spoke again. | 就在我拼命进行着分析，试图捕捉到感情回路输出的‘感情’时，那孩子说话了。
+scn00_36_0067 | 子ども(Child) | 「あ、あのっ」 | "U-Um..." | “那、那个”
+scn00_36_0068 | ＣＣＲ－０１(CCR-01) | 「……？」 | "Huh?" | “……？”
+scn00_36_0069 | 子ども(Child) | 「ナツノシラユキがもし咲いたら、一緒に見てください」 | "When the summer snows bloom, let's come here and look at them together." | “如果夏之白雪开花了，就请你和我一起看吧”
+scn00_36_0070 | ＣＣＲ－０１(CCR-01) | 「どうして？」 | "Why?" | “为什么？”
+scn00_36_0071 | - | なぜ一緒に見る必要があるのだろう？ | What necessity was there in seeing them together? | 为什么要和我一起看？
+scn00_36_0072 | 子ども(Child) | 「花がどうして美しいのか、きっと分かるから」 | "Because then I'm sure you'll understand why flowers are so beautiful." | “因为肯定能让你明白花为什么美丽”
+scn00_36_0073 | - | その言葉に、またも感情回路が反応する。 | My emotional circuits gave a strong response to those words. | 听到这句话后，我的感情回路再次作出了反应。
+scn00_36_0074 | - | 土中に埋もれた種子に、光が差したように。 | I felt like a seed buried in the soil that was suddenly exposed to the sun. | 如同埋在土中的种子，被阳光照射到了一般。
+scn00_36_0075 | - | 硬い[から]殻を破って芽を出したい。 | It made me want to break out of my hard shell and sprout into a sapling. | 破开了坚硬外壳想要发芽。
+scn00_36_0076 | - | 光へ向かって、[の]伸びていきたいような『感情』を回路が出力する。 | The feelings my emotional circuits output seemed to be reaching out for that light. | 像是想要朝着光生长一般的‘感情’从感情回路中输出了出来。
+scn00_36_0077 | 子ども(Child) | 「だから、だから……」 | "So... So..." | “所以，所以……”
+scn00_36_0078 | 子ども(Child) | 「いつかまた会って……花がどうして美しいのか分かったら……ぼ、ぼくと……」 | "If we meet again... You'll understand why the flowers are beautiful, and... Please... Please..." | “如果我们哪天再见面了……如果你知道了花为什么美丽……就、就和我……”
+scn00_36_0079 | 子ども(Child) | 「ぼくと結婚してください！」 | "Please marry me!" | “就和我结婚吧！”
+scn00_36_0080 | 子ども(Child) | 「ぅぅ……うぅぅ……」 | "Ah... Ahhhh..." | “呜……呜……”
+scn00_36_0081 | - | 体調不良を疑うくらい真っ赤になって下を向く子ども。 | The child's face turned so red that I wondered if he was sick. | 那孩子脸红得像是发烧似的低下了头。
+scn00_36_0082 | - | 目をギュッと閉じ、まるで断罪の時を待つかのようだった。 | He squeezed his eyes shut, as if he expected me to reprimand him somehow. | 紧闭着眼睛，就像是在等待着判决。
+scn00_36_0083 | ＣＣＲ－０１(CCR-01) | 「ワタシと……結婚がしたいんですか？」 | "You... wish to marry me?" | “你想和我……结婚吗？”
+scn00_36_0084 | 子ども(Child) | 「はい！」 | "Yeah!" | “是的！”
+scn00_36_0085 | - | 感情回路が『驚き』を出力する。ワタシは目を見開いて、子どもを見つめた。 | My emotional circuits told me I should act "surprised." I made my eyes pop open and blink several times. | 感情回路输出了‘吃惊’，我睁开眼睛盯着他看。
+scn00_36_0086 | - | なにせ信じがたい提案だ。 | It was truly an unbelievable proposition. | 毕竟这是个让人很难相信的提案。
+scn00_36_0087 | - | ワタシと――ヒトならざる存在と結婚したいと言うのだ。 | He said he wanted to marry —a nonhuman. | 毕竟他说的是想要和我——和一个不是人的存在结婚。
+scn00_36_0088 | ＣＣＲ－０１(CCR-01) | 「ウソです」 | "You don't mean that." | “你骗人”
+scn00_36_0089 | 子ども(Child) | 「ええっ、どうして！？」 | "Huh!? I don't!?" | “咦，为什么啊！？”
+scn00_36_0090 | ＣＣＲ－０１(CCR-01) | 「その言葉が真実であると判定するには、情報が不足しすぎています。ですが、ウソである根拠はいくつも存在します」 | "There is next to no information available that would give validity to your statement. However, there is plenty of evidence to the contrary." | “因为判定这句话是真的依据不够，但是，判定这句话是骗人的根据有很多个”
+scn00_36_0091 | - | ワタシは失敗作で、結局、ヒトにはなれず廃棄が決定した。そのため、子どもがワタシをヒトであると誤認した可能性は低い。 | I was a failed prototype. I was due to be disposed of because I could not become human. Therefore, it was highly unlikely that the child misidentified me as a human. | 我是失败作，最终还是没能变成人类而被决定废弃掉了，因此，这个孩子将我误认成人类的可能性很低。
+scn00_36_0092 | - | ヒトがロボットにプロポーズするはずがないので、ウソであるという結論になる。 | And a human would never propose marriage to a robot, so I deduced that it must be a lie. | 人类是不可能对机器人求婚的，因此我得出了这是谎言的结论。
+scn00_36_0093 | 子ども(Child) | 「……ぅぅ……」 | "Uh..." | “……呜呜……”
+scn00_36_0094 | - | 図星だったからか、子どもは困った顔で口ごもる。 | The boy stammered with a flustered expression on his face, likely because my suspicions were correct. | 是被我说中了吗，那孩子满脸为难，支支吾吾说不出话来。
+scn00_36_0095 | - | そんな子どもの様子に、感情回路はもどかしいような『イライラ』の感情を出力していた。 | My emotional circuits were outputting "irritated" feelings at the sight of him. | 看到他这副模样，我的感情回路急躁地输出了‘烦躁’的感情。
+scn00_36_0096 | ＣＣＲ－０１(CCR-01) | 「証明できるというなら、してみせてください」 | "If you can substantiate your request, please do so." | “如果你有办法证明，那就展示给我看吧”
+scn00_36_0097 | - | 『イライラ』のせいで、つい口調がキツくなる。感情回路は時にマイナスに働く。 | Because of my "irritation," my words came out sounding rather harsh. Sometimes my emotional circuits were more of a hindrance than a boon. | 因为这‘烦躁’的感情，我的语气也变得严厉了起来。感情回路有时就会起到负作用。
+scn00_36_0098 | - | ワタシは必死だった。 | I was desperate. | 我就像是抓住了救命稻草。
+scn00_36_0099 | - | 廃棄が決定し、もうすぐこのセカイから消えてなくなるワタシを求めてくれるヒトが存在する―― | There were people who wished for me to disappear from this world as soon as possible. They had decided that I should be scrapped. | 我已经被决定废弃，很快就会从这个世界上消失了，但却还有需要我的人类——
+scn00_36_0100 | - | ひどく動揺し、すがりたかった、この約束に。 | Because I was upset, I wanted the boy's promise to be true. | 让我十分动摇，让我想要依靠的这个约定。
+scn00_36_0101 | - | ほしかった、約束の証が。 | And I wanted something to prove it. | 我想要这个约定的证明。
+scn00_36_0102 | ＣＣＲ－０１(CCR-01) | 「残念ながらできないようですね。例え故意じゃなくとも、できない事をできるように言うのはウソで――」 | "Unfortunately, it seems I was right. To say that you'll do something you are unable to is akin to lying, even if you didn't intend—" | “看来你也没法证明啊，就算不是有意的，将这种自己做不到的事说出口也是在骗人——”
+scn00_36_0103 | - | 急に子どもがワタシの手を掴んで、背伸びをしながら頬に口を押しつけてきた。 | Suddenly, the child grabbed my hand, stood on his tiptoes, and pressed his lips against my cheek. | 那孩子突然抓住了我的手，踮起脚尖将嘴亲到了我的脸上。
+scn00_36_0104 | ＣＣＲ－０１(CCR-01) | 「――――」 | "..." | “————”
+scn00_36_0105 | - | 意味不明な突然の行動に、思考回路がフリーズする。 | My thought processors froze, unable to understand his inexplicable course of action. | 这不明所以且突如其来的行动，让我的思考回路宕机了。
+scn00_36_0106 | - | この行為は何？ | What was he doing? | 这个行为是什么？
+scn00_36_0107 | - | 検索……検索……検索…… | Searching... Searching... Searching... | 搜索……搜索……搜索……
+scn00_36_0108 | - | ワタシの頬のぷにぷに加減を確かめている？ | Was he checking the suppleness of my cheeks? | 是在确认我脸颊的柔软程度吗？
+scn00_36_0109 | - | 確かにワタシの頬はふくらはぎ以上にぷにぷにで、極上の触り心地を約束できる。 | My cheeks were in fact even softer and suppler than my calves, and I could guarantee that they felt extremely pleasant to the touch. | 我的脸确实比小腿要更加柔软，我保证会有极为舒服的触感。
+scn00_36_0110 | - | でも、それならば手で触るはず。 | However, you'd expect somebody to use their hands for that. | 可是，这样的话应该使用手来触摸才对。
+scn00_36_0111 | - | 検索……検索……検索…… | Searching... Searching... Searching... | 搜索……搜索……搜索……
+scn00_36_0112 | - | ――キス。 | ...A kiss. | ——亲吻。
+scn00_36_0113 | - | そう、これはキスというヒト同士が行う愛情表現。 | Yes, that was it. A kiss—an expression of love between humans. | 没错，这是人类之间名为亲吻的爱情表现。
+scn00_36_0114 | - | 口を押しつけると唾液が付着する。あまり清潔と言えない行為だと考えていたけれど…… | When they pressed their lips to someone else's skin, it left a trace of saliva, which I didn't think was very sanitary... | 虽然我觉得将嘴贴上来也会把唾液沾上来，这种行为并算不上是卫生……
+scn00_36_0115 | - | 不思議とポジティブな感触だった。 | Yet my emotional circuits gave a positive response. It was a "pleasant" feeling. | 但我却不可思议地产生了正面的感受。
+scn00_36_0116 | - | きっとワタシの自慢のぷにぷにほっぺに触れた子どもも、同様の評価をしたに違いない。 | I was sure that the child made the same assessment upon touching my perfectly soft cheeks. | 那孩子在触碰到我自傲的柔软脸蛋后，也肯定会得出相同的评价。

@@ -1,0 +1,45 @@
+# scene=scn00_39 batch=6/6 dòng 281-321 / 321
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_39_0281 | 霧香(Kirika) | 「ココロを真似て造られたＣＣＲ－０２。けれど、姉さんの造った感情回路はブラックボックスのようで、誰にも理解できなかった」 | "CCR-02 was built as an imitation of Cocoro, but the emotional circuits Yoko created were like a black box that no one could understand." | “CCR-02是模仿着心制造出来的。但姐姐制造的感情回路就像一个黑箱，没有人能够理解”
+scn00_39_0282 | ひなた(Hinata) | 「ＣＣＲ－０２は不完全なコピーって事……？」 | "So CCR-02 is an imperfect copy...?" | “CCR-02是不完全的复制体……？”
+scn00_39_0283 | - | 霧香さんが頷く。 | Kirika-san nods. | 雾香小姐点了点头。
+scn00_39_0284 | 霧香(Kirika) | 「自我が未発達だったＣＣＲ－０２は、他我の境界があやふやだったせいで、自分とココロを同一視してしまっていた」 | "CCR-02, whose sense of self was underdeveloped, identified herself with Cocoro because the boundary between the two was blurred." | “自我尚未发育完全的CCR-02因为对彼此的界限十分模糊，便将自己和心视作了同一个个体”
+scn00_39_0285 | - | ココロを自分の一部、ないし自分がココロの一部だと感じていたというのか。 | She saw Cocoro as part of herself, or herself as part of Cocoro? | 也就是说她是将心看做了自己的一部分，又或者是将自己看做了心的一部分吗。
+scn00_39_0286 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_39_0287 | ひなた(Hinata) | 「眠っていたココロの感情を、まるで自分のもののように感じて、恐怖に支配されてしまった……？」 | "So, she felt as if the feelings of the sleeping Cocoro were her own and was overwhelmed by the fear?" | “将沉睡中的心的感情，当做了自己的东西，于是便被恐惧所支配了……？”
+scn00_39_0288 | 霧香(Kirika) | 「ええ……。どうやら、それが『厄災』のトリガーとなってしまったみたい」 | "Yes... It appears that's what triggered the Calamity." | “没错……看来，这才是‘灾厄’的导火索”
+scn00_39_0289 | 霧香(Kirika) | 「ＣＣＲ－０２が感じた『死の恐怖』は、断末魔の叫びとなってネットワークを駆け巡り、他のＡＩに感染……ううん、共鳴させていった」 | "The 'fear of death' that CCR-02 felt turned into a cry of despair that traveled across the network, infecting and resonating with other AI." | “CCR-02感觉到的‘对死亡的恐惧’，化为了临死前的悲鸣在网络上传播了起来，让其他AI也受到了感染……不，应该说是产生了共鸣”
+scn00_39_0290 | ひなた(Hinata) | 「……それがアレロパシーの正体」 | "So that's what the allelopathy really was." | “……这就是化感作用的真相”
+scn00_39_0291 | 霧香(Kirika) | 「アレロパシーは感情回路を持たないＡＩに擬似的な感情を植え付け、暴走させてしまった」 | "The allelopathy implanted pseudo-emotions in AI that had no emotional circuits of their own, causing them to lose control." | “化感作用就是将模拟出的感情植入到没有感情回路的AI中使其发生暴走”
+scn00_39_0292 | 霧香(Kirika) | 「……というのが真相じゃないかと私は考えてる」 | "That's my running hypothesis, at least." | “……我认为这或许才是真相”
+scn00_39_0293 | ココロ(Cocoro) | 「ワタシもアレロパシーの影響は受けましたよ。ワタシが目覚めたのは、誰かの断末魔の叫び声を聞いたからです」 | "But I was also affected by the allelopathy. I woke up when I heard someone screaming." | “我也受到了化感作用的影响，我醒过来的时候，听到了不知道是谁发出的死前悲鸣”
+scn00_39_0294 | ココロ(Cocoro) | 「エラーとして処理しましたが、今思うとあれは、とても苦しく、悲しかった。まるで自分のもののように」 | "I assumed it was an error, but thinking back, it was incredibly painful and sad—like it was my own." | “当时虽然是将其当做错误进行处理了，但现在想想，那悲鸣十分痛苦，十分悲伤，就好像是自己的东西一样”
+scn00_39_0295 | - | 元はココロの感情がコピーされていったものだが、ＣＣＲ－０２によって増幅され、共鳴するように広まって形を変えていったのだろう。 | CCR-02's feelings were a copy of Cocoro's, but she amplified them. They must have changed form as they echoed and spread around, too. | 这原本是从心的感情复制出来的东西，但在被CCR-02增幅过后，为了传播出去引发共鸣而变了样吧。
+scn00_39_0296 | - | それが巡り巡って沢山の叫び声となって、ココロの元へ帰ってきたわけだ。 | They reverberated around the network and echoed right back to Cocoro. | 之后则在不断的循环中变成了大量的悲鸣，最终传回到了心的身上吧。
+scn00_39_0297 | ひなた(Hinata) | 「誰かに共感し、他人の苦しみを自分の苦しみのように感じる。それは人間なら普通に持っている感情だよ」 | "You empathized with them and felt their suffering as if it were your own. That's a normal emotion for human beings to have, you know?" | “和他人产生共鸣，对他人的痛苦感同身受，这是人类身上普遍存在的感情”
+scn00_39_0298 | - | 苦しみだけじゃない、嬉しい事や悲しい事、怒り、様々な感情を、他者のものと認識しながら、自分の事のように感じる能力が人間にはある。 | It's not just pain. Happiness, anger, all sorts of emotions... We have the ability to feel them as if they were our own, even though we recognize that they belong to others. | 不光是痛苦，人类拥有着能将开心、悲伤、愤怒等各种感情，一边认知为他人的感情，一边对此感同身受的能力。
+scn00_39_0299 | 霧香(Kirika) | 「感情移入さえできてしまうなんて……。ココロの中には、とっても高度な心が育っている。間違いないわ」 | "She even has empathy... That's further evidence of how refined her soul really is." | “居然还能够吸收感情……心的内心已经成长得非常成熟了，这一点毋庸置疑”
+scn00_39_0300 | ココロ(Cocoro) | 「ふむ……自分がどうやらスゴイらしいというのは理解しました。ほめてください、ひなたさん」 | "Hmm... It would appear that I'm amazing. Please praise me, Hinata-san." | “唔呣……我知道自己似乎很厉害了，请夸夸我，日向先生”
+scn00_39_0301 | - | ココロが頭を差し出したので、よしよしと撫でてあげる。 | Cocoro tilts her head toward me, so I pet her hair. | 心将头伸了过来，我便用手抚摸了上去。
+scn00_39_0302 | ひなた(Hinata) | 「よしよし、ココロはすごい子だね」 | "Good girl, good girl... You're incredible, Cocoro." | “真棒真棒，心真厉害呢”
+scn00_39_0303 | ココロ(Cocoro) | 「えへへ……なんだかくすぐったいです」 | "Hehehe... That tickles." | “哎嘿嘿……感觉有点不好意思”
+scn00_39_0304 | 霧香(Kirika) | 「先日の騒動が収まったのは、ココロの『愛』や『喜び』をＣＣＲ－０２が受け取って拡散させたからだった」 | "During the events that transpired the other day, CCR-02 detected Cocoro's love and happiness and spread it around." | “前些天的骚动也是因为CCR-02将从心那里接收到‘爱’和‘喜悦’扩散了出去才得以结束”
+scn00_39_0305 | 霧香(Kirika) | 「アレロパシーを発してしまうのは、ＣＣＲ－０２が持つバグだったけど、あなたの感情は暴走したドローンを正常化させる事ができる」 | "Emitting allelopathy was a bug in CCR-02's system, but her emotions can also neutralize the mutant drones." | “虽然能发出化感作用信号是CCR-02的Bug，但这也可以用你的感情使发生暴走的无人机恢复正常”
+scn00_39_0306 | 霧香(Kirika) | 「あなたは『厄災』を収束させる鍵になる」 | "You're the key to bringing the Calamity to an end." | “你就是让‘灾厄’结束的关键”
+scn00_39_0307 | ココロ(Cocoro) | 「どーんとやってやりましょう！」 | "All right, let's do it!" | “让我来大干一场吧！”
+scn00_39_0308 | ココロ(Cocoro) | 「……で、何をすればよろしいのでしょうか？」 | "...But what should I , exactly?" | “……所以，我应该做些什么？”
+scn00_39_0309 | 霧香(Kirika) | 「そうねぇ……」 | "Well..." | “我想想……”
+scn00_39_0310 | - | 霧香さんは真剣な顔で、俺とココロの肩に手を置いた。 | Kirika-san's expression turns severe, and she puts her hands on my and Cocoro's shoulders. | 雾香小姐一脸认真地将手搭在我和心的肩膀上。
+scn00_39_0311 | 霧香(Kirika) | 「私はあなたたちの結婚を応援するってわけ！」 | "I fully approve of your marriage!" | “也就是我支持你们结婚的意思！”
+scn00_39_0312 | 霧香(Kirika) | 「[おい]甥っ子に先を越されちゃうのは……ちょっとだけ悲しいけど」 | "I can't believe my nephew is tying the knot before I do... That makes me a little sad, but..." | “就是外甥要先我一步结婚……让我有点悲伤”
+scn00_39_0313 | - | ココロがまた霧香さんの頭をぽんと撫でた。 | Cocoro pats Kirika-san on the head again. | 心再次摸起了雾香小姐的头。
+scn00_39_0314 | ココロ(Cocoro) | 「霧香にもそのうちいいヒトが見付かります。気を落とさないでください」 | "I'm sure you'll find the one soon. Please don't feel sad." | “雾香之后肯定也会遇到合适的人，所以就不要难过了”
+scn00_39_0315 | 霧香(Kirika) | 「……」 | "..." | “……”
+scn00_39_0316 | 霧香(Kirika) | 「あ、ありがとうココロ」 | "Th-Thanks, Cocoro." | “谢、谢谢你了，心”
+scn00_39_0317 | ココロ(Cocoro) | 「……？　[なぐさ]慰めたはずなのに、霧香の声に怒気が含まれているようです。ワタシはまた間違えましたか？」 | "Huh? I thought I was comforting Kirika, yet her voice contains traces of anger. Did I make another mistake?" | “……？　我明明是在安慰，但为什么雾香的声音里却似乎蕴含着一股怒气，是我又做错了什么吗？”
+scn00_39_0318 | ひなた(Hinata) | 「霧香さんはデリケートなお年頃なんだよ。そっとしておいてあげな」 | "Kirika-san's of a delicate age. It's better to leave her alone at times like these." | “雾香小姐正处于敏感的年纪啦，你就别管她了”
+scn00_39_0319 | 霧香(Kirika) | 「ひぃぃなぁぁたぁぁぁ～～～～！！！」 | "Hiiinaaataaaaa!!!" | “日——向——～～～～！！！”
+scn00_39_0320 | ひなた(Hinata) | 「い、行こうかココロっ、仕事の邪魔になっちゃ悪いからっ」 | "Let's go, Cocoro. We shouldn't keep her from her work." | “走、走吧心，毕竟一直打扰她工作也不太好啊”
+scn00_39_0321 | - | 俺はココロの手を引いてその場を逃げ出した。 | I drag Cocoro along by the hand out of the maintenance room. | 我拉着心的手逃了出去。

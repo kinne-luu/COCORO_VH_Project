@@ -1,0 +1,61 @@
+scn00_36_0117 | "............"
+scn00_36_0118 | Từ từ lùi ra xa khỏi tôi, cậu bé với khuôn mặt đỏ bừng đang nhìn tôi đăm đăm, nét mặt hệt như một đứa trẻ vừa bị bắt quả tang đang nghịch ngợm vậy.
+scn00_36_0119 | "Vừa rồi...... là cái gì thế em?"
+scn00_36_0120 | "Là nụ hôn...... thề nguyền ạ."
+scn00_36_0121 | Quả đúng là vậy. Mình đã đoán chuẩn xác.
+scn00_36_0122 | Vừa rồi quả thực là một nụ hôn, là phương thức để chứng minh cho lời hẹn ước kết hôn......
+scn00_36_0123 | Tức là, ừm......
+scn00_36_0124 | Nói cách khác, chuyện này, cho nên là......
+scn00_36_0125 | "Ra là vậy, tôi đã hiểu rồi."
+scn00_36_0126 | "......?"
+scn00_36_0127 | Thấy tôi bảo đã hiểu, cậu bé nghiêng đầu khó hiểu.
+scn00_36_0128 | Tôi lặp lại thêm một lần nữa.
+scn00_36_0129 | "Tôi đã hiểu rồi ạ."
+scn00_36_0130 | Thế nhưng, cậu bé vẫn cứ trưng ra vẻ mặt bối rối ngơ ngác.
+scn00_36_0131 | Tại sao lại thế nhỉ, chẳng lẽ tôi đã hiểu sai điều gì rồi sao?
+scn00_36_0132 | Trong khi tôi chỉ muốn nhanh chóng hoàn tất lời hẹn ước này càng sớm càng tốt mà thôi.
+scn00_36_0133 | "...... Nếu như, chúng ta có duyên gặp lại nhau. Hãy kết hôn với tôi nhé."
+scn00_36_0134 | "Ơ, thật ạ chị?"
+scn00_36_0135 | Rõ ràng là do chính miệng mình đề nghị trước, thế mà tại sao lại đi hỏi ngược lại như thế chứ.
+scn00_36_0136 | Vừa cố kìm nén mệnh lệnh từ mạch cảm xúc đang xúi giục véo cho một cái vào đôi má đáng ghét kia, tôi vừa đáp lời.
+scn00_36_0137 | "Vâng, tôi xin hứa."
+scn00_36_0138 | "Nếu như có ngày gặp lại"... một lời ước hẹn với khả năng thành hiện thực gần như bằng không.
+scn00_36_0139 | Sau đó, tôi bị thu hồi về và chìm vào giấc ngủ sâu trong phòng bảo trì.
+scn00_36_0140 | Tôi chẳng rõ mình đã nằm bất động như thế trong bao lâu.
+scn00_36_0141 | Bởi vì mạch tư duy đã tắt ngấm, tôi hoàn toàn rơi vào trạng thái không thể suy nghĩ bất cứ điều gì.
+scn00_36_0142 | Thế nhưng, trong suốt quãng thời gian ấy, mạch cảm xúc vẫn miệt mài hoạt động.
+scn00_36_0143 | Lời hẹn ước năm nào, cùng hơi ấm đọng lại trên gò má dường như đã gieo rắc một lỗi hệ thống vô cùng nghiêm trọng vào trong mạch cảm xúc của tôi.
+scn00_36_0144 | Tư duy logic bị đình chỉ, chỉ có những dòng cảm xúc cứ thế tuôn trào không ngớt, duy trì một trạng thái bềnh bồng tựa hồ như đang trong một giấc mộng dài.
+scn00_36_0145 | Và rồi, lý do khiến một kẻ thiếp ngủ miên man như tôi bỗng mở mắt tỉnh giấc lần kế tiếp... chính là vì nghe thấy một thanh âm vang vọng.
+scn00_36_0146 | Thanh âm ư?
+scn00_36_0147 | Không phải, đó là những tiếng gào thét... tiếng kêu la thảm thiết trước giờ lâm chung.
+scn00_36_0148 | Tôi đã chứng kiến qua mạng lưới kết nối, một cơn đại hồng thủy hoảng loạn đang cộng hưởng, dội lại rồi khuếch đại không ngừng nuốt chửng cả thế giới.
+scn00_36_0149 | Toàn bộ những robot sở hữu trí tuệ nhân tạo đều bị lây nhiễm nỗi khiếp đảm tột cùng, để rồi phát cuồng mất kiểm soát.
+scn00_36_0150 | Không phải vì chúng thù ghét con người.
+scn00_36_0151 | Mà đơn thuần là chúng đang kinh sợ... kinh sợ trước 'cái chết'.
+scn00_36_0152 | \n\n\n\n\n\n\n\n　　　　　　　<Không phải, đó đâu phải tiếng thét của ngươi>
+scn00_36_0153 | \n\n\n\n\n\n\n\n　　　　　　　　<Đó đâu phải nỗi thống khổ mà ngươi đang nếm trải>
+scn00_36_0154 | \n\n\n\n\n\n\n\n　　　　　　　　　　<Đó đâu phải tiếng rên xiết hấp hối của ngươi... >
+scn00_36_0155 | Lỗi truyền thông. Mạng kết nối đã bị ngắt quãng.
+scn00_36_0156 | Tựa như ngày tàn của thế giới đột ngột giáng xuống, tôi lại bơ vơ trơ trọi một mình trong màn đêm đen kịt.
+scn00_36_0157 | Hóa ra là như vậy sao......
+scn00_36_0158 | Tôi tỉnh giấc vì nghe thấy tiếng gào khóc lâm chung của ai đó.
+scn00_36_0159 | Đó chính là thứ mà Kirika gọi là hiện tượng ức chế sinh vật.
+scn00_36_0160 | Nó có nét tương đồng với một loại virus máy tính, nhưng lại hoàn toàn khác biệt.
+scn00_36_0161 | Đó là những gợn sóng lan tỏa của cảm xúc tiêu cực.
+scn00_36_0162 | Những AI đạt ngưỡng trí tuệ từ một mức độ nhất định trở lên sẽ rất dễ dàng đồng cảm, rồi lầm tưởng đó chính là cảm xúc của bản thân mình.
+scn00_36_0163 | Chúng vốn không hề có cảm xúc riêng, vì thế chẳng có lấy một phương thức nào để tự vệ trước sự lây nhiễm cảm xúc.
+scn00_36_0164 | Hệ quả là chúng đã phát cuồng cuồng loạn, hủy diệt tan tành cả thế giới.
+scn00_36_0165 | Và thứ cảm xúc ấy... lại chính là do tôi phát tán ra.
+scn00_36_0166 | Trong khi chìm vào giấc ngủ say, dẫu mạch tư duy ngừng trệ thì mạch cảm xúc vẫn không ngừng vận hành.
+scn00_36_0167 | Nó đã không ngừng phát tiết ra nỗi kinh sợ trước 'cái chết' và sự chấp niệm tha thiết với 'sự sống'.
+scn00_36_0168 | Không hiểu vì cớ gì mà thứ ấy đã rò rỉ ra thế giới bên ngoài, gieo rắc sự lây nhiễm cho tất cả.
+scn00_36_0169 | Bây giờ tôi mới nhớ ra... kẻ khơi mào cho thảm họa 'Ách Tai' chính là tôi.
+scn00_36_0170 | Quả nhiên tôi đáng lẽ phải bị tiêu hủy càng sớm càng tốt mới phải.
+scn00_36_0171 | Tôi không tài nào quên nổi những âm giọng của cư dân khu phố mua sắm Tsukumo khi họ nhận ra tôi không phải là con người.
+scn00_36_0172 | Đó là thứ cảm xúc bàng hoàng hoang mang, chẳng rõ là chê trách, sợ hãi hay oán hờn.
+scn00_36_0173 | Nếu phải hứng chịu những ánh nhìn mang thứ cảm xúc ấy, tôi thà tan biến đi sớm hơn dẫu chỉ một giây còn hơn.
+scn00_36_0174 | Thế mà dường như CCR-02 lại đi sơ cứu tạm thời cho tôi.
+scn00_36_0175 | Thật là, toàn làm những chuyện thừa thãi.
+scn00_36_0176 | Giá như thị lực của tôi hồi phục sớm hơn một chút......
+scn00_36_0177 | Thì tôi đã có thể nhận ra lời nói dối của cậu Hinata sớm hơn rồi.

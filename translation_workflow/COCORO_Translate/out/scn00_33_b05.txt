@@ -1,0 +1,60 @@
+scn00_33_0245 | "Tớ xuống ngay đây~. Thế nhé, mau khỏe lại đấy."
+scn00_33_0246 | Vỗ mạnh một cái vào lưng tôi, Kazane rảo bước đi xuống tầng.
+scn00_33_0247 | "..."
+scn00_33_0248 | Nếu bảo rằng Cocoro có trái tim, vậy chỉ cần hỏi chính cậu ấy xem muốn làm thế nào là được.
+scn00_33_0249 | Nhưng nếu Cocoro không có trái tim thì sao?
+scn00_33_0250 | Đằng nào thì dù có làm gì, có ra sao chăng nữa cậu ấy cũng chẳng cảm thấy gì, vậy thì tôi cứ việc làm theo ý mình là xong.
+scn00_33_0251 | Rõ ràng là chuyện đơn giản như thế, nhưng tại sao mình lại không thể dứt khoát được nhỉ?
+scn00_33_0252 | Đó không phải do Cocoro, mà vấn đề nằm ở chính bản thân tôi.
+scn00_33_0253 | Khát khao muốn Cocoro được sống, cùng sự hèn nhát không dám chứng kiến cậu ấy chết đi đã khiến tôi trở nên như vậy.
+scn00_33_0254 | A, ra là vậy... hóa ra là thế.
+scn00_33_0255 | Bất giác tôi chợt vỡ lẽ ra tất cả.
+scn00_33_0256 | Thái độ lạnh nhạt mà bố dành cho mẹ khi xưa, thực ra đều có lý do.
+scn00_33_0257 | Tuyệt đối không phải vì không có tình yêu, mà hoàn toàn ngược lại.
+scn00_33_0258 | Chính vì quá yêu, nên không thể chịu nổi ngày chia ly định mệnh đang từng ngày cận kề, bố mới bắt đầu lảng tránh ánh mắt của mẹ.
+scn00_33_0259 | Mẹ biết rõ điều đó.
+scn00_33_0260 | Mẹ hiểu rằng thái độ lạnh lùng ấy thực chất chính là mặt trái của một tình yêu sâu sắc vô bờ.
+scn00_33_0261 | Thế nên, mẹ mới nói những lời đó với mình...
+scn00_33_0262 | "Hinata sợ bố lắm hả con?"
+scn00_33_0263 | "...... (gật đầu)"
+scn00_33_0264 | "Đúng thế thật, lúc nào bố cũng lầm lì khó gần mà. Nhưng thực ra, bố là một người rất dịu dàng đấy con biết không?"
+scn00_33_0265 | "...... (lắc đầu)"
+scn00_33_0266 | "Không dịu dàng sao?"
+scn00_33_0267 | "...... (gật đầu)"
+scn00_33_0268 | Tôi thuở nhỏ không tài nào hiểu được tâm tư của bố, cứ ngỡ như mình đang phải sống chung dưới một mái nhà với một con quái vật.
+scn00_33_0269 | Tôi từng nghĩ có khi nào mẹ đang bị lừa gạt hay không, và bản thân phải mau chóng giải cứu mẹ.
+scn00_33_0270 | Nhưng mẹ chẳng những không hề căm ghét bố, mà còn dành cho ông một tình yêu sâu đậm.
+scn00_33_0271 | Cảm giác bức bối, ngột ngạt cứ thế bao trùm lấy lồng ngực tôi.
+scn00_33_0272 | "...Giá mà người ta có thể nhìn thấy được trái tim thì tốt biết mấy."
+scn00_33_0273 | Nếu được như thế, tôi có thể hiểu được sự dịu dàng gì đó của bố.
+scn00_33_0274 | Hoặc là, có thể vạch trần bộ mặt thật của con quái vật ấy cho mẹ thấy.
+scn00_33_0275 | "Ô kìa, trái tim nhìn thấy được bằng mắt đấy chứ?"
+scn00_33_0276 | Mẹ thản nhiên nói như chuyện hiển nhiên.
+scn00_33_0277 | "? Đâu có nhìn thấy được đâu ạ."
+scn00_33_0278 | Tôi chưa từng nghe chuyện vô lý như vậy bao giờ.
+scn00_33_0279 | Lẽ nào mẹ là người sở hữu siêu năng lực?
+scn00_33_0280 | Nếu là mẹ thì cũng có thể lắm chứ...
+scn00_33_0281 | Vì mẹ vốn là một con người dường như thoát tục, nên tôi mới bất giác nghĩ như vậy.
+scn00_33_0282 | "Nè con, Boss đang ở đằng kia kìa."
+scn00_33_0283 | Từ sau bụi cỏ, chiếc đuôi ngoe nguẩy đung đưa nhịp nhàng.
+scn00_33_0284 | Đó là chú mèo hoang thường hay ghé vào vườn nhà tôi chơi.
+scn00_33_0285 | Tôi và mẹ thường gọi nó là 'Boss'.
+scn00_33_0286 | "Boss ơi, lại đây nào."
+scn00_33_0287 | "..."
+scn00_33_0288 | Boss to xác lại khó gần. Cứ mỗi lần tôi toan vuốt ve là nó lại gừ gừ trong cổ họng đe dọa, thế nên tôi sợ nó lắm.
+scn00_33_0289 | "Ơ kìa, đi mất rồi."
+scn00_33_0290 | Thấy cái đuôi của Boss khuất dần sau bụi rậm, tôi mới thở phào nhẹ nhõm.
+scn00_33_0291 | "Nè Hinata. Vừa rồi cả mẹ lẫn con đều nhìn thấy Boss, đúng không?"
+scn00_33_0292 | "? Vâng, thấy chứ ạ."
+scn00_33_0293 | "Dù chúng ta chỉ nhìn thấy mỗi cái đuôi thôi sao?"
+scn00_33_0294 | "Nhưng mà, cái đuôi đó là của Boss mà mẹ."
+scn00_33_0295 | "Biết đâu chỉ tình cờ là một con mèo khác trông giống nó thì sao. Thậm chí, khéo còn chẳng phải là mèo nữa cơ đấy."
+scn00_33_0296 | "..."
+scn00_33_0297 | Nghe mẹ bảo vậy thì tôi cũng chịu, chẳng cãi vào đâu được.
+scn00_33_0298 | Nhưng rõ ràng đó là đuôi của Boss, và cả tôi lẫn mẹ đều đã thấy Boss.
+scn00_33_0299 | "Một sự vật, chỉ cần nhìn thấy một phần thôi cũng được tính là 'đã thấy'. Giống như việc chỉ thấy mỗi chiếc đuôi nhưng vẫn tính là đã nhìn thấy Boss vậy."
+scn00_33_0300 | "Thế còn trái tim thì sao nhỉ?"
+scn00_33_0301 | Trong lúc mẹ đang nói, một chú mèo to béo bỗng sà vào cọ cọ dưới chân mẹ.
+scn00_33_0302 | Có vẻ như theo ngẫu hứng, Boss đã quay trở lại.
+scn00_33_0303 | "Ôi, mày về rồi đấy à. Hinata, con vuốt ve nó đi?"
+scn00_33_0304 | "Dạ... vâng."

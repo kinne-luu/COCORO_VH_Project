@@ -1,0 +1,64 @@
+# scene=scn00_34 batch=2/5 dòng 61-120 / 284
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_34_0061 | ひなた(Hinata) | （１機でも厄介なのに、あの数じゃ振り切るのは無理だ） | (It's hard enough dealing with  of them. There's no way we could shake off an entire swarm.) | （1只就已经很麻烦了，那个数量我们根本没法甩掉）
+scn00_34_0062 | - | 対人用警備ロボット相手に、徒歩で走っても逃げ切れない。 | It's impossible to outrun a security robot on foot. They were designed to deal with intruders. | 面对对人用安保机器人，就算跑起来也甩不掉。
+scn00_34_0063 | - | ここまで来てみたものの、やはりセントラルに侵入するのは想像以上に困難だ。 | Despite having come so close now, it's going to be way harder than we imagined to get into Central. | 虽然已经到这里了，但闯入中心区还是比想象中要困难啊。
+scn00_34_0064 | 大地(Daichi) | 「……どうする、ひなた」 | "What should we do, Hinata?" | “……怎么办，日向”
+scn00_34_0065 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_34_0066 | - | どうすればあそこを突破できるか、考えがすぐには浮かんでこない。 | How can we get across the bridge? I can't come up with any ideas off the top of my head. | 暂时没想到要怎么做才能突破那里。
+scn00_34_0067 | - | 『何か作戦を考える』 | "I'll come up with a plan." | ‘让我想想对策’
+scn00_34_0068 | 大地(Daichi) | 「そうじゃねえ。あれ見ても、行くのかって聞いてんだ」 | "No, I mean, just look at that. Are we really gonna try to go in there?" | “不是这个意思，我是想问你，看到那个之后你还是要去吗”
+scn00_34_0069 | - | 大地は、危険を目の前にして、それでも行くつもりかと尋ねているのだ。 | He seems unsure, having just seen the dangers we'd have to face. | 大地是在问我，即便眼前有危险，是否也依旧要去。
+scn00_34_0070 | - | 『いく』 | "I'm going." | ‘去’
+scn00_34_0071 | - | 命の危険さえある。それでも行く。 | I'll be risking my life, but I  to go. | 甚至会有生命危险，但我还是要去。
+scn00_34_0072 | 大地(Daichi) | 「でもよ」 | "But, dude..." | “可是”
+scn00_34_0073 | - | 『母さんは助からない病気だった』 | "My mom had a terminal illness." | ‘妈妈得了治不了的病’
+scn00_34_0074 | - | 衰弱し、死んでいくのを見守っているしかなかった。 | I could do nothing but watch as she slowly withered away. | 我只能眼睁睁地看着她逐渐衰弱走向死亡。
+scn00_34_0075 | - | 『でも、ココロはまだ助かるかもしれない』 | "But Cocoro still has a chance to live." | ‘但是，心或许还能得救’
+scn00_34_0076 | - | あんな想いをするくらいなら、自分にできる事を精一杯やり切りたい。 | I'd rather do  other than to have to suffer through the pain of losing someone again. | 与其给自己留下这种回忆，还不如尽自己所能做些什么。
+scn00_34_0077 | 大地(Daichi) | 「わかった」 | "All right." | “我知道了”
+scn00_34_0078 | - | そう言って頷いた大地の声は、少し震えていた。 | Daichi nods, but his voice is shaky. | 点头说出这句话的大地，声音中带着些许颤抖。
+scn00_34_0079 | - | 『ごめん、背負わせちゃって』 | "Sorry for dragging you into this." | ‘抱歉，把你也拖下水了’
+scn00_34_0080 | 大地(Daichi) | 「言ったろ、ココロはこさめの命の恩人だ。ほんとなら、俺があそこに突っ込んで行きたいくらいなんだぜ」 | "I told you, I owe Cocoro for saving Kosame. I want nothing more than to go in there and save her myself." | “我不是说过了吗，心是小雨的救命恩人，我甚至都想自己冲进去了”
+scn00_34_0081 | 大地(Daichi) | 「でも、おまえじゃなきゃダメなんだろ、きっと。だから、俺はおまえのためにできる事をやる」 | "But it's not my place. You should be the one to go. I'll do anything to help you." | “但这件事大概必须得你去做对吧，所以，我会为你做力所能及的事”
+scn00_34_0082 | 大地(Daichi) | 「降りろ」 | "Get out of the car." | “下车”
+scn00_34_0083 | ひなた(Hinata) | 「？」 | "Mmm?" | “？”
+scn00_34_0084 | 大地(Daichi) | 「降りたら、あそこの物陰に隠れてろ。俺があいつらを引きつける」 | "Get out and hide in the bushes over there. I'll try to lure them away." | “下车之后去藏到那边的阴影里去，我来引开它们”
+scn00_34_0085 | 大地(Daichi) | 「気付かれた。早くしろ！」 | "They've noticed us. Hurry!" | “被发现了，快点！”
+scn00_34_0086 | - | 『わかった、ごめん』 | "Okay. Sorry." | ‘我知道了，抱歉’
+scn00_34_0087 | - | 俺はドアを開けると、転がるように外へ飛び出し、大地に言われた通り物陰に身を隠した。 | I open the door and stumble outside, making my way to the bushes like Daichi said. | 我打开车门滚到了外面，按大地说的那样藏在了阴影里。
+scn00_34_0088 | - | それを見た大地が車を発進させた。 | When he sees I'm hidden, he starts to drive. | 大地看到后便将车向前开去。
+scn00_34_0089 | - | 赤く目を光らせた警備ロボットたちが、大地の車をターゲットにして動き出した。 | The security robots lock on to Daichi's van with their red blinking eyes and give chase. | 眼睛亮着红光的安保机器人们将大地的车当作目标冲了过去。
+scn00_34_0090 | ひなた(Hinata) | （大地ッ！！） | (Daichi!!) | （大地！！）
+scn00_34_0091 | 大地(Daichi) | 「任せとけ！」 | "I've got this!" | “交给我吧！”
+scn00_34_0092 | - | 大地はわざと警備ロボットの前まで行き、急ハンドルを切ると、車を反転させた。 | He steers toward the robots on purpose, and when he's right in front of them, he turns the wheel sharply and spins the van around. | 大地故意开到安保机器人面前，然后猛打方向调转了车头。
+scn00_34_0093 | - | 警備ロボットがその後を追いかけていく。 | Then, he speeds off. As expected, the robots give chase. | 安保机器人则追在了他身后。
+scn00_34_0094 | 大地(Daichi) | 「ココロをぜってえ連れ戻してくるんだぞ、ひなた！」 | "Promise me you'll bring Cocoro back, Hinata!" | “一定要把心带回来啊，日向！”
+scn00_34_0095 | - | 警備ロボットを引きつけながら、大地は市街地の方へと走り去っていった。 | With the security robots in tow, Daichi drives back toward town. | 大地引诱着安保机器人朝着市区冲了过去。
+scn00_34_0096 | ひなた(Hinata) | （……大地、ありがとう） | (Thanks, Daichi...) | （……大地，谢谢你）
+scn00_34_0097 | - | 橋からミュータントドローンはいなくなった。 | The bridge is entirely cleared of mutant drones. | 桥上已经没有变异无人机了。
+scn00_34_0098 | - | しかし、それは一時的なものだろう。 | However, I know that it's only temporary. | 但是，这大概也只是暂时的吧。
+scn00_34_0099 | - | 周囲を見渡す。 | I scan my surroundings. | 我环顾了一下四周。
+scn00_34_0100 | - | 見れば、海を渡ってきたロボットが、砂浜から上陸しようとしている。 | On the beach, some robots are emerging from the ocean. They must've crossed over from the island through the water. | 放眼望去，渡海而来的机器人正试图从沙滩上登陆。
+scn00_34_0101 | - | 警備ロボットもいるが、セントラルで来客の受付や案内をしていたロボットなども混じっている。 | There are security robots, but also receptionist robots that used to receive and provide guidance to visitors to Central. | 其中除了有安保机器人之外，还夹杂着在中心区接待客人的机器人。
+scn00_34_0102 | ひなた(Hinata) | （水没したのが原因で、動けなくなってる……） | (Some of them are barely moving. Maybe they're malfunctioning because they've been submerged.) | （它们泡水了之后就动不了了……）
+scn00_34_0103 | - | 砂に脚を取られ、倒れたまま動かなくなった機体がいくつか見えた。 | I can see some robots lying collapsed with their legs stuck deep in the sand. | 看到了好几个被沙子绊倒后就不再动弹的机体。
+scn00_34_0104 | - | 『厄災』の夜も、ああして沢山のミュータントドローンがそのまま錆び付いていったんだろう。 | This must be how all those robots ended up stuck on the beach during the Calamity—and why the beach was covered with rusting hunks of metal. | ‘灾厄’之夜，大量的变异无人机也是像这样躺在这里生锈了吧。
+scn00_34_0105 | - | 感傷に[ひた]浸っている暇はない。急いで橋を渡ろうとしていると、 | There's no time to dwell on such things, though. I have to get across the bridge as quickly as I can. | 没有时间伤感了。就当我准备赶紧过桥的时候。
+scn00_34_0106 | - | 橋の下、死角になっていた場所から警備ロボットが現れた。 | But then, a security robot emerges from beneath the bridge. It must've been hidden there, so I didn't see it before. | 桥底死角位置出现了一只安保机器人。
+scn00_34_0107 | ひなた(Hinata) | （海を渡ってきたやつか！？） | (Did it come from the ocean!?) | （是从海里过来的家伙吗！？）
+scn00_34_0108 | - | そいつは赤い目を俺に向けると、アームを振り上げた。 | Its red eyes turn toward me, and it swings one of its arms up. | 它用红色的眼睛看向我，然后挥舞起了手臂。
+scn00_34_0109 | ひなた(Hinata) | （ッ！！？） | (Eep!!?) | （！！？）
+scn00_34_0110 | - | 一度水没したせいか、動作が遅く、攻撃のモーションに気づけたおかげで避けられた。 | It's moving slowly, probably because it's been submerged. Thanks to that, I was able to make out its attack pattern in time and get out of the way. | 或许是因为泡过一次水，所以它的动作很迟缓，让我注意到了它的攻击动作，我也因此躲开了攻击。
+scn00_34_0111 | - | しかし、橋への入り口を[ふさ]塞がれてしまった。これでは、セントラルエリアへ渡れない。 | However, it's now blocking the bridge. I can't go to Central like this. | 可是，桥的入口却被堵住了，这下就没法去中心区了。
+scn00_34_0112 | ひなた(Hinata) | （どうすればいい……） | (What should I do...?) | （要怎么办才好……）
+scn00_34_0113 | - | 水没したせいで動きが鈍っている。一度、ここから離れて、追ってきたところを迂回して橋に入るか。 | Maybe I could run in the opposite direction, wait for it to catch up to me, and then try to make a break for the bridge and outrun it? | 它因为泡过水了而动作迟缓，要不要先离开这里，然后趁它追过来的时候再绕一圈从桥上进去呢。
+scn00_34_0114 | ひなた(Hinata) | （くっ！！？） | (Ack!) | （咕！！？）
+scn00_34_0115 | - | 攻撃を[かわ]躱しながら距離を離す。 | I dodge the robot's attacks and try to get away from it. | 我一边躲避攻击一边和它拉开距离。
+scn00_34_0116 | ひなた(Hinata) | （ダメだ、時間をかけると他の警備ロボットが来てしまう！） | (No, if I take too much time with this one, new security robots are going to swarm the bridge!) | （不行，如果花费太多时间，其他的安保机器人就要过来了！）
+scn00_34_0117 | - | 悩んでいる間に、橋の向こうに新たな警備ロボットの姿が見えた。 | I can already see another security robot on the other side of the bridge. | 就在我头疼的时候，桥对面出现了新的安保机器人。
+scn00_34_0118 | - | 目の前の機体は動きがぎこちなく、しばらくすると機能停止する可能性もあった。 | The one in front of me is moving so clumsily that there's a chance it'll break down by itself if I just leave it alone. | 面前这台机体动作僵硬，过一会儿可能就停止运行了。
+scn00_34_0119 | - | しかし、新しく現れた警備ロボットはそうじゃない。 | But the other one isn't like that. | 可是，新出现的安保机器人不一样。
+scn00_34_0120 | ひなた(Hinata) | （橋は一本道……躱しようがないぞ） | (The bridge is one straight path... There's no way to go around.) | （桥上只有一条路……也没法躲避攻击）

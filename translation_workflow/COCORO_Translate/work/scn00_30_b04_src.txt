@@ -1,0 +1,64 @@
+# scene=scn00_30 batch=4/7 dòng 181-240 / 384
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_30_0181 | - | ココロは身体をよじって壁とトラックの隙間から出てくる。 | Cocoro wiggles her body out from the tight space between the truck and the wall. | 心扭动着身体从墙壁和卡车的夹缝中钻了出来。
+scn00_30_0182 | こさめ(Kosame) | 「ココちゃん……よかった」 | "Coco-chan... I'm so glad!" | “心儿……太好了”
+scn00_30_0183 | - | こさめちゃんが車椅子の上で脱力する。 | Kosame-chan visibly breathes a sigh of relief. | 小雨无力地瘫在了轮椅上。
+scn00_30_0184 | ココロ(Cocoro) | 「ハッ……そうでした、こういう時、ヒトは痛そうにするんでしたね」 | "Oh! I forgot, humans express their pain like this, don't they?" | “哈……对了，这种时候，人类会感觉到很痛对吧”
+scn00_30_0185 | ココロ(Cocoro) | 「あいたたた～、ひどい目に[あ]遭いましたぁ～」 | "Ow ow ow ow! That truck sure got me good!" | “啊疼疼疼疼～，真是倒大霉了啊～”
+scn00_30_0186 | - | ココロのあまりに場違いな反応に、集まっていた人たちは、どうしていいか微妙な空気になっている。 | The crowd looks on, awkwardly silent, at Cocoro's unnatural reaction. | 心那过于不合时宜的反应，让聚集在周围的人们不知道该如何是好，气氛也因此变得微妙了起来。
+scn00_30_0187 | ココロ(Cocoro) | 「……おっと、ワタシはまた間違えてしまいましたか？」 | "...What? Did I make a mistake again?" | “……哦呀，难道我又做错什么了吗？”
+scn00_30_0188 | ひなた(Hinata) | 「……ぁぅぁぅ……」 | "Ah, uh..." | “……啊呜啊呜……”
+scn00_30_0189 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_30_0190 | - | 俺がいるのに気付くと、ココロはサッと顔を背けた。明らかな無視の態度だ。 | When she notices me, Cocoro quickly averts her gaze, clearly ignoring me. | 心注意到我后唰的一下扭过了头，明显是在无视我。
+scn00_30_0191 | 駆除隊隊長(Extermination Squad Leader) | 「チッ、失敗しやがって」 | "Dammit, he's useless." | “嘁，居然失败了”
+scn00_30_0192 | 光太郎(Kotaro) | 「隊長、あんたの差し金か！」 | "Sir! Did  send him!?" | “队长，这是你指使的吗！”
+scn00_30_0193 | - | 集まった群衆の中に駆除隊の隊長を見付けた光太郎さんが詰め寄る。 | Kotaro spots his squad leader among the group and starts to question him. | 光太郎先生在发现群众中的驱除队队长后便向他逼问道。
+scn00_30_0194 | 駆除隊隊長(Extermination Squad Leader) | 「まあいいだろう。証拠としては充分だ」 | "Oh well, it's fine. We've gathered plenty of evidence." | “算了也行吧，已经足够作为证据了”
+scn00_30_0195 | 駆除隊隊長(Extermination Squad Leader) | 「見ましたか、機月主任。あなたが仲良くなさっていたあれは、人じゃない。ロボットだ」 | "Did you see that, Chief Kizuki? That 'girl' you've made friends with isn't human. It's a robot." | “你看到了吧，机月主任，和你关系很好的那个，不是人，而是机器人”
+scn00_30_0196 | - | 隊長は、わざと周囲に聞かせるように言った。 | The squad leader purposefully raises his voice, making sure that everyone can hear. | 队长像是在特意说给周围人听一样。
+scn00_30_0197 | - | 集まっていた人たちが、ざわつく。 | A stir runs through the crowd. | 聚集起来的人们也都骚动了起来。
+scn00_30_0198 | 住民(Resident) | 「え、ロボット？」 | "Huh? A robot?" | “哎，机器人？”
+scn00_30_0199 | 住民(Resident) | 「ココロちゃんが……？」 | "Does he mean Cocoro-chan...?" | “心吗……？”
+scn00_30_0200 | - | ざわめきが広がっていく。 | Soon enough, everyone is abuzz. | 骚动范围逐渐扩大。
+scn00_30_0201 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_30_0202 | ひなた(Hinata) | （ココロ……） | (Cocoro...) | （心……）
+scn00_30_0203 | - | ココロは耳がいい。おそらく、群衆のひそひそ声も一つ一つ聴き分けられているに違いない。 | Her ears are sharp—she can hear every single thing the onlookers are saying about her. | 心的耳朵很灵敏，她肯定是听清了群众们的每一句议论吧。
+scn00_30_0204 | 風音(Kazane) | 「はぁ！？　何言ってんだいおっさん！　どこからどう見ても、ただの女の子だろうが！」 | "Huh!? What are you talking about, old man! Just  at her! She's obviously just a normal girl!" | “哈！？　你在说什么呢大叔！　她怎么看都只是个普通女孩子吧！”
+scn00_30_0205 | - | 空気を察して、風音が食ってかかる。 | Picking up on the awkward atmosphere, Kazane comes to Cocoro's defense. | 风音在察觉到气氛不对后，便开口反驳道。
+scn00_30_0206 | - | この場で最も信頼されている人物は彼女だ。『厄災』以降、エリア９９に残った人々のために尽力してきた。 | She's one of the most trusted people in town, having dedicated herself to helping the residents of Area 99 ever since the Calamity. | 在场最值得信赖的人就是她，她在‘灾厄’发生后，努力帮助着留在99区的人们。
+scn00_30_0207 | - | だが隊長は取り合わない。 | However, the extermination squad leader isn't listening to her. | 但队长没有理睬她。
+scn00_30_0208 | 駆除隊隊長(Extermination Squad Leader) | 「どうなんですか、機月主任。あなたが何も答えないなら、自分がさらなる証拠を見せる事になる」 | "Do you have anything to say, Chief Kizuki? If you don't, we'll just have to show you further proof." | “如何，机月主任，如果你什么都不回答，我就只好拿出更多的证据了”
+scn00_30_0209 | 霧香(Kirika) | 「……」 | "..." | “……”
+scn00_30_0210 | - | 霧香さんは眉間に[しわ]皺を寄せて、苦悩するようにココロを見つめるだけ。 | Kirika-san wrinkles her brow and gives Cocoro a troubled look, but she says nothing. | 雾香小姐皱起了眉头，只是苦恼地凝视着心。
+scn00_30_0211 | - | 認めるわけにはいかず、さりとてウソを言うわけにもいかない。そんな表情だった。 | Her expression tells me that she doesn't want to admit it, but she doesn't want to tell a blatant lie either. | 脸上一副既不能承认，也不能随便说谎的表情。
+scn00_30_0212 | 駆除隊隊長(Extermination Squad Leader) | 「ふぅ……。仕方が無い。おい、どけ」 | "Hahh... Oh well. You, move." | “呼……没办法了，喂，滚开”
+scn00_30_0213 | 地上げ屋(Hustler) | 「ひぃっ」 | "Eeep!" | “咿——”
+scn00_30_0214 | - | うずくまっていた地上げ屋を、隊長は蹴ってどかせ、自らトラックの運転席に乗った。 | The squad leader kicks the hustler away from the truck and gets in the driver's seat himself. | 队长一脚踢开了蹲在地上的地皮商，亲自坐进了驾驶室。
+scn00_30_0215 | ココロ(Cocoro) | 「警告します。これ以上の敵対行為には、自己防衛の原則から反撃を行う恐れがあります」 | "I warn you: Any further hostilities toward me may result in a counterattack based on the principle of self-defense." | “警告，如果继续做出敌对行为，我将会依照自我防卫的原则进行反击”
+scn00_30_0216 | 駆除隊隊長(Extermination Squad Leader) | 「見せてみろ、おまえの本性を」 | "Go ahead. Show us what you really are." | “让我见识一下你的本性吧”
+scn00_30_0217 | ひなた(Hinata) | （やめろっっ！！！！） | (Stop!!!) | （住手！！！！）
+scn00_30_0218 | - | 俺はココロに向かって叫ぼうとした。 | I try to yell out to Cocoro. | 我试图对着心大喊。
+scn00_30_0219 | ひなた(Hinata) | （ココロ、リミッターを解除して自分の身を守ってくれ！） | (Cocoro, disable your limiter and do whatever it takes to protect yourself!) | （心，解除限制保护自己！）
+scn00_30_0220 | ひなた(Hinata) | 「ぁぅぁぅ！！」 | "Ah, ah!" | “啊呜啊呜！！”
+scn00_30_0221 | - | ココロにその許可を与えたい。なのに声になってくれない。 | I want to give Cocoro permission, but my voice still won't come out. | 我想给予心解除限制的许可，但却发不出声音。
+scn00_30_0222 | - | そうこうしている間に、隊長がトラックをバックさせた。 | As I'm struggling to speak, the squad leader backs up the truck. | 就在这时，队长将卡车倒了出去。
+scn00_30_0223 | - | また突っ込む気だ。 | He's planning to drive it into her again! | 他想再次开车撞过去。
+scn00_30_0224 | - | このままじゃココロが―― | If Cocoro takes another hit... | 这样下去心就——
+scn00_30_0225 | ひなた(Hinata) | 「ぁぁぁぁ…………！！！！！！」 | "Ahhh...!!!" | “啊啊啊啊…………！！！！！！”
+scn00_30_0226 | - | 叫ぼうとするほど、のどが締め付けられて声にならず、呼吸さえままならなくなる。 | I try to scream, but it's as if my throat is being squeezed shut. | 我越是想喊出声，喉咙越是收缩，不仅无法发出声音，就连呼吸都不顺畅了。
+scn00_30_0227 | - | トラックがココロめがけて走り出す。 | The truck starts rolling toward Cocoro. | 卡车朝着心冲了过去。
+scn00_30_0228 | 犬(Dog) | 「ワンワンワンワンワンワンワンワン！！！！」 | "Woof woof woof woof woof woof woof woof!!!" | “汪汪汪汪汪汪汪汪汪汪汪汪！！！！”
+scn00_30_0229 | - | 犬が飛び出してきて、トラックに向かって吠え立てた。 | The dog aggressively barks at the truck. | 狗冲出去对着卡车狂吠。
+scn00_30_0230 | - | 首輪にリードが繋がっているが、誰も持っていない。犬はトラックに向かっていきそうな勢いだ。 | He's still got his collar and leash on, but nobody is holding on to it anymore. He looks like he could lunge at the truck at any second. | 虽然项圈上连着牵引绳，但却没被人牵着。狗一副要冲向卡车的势头。
+scn00_30_0231 | こさめ(Kosame) | 「ダメッ」 | "No! Stay!" | “不要”
+scn00_30_0232 | - | こさめちゃんがリードを拾おうと車椅子を懸命に走らせ、トラックの前へ飛び出す。 | Kosame chases after the dog, leaning down to try to pick up the leash. At this rate, she'll end up in the truck's path! | 小雨为了捡起牵引绳，拼命推动轮椅冲到了卡车前面。
+scn00_30_0233 | 光太郎(Kotaro) | 「まずいっ」 | "Oh no!" | “糟糕”
+scn00_30_0234 | - | だが、隊長はアクセルを踏む足を[ゆる]緩めなかった。 | But the leader behind the wheel doesn't even ease up on the gas. | 但是，队长却完全没有松开油门的意思。
+scn00_30_0235 | - | 群衆の誰もが、数秒後に起こる悲劇を想像しながら、それを防ぐ方法を持たなかった。 | Gasps rise from the crowd as they realize what's about to happen, but nobody can do anything to stop it. | 所有人都能想象得到几秒后会发生什么悲剧，但却没办法阻止。
+scn00_30_0236 | こさめ(Kosame) | 「えっ――」 | "Huh!?" | “哎——”
+scn00_30_0237 | 風音(Kazane) | 「こさめぇぇぇぇぇぇぇえええええええ！！！！！！！」 | "Kosameeeeeeee!!!" | “小雨——————————！！！！！！！！”
+scn00_30_0238 | - | こさめちゃんにぶつかる寸前、トラックが何かに[は]跳ね返って宙を舞い、地響きをたてて横転した。 | In the moment before it's about to flatten Kosame-chan, the truck bounces off something and is overturned with an earth-shattering crash. | 卡车在即将撞到小雨的刹那，被什么东西弹飞了出去，轰隆一声翻倒在了地上。
+scn00_30_0239 | - | 一瞬、物理法則が[ゆが]歪んだかのように見えたが、ちがった。 | For a moment, it looks as if it broke the laws of physics, but there's an explanation. | 虽然看上去就像是一瞬间物理法则受到了扭曲，但并不是这样。
+scn00_30_0240 | - | こさめちゃんの前に、ココロが立っていた。 | Cocoro is standing in front of Kosame-chan. | 心站在小雨身前。

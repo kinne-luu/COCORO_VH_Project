@@ -1,0 +1,64 @@
+# scene=scn00_39 batch=4/6 dòng 181-240 / 321
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_39_0181 | ひなた(Hinata) | 「通じ合えるかもしれない……」 | "Then we might be able to understand each other." | “或许就能相互理解了……”
+scn00_39_0182 | 霧香(Kirika) | 「そう。姉さんは未来のロボットが人と友達になってくれるよう、『愛』を教えたかった」 | "Exactly. Yoko wanted to teach the robots of the future about love so that they would pursue friendships with humans." | “没错，姐姐为了让未来的机器人能和人类成为朋友，才会想将‘爱’教给它们”
+scn00_39_0183 | - | [かしこ]賢さや力の強さ、経済力などの能力による上下関係とは異なる関係性を、愛し合う事で人は築いてきた。 | People build amicable relationships with each other through love. This is different from hierarchical relationships based on abilities such as intelligence, strength, and economic power. | 人们通过相互之间的爱，构筑起了与根据聪明程度、力量强弱、经济能力等能力建立出的上下级关系完全不同的关系。
+scn00_39_0184 | - | 同じ事が、ＡＩやロボットともできるかもしれない、と母さんは考えたのか。 | Did Mom believe that AI and robots could do the same? | 母亲认为，AI和机器人或许也能做到同样的事。
+scn00_39_0185 | - | だとすると、ユートピア構想とはロボットがいる便利な社会ではなく、人とロボットが共存できる社会モデルを実現しようとしてた事になる。 | In that case, the Utopia Initiative wouldn't have been just a convenient society where robots did humans' bidding, but rather a model society where people and robots could coexist. | 这样的话，乌托邦构想就并不是要创造存在着机器人的便利社会，而是要创造出一个人与机器人能够和谐共处的社会模型。
+scn00_39_0186 | 霧香(Kirika) | 「ただ、感情回路はまだ未完成。ＡＩにどうやって『愛』を理解させるのか、それが課題だったわ」 | "But the emotional circuitry she developed was still incomplete. The biggest challenge was how to get an AI to understand 'love.'" | “只不过，感情回路还尚未完成，如何让AI理解‘爱’才是真正的难题啊”
+scn00_39_0187 | 霧香(Kirika) | 「感情の元となる回路を持つヒューマノイドに、様々な体験を通して感情について学ぶ機会を与え、心を育て……」 | "She wanted to give humanoids, equipped with circuitry that could output emotions, the opportunity to learn about emotions by experiencing society and nurturing their souls." | “只能让拥有感情回路的仿生人通过经历各种事得到学习感情的机会，让其心灵得到成长……”
+scn00_39_0188 | 霧香(Kirika) | 「やがて『愛』が芽生えるのを待つしかなかった」 | "Once the stage had been set, all she could do was wait for that love to bloom." | “然后等待着其内心最终萌生出‘爱’”
+scn00_39_0189 | ひなた(Hinata) | 「それがココロ……」 | "And that was Cocoro...?" | “这不就是心……”
+scn00_39_0190 | ココロ(Cocoro) | 「なるほど、『愛』ですか……深いですね」 | "I see. 'Love'... That's so interesting." | “原来如此，‘爱’么……真深奥啊”
+scn00_39_0191 | - | 全然分かってない人がやるリアクションみたいに、ココロがウンウンと頷く。 | She nods as if it's her first time hearing any of this. | 心嗯嗯地点着头，做出了完全没有理解之人才会做出的反应。
+scn00_39_0192 | ひなた(Hinata) | 「でも、ココロ一人が理解しても……」 | "But even if Cocoro herself learns to understand love..." | “但，就算心一个人理解了……”
+scn00_39_0193 | 霧香(Kirika) | 「ココロは感情回路を完成させるための実験機。そうして完成したものをベースに、次世代のＡＩを開発していくつもりだったの」 | "Cocoro was built as a prototype to perfect the emotional circuits. Yoko intended to develop the next generation of AI based on the results of the experiment." | “心是为了完成感情回路而被制造出来的实验机。他们是想以这个已完成的感情回路为基础，开发出下一代的AI”
+scn00_39_0194 | 霧香(Kirika) | 「言わば、ココロの子孫を残していくつもりだったのね」 | "In other words, she meant for Cocoro to have descendants." | “换句话说，他们就是想要留下心的后代”
+scn00_39_0195 | ココロ(Cocoro) | 「なんと……ワタシは子どもを持てるのですか。ひなたさん、何人くらいほしいですか？　サッカーチームを作れるくらい？」 | "What...? I can have children? Hinata-san, how many would you like? Enough that they could form their own soccer team?" | “真没想到……我竟然能有孩子吗。日向先生，你想要几个孩子？　要能组个足球队吗？”
+scn00_39_0196 | - | サッカーチームどころか、人類の人口と同程度には子孫が増える可能性がある壮大な計画だ。 | A team? That's nothing. In the grand scheme of things, this project has the potential to create enough descendants to rival the human population. | 别说是足球队了，这甚至是个有可能让她留下和人类人口数量差不多后代的远大计划啊。
+scn00_39_0197 | 霧香(Kirika) | 「ココロはちゃんと『愛』を知った。あなたのおかげでね、ひなた」 | "And Cocoro really did learn to understand love thanks to you, Hinata." | “心已经知道了什么是‘爱’，都是多亏了你啊，日向”
+scn00_39_0198 | ひなた(Hinata) | 「俺は別に……ただココロを好きになって、気持ちを伝えただけだよ」 | "I didn't do anything... I just liked her, and I told her how I felt." | “我也没做什么……只是喜欢上了心，然后将感情传达给了她而已”
+scn00_39_0199 | 霧香(Kirika) | 「ロボットと知りながら、本気で愛する人が現れなければ、ココロは永遠に『愛』を知らないままだったかもしれないわ」 | "Cocoro might've never understood love if she hadn't met someone who would love her despite knowing that she's a robot." | “如果没有一个明知她是机器人却依旧真心爱着她的人出现，心或许永远也无法知晓‘爱’是什么”
+scn00_39_0200 | - | 別にそんなつもりでココロを好きになったわけじゃない。 | I didn't fall in love with Cocoro with any specific intentions in mind. | 我倒也不是因为这个才喜欢上心的。
+scn00_39_0201 | - | ただ好きになった相手がヒューマノイドだっただけ。 | It just so happened that the one I fell in love with was a humanoid girl. | 只是喜欢的对象恰好是仿生人而已。
+scn00_39_0202 | ココロ(Cocoro) | 「責任重大ですね。正直、自信はありません」 | "You're assigning me a big responsibility. To be honest, I'm not that confident." | “责任重大啊，说实话，我完全没有自信”
+scn00_39_0203 | - | 自分の中に心があるのかどうか、誰かを本心から愛せているかどうか、人間だって悩む問題だ。 | Sometimes even humans struggle with questions like whether they really have a soul or whether they can truly love someone. | 自己体内到底存不存在心，自己到底是不是发自内心地爱着别人，这些都是人类也会去烦恼的问题。
+scn00_39_0204 | 霧香(Kirika) | 「ひなたに二度目のプロポーズをされた時、どんな気分だった？」 | "How did you feel when Hinata proposed to you a second time?" | “你在第二次被日向求婚的时候，是什么心情？”
+scn00_39_0205 | ココロ(Cocoro) | 「とっても[たか]昂ぶりました。天にも舞い上がる気分とはこの事でしょう。きっと。たぶん。大好き！　ってなりました」 | "I was very excited. I felt like I could jump for joy. I thought, 'I really love him!'" | “情绪十分高昂，飞在天上的感觉应该也差不多吧。可能，大概，就是‘太喜欢啦！’这种感觉吧”
+scn00_39_0206 | ココロ(Cocoro) | 「でも、今はあの時より落ち着いています。こうして手をつないでみたところで……」 | "I've calmed down since then. But look, when we hold hands..." | “不过，现在已经比当时要冷静一点了，像这样牵着手……”
+scn00_39_0207 | ココロ(Cocoro) | 「…………」 | "..." | “…………”
+scn00_39_0208 | ココロ(Cocoro) | 「…………はぅぅ…………」 | "Hwah..." | “…………哈呜呜…………”
+scn00_39_0209 | 霧香(Kirika) | 「ふむ……感情回路に強い反応があったわね。数値を記録しておきましょう……手をつないだら赤くなって……」 | "Hmm... Your emotional circuits are giving a strong response. Let me log these values... Your face turns red when you hold hands..." | “唔呣……感情回路出现了很强烈的反应啊，把这个数值记录下来吧……牵起手来就会脸红……”
+scn00_39_0210 | ココロ(Cocoro) | 「プライバシーの侵害です！　ロボットにも人権……いえ、ロボット権が認められるべきです！」 | "That's a privacy violation! Robots have human rights— No, we have robot rights that ought to be acknowledged!" | “这是侵犯隐私！　机器人的人权……不，机器权也应该受到尊重！”
+scn00_39_0211 | 霧香(Kirika) | 「あなた次第では、将来そうなっていくわ」 | "Depending on your actions, they could be acknowledged in the near future." | “这就要看你怎么做了，未来或许会变成这样”
+scn00_39_0212 | ココロ(Cocoro) | 「ぐぬぬ……全ロボットの未来がワタシの双肩に……」 | "Hnngh... So, the future of robotkind rests on my shoulders..." | “咕呶呶……我肩负着所有机器人的未来……”
+scn00_39_0213 | 霧香(Kirika) | 「それから、こんな記録も見付かったわ」 | "I also found these records." | “然后，我还找到了这样的记录”
+scn00_39_0214 | - | 俺とココロはモニタを覗き込む。 | Cocoro and I look at the monitor. | 我和心看向了显示器。
+scn00_39_0215 | 霧香(Kirika) | 「これは姉さんが亡くなった後、ココロの開発を受けついだ研究員の記録よ」 | "They were written by the researcher who took over Cocoro's development after Yoko passed away." | “这是姐姐去世后，接手了心的开发的研究者做的记录”
+scn00_39_0216 | - | \n\n\n\n\n\n\n\n『ＣＣＲ－０１が、いつも親しげにしている人間の少年からプロポーズを受けた』 | \n\n\n\n\n\n\nCCR-01 received a proposal from a human boy who has been acting friendly toward it. | \n\n\n\n\n\n\n\n‘CCR-01被一直很亲近她的少年求婚了’
+scn00_39_0217 | ひなた(Hinata) | 「ええっ！？　こんな事まで記録されてるの！！？」 | "What!? They even wrote  down!?" | “哎！？　连这种事也被记录下来了吗！！？”
+scn00_39_0218 | - | 恥ずかしい。最悪だ。 | How embarrassing. This is the worst. | 太羞耻了，真是糟透了。
+scn00_39_0219 | 霧香(Kirika) | 「まあまあ、気持ちは分かるけど、そういう話がしたいんじゃないの」 | "Calm down. I know how you feel, but this isn't what I wanted to talk about." | “没事没事，我懂你的心情，我要说的并不是这个”
+scn00_39_0220 | 霧香(Kirika) | 「ひなたのプロポーズはココロを救っていたのよ」 | "Your proposal was what saved Cocoro." | “是日向的求婚救了心啊”
+scn00_39_0221 | ひなた(Hinata) | 「どういう事？」 | "What do you mean?" | “这是怎么回事？”
+scn00_39_0222 | 霧香(Kirika) | 「記録によると、ココロのリプログラムは決定されていた」 | "According to the records, it had been decided that Cocoro would be reprogrammed." | “从记录上来看，心的重新编程已经被确定下来了”
+scn00_39_0223 | 霧香(Kirika) | 「ココロの行動や言動、感情回路が出力するデータの意味が理解できず、一度メモリーを消去してテストをやり直そうとしていたのね」 | "The researchers couldn't make sense of Cocoro's behavior or the data her emotional circuits were outputting, so they were planning to format her memory and restart the experiment from scratch." | “他们无法理解心的言行和感情回路输出出来的数据有什么意义，所以就想先删除她的记忆然后重新开始测试吧”
+scn00_39_0224 | - | 母さんが亡くなり、感情回路がブラックボックスになってしまったせいか。 | After my mom passed, the emotional circuits were like an incomprehensible black box to anyone else. | 妈妈去世后，感情回路就变成了一个黑箱。
+scn00_39_0225 | ココロ(Cocoro) | 「……はい。廃墟処分が決定したとだけ知らされました。ワタシという存在は、消えてなくなる運命でした」 | "Yes. I was informed that I would be disposed of. The part of me that I recognized as 'me' was doomed to be deleted." | “……是的，他们只告诉了我要对我废弃处理。我这样的存在命中注定就是要消失的”
+scn00_39_0226 | 霧香(Kirika) | 「ところが違ったのよ。ほら、ここを見て」 | "But it wasn't. Here, look at this." | “但其实并不是这样哦，来看这里”
+scn00_39_0227 | - | \n\n\n\n\n\n\n\n『リプログラム処置は撤回。ＣＣＲ－０１は現状のままテストを継続する』 | \n\n\n\n\n\n\nThe plan to reprogram the CCR-01 has been scrapped. The experiment will be resumed as is. | \n\n\n\n\n\n\n\n‘撤销重新编程，让CCR-01保持现状继续进行测试’
+scn00_39_0228 | ひなた(Hinata) | 「どうして？」 | "Why?" | “为什么？”
+scn00_39_0229 | 霧香(Kirika) | 「さっき書いてあった通り。人間の少年からプロポーズを受けたからよ」 | "Because a human boy had proposed to her. That's what was written in the report." | “原因就和刚刚那条记录里所写的一样，受到了人类少年的求婚”
+scn00_39_0230 | 霧香(Kirika) | 「ひなたのプロポーズによって、チューリングテストに合格したとみなされたの」 | "Your proposal meant that Cocoro had successfully passed the Turing test." | “心因为日向的求婚而被认定为通过了图灵测试”
+scn00_39_0231 | - | チューリングテストとは広義には、人かＡＩか分からない状態で人間と接して、ＡＩであるとばれなければ合格と見なされるテストだ。 | The Turing test is, broadly speaking, a test in which an AI interacts with a human without the human knowing what they are. If the human can't tell that they're talking to an AI, it's considered to have passed the test. | 图灵测试广义上来说，就是在不表明自己是人还是AI的情况下和人类进行接触，只要没有被人类发现是AI就会被认定为合格的一种测试。
+scn00_39_0232 | - | 俺はココロをロボットだとは知らず、人だと思ってプロポーズをした。 | I didn't know Cocoro was a robot. I was fully convinced that she was a human when I proposed to her. | 我不知道心是机器人，将她作为人类进行了求婚。
+scn00_39_0233 | ココロ(Cocoro) | 「ですが、チューリングテストはあくまで『ヒトのように偽装できている』かどうかを判断する程度のものです」 | "But the Turing test only tests how well we're able to  human beings." | “但是，图灵测试只是个用来判断是否‘能够伪装成人类’这种程度的测试”
+scn00_39_0234 | 霧香(Kirika) | 「それだけじゃないわ。これがプロポーズを受けた時の、あなたが出力した感情よ」 | "That's not exactly true. These are the emotions you output when you accepted the proposal." | “也不光是这样。这是你受到求婚时输出的感情”
+scn00_39_0235 | 霧香(Kirika) | 「あなたの思考回路は、これをエラーとして処理していたけれど、このノイズのようなものは感情のゆらぎ」 | "Your thought processors considered this an error, but this noise-like signal is actually an emotional fluctuation." | “虽然你的思考回路将其当做错误进行了处理，但这个噪音一般的东西其实就是感情波动”
+scn00_39_0236 | 霧香(Kirika) | 「姉さんから研究を引き継いでいた研究者は、これが『愛』の種子である可能性に気付いた。だからリプログラムを撤回したの」 | "The researcher who had taken over Yoko's study realized that this could be the beginnings of 'love.' So, they canceled the reprogramming." | “继承了姐姐研究的研究者意识到，这可能就是‘爱’的种子，所以才会撤销重新编程”
+scn00_39_0237 | ココロ(Cocoro) | 「ですが、ワタシは回収された後、このメンテナンスルームでずっと眠らされていました」 | "But after they came to collect me, I was put to sleep in this maintenance room." | “但是，我在被回收了之后，就一直在这间维护室里沉睡着”
+scn00_39_0238 | 霧香(Kirika) | 「パラメータ調整やボディのメンテナンスをするはずだったのね。でもできなくなった」 | "You were supposed to undergo some parameter adjustments and body maintenance. But then, even that became impossible." | “应该是在对参数进行调整并对身体进行维护吧，但却最终却没能完成”
+scn00_39_0239 | ひなた(Hinata) | 「『厄災』が起こってしまったから……」 | "Because the Calamity happened..." | “因为‘灾厄’发生了……”
+scn00_39_0240 | 霧香(Kirika) | 「ええ」 | "Right." | “没错”

@@ -1,0 +1,47 @@
+# scene=scn00_31 batch=4/4 dòng 163-205 / 205
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_31_0163 | ひなた(Hinata) | 「……ぁぅぁぉ……」 | "Ah, uh..." | “……啊呜啊呜……”
+scn00_31_0164 | - | ありがとう、そう言ったつもりだった。 | "Thank you," I wanted to say. | 我是想说谢谢来着。
+scn00_31_0165 | 風音(Kazane) | 「いいって。助け合いっしょ、大変な時代だからね」 | "Don't mention it. We help each other when the going gets rough." | “没事，这种困难的时代大家都得互相帮助啊”
+scn00_31_0166 | - | 発音できなかったのに、通じたようだった。 | Despite me failing to form any words, it seems like she understood me. | 虽然没能发出声音，但好像也传达给她了。
+scn00_31_0167 | - | 幼なじみで、一緒に過ごした時間も長いというのもあるが、風音は俺の気持ちを知ろうとしてくれている。 | Part of it is probably because we've known each other since we were kids, but Kazane is also putting in a lot of effort to try to understand my feelings. | 或许因为我和她是青梅竹马，一起度过的时间也很长，所以风音会试着去理解我的想法。
+scn00_31_0168 | - | 俺もまた同じで、だから言葉を失っていても意志が通じる。 | I'm trying my best to express myself, too, which is probably why we can understand each other even without words. | 我也是如此，所以即便失去语言能力也能够意念想通。
+scn00_31_0169 | 風音(Kazane) | 「……」 | "..." | “……”
+scn00_31_0170 | - | 風音が、ペチュニアを見つめる俺を見ていた。 | Kazane notices that I'm looking at the petunias. | 风音看着凝视着矮牵牛的我。
+scn00_31_0171 | ひなた(Hinata) | 「？」 | "...?" | “？”
+scn00_31_0172 | 風音(Kazane) | 「相変わらず花が好きなんだなって。あの時もそうだったよね。毎日、植物園に通ってた」 | "You've always liked flowers, haven't you? When we were kids, you were at the botanical garden every single day." | “你还是那么喜欢花啊，当时也是这样，每天都会去植物园啊”
+scn00_31_0173 | ひなた(Hinata) | 「……（コクン）」 | "*nod*..." | “……（点头）”
+scn00_31_0174 | 風音(Kazane) | 「そこで、ココロちゃんと出会ったってわけだ。運命感じちゃうね」 | "And then you met Cocoro-chan there. Feels like destiny, doesn't it?" | “然后在那里遇到了心，感受到了命运对吧”
+scn00_31_0175 | ひなた(Hinata) | 「…………」 | "..." | “…………”
+scn00_31_0176 | 風音(Kazane) | 「駆除隊の連中が噂してた、ココロちゃんはセントラルエリアにいるって」 | "I overheard the extermination squad saying to each other that Cocoro-chan is in the Central Area." | “驱除队那些家伙们说，心就在中心区里”
+scn00_31_0177 | 風音(Kazane) | 「……追いかけるために、部隊を編成してるって」 | "They're putting together a unit to pursue her." | “……为了去追她，他们正在整编部队”
+scn00_31_0178 | ひなた(Hinata) | （セントラルに攻撃を仕掛けるのか） | (Are they actually going to launch an assault on Central?) | （是要对中心区发动进攻吗）
+scn00_31_0179 | - | そうまでしてココロを追い詰め、駆除したいのか。 | Do they really want to exterminate her that badly? | 他们就这么想把心逼上绝路，驱除掉她吗。
+scn00_31_0180 | - | もう放っておいてあげてほしい。 | I wish they would just leave her alone. | 真希望他们能别去管她。
+scn00_31_0181 | - | ココロのボディが限界を[むか]迎えて機能停止するのは、時間の問題だ。人間にとって、もう脅威にはなりえない。 | It's only a matter of time before Cocoro's body stops functioning. She's not a threat to humans anymore. | 距离心的身体到达极限停止运行也只是时间问题了，她已经无法对人类构成威胁了。
+scn00_31_0182 | 風音(Kazane) | 「何かできる事ないのかな」 | "Is there anything I can do?" | “有没有什么能做的事啊”
+scn00_31_0183 | ひなた(Hinata) | 「……（ふるふる）」 | "*shake* *shake*..." | “……（摇头）”
+scn00_31_0184 | - | 俺は無言で首を振る。 | I silently shake my head. | 我默默摇了摇头。
+scn00_31_0185 | - | 機能停止はココロ自身が望んでいる事だ。 | Cocoro  to stop functioning. | 停止运行是心自己的愿望。
+scn00_31_0186 | - | それに、もし連れ戻す事ができたとしても、正体を知られてしまった今、辛い思いをさせるだけだろう。 | Even if I could bring her back, she would only suffer from being with me now that she knows who I really am. | 况且，现在她的身份已经人尽皆知了，就算能带她回来，也只会给她留下难过的回忆。
+scn00_31_0187 | - | いや、何も感じないか。 | Or would she not feel anything? I suppose not. | 不，应该什么都感受不到吧。
+scn00_31_0188 | - | 感じないのだとすれば、やはり放っておいて機能停止してもココロは悲しまない。回路が生み出す擬似的な悲しみの感情を得るだけだ。 | Assuming she doesn't feel anything, it wouldn't make her sad if I just left her alone until she stopped functioning. The expressions of "sadness" she shows sometimes are just the result of her circuitry. | 既然心什么都感受不到，那就算放任她停止运行她也不会感到悲伤，只会获得回路中产生的模拟悲伤的感情。
+scn00_31_0189 | 風音(Kazane) | 「……」 | "..." | “……”
+scn00_31_0190 | - | 風音がしゅんとして下を向いてしまった。 | Kazane is dejectedly looking down at the floor. | 风音失落地低下了头。
+scn00_31_0191 | - | 俺を[ふる]奮い立たせたかったのかもしれない。一緒にココロを連れ戻しに行こうと、言ってほしかったんだろう。 | She probably wanted to cheer me up. She must be waiting for me to say, "Let's go find Cocoro together and bring her back." | 她或许是想让我振作起来，想说要和我一起去把心带回来吧。
+scn00_31_0192 | - | ――花はどうして美しいのですか？ | "Why are flowers so beautiful?" | ——花为什么美丽？
+scn00_31_0193 | ひなた(Hinata) | （その答えを教えてあげられないと、ココロを救う事はできない） | (If I don't give her an answer, I'll never be able to save her.) | （如果不能告诉她这个问题的答案，就无法拯救心）
+scn00_31_0194 | - | しかし、何時間、花を見つめ続けても答えは分からないまま。 | However, even after staring at these flowers for hours on end, I still don't have any idea. | 但是，我不管盯着花看多久都想不出答案。
+scn00_31_0195 | - | ゲシュタルト崩壊を起こして、美しさからむしろ遠ざかっていく。 | What I'm experiencing is probably —the longer I look at the flowers, the more they lose their beauty. | 格式塔发生崩溃，美丽的概念反倒离我越来越远。
+scn00_31_0196 | - | そこへ、階下からまた誰かが上がってくる足音が聞こえた。 | My thoughts are interrupted by the sound of footsteps coming up the stairs. | 就在这时，我听到了其他人上楼的脚步声。
+scn00_31_0197 | 大地(Daichi) | 「ひなた、入るぞ」 | "Hinata, I'm coming in." | “日向，我进来了啊”
+scn00_31_0198 | - | 大地がコードレスフォンを俺の前に置く。 | Daichi puts a cordless phone down in front of me. | 大地将无绳电话放在了我面前。
+scn00_31_0199 | 大地(Daichi) | 「電話だぞ」 | "It's for you." | “有你的电话”
+scn00_31_0200 | ひなた(Hinata) | 「？」 | "...?" | “？”
+scn00_31_0201 | - | 霧香さんだろうか。 | Is it Kirika-san? | 应该是雾香小姐吧。
+scn00_31_0202 | 風音(Kazane) | 「誰から？」 | "Who is it?" | “是谁打来的？”
+scn00_31_0203 | 大地(Daichi) | 「ひなたのオヤジさんからだ」 | "It's Hinata's father." | “是日向的老爸打来的”
+scn00_31_0204 | ひなた(Hinata) | （え――） | (Huh!?) | （哎——）
+scn00_31_0205 | - | 俺は一瞬頭が真っ白になった。 | My mind goes blank. | 我的大脑瞬间变得一片空白。

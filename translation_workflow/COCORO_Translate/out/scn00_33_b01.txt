@@ -1,0 +1,60 @@
+scn00_33_0001 | Thảm họa Ách Tai xảy ra vào đêm hôm ấy. Lúc đó bố đang trên đường trở về nhà sau khi giải quyết xong công vụ.
+scn00_33_0002 | Bố chỉ biết có điều gì đó bất thường qua những hồi chuông cảnh báo trên điện thoại, nhưng thông tin truyền về lúc ấy vẫn còn rất rời rạc.
+scn00_33_0003 | Bố vội vã ghé về nhà một chuyến, vì quá đỗi lo lắng cho con.
+scn00_33_0004 | Thế nhưng, trời đã tối mịt mà con vẫn chưa về nhà.
+scn00_33_0005 | Sự cố hạ tầng trên diện rộng, thảm họa thiên tai, hay thậm chí là nguy cơ khủng bố.
+scn00_33_0006 | Xét theo cương vị của mình, lẽ ra bố phải lập tức quay trở lại tòa thị chính.
+scn00_33_0007 | Nhưng bố đã gạt phăng tất cả để lao thẳng đến vườn bách thảo.
+scn00_33_0008 | "Hinata! Con ở đâu, Hinata!!"
+scn00_33_0009 | Bố biết từ sau khi Yoko qua đời, ngày nào con cũng đến vườn bách thảo.
+scn00_33_0010 | Nếu con còn ở bên ngoài, thì chắc chắn chỉ có thể là nơi này.
+scn00_33_0011 | Trong cơn hoảng loạn, bố thậm chí còn cầm theo cả món quà sinh nhật của con mà chạy đến.
+scn00_33_0012 | Nhưng lúc ấy chẳng còn tâm trí đâu để bận tâm đến chuyện đó nữa.
+scn00_33_0013 | Toàn bộ nhân viên vườn bách thảo đã sơ tán từ trước, không gian im lìm tĩnh lặng đến rợn người.
+scn00_33_0014 | "Hinata... con không có ở đây sao."
+scn00_33_0015 | Có lẽ con đã đi sơ tán đến nơi khác rồi cũng nên.
+scn00_33_0016 | Nếu được vậy thì tốt biết mấy, nhưng trên đường tới đây bố đã tận mắt chứng kiến cảnh những cỗ máy Mutant Drone phát cuồng loạn trí.
+scn00_33_0017 | Cứ nghĩ đến việc con có thể bị cuốn vào mớ hỗn loạn ấy, bố không tài nào lạc quan cho nổi.
+scn00_33_0018 | "Hinataaaa!! Con có ở đây không, Hinata!!!"
+scn00_33_0019 | "...Hinata!!?"
+scn00_33_0020 | Con đang nằm gục bên cạnh luống hoa.
+scn00_33_0021 | Máu từ trán con chảy ròng ròng, dường như đã ngất lịm đi.
+scn00_33_0022 | Những mảnh kính vỡ vương vãi khắp xung quanh. Có lẽ do sự cố nào đó làm vỡ kính mái vòm, và mảnh vỡ rơi xuống đã va trúng đầu con.
+scn00_33_0023 | "Hinata, tỉnh lại đi con, Hinata!!!"
+scn00_33_0024 | "Có ai ở đây không! Làm ơn băng bó cho thằng bé với..."
+scn00_33_0025 | Cảm nhận được có tiếng động đang tiến lại gần từ phía sau, bố ngoảnh đầu nhìn lại,
+scn00_33_0026 | "Robot an ninh của Phân khu Trung tâm..."
+scn00_33_0027 | Con robot an ninh nhấp nháy đèn đỏ báo lỗi, đang khóa chặt mục tiêu vào hai bố con.
+scn00_33_0028 | Không còn đường lui.
+scn00_33_0029 | Trước tình thế tuyệt vọng, bố chỉ còn biết ôm chặt lấy con vào lòng và chuẩn bị đón nhận điều tồi tệ nhất.
+scn00_33_0030 | Một tiếng va chạm trầm đục vang lên xé toạc không gian.
+scn00_33_0031 | Thế nhưng, bố vẫn bình an vô sự.
+scn00_33_0032 | Trong lúc bố đang nhắm nghiền mắt, gồng mình chờ đợi đòn tấn công thì bỗng có tiếng ai đó cất lên.
+scn00_33_0033 | "Xác nhận lỗi hệ thống. Nếu tiếp tục gây nguy hại cho con người, đối tượng sẽ bị liệt vào diện tiêu trừ."
+scn00_33_0034 | "...?"
+scn00_33_0035 | Bố từ từ mở mắt và nhìn thấy bóng lưng của một thiếu nữ.
+scn00_33_0036 | Và bố nhận ra rằng những lời vừa rồi không phải dành cho bố, mà là nhắm vào con robot an ninh đang đứng đối diện cô gái.
+scn00_33_0037 | "...Ra vậy, dường như bạn đang bị hỗn loạn. Xin hãy bình tĩnh lại."
+scn00_33_0038 | "Nguy hiểm!"
+scn00_33_0039 | "...!!?"
+scn00_33_0040 | Cỗ máy an ninh mất kiểm soát bất ngờ lao tới tấn công bố con mình.
+scn00_33_0041 | "Hự...!"
+scn00_33_0042 | Thiếu nữ đã lao ra làm lá chắn, hứng trọn đòn tấn công thay cho hai người.
+scn00_33_0043 | Nếu là người bình thường thì chắc chắn đã mất mạng.
+scn00_33_0044 | Thế nhưng cô gái dường như chẳng hề hấn gì, lập tức đứng dậy ngay.
+scn00_33_0045 | "Cháu có sao không!?"
+scn00_33_0046 | "Nếu là tôi thì không sao đâu ạ."
+scn00_33_0047 | "Tôi sẽ vô hiệu hóa nó, xin ông hãy chăm sóc cậu ấy một lát."
+scn00_33_0048 | "Cháu định làm thế nào...?"
+scn00_33_0049 | Một thiếu nữ mảnh mai như vậy, thoạt nhìn chẳng ai nghĩ có thể vô hiệu hóa được con robot an ninh đồ sộ kia.
+scn00_33_0050 | "Tôi sẽ thuyết phục nó."
+scn00_33_0051 | Vừa nói dứt lời, cô gái liền tiến thẳng về phía con robot đang điên cuồng gào thét.
+scn00_33_0052 | Khéo léo né tránh những đòn tấn công, cô áp sát rồi dường như đã thì thầm điều gì đó với nó.
+scn00_33_0053 | Ban đầu con robot còn vùng vẫy dữ dội hòng hất cô ra, nhưng rồi dần ngoan ngoãn dịu lại, và đến khi nhận ra thì chiếc đèn đỏ báo lỗi đã chuyển sang màu xanh lam êm dịu.
+scn00_33_0054 | "Phù, làm người ta vất vả ghê. Nhưng thật may là bạn đã hiểu ra, thế là tôi không phải tiêu trừ bạn rồi."
+scn00_33_0055 | "C... cảm ơn cháu."
+scn00_33_0056 | "Không có gì ạ, bảo đảm an toàn cho con người cũng là nhiệm vụ của chúng tôi mà."
+scn00_33_0057 | "Cháu là... CCR-01 sao...?"
+scn00_33_0058 | Vốn thúc đẩy Dự án Utopia từ trước khi nhậm chức thị trưởng, bố biết rõ dự án phát triển người máy hình người giống hệt nhân loại đang được triển khai.
+scn00_33_0059 | Dù là lần đầu tận mắt chứng kiến nhưng bố đã từng xem qua các tài liệu kỹ thuật.
+scn00_33_0060 | CCR-01 được chế tác tinh xảo đến mức nếu không nói trước, bất kỳ ai cũng sẽ ngỡ đó là một con người bằng xương bằng thịt.

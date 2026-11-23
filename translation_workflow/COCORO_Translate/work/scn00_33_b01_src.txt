@@ -1,0 +1,64 @@
+# scene=scn00_33 batch=1/7 dòng 1-60 / 428
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_33_0001 | - | 『厄災』が起こったのは、あの日の夜。公務を終えて帰宅する途中だった。 | The night the Calamity occurred, I was on my way home after finishing my official duties for the day. | ‘灾厄’发生在那天晚上，我处理完公务后正走在回家的路上。
+scn00_33_0002 | - | スマートフォンのアラートで何かが起こっている事だけは分かったが、まだ断片的な情報しか流れてきていなかった。 | The various alerts on my smartphone told me that  was going on, but the bits and pieces of information coming through weren't enough to get the full picture yet. | 我虽然靠着手机警报知道有什么事发生了，但也只得到了零星的信息。
+scn00_33_0003 | - | 私は一度家へと帰った。ひなたが心配だったからだ。 | My first priority was getting home. I was worried about my son, Hinata. | 我很担心日向便回了一趟家。
+scn00_33_0004 | - | しかし、もう日は暮れているというのに、家にひなたはいなかった。 | It was already dark by the time I arrived, but he still hadn't come home. | 但是，太阳都落山了，日向却还没回家。
+scn00_33_0005 | - | 大規模なインフラ障害か、災害の発生、テロの可能性もある。 | I didn't know whether it was a major system failure, a natural disaster, or maybe even a terrorist attack. | 发生大规模基础设施故障、天灾、恐怖袭击都是有可能的。
+scn00_33_0006 | - | 本来ならば、すぐに庁舎へ引き返さねばならない立場だ。 | A man in my position should have gone straight back to city hall. | 我原本应该立刻返回政府大楼。
+scn00_33_0007 | - | だが私は我を忘れ、植物園へと向かっていた。 | However, I threw everything aside and headed for the botanical garden. | 但我却不顾自己的职责前往了植物园。
+scn00_33_0008 | 父(Dad) | 「ひなた！　どこだ、ひなた！！」 | "Hinata! Where are you, Hinata!?" | “日向！　你在哪里，日向！！”
+scn00_33_0009 | - | 陽子が亡くなってから、ひなたが毎日、植物園に通っている事は知っていた。 | I knew that Hinata had been coming to the garden every day since Yoko had passed away. | 我知道自从阳子去世后，日向每天都会去植物园。
+scn00_33_0010 | - | いるとしたら、ここだろう。 | I couldn't think of any other place he'd be. | 他大概率是在这里。
+scn00_33_0011 | - | 気が動転していた私は、ひなたの誕生日プレゼントを持ったまま来てしまっていた。 | In the spur of the moment, I still had Hinata's birthday present with me. | 心神不宁的我，带着日向的生日礼物就过来了。
+scn00_33_0012 | - | しかし、そんな事に構っている暇はない。 | But I didn't have any time to think about that. | 可是，已经没有时间去想这种事了。
+scn00_33_0013 | - | 植物園は職員が逃げ出した後で、ひっそりとしていた。 | The garden was quiet. All the staff must have already evacuated. | 职员逃走后，植物园中一片寂静。
+scn00_33_0014 | 父(Dad) | 「ひなた……いないのか」 | "Hinata's... not here?" | “日向……不在这里吗”
+scn00_33_0015 | - | もうどこかへ避難した後かもしれない。 | Maybe he was evacuated along with the staff. | 可能已经跑去哪里避难了。
+scn00_33_0016 | - | それならいいのだが、ここまで来る間にすでにミュータントドローンが暴走している現場を目撃していた。 | I hoped with all my might that he was, but I'd already seen numerous mutant drones on my way to the garden. | 要真是这样就好了，但我来这里的时候就已经看到变异无人机暴走的场面了。
+scn00_33_0017 | - | ひなたがあれに巻き込まれているかもしれないと思うと、とてもじゃないが楽観的にはなれなかった。 | The thought that Hinata could have been attacked by one of them made it hard to stay optimistic. | 一想到日向可能已经被波及到了，我就有些乐观不起来。
+scn00_33_0018 | 父(Dad) | 「ひなたーー！！　いないのか、ひなた！！！」 | "Hinataaaa! Are you here!? Hinata!!!" | “日向——！！　你在这里吗，日向！！！”
+scn00_33_0019 | 父(Dad) | 「……ひなた！！？」 | "...Hinata!!?" | “……日向！！？”
+scn00_33_0020 | - | ひなたは花壇の[そば]傍に倒れていた。 | There he was, lying on the floor next to a flower bed. | 日向倒在了花坛旁边。
+scn00_33_0021 | - | 額から血を流して、気を失っているようだった。 | Blood was pooling around his head. He seemed to be unconscious. | 额头上不停地流着血，似乎是昏过去了。
+scn00_33_0022 | - | 周囲にガラスの破片が散らばっていた。恐らく、何らかの事故で天井のガラスが割れ、降って来た物に当たったんだろう。 | Glass was scattered all around him, likely from whatever caused the glass dome to shatter. | 他周围散落着一地玻璃碎片，大概是在出了什么事导致屋顶的玻璃碎裂后，被掉落下来的东西砸中了吧
+scn00_33_0023 | 父(Dad) | 「ひなた、しっかりしろ、ひなた！！！」 | "Hinata, wake up! Hinata!!!" | “日向，快醒醒，日向！！！”
+scn00_33_0024 | 父(Dad) | 「誰かいませんか！　この子の手当を……」 | "Is there anyone here!? He needs medical attention..." | “有人吗！　来帮他包扎一下……”
+scn00_33_0025 | - | 背後から誰かが近づいてくる気配を感じ振り返ると、 | I heard something moving behind me and turned around. | 我感受到背后有人靠近便回过了头。
+scn00_33_0026 | 父(Dad) | 「セントラルの警備ロボット……」 | "One of Central's security robots..." | “中心区的安保机器人……”
+scn00_33_0027 | - | エラーを示す赤いランプを点灯させた警備ロボットが、こちらを標的に定めていた。 | The security robot's error indicator was blinking red as it slowly approached us. | 亮着红色错误警报灯的安保机器人锁定了我们。
+scn00_33_0028 | - | 逃げ場はない。 | There was nowhere to run. | 无处可逃了。
+scn00_33_0029 | - | 絶望的な状況に、私はひなたを抱きしめて覚悟を決めるしかなかった。 | The situation was hopeless. All I could do was shield Hinata with my body and pray. | 面对这令人绝望的状况，我只能抱着日向做好心理准备。
+scn00_33_0030 | - | [にぶ]鈍い衝撃音が鳴り響いた。 | Then, I heard a dull thud nearby. | 一声沉闷的撞击声响起。
+scn00_33_0031 | - | しかし、私はまだ無事だった。 | But I wasn't hurt. | 但我却没有受到任何攻击。
+scn00_33_0032 | - | 攻撃に備えて身を固くしたまま、目を閉じて動けないでいる私に、語りかけてくる者がいた。 | I was bracing for another attack with my eyes closed when a voice rang out. | 有人对着为了应对攻击而全身紧绷闭着眼睛一动不动的我说道。
+scn00_33_0033 | 少女の声(Girl's Voice) | 「エラーを確認。これ以上、ヒトに危害を加えるようなら、排除の対象となります」 | "Error detected. Any further attempts to harm these humans will result in your extermination." | “检测到错误，如果继续试图加害人类，我将把你视为消灭对象”
+scn00_33_0034 | 父(Dad) | 「……？」 | "...?" | “……？”
+scn00_33_0035 | - | ゆっくりとまぶたを開くと、少女の後ろ姿があった。 | I slowly opened my eyes and saw the silhouette of a girl facing away from us. | 我缓缓睁开眼，看到了一名少女。
+scn00_33_0036 | - | そして、先ほどの言葉は私ではなく、少女が向き合っている警備ロボットへ向けられたものだと分かった。 | She hadn't been talking to me. I immediately understood that she was talking to the security robot. | 随后，我也明白了刚刚那句话不是在对我说，而是在对着少女面前的安保机器人说。
+scn00_33_0037 | 少女(Girl) | 「……なるほど、混乱しているようですね。お静まりください」 | "...You seem to be confused. Please calm down." | “……原来如此，你似乎已经陷入混乱了啊，安静下来吧”
+scn00_33_0038 | 少女(Girl) | 「あぶない」 | "Watch out!" | “危险”
+scn00_33_0039 | 父(Dad) | 「ッ――！！？」 | "Huh!?" | “——！！？”
+scn00_33_0040 | - | 暴走する警備ロボットが、私たちを攻撃しようとした。 | The out-of-control security robot suddenly lunged at us. | 暴走的安保机器人朝着我们发动了攻击。
+scn00_33_0041 | 少女(Girl) | 「あぐッ――」 | "Ghh..." | “阿呜——”
+scn00_33_0042 | - | 少女が身代わりとなり、攻撃を受けていた。 | The girl shielded us and took the hit. | 少女替我们承受了攻击。
+scn00_33_0043 | - | 普通の人間なら、無事では済まないだろう。 | Any normal human would've been obliterated by that robot. | 普通的人类挨了这一下不可能没事。
+scn00_33_0044 | - | しかし少女は、大きな怪我をした様子もなく、すぐに立ち上がった。 | But the girl barely seemed to be affected, as she stood up again immediately. | 但是少女却像是没事人一样立刻站了起来。
+scn00_33_0045 | 父(Dad) | 「大丈夫かッ」 | "Are you okay!?" | “你没事吧”
+scn00_33_0046 | 少女(Girl) | 「ワタシであれば平気です」 | "If you're talking to me, I'm fine." | “我没事”
+scn00_33_0047 | 少女(Girl) | 「無力化しますので、しばらくの間、その方をお願いします」 | "I'll neutralize him, so please look after the boy." | “我这就去让它停下来，请您暂时照顾好他”
+scn00_33_0048 | 父(Dad) | 「どうするんだ……？」 | "But how...?" | “你要怎么做……？”
+scn00_33_0049 | - | 華奢な少女に、あの警備ロボットを無力化できるようには見えなかった。 | The petite girl didn't look as if she'd be able to take that robot on. | 瘦弱的少女怎么看都没法让那个安保机器人停下来啊。
+scn00_33_0050 | 少女(Girl) | 「説得します」 | "I'll talk to him." | “说服它”
+scn00_33_0051 | - | 少女はそう言うと、我を忘れて暴れ回る警備ロボットに向かっていった。 | With that, the girl fearlessly approached the violent robot. | 说完，少女便走向了失去自我四处发狂的安保机器人。
+scn00_33_0052 | - | 攻撃をかいくぐり、警備ロボットに取り付くと、何事か語りかけたようだった。 | She nimbly dodged its attacks, and when she got close enough, she started speaking to it. | 她躲避攻击抱住了安保机器人，似乎在对它说着些什么。
+scn00_33_0053 | - | 最初は振り払おうと暴れていた警備ロボットだったが、次第に大人しくなり、気付くと赤く点灯していたランプの色が青色に変わっていた。 | At first, the security robot continued rampaging, trying to shake her off. But eventually, it calmed down, and the error indicator light turned from red to blue. | 一开始还在乱动着试图甩掉她的安保机器人逐渐安静了下来，回过神来时红色警报灯已经变成了蓝色。
+scn00_33_0054 | 少女(Girl) | 「ふぅ、手こずらせてくれましたね。でも、分かってもらえたようでよかったです。あなたを駆除しないで済む」 | "Phew, he sure gave me a difficult time. However, it seems that he understands now, so I won't need to exterminate him." | “呼，真是让我费了一番功夫啊，不过你能理解就好，这样我就不用驱除你了”
+scn00_33_0055 | 父(Dad) | 「あ……ありがとう」 | "Th-Thank you..." | “谢……谢谢你”
+scn00_33_0056 | 少女(Girl) | 「いえ、ヒトの安全を確保するのもワタシたちの役目です」 | "I'm only doing my job. Keeping humans safe is part of my duties." | “不用谢，我们的使命就是保护人类的安全”
+scn00_33_0057 | 父(Dad) | 「君は、ＣＣＲ－０１か……？」 | "Are you... CCR-01...?" | “你是CCR-01吗……？”
+scn00_33_0058 | - | 市長になる以前からユートピア構想を推進してきた私は、人間そっくりなヒューマノイドの開発が行われている事を知っていた。 | Having promoted the Utopia Initiative before I became mayor, I knew that increasingly realistic-looking humanoids were being developed. | 我在成为市长前就一直推行着乌托邦构想，所以知道这里正在开发与人类一模一样的仿生人。
+scn00_33_0059 | - | 実物に会うのは初めてだったが、資料で見た事はあった。 | It was my first time seeing one for real, but I had read about them before. | 虽然是第一次见到真货，但我已经在资料里看到过她了。
+scn00_33_0060 | - | ＣＣＲ－０１は、知らなければ人としか思えないような、精巧な作りをしていた。 | The CCR-01 was so well-made that if you didn't know any better, you would think it was human. | 为了让不知道的人看不出她不是人，CCR-01被制作得十分精巧。

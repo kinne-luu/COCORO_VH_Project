@@ -1,0 +1,59 @@
+scn00_40_0180 | <Dạ không có chi ạ. Cống hiến hết mình vì hạnh phúc của con người chính là bổn phận của chúng tôi.>
+scn00_40_0181 | <Cháu cũng đi cùng với mọi người luôn đi.>
+scn00_40_0182 | <Tôi không thể rời khỏi nơi này được ạ. Bởi vì tôi đã nhận được mệnh lệnh phải ở lại đây.>
+scn00_40_0183 | <Hơn nữa, có thể vẫn còn những người khác chưa kịp sơ tán, tôi phải đi cứu hộ họ.>
+scn00_40_0184 | "Hồi đó ở khu hậu cần có một số nhân viên bị kẹt lại đang ẩn nấp, nên tôi đã dẫn đường cho họ thoát ra ngoài... Hóa ra mọi người đều đã trốn thoát an toàn cả rồi."
+scn00_40_0185 | "Đợt trước, sau khi cậu nhóc đằng kia đến hỏi cô về tung tích của cháu, cô mới thử liên lạc lại với những đồng nghiệp cũ đã lâu không gặp."
+scn00_40_0186 | "Thế rồi họ mới kể cho cô nghe chuyện năm xưa. Bảo rằng tất cả là nhờ có cháu mà mọi người mới giữ được mạng sống bình an."
+scn00_40_0187 | "Cho phép cô được thay mặt họ nói lời cảm ơn cháu nhé. Cảm ơn cháu nhiều lắm."
+scn00_40_0188 | "Dạ đâu có...... Giúp ích cho con người vốn dĩ là thiên chức của những robot như chúng tôi mà."
+scn00_40_0189 | Cô Tanaka siết chặt rồi lắc lắc bàn tay Cocoro nhiều lần để bày tỏ tấm lòng tri ân sâu sắc.
+scn00_40_0190 | Cocoro đón nhận sự biết ơn ấy với vẻ mặt có phần ngơ ngác bỡ ngỡ.
+scn00_40_0191 | "Tớ vốn đã biết chuyện của bé Cocoro từ trước rồi."
+scn00_40_0192 | Kazane cố tình cất cao giọng để tất cả mọi người cùng nghe thấy.
+scn00_40_0193 | "Nhưng chuyện đó thì có làm sao đâu chứ. Bởi vì bé Cocoro là một cô bé ngoan ngoãn, và tụi mình từ lâu đã là bạn bè của nhau rồi mà!"
+scn00_40_0194 | "E... Em cũng thế nữa! Dù trước đây em không biết... nhưng chúng em là bạn bè mà!"
+scn00_40_0195 | "Kosame...... Xin lỗi em vì bấy lâu nay đã giấu giếm thân phận thực sự của mình nhé."
+scn00_40_0196 | "Dạ không sao đâu, chuyện đó chẳng hề gì hết. Bé Coco đã là bạn thân của em rồi mà."
+scn00_40_0197 | "Chuẩn đấy. Huống chi cô bé còn là ân nhân đã cứu mạng bé Kosame nữa."
+scn00_40_0198 | "Gâu gâu!!"
+scn00_40_0199 | "Dù lúc đầu quả thực rất đỗi ngỡ ngàng, nhưng chuyện bé Cocoro là một đứa trẻ ngoan và tốt bụng thì tất cả chúng tôi đều hiểu rất rõ."
+scn00_40_0200 | "Đúng thế, con bé còn phụ giúp dọn dẹp bờ biển sạch bong kin kít nữa cơ mà!"
+scn00_40_0201 | "Lúc nào gặp con bé cũng đon đả chào hỏi rộn rã, thật lòng tôi nghe thấy vui vẻ trong lòng lắm đấy."
+scn00_40_0202 | "Mọi người......"
+scn00_40_0203 | Những người từng tiếp xúc gắn bó thân thiết đều đã cảm nhận trọn vẹn sự chân thành và phẩm chất tốt đẹp của Cocoro.
+scn00_40_0204 | Thế nhưng, những người chưa có nhiều dịp qua lại thì vẫn không giấu nổi vẻ hoang mang e dè.
+scn00_40_0205 | Tất cả cư dân nơi đây đều từng nếm trải thảm kịch 'Ách Tai', nên nỗi khiếp sợ và ác cảm đối với robot trong họ sâu sắc hơn bất cứ nơi nào khác.
+scn00_40_0206 | Kể cả không phải vì lý do đó, thì việc một con robot biết trò chuyện y hệt con người và làm bạn với con người cũng đủ khiến người ta bối rối lạ lẫm.
+scn00_40_0207 | "Sẽ... không còn nguy hiểm gì nữa đâu đúng không cháu?"
+scn00_40_0208 | "............"
+scn00_40_0209 | Cocoro buồn bã cúi gằm mặt xuống.
+scn00_40_0210 | Ngay cả chính bản thân Cocoro cũng chẳng thể nào khẳng định chắc chắn 100% được.
+scn00_40_0211 | Dù Cocoro không hề phát tán sóng Allelopathy, nhưng khả năng phát sinh một sự cố hỏng hóc nào đó vẫn không thể loại trừ hoàn toàn.
+scn00_40_0212 | Muốn nói thì chỉ có thể nhân cơ hội lúc này mà thôi.
+scn00_40_0213 | Tôi bước lên đứng bên cạnh Cocoro, nắm chặt lấy bàn tay em.
+scn00_40_0214 | "??"
+scn00_40_0215 | "Cháu... Mitsumine Hinata, đã chính thức đính hôn với cô bé Cocoro đang đứng ở đây!"
+scn00_40_0216 | "Cái gì cơ!!?"
+scn00_40_0217 | "Thật không đấy trời......!!?"
+scn00_40_0218 | "Bé Coco sắp lấy chồng sao ạ?"
+scn00_40_0219 | Nỗi kinh ngạc kèm theo những tiếng xì xào bàn tán bắt đầu lan rộng khắp đám đông.
+scn00_40_0220 | "Đúng thế phải không, Cocoro."
+scn00_40_0221 | "...... V... Vâng ạ. Chúng tôi đã đính hôn rồi ạ."
+scn00_40_0222 | "Kết hôn... với robot ư......"
+scn00_40_0223 | "Cháu không dám mong mọi người có thể thấu hiểu và chấp nhận ngay lập tức. Thế nhưng, cháu chỉ xin mọi người hiểu cho một điều này thôi."
+scn00_40_0224 | "Cocoro có một trái tim. Em ấy là một humanoid được sinh ra với trái tim chân thực như con người."
+scn00_40_0225 | "Cháu biết rằng sau biến cố 'Ách Tai', nhiều cô bác ở đây vẫn còn mang nặng nỗi âu lo. Sau này, nếu lỡ có bất cứ chuyện gì xảy ra, với tư cách là người nhà của em ấy, cháu xin hoàn toàn đứng ra chịu mọi trách nhiệm!"
+scn00_40_0226 | "Cậu Hinata......"
+scn00_40_0227 | Siết chặt... Cocoro nắm chặt lấy bàn tay tôi đáp lại.
+scn00_40_0228 | Bàn tay em đang run rẩy, truyền sang tôi trọn vẹn nỗi thấp thỏm bất an trong lòng em.
+scn00_40_0229 | Đúng vậy, cô bé này biết cảm thấy bất an, biết sợ hãi trước những ánh nhìn dò xét của mọi người xung quanh.
+scn00_40_0230 | "Ch... Chúc mừng hai người nhé!!!!"
+scn00_40_0231 | "Ừ, chúc mừng hai đứa mày!"
+scn00_40_0232 | "Em chúc mừng bé Coco và anh Hinata nha!"
+scn00_40_0233 | "Gâu! Gâu!!"
+scn00_40_0234 | Theo sau Kazane, những tràng pháo tay thưa thớt bắt đầu vang lên.
+scn00_40_0235 | Dẫu vậy, phần lớn mọi người dường như chỉ càng thêm phần bối rối hoang mang hơn.
+scn00_40_0236 | "Vì vậy, cháu rất mong mọi người... có thể dõi theo chúng cháu bằng ánh mắt dịu dàng và ấm áp!"
+scn00_40_0237 | Dõng dạc tuyên bố xong, tôi nắm lấy tay Cocoro rồi cùng em rời khỏi nơi đó.
+scn00_40_0238 | Trở về phòng, khi chỉ còn lại hai đứa bên nhau, tôi bất giác thở phào một hơi nhẹ nhõm.

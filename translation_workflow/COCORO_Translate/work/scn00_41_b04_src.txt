@@ -1,0 +1,64 @@
+# scene=scn00_41 batch=4/5 dòng 181-240 / 314
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_41_0181 | 霧香(Kirika) | 「ごめんなさい、取り乱してしまって……」 | "I'm sorry for losing my cool..." | “对不起，我刚刚失态了……”
+scn00_41_0182 | ココロ(Cocoro) | 「ストレスが溜まっているのでしょう。たまにはお休みを取る事をおすすめします」 | "You must be under a lot of stress. I recommend taking frequent breaks." | “积攒了不少压力吧，我建议还是时不时休息一下比较好”
+scn00_41_0183 | 霧香(Kirika) | 「そうね、そうするわ」 | "You're right. I'll keep that in mind." | “是啊，我会的”
+scn00_41_0184 | 霧香(Kirika) | 「……」 | "..." | “……”
+scn00_41_0185 | 霧香(Kirika) | 「ほんとに結婚するのね、あなたたち」 | "So, you two are really getting married, huh?" | “你们真的要结婚啊”
+scn00_41_0186 | ココロ(Cocoro) | 「はい、プロポーズされましたから」 | "Yes. He proposed to me." | “是的，毕竟我也被求过婚了”
+scn00_41_0187 | 霧香(Kirika) | 「姉さんは、いつかロボットと人が結婚できるセカイを作りたいって言ってた」 | "My sister said she wanted to contribute to a world where robots and humans could get married someday." | “姐姐说过，要创造出一个能让机器人和人类结婚的世界”
+scn00_41_0188 | 霧香(Kirika) | 「その最初のふたりに、あなたたちがなるのだとしたら……。きっと天国で喜んでくれるわ」 | "If she heard that you were the first to make that a reality... She'd be grinning from ear to ear up in heaven." | “如果那第一对就是你们……她在天国肯定也会感到开心吧”
+scn00_41_0189 | ココロ(Cocoro) | 「そのためには、愛想を[つ]尽かされないようにしないとです」 | "I have to be extra careful that my fiancé doesn't get bored of me." | “为此，我需要想办法让他不对我失去兴趣”
+scn00_41_0190 | 霧香(Kirika) | 「……ねえ」 | "Hey..." | “……我说”
+scn00_41_0191 | ココロ(Cocoro) | 「はい」 | "Yes?" | “嗯”
+scn00_41_0192 | 霧香(Kirika) | 「好きな人と手をつなぐのって…………どんな気持ち？」 | "What does it feel like... to hold hands with the one you love?" | “和喜欢的人牵着手…………是什么感觉的？”
+scn00_41_0193 | ココロ(Cocoro) | 「ヒアリングでしょうか？」 | "Is this an interview question?" | “是要进行问询吗？”
+scn00_41_0194 | 霧香(Kirika) | 「そ、そうよ。あなたのデータを[と]採るのも私の仕事ですから」 | "I-It is. It's my job to collect all sorts of data about you." | “是、是哦，毕竟收集你的数据也是我的工作”
+scn00_41_0195 | ココロ(Cocoro) | 「そうですね……安心します。繋がっていると感じるからでしょうか」 | "I would say... it calms me down. Perhaps it's because I feel connected to him." | “我想想……会很安心，大概是有一种连接在一起的感觉吧”
+scn00_41_0196 | 霧香(Kirika) | 「ドキドキはしないの？」 | "Don't you ever get flustered?" | “不会心跳加速吗？”
+scn00_41_0197 | ココロ(Cocoro) | 「する時もあります。ですが、キスする時の方が、ずっとドキドキします」 | "Sometimes I do. But it's not as bad as when we kiss." | “有时候会这样，不过，接吻的时候更容易心跳加速”
+scn00_41_0198 | 霧香(Kirika) | 「キス………………くわしく」 | "When you kiss... Tell me more." | “接吻………………愿闻其详”
+scn00_41_0199 | ココロ(Cocoro) | 「ワタシの自慢のぷにぷにした唇に、負けず劣らずぷにぷにしたひなたさんの唇が触れると、ただの物理現象を超えた感触が……」 | "When my perfectly soft and plump lips touch Hinata-san's, which are just as soft as my own, I feel more than just a physical sensation." | “我引以为傲的柔软嘴唇和柔软度不输我的日向先生的嘴唇接触到一起后，能感受到超越了普通物理现象的触感”
+scn00_41_0200 | ココロ(Cocoro) | 「ＣＰＵがクロック周波数の限界までビートを刻み、ボディが激しく放熱します」 | "My CPU's clock rate increases to near its upper limit, and my body has to work hard to dissipate the intense heat it generates." | “CPU维持在时钟频率的极限运作着，身体开始剧烈放热”
+scn00_41_0201 | 霧香(Kirika) | 「なるほど、胸がドキドキして、身体が熱くなるのね」 | "I see... So you feel flustered, and your body heats up." | “原来如此，就是会心跳加速，身体变热对吧”
+scn00_41_0202 | ココロ(Cocoro) | 「熱暴走寸前なのに、離れがたく……強く抱きしめ合ってしまうのです」 | "Even though I'll be on the verge of overheating, I don't want to let go... So I'll hug him even tighter..." | “明明马上就要过热了却无法分开……接着便紧紧相拥在了一起”
+scn00_41_0203 | 霧香(Kirika) | 「…………いいなぁぁぁ～～～～～～！！！！！！！」 | "Awww, that's so nice!!!" | “…………真好啊～～～～～～～！！！！！！！”
+scn00_41_0204 | 霧香(Kirika) | 「うらやましい！　私もそんな恋がしてみたい！！！！」 | "I'm so jealous! I wish I had a lover who'd make me feel like that!!!" | “好羡慕！　我也想谈谈这种恋爱！！！！”
+scn00_41_0205 | ココロ(Cocoro) | 「キスだけじゃありません。昨夜は一緒に寝ました」 | "Kissing's not all we do. We also spent the night together yesterday." | “我们不光接吻了，昨晚还一起睡了”
+scn00_41_0206 | 霧香(Kirika) | 「ええっ！！？　一緒に……寝たですって」 | "What!? You... slept together!?" | “哎哎！！？　你是说……一起睡了”
+scn00_41_0207 | ココロ(Cocoro) | 「隣り合った布団で」 | "Affirmative. Our futons were touching each other." | “在相邻的被褥里”
+scn00_41_0208 | 霧香(Kirika) | 「なんだ、いつもの事じゃない」 | "Oh, so the way you normally do." | “什么嘛，这不是和以前一样嘛”
+scn00_41_0209 | ココロ(Cocoro) | 「実はそうでもなくて。ひなたさんは最近、隣りで寝ている時に寝苦しそうにしています」 | "Actually, something has been different. Hinata-san seems to be tossing and turning a lot more than before." | “也不尽然，日向先生最近睡在我身边的时候睡得很不好”
+scn00_41_0210 | ココロ(Cocoro) | 「こちらを意識して、心臓をドキドキさせたり、時々寝返りを打つふりをして、こちらに近づいてこようとします」 | "It seems like being so close to me makes his heart race, and sometimes he'll pretend to turn over in his sleep just to get closer to me." | “他总是会在意我，心脏也会跳个不停，还会时不时假装翻身试图靠近我”
+scn00_41_0211 | 霧香(Kirika) | 「……ひなたも男の子だったのね」 | "...Hinata's a boy, after all." | “……日向也是个男孩子啊”
+scn00_41_0212 | ココロ(Cocoro) | 「しかし、それ以上は何も起こりません。どうしたらいいか解らずにいる様子です」 | "However, nothing happens beyond that. It appears to me that he doesn't know what to do." | “可是，也没有更进一步的事情发生了。他看上去似乎不知道该怎么办才好”
+scn00_41_0213 | 霧香(Kirika) | 「ひなたにとってもココロは初めての相手ですものね」 | "You're his first love, Cocoro." | “毕竟对于日向来说心也是他的第一次啊”
+scn00_41_0214 | ココロ(Cocoro) | 「ワタシもどうしたらいいか解りません」 | "I don't know what to do, either." | “我也不知道该怎么办才好”
+scn00_41_0215 | ココロ(Cocoro) | 「……ひなたさんと愛し合いたい」 | "...I want to be intimate with Hinata-san." | “……我想和日向先生互诉爱意”
+scn00_41_0216 | 霧香(Kirika) | 「ココロ？」 | "Cocoro?" | “心？”
+scn00_41_0217 | ココロ(Cocoro) | 「それができるかどうか心配です」 | "But I'm worried whether we'll be able to do that." | “我很担心自己能不能做到这件事”
+scn00_41_0218 | 霧香(Kirika) | 「大丈夫よ、愛の形は人それぞれ。ひなたが何もしないでいるのは、あなたを大切にしているからよ」 | "It's okay. Love comes in many forms. Hinata probably isn't going any further because he cherishes you." | “没关系啦，爱的形式因人而异。日向什么都没有做，也是因为很珍视你”
+scn00_41_0219 | ココロ(Cocoro) | 「そうでしょうか。……ワタシはもっと強引に来てくれてもいいと思っていますのに」 | "Is that so? I wouldn't mind it if he were a bit more assertive." | “是这样么……我倒是觉得可以更强硬一点”
+scn00_41_0220 | 霧香(Kirika) | 「ふふ、いいわねぇ、甘酸っぱくて」 | "Hehehe, I like that. So bittersweet." | “呵呵，真好呢，酸酸甜甜的”
+scn00_41_0221 | ココロ(Cocoro) | 「……むー」 | "Mrmm..." | “……呣——”
+scn00_41_0222 | こさめ(Kosame) | 「ココちゃーーーん、もうお話おわった？」 | "Coco-chaaaaan! Are you done talking?" | “心儿——，说完了吗？”
+scn00_41_0223 | 犬(Dog) | 「ワン！」 | "Woof!" | “汪！”
+scn00_41_0224 | ココロ(Cocoro) | 「ええ、そろそろ終わるところです」 | "Yeah, we're almost done." | “嗯，差不多快说完了”
+scn00_41_0225 | 霧香(Kirika) | 「そうね。この機能は今すぐには実装できないわ。でも、あなたたちの愛の形はあるはずだから、不安になる事はないのよ」 | "Right... I'm afraid I can't implement that feature right away, but there are plenty of ways for you two to shape your love, so there's no need to feel anxious." | “总之呢，这个机能没法立刻实装，但是，你们相爱的这种形式应该也是存在的，所以也不用感到不安”
+scn00_41_0226 | 霧香(Kirika) | 「……と、経験ナシの私が言ったところでだけど」 | "...Though that might not sound very convincing coming from someone without any experience." | “……不过，这种话从我这个没经验的人嘴里说出来也没什么说服力”
+scn00_41_0227 | ココロ(Cocoro) | 「いいえ、とっても参考になりました。ありがとうございます、霧香。お礼によしよししてあげます」 | "Oh, no, this has been extremely informative. Thank you very much, Kirika. I'll pat you on the head again to show my gratitude." | “不，你的话非常有参考价值。相信你，雾香，作为回报让我来摸摸你的头吧”
+scn00_41_0228 | ココロ(Cocoro) | 「よしよし」 | "Good girl, good girl." | “好乖好乖”
+scn00_41_0229 | 霧香(Kirika) | 「ふふふ、ありがと」 | "Hehehe, thanks." | “呵呵呵，谢谢你”
+scn00_41_0230 | こさめ(Kosame) | 「じゃーね、ココちゃん。ばいばーい」 | "See you later, Coco-chan. Bye bye!" | “再见啦，心儿，拜拜——”
+scn00_41_0231 | ココロ(Cocoro) | 「さようなら、こさめ。ちゃんと歯磨きして寝るんですよ。歯が弱くなるとご飯が美味しく食べられなくなりますからね」 | "Goodbye, Kosame. Make sure to brush your teeth before bed. If you develop dental issues, you won't be able to enjoy tasty food anymore." | “再见，小雨。要刷完牙再睡觉哦，毕竟牙齿变差了吃饭也就不香了”
+scn00_41_0232 | ひなた(Hinata) | 「こさめちゃんなら、もう行っちゃったよ」 | "Kosame-chan already left." | “小雨已经走远了哦”
+scn00_41_0233 | ココロ(Cocoro) | 「……大事な話の途中ですのに。こさめはまだまだ子どもですね」 | "I was in the middle of saying something important. Kosame can be so childish sometimes." | “……重要的话都还没说完呢，小雨还是个孩子啊”
+scn00_41_0234 | ひなた(Hinata) | 「おかえり、ココロ」 | "Welcome back, Cocoro." | “欢迎回家，心”
+scn00_41_0235 | ココロ(Cocoro) | 「ただいまです、ひなたさん」 | "I'm home, Hinata-san." | “我回来了，日向先生”
+scn00_41_0236 | 犬(Dog) | 「ワン！」 | "Woof!" | “汪！”
+scn00_41_0237 | ココロ(Cocoro) | 「邪魔です」 | "You're in the way." | “你很碍事”
+scn00_41_0238 | - | 俺にじゃれつく犬を、ココロがお尻で押しのけて、俺にしがみつく。 | The dog greets me with his tail wagging, but then Cocoro pushes him to the side with her hip and clings to me. | 心用屁股挤开了缠着我的狗，然后紧紧抱住了我。
+scn00_41_0239 | ココロ(Cocoro) | 「ワタシはひなたさんの妻になるオンナ。ここはワタシの特等席です」 | "I'm going to be Hinata-san's wife. This is  spot." | “我是要成为日向先生妻子的女人，这里是我的特等席”
+scn00_41_0240 | 犬(Dog) | 「ワゥゥ」 | "Awoo..." | “呜”

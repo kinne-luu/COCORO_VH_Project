@@ -1,0 +1,6291 @@
+{
+  "evals": {
+    "base": [
+      [
+        "call",
+        "global.UiloadExtraGridChain.setup"
+      ]
+    ],
+    "names": []
+  },
+  "holdimage": [
+    "config_page2_jp__pack",
+    "config_page2__pack"
+  ],
+  "imports": [
+    "config_base_jp"
+  ],
+  "names": [
+    "pos_up",
+    "pos_dw",
+    "pos0s",
+    "pos1s",
+    "pos2s",
+    "pos0",
+    "pos1",
+    "pos2",
+    "pos3",
+    "pos4",
+    "base",
+    "cf_overwrite_on",
+    "cf_overwrite_off",
+    "cf_overwrite_help",
+    "cf_load_on",
+    "cf_load_off",
+    "cf_load_help",
+    "cf_qsave_on",
+    "cf_qsave_off",
+    "cf_qsave_help",
+    "cf_qload_on",
+    "cf_qload_off",
+    "cf_qload_help",
+    "cf_title_on",
+    "cf_title_off",
+    "cf_title_help",
+    "cf_exit_on",
+    "cf_exit_off",
+    "cf_exit_help",
+    "cf_init_on",
+    "cf_init_off",
+    "cf_init_help",
+    "cf_delete_on",
+    "cf_delete_off",
+    "cf_delete_help",
+    "cf_allremove1_on",
+    "cf_allremove1_off",
+    "cf_allremove1_help",
+    "cf_allremove2_on",
+    "cf_allremove2_off",
+    "cf_allremove2_help",
+    "cf_jump_on",
+    "cf_jump_off",
+    "cf_jump_help",
+    "cf_next_on",
+    "cf_next_off",
+    "cf_next_help",
+    "nextjump_off",
+    "nextjump_on",
+    "cf_backto_on",
+    "cf_backto_off",
+    "cf_backto_help",
+    "prevjump_off",
+    "prevjump_on",
+    "head_cf_overwrite",
+    "head_cf_load",
+    "head_cf_qsave",
+    "head_cf_qload",
+    "head_cf_title",
+    "head_cf_exit",
+    "head_cf_jump",
+    "head_cf_init",
+    "head_cf_delete",
+    "head_cf_allremove1",
+    "head_cf_allremove2",
+    "head_cf_next",
+    "head_cf_backto",
+    "pos_top",
+    "pos_next",
+    "scroll_term",
+    "cf_exit_chk",
+    "cf_exit_rev",
+    "cf_title_chk",
+    "cf_title_rev",
+    "cf_init_chk",
+    "cf_init_rev",
+    "cf_load_chk",
+    "cf_load_rev",
+    "cf_overwrite_chk",
+    "cf_overwrite_rev",
+    "cf_qload_chk",
+    "cf_qload_rev",
+    "cf_qsave_chk",
+    "cf_qsave_rev",
+    "cf_next_chk",
+    "cf_next_rev",
+    "cf_backto_chk",
+    "cf_backto_rev",
+    "cf_jump_chk",
+    "cf_jump_rev",
+    "cf_prevscn_on",
+    "cf_prevscn_off",
+    "cf_prevscn_chk",
+    "cf_prevscn_rev",
+    "cf_nextscn_on",
+    "cf_nextscn_off",
+    "cf_nextscn_chk",
+    "cf_nextscn_rev",
+    "cf_move_on",
+    "cf_move_off",
+    "cf_move_chk",
+    "cf_move_rev",
+    "cf_copy_on",
+    "cf_copy_off",
+    "cf_copy_chk",
+    "cf_copy_rev",
+    "cf_delete_chk",
+    "cf_delete_rev",
+    "cf_allremove1_chk",
+    "cf_allremove1_rev",
+    "cf_allremove2_chk",
+    "cf_allremove2_rev",
+    "nextjump_chk",
+    "nextjump_rev",
+    "prevjump_chk",
+    "prevjump_rev"
+  ],
+  "order": null,
+  "packbase": [
+    "config_s3dialog"
+  ],
+  "packhash": [
+    6513950554593679127,
+    -2099469626784985866,
+    -6917048174179172730,
+    7981704753639634164,
+    -7328844493754920638,
+    557286628762072780,
+    -1924992431889325415,
+    2935986924334920337,
+    6989135254503024382,
+    6926470694095847108,
+    -7923081262402524344,
+    7344808710801398932,
+    5860506550345654192,
+    -5791201021873870402,
+    -5137291360408843223,
+    3030345516840345306,
+    -1175489514733329111,
+    3778715818479192463,
+    -7500758872373921415,
+    -3585321891467356076,
+    -6162112078357438397,
+    -8293947980520815625,
+    2245837709853351943,
+    -8712905567738832556,
+    -8383779469200576499,
+    4009631543260144113,
+    -4852081840659500806,
+    4046379729738955912,
+    1017670191229911508,
+    -7522398408911708441,
+    5435687598711431282
+  ],
+  "packlist": [
+    [
+      0,
+      274,
+      282,
+      66,
+      0,
+      17095
+    ],
+    [
+      0,
+      340,
+      282,
+      66,
+      0,
+      17081
+    ],
+    [
+      0,
+      406,
+      282,
+      66,
+      0,
+      17087
+    ],
+    [
+      0,
+      472,
+      282,
+      66,
+      0,
+      17091
+    ],
+    [
+      0,
+      538,
+      282,
+      66,
+      0,
+      17073
+    ],
+    [
+      0,
+      604,
+      282,
+      66,
+      0,
+      17077
+    ],
+    [
+      0,
+      137,
+      487,
+      46,
+      0,
+      17005
+    ],
+    [
+      0,
+      0,
+      534,
+      46,
+      0,
+      16998
+    ],
+    [
+      0,
+      46,
+      518,
+      46,
+      0,
+      16872
+    ],
+    [
+      0,
+      228,
+      438,
+      46,
+      0,
+      17012
+    ],
+    [
+      564,
+      538,
+      307,
+      45,
+      0,
+      17033
+    ],
+    [
+      438,
+      228,
+      394,
+      45,
+      0,
+      17019
+    ],
+    [
+      0,
+      183,
+      462,
+      45,
+      0,
+      17983
+    ],
+    [
+      564,
+      583,
+      254,
+      45,
+      0,
+      17061
+    ],
+    [
+      0,
+      92,
+      522,
+      45,
+      0,
+      16935
+    ],
+    [
+      487,
+      137,
+      384,
+      46,
+      0,
+      17068
+    ],
+    [
+      462,
+      183,
+      363,
+      45,
+      0,
+      17047
+    ],
+    [
+      534,
+      0,
+      368,
+      46,
+      0,
+      17054
+    ],
+    [
+      518,
+      46,
+      381,
+      46,
+      0,
+      17040
+    ],
+    [
+      0,
+      670,
+      282,
+      66,
+      0,
+      16976
+    ],
+    [
+      282,
+      274,
+      282,
+      66,
+      0,
+      16968
+    ],
+    [
+      564,
+      274,
+      282,
+      66,
+      0,
+      16972
+    ],
+    [
+      282,
+      340,
+      282,
+      66,
+      0,
+      16990
+    ],
+    [
+      282,
+      406,
+      282,
+      66,
+      0,
+      16982
+    ],
+    [
+      282,
+      472,
+      282,
+      66,
+      0,
+      16986
+    ],
+    [
+      282,
+      538,
+      282,
+      66,
+      0,
+      16913
+    ],
+    [
+      282,
+      604,
+      282,
+      66,
+      0,
+      16905
+    ],
+    [
+      282,
+      670,
+      282,
+      66,
+      0,
+      16909
+    ],
+    [
+      564,
+      340,
+      282,
+      66,
+      0,
+      16927
+    ],
+    [
+      564,
+      406,
+      282,
+      66,
+      0,
+      16919
+    ],
+    [
+      564,
+      472,
+      282,
+      66,
+      0,
+      16923
+    ]
+  ],
+  "result": {
+    "__gridchain": {
+      "groups": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        7,
+        7,
+        8,
+        8,
+        9,
+        9,
+        10,
+        10,
+        6,
+        6,
+        11,
+        11,
+        12,
+        12,
+        13,
+        13,
+        14,
+        14
+      ],
+      "grpedges": [
+        [
+          [
+            0
+          ],
+          [
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            2
+          ],
+          [
+            3
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            2
+          ]
+        ],
+        [
+          [
+            4
+          ],
+          [
+            5
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            5,
+            4
+          ]
+        ],
+        [
+          [
+            6
+          ],
+          [
+            7
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        [
+          [
+            8
+          ],
+          [
+            9
+          ],
+          [
+            9,
+            8
+          ],
+          [
+            9,
+            8
+          ]
+        ],
+        [
+          [
+            10
+          ],
+          [
+            11
+          ],
+          [
+            11,
+            10
+          ],
+          [
+            11,
+            10
+          ]
+        ],
+        [
+          [
+            20
+          ],
+          [
+            21
+          ],
+          [
+            21,
+            20
+          ],
+          [
+            21,
+            20
+          ]
+        ],
+        [
+          [
+            12
+          ],
+          [
+            13
+          ],
+          [
+            13,
+            12
+          ],
+          [
+            13,
+            12
+          ]
+        ],
+        [
+          [
+            14
+          ],
+          [
+            15
+          ],
+          [
+            15,
+            14
+          ],
+          [
+            15,
+            14
+          ]
+        ],
+        [
+          [
+            16
+          ],
+          [
+            17
+          ],
+          [
+            17,
+            16
+          ],
+          [
+            17,
+            16
+          ]
+        ],
+        [
+          [
+            18
+          ],
+          [
+            19
+          ],
+          [
+            19,
+            18
+          ],
+          [
+            19,
+            18
+          ]
+        ],
+        [
+          [
+            22
+          ],
+          [
+            23
+          ],
+          [
+            23,
+            22
+          ],
+          [
+            23,
+            22
+          ]
+        ],
+        [
+          [
+            24
+          ],
+          [
+            25
+          ],
+          [
+            25,
+            24
+          ],
+          [
+            25,
+            24
+          ]
+        ],
+        [
+          [
+            26
+          ],
+          [
+            27
+          ],
+          [
+            27,
+            26
+          ],
+          [
+            27,
+            26
+          ]
+        ],
+        [
+          [
+            28
+          ],
+          [
+            29
+          ],
+          [
+            29,
+            28
+          ],
+          [
+            29,
+            28
+          ]
+        ]
+      ],
+      "grplinks": [
+        [
+          null,
+          null,
+          null,
+          [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            6,
+            11,
+            12,
+            13,
+            14
+          ],
+          "overwrite"
+        ],
+        [
+          null,
+          null,
+          [
+            0
+          ],
+          [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            6,
+            11,
+            12,
+            13,
+            14
+          ],
+          "load"
+        ],
+        [
+          null,
+          null,
+          [
+            1,
+            0
+          ],
+          [
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            6,
+            11,
+            12,
+            13,
+            14
+          ],
+          "qsave"
+        ],
+        [
+          null,
+          null,
+          [
+            2,
+            1,
+            0
+          ],
+          [
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            6,
+            11,
+            12,
+            13,
+            14
+          ],
+          "qload"
+        ],
+        [
+          null,
+          null,
+          [
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            5,
+            7,
+            8,
+            9,
+            10,
+            6,
+            11,
+            12,
+            13,
+            14
+          ],
+          "title"
+        ],
+        [
+          null,
+          null,
+          [
+            4,
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            7,
+            8,
+            9,
+            10,
+            6,
+            11,
+            12,
+            13,
+            14
+          ],
+          "exit"
+        ],
+        [
+          null,
+          null,
+          [
+            10,
+            9,
+            8,
+            7,
+            5,
+            4,
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            11,
+            12,
+            13,
+            14
+          ],
+          "jump"
+        ],
+        [
+          null,
+          null,
+          [
+            5,
+            4,
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            8,
+            9,
+            10,
+            6,
+            11,
+            12,
+            13,
+            14
+          ],
+          "init"
+        ],
+        [
+          null,
+          null,
+          [
+            7,
+            5,
+            4,
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            9,
+            10,
+            6,
+            11,
+            12,
+            13,
+            14
+          ],
+          "delete"
+        ],
+        [
+          null,
+          null,
+          [
+            8,
+            7,
+            5,
+            4,
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            10,
+            6,
+            11,
+            12,
+            13,
+            14
+          ],
+          "allremove1"
+        ],
+        [
+          null,
+          null,
+          [
+            9,
+            8,
+            7,
+            5,
+            4,
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            6,
+            11,
+            12,
+            13,
+            14
+          ],
+          "allremove2"
+        ],
+        [
+          null,
+          null,
+          [
+            6,
+            10,
+            9,
+            8,
+            7,
+            5,
+            4,
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            12,
+            13,
+            14
+          ],
+          "next"
+        ],
+        [
+          null,
+          null,
+          [
+            11,
+            6,
+            10,
+            9,
+            8,
+            7,
+            5,
+            4,
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            13,
+            14
+          ],
+          "nj"
+        ],
+        [
+          null,
+          null,
+          [
+            12,
+            11,
+            6,
+            10,
+            9,
+            8,
+            7,
+            5,
+            4,
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            14
+          ],
+          "backto"
+        ],
+        [
+          null,
+          null,
+          [
+            13,
+            12,
+            11,
+            6,
+            10,
+            9,
+            8,
+            7,
+            5,
+            4,
+            3,
+            2,
+            1,
+            0
+          ],
+          null,
+          "pj"
+        ]
+      ],
+      "hash": 5380648398931432457,
+      "links": [
+        [
+          -1,
+          [
+            1
+          ],
+          -1,
+          null,
+          "cf_overwrite_on"
+        ],
+        [
+          [
+            0
+          ],
+          -1,
+          -1,
+          null,
+          "cf_overwrite_off"
+        ],
+        [
+          -1,
+          [
+            3
+          ],
+          null,
+          null,
+          "cf_load_on"
+        ],
+        [
+          [
+            2
+          ],
+          -1,
+          null,
+          null,
+          "cf_load_off"
+        ],
+        [
+          -1,
+          [
+            5
+          ],
+          null,
+          null,
+          "cf_qsave_on"
+        ],
+        [
+          [
+            4
+          ],
+          -1,
+          null,
+          null,
+          "cf_qsave_off"
+        ],
+        [
+          -1,
+          [
+            7
+          ],
+          null,
+          null,
+          "cf_qload_on"
+        ],
+        [
+          [
+            6
+          ],
+          -1,
+          null,
+          null,
+          "cf_qload_off"
+        ],
+        [
+          -1,
+          [
+            9
+          ],
+          null,
+          null,
+          "cf_title_on"
+        ],
+        [
+          [
+            8
+          ],
+          -1,
+          null,
+          null,
+          "cf_title_off"
+        ],
+        [
+          -1,
+          [
+            11
+          ],
+          null,
+          null,
+          "cf_exit_on"
+        ],
+        [
+          [
+            10
+          ],
+          -1,
+          null,
+          null,
+          "cf_exit_off"
+        ],
+        [
+          -1,
+          [
+            13
+          ],
+          null,
+          null,
+          "cf_init_on"
+        ],
+        [
+          [
+            12
+          ],
+          -1,
+          null,
+          null,
+          "cf_init_off"
+        ],
+        [
+          -1,
+          [
+            15
+          ],
+          null,
+          null,
+          "cf_delete_on"
+        ],
+        [
+          [
+            14
+          ],
+          -1,
+          null,
+          null,
+          "cf_delete_off"
+        ],
+        [
+          -1,
+          [
+            17
+          ],
+          null,
+          null,
+          "cf_allremove1_on"
+        ],
+        [
+          [
+            16
+          ],
+          -1,
+          null,
+          null,
+          "cf_allremove1_off"
+        ],
+        [
+          -1,
+          [
+            19
+          ],
+          null,
+          null,
+          "cf_allremove2_on"
+        ],
+        [
+          [
+            18
+          ],
+          -1,
+          null,
+          null,
+          "cf_allremove2_off"
+        ],
+        [
+          -1,
+          [
+            21
+          ],
+          null,
+          null,
+          "cf_jump_on"
+        ],
+        [
+          [
+            20
+          ],
+          -1,
+          null,
+          null,
+          "cf_jump_off"
+        ],
+        [
+          -1,
+          [
+            23
+          ],
+          null,
+          null,
+          "cf_next_on"
+        ],
+        [
+          [
+            22
+          ],
+          -1,
+          null,
+          null,
+          "cf_next_off"
+        ],
+        [
+          -1,
+          [
+            25
+          ],
+          null,
+          null,
+          "nextjump_off"
+        ],
+        [
+          [
+            24
+          ],
+          -1,
+          null,
+          null,
+          "nextjump_on"
+        ],
+        [
+          -1,
+          [
+            27
+          ],
+          null,
+          null,
+          "cf_backto_on"
+        ],
+        [
+          [
+            26
+          ],
+          -1,
+          null,
+          null,
+          "cf_backto_off"
+        ],
+        [
+          -1,
+          [
+            29
+          ],
+          null,
+          -1,
+          "prevjump_off"
+        ],
+        [
+          [
+            28
+          ],
+          -1,
+          null,
+          -1,
+          "prevjump_on"
+        ]
+      ],
+      "names": {
+        "cf_allremove1_off": 17,
+        "cf_allremove1_on": 16,
+        "cf_allremove2_off": 19,
+        "cf_allremove2_on": 18,
+        "cf_backto_off": 27,
+        "cf_backto_on": 26,
+        "cf_delete_off": 15,
+        "cf_delete_on": 14,
+        "cf_exit_off": 11,
+        "cf_exit_on": 10,
+        "cf_init_off": 13,
+        "cf_init_on": 12,
+        "cf_jump_off": 21,
+        "cf_jump_on": 20,
+        "cf_load_off": 3,
+        "cf_load_on": 2,
+        "cf_next_off": 23,
+        "cf_next_on": 22,
+        "cf_overwrite_off": 1,
+        "cf_overwrite_on": 0,
+        "cf_qload_off": 7,
+        "cf_qload_on": 6,
+        "cf_qsave_off": 5,
+        "cf_qsave_on": 4,
+        "cf_title_off": 9,
+        "cf_title_on": 8,
+        "nextjump_off": 24,
+        "nextjump_on": 25,
+        "prevjump_off": 28,
+        "prevjump_on": 29
+      },
+      "opposite": [
+        1,
+        0,
+        3,
+        2,
+        5,
+        4,
+        7,
+        6,
+        9,
+        8,
+        11,
+        10,
+        13,
+        12,
+        15,
+        14,
+        17,
+        16,
+        19,
+        18,
+        21,
+        20,
+        23,
+        22,
+        25,
+        24,
+        27,
+        26,
+        29,
+        28
+      ],
+      "radios": {
+        "cf_allremove1": [
+          16,
+          17
+        ],
+        "cf_allremove2": [
+          18,
+          19
+        ],
+        "cf_backto": [
+          26,
+          27
+        ],
+        "cf_delete": [
+          14,
+          15
+        ],
+        "cf_exit": [
+          10,
+          11
+        ],
+        "cf_init": [
+          12,
+          13
+        ],
+        "cf_jump": [
+          20,
+          21
+        ],
+        "cf_load": [
+          2,
+          3
+        ],
+        "cf_next": [
+          22,
+          23
+        ],
+        "cf_overwrite": [
+          0,
+          1
+        ],
+        "cf_qload": [
+          6,
+          7
+        ],
+        "cf_qsave": [
+          4,
+          5
+        ],
+        "cf_title": [
+          8,
+          9
+        ],
+        "nextjump": [
+          24,
+          25
+        ],
+        "prevjump": [
+          28,
+          29
+        ]
+      },
+      "rects": [
+        [
+          852,
+          166,
+          282,
+          66,
+          "cf_overwrite_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          166,
+          282,
+          66,
+          "cf_overwrite_off",
+          null,
+          null
+        ],
+        [
+          852,
+          315,
+          282,
+          66,
+          "cf_load_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          315,
+          282,
+          66,
+          "cf_load_off",
+          null,
+          null
+        ],
+        [
+          852,
+          465,
+          282,
+          66,
+          "cf_qsave_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          465,
+          282,
+          66,
+          "cf_qsave_off",
+          null,
+          null
+        ],
+        [
+          852,
+          615,
+          282,
+          66,
+          "cf_qload_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          615,
+          282,
+          66,
+          "cf_qload_off",
+          null,
+          null
+        ],
+        [
+          852,
+          765,
+          282,
+          66,
+          "cf_title_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          765,
+          282,
+          66,
+          "cf_title_off",
+          null,
+          null
+        ],
+        [
+          852,
+          916,
+          282,
+          66,
+          "cf_exit_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          916,
+          282,
+          66,
+          "cf_exit_off",
+          null,
+          null
+        ],
+        [
+          852,
+          1065,
+          282,
+          66,
+          "cf_init_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          1065,
+          282,
+          66,
+          "cf_init_off",
+          null,
+          null
+        ],
+        [
+          852,
+          1215,
+          282,
+          66,
+          "cf_delete_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          1215,
+          282,
+          66,
+          "cf_delete_off",
+          null,
+          null
+        ],
+        [
+          852,
+          1365,
+          282,
+          66,
+          "cf_allremove1_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          1365,
+          282,
+          66,
+          "cf_allremove1_off",
+          null,
+          null
+        ],
+        [
+          852,
+          1515,
+          282,
+          66,
+          "cf_allremove2_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          1515,
+          282,
+          66,
+          "cf_allremove2_off",
+          null,
+          null
+        ],
+        [
+          852,
+          1666,
+          282,
+          66,
+          "cf_jump_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          1666,
+          282,
+          66,
+          "cf_jump_off",
+          null,
+          null
+        ],
+        [
+          852,
+          1815,
+          282,
+          66,
+          "cf_next_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          1815,
+          282,
+          66,
+          "cf_next_off",
+          null,
+          null
+        ],
+        [
+          852,
+          1904,
+          282,
+          66,
+          "nextjump_off",
+          null,
+          null
+        ],
+        [
+          1182,
+          1904,
+          282,
+          66,
+          "nextjump_on",
+          null,
+          null
+        ],
+        [
+          852,
+          2053,
+          282,
+          66,
+          "cf_backto_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          2053,
+          282,
+          66,
+          "cf_backto_off",
+          null,
+          null
+        ],
+        [
+          852,
+          2142,
+          282,
+          66,
+          "prevjump_off",
+          null,
+          null
+        ],
+        [
+          1182,
+          2142,
+          282,
+          66,
+          "prevjump_on",
+          null,
+          null
+        ]
+      ],
+      "uniq": "option_dialog"
+    },
+    "base": {
+      "class": "base",
+      "height": 1080,
+      "name": "base",
+      "storagex": 0,
+      "storagey": 0,
+      "uiname": "base",
+      "uistates": {
+        "nosave": {
+          "h": 1080,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1920
+        }
+      },
+      "width": 1920,
+      "x": 0,
+      "y": 0
+    },
+    "cf_allremove1_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_allremove1/SystemConfig.askAllRemove1/toggle\")",
+      "name": "cf_allremove1_chk",
+      "uiname": "cf_allremove1_chk",
+      "uistates": {}
+    },
+    "cf_allremove1_help": {
+      "class": "area",
+      "height": 90,
+      "name": "cf_allremove1_help",
+      "uiname": "cf_allremove1_help",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1365
+    },
+    "cf_allremove1_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_allremove1/SystemConfig.askAllRemove1/false\")",
+      "groupName": "cf_allremove1",
+      "height": 66,
+      "name": "cf_allremove1_off",
+      "uiname": "cf_allremove1_off",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 406,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 472,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 1365
+    },
+    "cf_allremove1_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_allremove1/SystemConfig.askAllRemove1/true\")",
+      "groupName": "cf_allremove1",
+      "height": 66,
+      "name": "cf_allremove1_on",
+      "uiname": "cf_allremove1_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 538,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 604,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 1365
+    },
+    "cf_allremove1_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_allremove1/SystemConfig.askAllRemove1/toggle\")",
+      "name": "cf_allremove1_rev",
+      "uiname": "cf_allremove1_rev",
+      "uistates": {}
+    },
+    "cf_allremove2_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_allremove2/SystemConfig.askAllRemove2/toggle\")",
+      "name": "cf_allremove2_chk",
+      "uiname": "cf_allremove2_chk",
+      "uistates": {}
+    },
+    "cf_allremove2_help": {
+      "class": "area",
+      "height": 90,
+      "name": "cf_allremove2_help",
+      "uiname": "cf_allremove2_help",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1515
+    },
+    "cf_allremove2_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_allremove2/SystemConfig.askAllRemove2/false\")",
+      "groupName": "cf_allremove2",
+      "height": 66,
+      "name": "cf_allremove2_off",
+      "uiname": "cf_allremove2_off",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 406,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 472,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 1515
+    },
+    "cf_allremove2_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_allremove2/SystemConfig.askAllRemove2/true\")",
+      "groupName": "cf_allremove2",
+      "height": 66,
+      "name": "cf_allremove2_on",
+      "uiname": "cf_allremove2_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 538,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 604,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 1515
+    },
+    "cf_allremove2_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_allremove2/SystemConfig.askAllRemove2/toggle\")",
+      "name": "cf_allremove2_rev",
+      "uiname": "cf_allremove2_rev",
+      "uistates": {}
+    },
+    "cf_backto_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_backto/SystemConfig.askBackTo/toggle\")",
+      "name": "cf_backto_chk",
+      "uiname": "cf_backto_chk",
+      "uistates": {}
+    },
+    "cf_backto_help": {
+      "class": "area",
+      "height": 179,
+      "name": "cf_backto_help",
+      "uiname": "cf_backto_help",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 2053
+    },
+    "cf_backto_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_backto/SystemConfig.askBackTo/false\")",
+      "groupName": "cf_backto",
+      "height": 66,
+      "name": "cf_backto_off",
+      "uiname": "cf_backto_off",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 406,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 472,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 2053
+    },
+    "cf_backto_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_backto/SystemConfig.askBackTo/true\")",
+      "groupName": "cf_backto",
+      "height": 66,
+      "name": "cf_backto_on",
+      "uiname": "cf_backto_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 538,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 604,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 2053
+    },
+    "cf_backto_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_backto/SystemConfig.askBackTo/toggle\")",
+      "name": "cf_backto_rev",
+      "uiname": "cf_backto_rev",
+      "uistates": {}
+    },
+    "cf_copy_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_copy/SystemConfig.askCopy/toggle\")",
+      "name": "cf_copy_chk",
+      "uiname": "cf_copy_chk",
+      "uistates": {}
+    },
+    "cf_copy_off": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_copy/SystemConfig.askCopy/false\")",
+      "groupName": "cf_copy",
+      "name": "cf_copy_off",
+      "uiname": "cf_copy_off",
+      "uistates": {}
+    },
+    "cf_copy_on": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_copy/SystemConfig.askCopy/true\")",
+      "groupName": "cf_copy",
+      "name": "cf_copy_on",
+      "uiname": "cf_copy_on",
+      "uistates": {}
+    },
+    "cf_copy_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_copy/SystemConfig.askCopy/toggle\")",
+      "name": "cf_copy_rev",
+      "uiname": "cf_copy_rev",
+      "uistates": {}
+    },
+    "cf_delete_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_delete/SystemConfig.askDelete/toggle\")",
+      "name": "cf_delete_chk",
+      "uiname": "cf_delete_chk",
+      "uistates": {}
+    },
+    "cf_delete_help": {
+      "class": "area",
+      "height": 90,
+      "name": "cf_delete_help",
+      "uiname": "cf_delete_help",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1215
+    },
+    "cf_delete_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_delete/SystemConfig.askDelete/false\")",
+      "groupName": "cf_delete",
+      "height": 66,
+      "name": "cf_delete_off",
+      "uiname": "cf_delete_off",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 406,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 472,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 1215
+    },
+    "cf_delete_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_delete/SystemConfig.askDelete/true\")",
+      "groupName": "cf_delete",
+      "height": 66,
+      "name": "cf_delete_on",
+      "uiname": "cf_delete_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 538,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 604,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 1215
+    },
+    "cf_delete_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_delete/SystemConfig.askDelete/toggle\")",
+      "name": "cf_delete_rev",
+      "uiname": "cf_delete_rev",
+      "uistates": {}
+    },
+    "cf_exit_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_exit/SystemConfig.askExit/toggle\")",
+      "name": "cf_exit_chk",
+      "uiname": "cf_exit_chk",
+      "uistates": {}
+    },
+    "cf_exit_help": {
+      "class": "area",
+      "height": 90,
+      "name": "cf_exit_help",
+      "uiname": "cf_exit_help",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 916
+    },
+    "cf_exit_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_exit/SystemConfig.askExit/false\")",
+      "groupName": "cf_exit",
+      "height": 66,
+      "name": "cf_exit_off",
+      "uiname": "cf_exit_off",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 406,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 472,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 916
+    },
+    "cf_exit_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_exit/SystemConfig.askExit/true\")",
+      "groupName": "cf_exit",
+      "height": 66,
+      "name": "cf_exit_on",
+      "uiname": "cf_exit_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 538,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 604,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 916
+    },
+    "cf_exit_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_exit/SystemConfig.askExit/toggle\")",
+      "name": "cf_exit_rev",
+      "uiname": "cf_exit_rev",
+      "uistates": {}
+    },
+    "cf_init_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_init/SystemConfig.askInit/toggle\")",
+      "name": "cf_init_chk",
+      "uiname": "cf_init_chk",
+      "uistates": {}
+    },
+    "cf_init_help": {
+      "class": "area",
+      "height": 90,
+      "name": "cf_init_help",
+      "uiname": "cf_init_help",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1065
+    },
+    "cf_init_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_init/SystemConfig.askInit/false\")",
+      "groupName": "cf_init",
+      "height": 66,
+      "name": "cf_init_off",
+      "uiname": "cf_init_off",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 406,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 472,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 1065
+    },
+    "cf_init_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_init/SystemConfig.askInit/true\")",
+      "groupName": "cf_init",
+      "height": 66,
+      "name": "cf_init_on",
+      "uiname": "cf_init_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 538,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 604,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 1065
+    },
+    "cf_init_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_init/SystemConfig.askInit/toggle\")",
+      "name": "cf_init_rev",
+      "uiname": "cf_init_rev",
+      "uistates": {}
+    },
+    "cf_jump_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_jump/SystemConfig.askJump/toggle\")",
+      "name": "cf_jump_chk",
+      "uiname": "cf_jump_chk",
+      "uistates": {}
+    },
+    "cf_jump_help": {
+      "class": "area",
+      "height": 90,
+      "name": "cf_jump_help",
+      "uiname": "cf_jump_help",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1666
+    },
+    "cf_jump_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_jump/SystemConfig.askJump/false\")",
+      "groupName": "cf_jump",
+      "height": 66,
+      "name": "cf_jump_off",
+      "uiname": "cf_jump_off",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 406,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 472,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 1666
+    },
+    "cf_jump_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_jump/SystemConfig.askJump/true\")",
+      "groupName": "cf_jump",
+      "height": 66,
+      "name": "cf_jump_on",
+      "uiname": "cf_jump_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 538,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 604,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 1666
+    },
+    "cf_jump_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_jump/SystemConfig.askJump/toggle\")",
+      "name": "cf_jump_rev",
+      "uiname": "cf_jump_rev",
+      "uistates": {}
+    },
+    "cf_load_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_load/SystemConfig.askLoad/toggle\")",
+      "name": "cf_load_chk",
+      "uiname": "cf_load_chk",
+      "uistates": {}
+    },
+    "cf_load_help": {
+      "class": "area",
+      "height": 90,
+      "name": "cf_load_help",
+      "uiname": "cf_load_help",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 315
+    },
+    "cf_load_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_load/SystemConfig.askLoad/false\")",
+      "groupName": "cf_load",
+      "height": 66,
+      "name": "cf_load_off",
+      "uiname": "cf_load_off",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 406,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 472,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 315
+    },
+    "cf_load_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_load/SystemConfig.askLoad/true\")",
+      "groupName": "cf_load",
+      "height": 66,
+      "name": "cf_load_on",
+      "uiname": "cf_load_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 538,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 604,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 315
+    },
+    "cf_load_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_load/SystemConfig.askLoad/toggle\")",
+      "name": "cf_load_rev",
+      "uiname": "cf_load_rev",
+      "uistates": {}
+    },
+    "cf_move_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_move/SystemConfig.askMove/toggle\")",
+      "name": "cf_move_chk",
+      "uiname": "cf_move_chk",
+      "uistates": {}
+    },
+    "cf_move_off": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_move/SystemConfig.askMove/false\")",
+      "groupName": "cf_move",
+      "name": "cf_move_off",
+      "uiname": "cf_move_off",
+      "uistates": {}
+    },
+    "cf_move_on": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_move/SystemConfig.askMove/true\")",
+      "groupName": "cf_move",
+      "name": "cf_move_on",
+      "uiname": "cf_move_on",
+      "uistates": {}
+    },
+    "cf_move_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_move/SystemConfig.askMove/toggle\")",
+      "name": "cf_move_rev",
+      "uiname": "cf_move_rev",
+      "uistates": {}
+    },
+    "cf_next_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_next/SystemConfig.askNext/toggle\")",
+      "name": "cf_next_chk",
+      "uiname": "cf_next_chk",
+      "uistates": {}
+    },
+    "cf_next_help": {
+      "class": "area",
+      "height": 179,
+      "name": "cf_next_help",
+      "uiname": "cf_next_help",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1815
+    },
+    "cf_next_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_next/SystemConfig.askNext/false\")",
+      "groupName": "cf_next",
+      "height": 66,
+      "name": "cf_next_off",
+      "uiname": "cf_next_off",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 406,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 472,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 1815
+    },
+    "cf_next_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_next/SystemConfig.askNext/true\")",
+      "groupName": "cf_next",
+      "height": 66,
+      "name": "cf_next_on",
+      "uiname": "cf_next_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 538,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 604,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 1815
+    },
+    "cf_next_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_next/SystemConfig.askNext/toggle\")",
+      "name": "cf_next_rev",
+      "uiname": "cf_next_rev",
+      "uistates": {}
+    },
+    "cf_nextscn_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_nextscn/SystemConfig.askNextScn/toggle\")",
+      "name": "cf_nextscn_chk",
+      "uiname": "cf_nextscn_chk",
+      "uistates": {}
+    },
+    "cf_nextscn_off": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_nextscn/SystemConfig.askNextScn/false\")",
+      "groupName": "cf_nextscn",
+      "name": "cf_nextscn_off",
+      "uiname": "cf_nextscn_off",
+      "uistates": {}
+    },
+    "cf_nextscn_on": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_nextscn/SystemConfig.askNextScn/true\")",
+      "groupName": "cf_nextscn",
+      "name": "cf_nextscn_on",
+      "uiname": "cf_nextscn_on",
+      "uistates": {}
+    },
+    "cf_nextscn_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_nextscn/SystemConfig.askNextScn/toggle\")",
+      "name": "cf_nextscn_rev",
+      "uiname": "cf_nextscn_rev",
+      "uistates": {}
+    },
+    "cf_overwrite_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_overwrite/SystemConfig.askOverwrite/toggle\")",
+      "name": "cf_overwrite_chk",
+      "uiname": "cf_overwrite_chk",
+      "uistates": {}
+    },
+    "cf_overwrite_help": {
+      "class": "area",
+      "height": 90,
+      "name": "cf_overwrite_help",
+      "uiname": "cf_overwrite_help",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 166
+    },
+    "cf_overwrite_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_overwrite/SystemConfig.askOverwrite/false\")",
+      "groupName": "cf_overwrite",
+      "height": 66,
+      "name": "cf_overwrite_off",
+      "uiname": "cf_overwrite_off",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 406,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 472,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 166
+    },
+    "cf_overwrite_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_overwrite/SystemConfig.askOverwrite/true\")",
+      "groupName": "cf_overwrite",
+      "height": 66,
+      "name": "cf_overwrite_on",
+      "uiname": "cf_overwrite_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 538,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 604,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 166
+    },
+    "cf_overwrite_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_overwrite/SystemConfig.askOverwrite/toggle\")",
+      "name": "cf_overwrite_rev",
+      "uiname": "cf_overwrite_rev",
+      "uistates": {}
+    },
+    "cf_prevscn_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_prevscn/SystemConfig.askPrevScn/toggle\")",
+      "name": "cf_prevscn_chk",
+      "uiname": "cf_prevscn_chk",
+      "uistates": {}
+    },
+    "cf_prevscn_off": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_prevscn/SystemConfig.askPrevScn/false\")",
+      "groupName": "cf_prevscn",
+      "name": "cf_prevscn_off",
+      "uiname": "cf_prevscn_off",
+      "uistates": {}
+    },
+    "cf_prevscn_on": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_prevscn/SystemConfig.askPrevScn/true\")",
+      "groupName": "cf_prevscn",
+      "name": "cf_prevscn_on",
+      "uiname": "cf_prevscn_on",
+      "uistates": {}
+    },
+    "cf_prevscn_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_prevscn/SystemConfig.askPrevScn/toggle\")",
+      "name": "cf_prevscn_rev",
+      "uiname": "cf_prevscn_rev",
+      "uistates": {}
+    },
+    "cf_qload_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_qload/SystemConfig.askQLoad/toggle\")",
+      "name": "cf_qload_chk",
+      "uiname": "cf_qload_chk",
+      "uistates": {}
+    },
+    "cf_qload_help": {
+      "class": "area",
+      "height": 90,
+      "name": "cf_qload_help",
+      "uiname": "cf_qload_help",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 615
+    },
+    "cf_qload_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_qload/SystemConfig.askQLoad/false\")",
+      "groupName": "cf_qload",
+      "height": 66,
+      "name": "cf_qload_off",
+      "uiname": "cf_qload_off",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 406,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 472,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 615
+    },
+    "cf_qload_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_qload/SystemConfig.askQLoad/true\")",
+      "groupName": "cf_qload",
+      "height": 66,
+      "name": "cf_qload_on",
+      "uiname": "cf_qload_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 538,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 604,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 615
+    },
+    "cf_qload_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_qload/SystemConfig.askQLoad/toggle\")",
+      "name": "cf_qload_rev",
+      "uiname": "cf_qload_rev",
+      "uistates": {}
+    },
+    "cf_qsave_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_qsave/SystemConfig.askQSave/toggle\")",
+      "name": "cf_qsave_chk",
+      "uiname": "cf_qsave_chk",
+      "uistates": {}
+    },
+    "cf_qsave_help": {
+      "class": "area",
+      "height": 90,
+      "name": "cf_qsave_help",
+      "uiname": "cf_qsave_help",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 465
+    },
+    "cf_qsave_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_qsave/SystemConfig.askQSave/false\")",
+      "groupName": "cf_qsave",
+      "height": 66,
+      "name": "cf_qsave_off",
+      "uiname": "cf_qsave_off",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 406,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 472,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 465
+    },
+    "cf_qsave_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_qsave/SystemConfig.askQSave/true\")",
+      "groupName": "cf_qsave",
+      "height": 66,
+      "name": "cf_qsave_on",
+      "uiname": "cf_qsave_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 538,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 604,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 465
+    },
+    "cf_qsave_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_qsave/SystemConfig.askQSave/toggle\")",
+      "name": "cf_qsave_rev",
+      "uiname": "cf_qsave_rev",
+      "uistates": {}
+    },
+    "cf_title_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_title/SystemConfig.askTitle/toggle\")",
+      "name": "cf_title_chk",
+      "uiname": "cf_title_chk",
+      "uistates": {}
+    },
+    "cf_title_help": {
+      "class": "area",
+      "height": 90,
+      "name": "cf_title_help",
+      "uiname": "cf_title_help",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 765
+    },
+    "cf_title_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_title/SystemConfig.askTitle/false\")",
+      "groupName": "cf_title",
+      "height": 66,
+      "name": "cf_title_off",
+      "uiname": "cf_title_off",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 274,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 406,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 472,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 765
+    },
+    "cf_title_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_title/SystemConfig.askTitle/true\")",
+      "groupName": "cf_title",
+      "height": 66,
+      "name": "cf_title_on",
+      "uiname": "cf_title_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 538,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 604,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 765
+    },
+    "cf_title_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"changeOnOffProp/cf_title/SystemConfig.askTitle/toggle\")",
+      "name": "cf_title_rev",
+      "uiname": "cf_title_rev",
+      "uistates": {}
+    },
+    "head_cf_allremove1": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_cf_allremove1",
+      "overlay": "line|cf_allremove1",
+      "uiname": "head_cf_allremove1",
+      "uistates": {
+        "cf_allremove1": {
+          "ch": 46,
+          "cw": 487,
+          "cx": 0,
+          "cy": 137,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 487
+        },
+        "cf_allremove2": {
+          "ch": 46,
+          "cw": 534,
+          "cx": 0,
+          "cy": 0,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 534
+        },
+        "cf_backto": {
+          "ch": 46,
+          "cw": 518,
+          "cx": 0,
+          "cy": 46,
+          "h": 46,
+          "ox": 69,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 518
+        },
+        "cf_delete": {
+          "ch": 46,
+          "cw": 438,
+          "cx": 0,
+          "cy": 228,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 438
+        },
+        "cf_exit": {
+          "ch": 45,
+          "cw": 307,
+          "cx": 564,
+          "cy": 538,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 307
+        },
+        "cf_init": {
+          "ch": 45,
+          "cw": 394,
+          "cx": 438,
+          "cy": 228,
+          "h": 45,
+          "ox": 73,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 394
+        },
+        "cf_jump": {
+          "ch": 45,
+          "cw": 462,
+          "cx": 0,
+          "cy": 183,
+          "h": 45,
+          "ox": 70,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 462
+        },
+        "cf_load": {
+          "ch": 45,
+          "cw": 254,
+          "cx": 564,
+          "cy": 583,
+          "h": 45,
+          "ox": 75,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 254
+        },
+        "cf_next": {
+          "ch": 45,
+          "cw": 522,
+          "cx": 0,
+          "cy": 92,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 522
+        },
+        "cf_overwrite": {
+          "ch": 46,
+          "cw": 384,
+          "cx": 487,
+          "cy": 137,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 384
+        },
+        "cf_qload": {
+          "ch": 45,
+          "cw": 363,
+          "cx": 462,
+          "cy": 183,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 363
+        },
+        "cf_qsave": {
+          "ch": 46,
+          "cw": 368,
+          "cx": 534,
+          "cy": 0,
+          "h": 46,
+          "ox": 72,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 368
+        },
+        "cf_title": {
+          "ch": 46,
+          "cw": 381,
+          "cx": 518,
+          "cy": 46,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 381
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page2__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1377
+    },
+    "head_cf_allremove2": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_cf_allremove2",
+      "overlay": "line|cf_allremove2",
+      "uiname": "head_cf_allremove2",
+      "uistates": {
+        "cf_allremove1": {
+          "ch": 46,
+          "cw": 487,
+          "cx": 0,
+          "cy": 137,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 487
+        },
+        "cf_allremove2": {
+          "ch": 46,
+          "cw": 534,
+          "cx": 0,
+          "cy": 0,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 534
+        },
+        "cf_backto": {
+          "ch": 46,
+          "cw": 518,
+          "cx": 0,
+          "cy": 46,
+          "h": 46,
+          "ox": 69,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 518
+        },
+        "cf_delete": {
+          "ch": 46,
+          "cw": 438,
+          "cx": 0,
+          "cy": 228,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 438
+        },
+        "cf_exit": {
+          "ch": 45,
+          "cw": 307,
+          "cx": 564,
+          "cy": 538,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 307
+        },
+        "cf_init": {
+          "ch": 45,
+          "cw": 394,
+          "cx": 438,
+          "cy": 228,
+          "h": 45,
+          "ox": 73,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 394
+        },
+        "cf_jump": {
+          "ch": 45,
+          "cw": 462,
+          "cx": 0,
+          "cy": 183,
+          "h": 45,
+          "ox": 70,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 462
+        },
+        "cf_load": {
+          "ch": 45,
+          "cw": 254,
+          "cx": 564,
+          "cy": 583,
+          "h": 45,
+          "ox": 75,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 254
+        },
+        "cf_next": {
+          "ch": 45,
+          "cw": 522,
+          "cx": 0,
+          "cy": 92,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 522
+        },
+        "cf_overwrite": {
+          "ch": 46,
+          "cw": 384,
+          "cx": 487,
+          "cy": 137,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 384
+        },
+        "cf_qload": {
+          "ch": 45,
+          "cw": 363,
+          "cx": 462,
+          "cy": 183,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 363
+        },
+        "cf_qsave": {
+          "ch": 46,
+          "cw": 368,
+          "cx": 534,
+          "cy": 0,
+          "h": 46,
+          "ox": 72,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 368
+        },
+        "cf_title": {
+          "ch": 46,
+          "cw": 381,
+          "cx": 518,
+          "cy": 46,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 381
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page2__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1527
+    },
+    "head_cf_backto": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_cf_backto",
+      "overlay": "line|cf_backto",
+      "uiname": "head_cf_backto",
+      "uistates": {
+        "cf_allremove1": {
+          "ch": 46,
+          "cw": 487,
+          "cx": 0,
+          "cy": 137,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 487
+        },
+        "cf_allremove2": {
+          "ch": 46,
+          "cw": 534,
+          "cx": 0,
+          "cy": 0,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 534
+        },
+        "cf_backto": {
+          "ch": 46,
+          "cw": 518,
+          "cx": 0,
+          "cy": 46,
+          "h": 46,
+          "ox": 69,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 518
+        },
+        "cf_delete": {
+          "ch": 46,
+          "cw": 438,
+          "cx": 0,
+          "cy": 228,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 438
+        },
+        "cf_exit": {
+          "ch": 45,
+          "cw": 307,
+          "cx": 564,
+          "cy": 538,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 307
+        },
+        "cf_init": {
+          "ch": 45,
+          "cw": 394,
+          "cx": 438,
+          "cy": 228,
+          "h": 45,
+          "ox": 73,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 394
+        },
+        "cf_jump": {
+          "ch": 45,
+          "cw": 462,
+          "cx": 0,
+          "cy": 183,
+          "h": 45,
+          "ox": 70,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 462
+        },
+        "cf_load": {
+          "ch": 45,
+          "cw": 254,
+          "cx": 564,
+          "cy": 583,
+          "h": 45,
+          "ox": 75,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 254
+        },
+        "cf_next": {
+          "ch": 45,
+          "cw": 522,
+          "cx": 0,
+          "cy": 92,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 522
+        },
+        "cf_overwrite": {
+          "ch": 46,
+          "cw": 384,
+          "cx": 487,
+          "cy": 137,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 384
+        },
+        "cf_qload": {
+          "ch": 45,
+          "cw": 363,
+          "cx": 462,
+          "cy": 183,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 363
+        },
+        "cf_qsave": {
+          "ch": 46,
+          "cw": 368,
+          "cx": 534,
+          "cy": 0,
+          "h": 46,
+          "ox": 72,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 368
+        },
+        "cf_title": {
+          "ch": 46,
+          "cw": 381,
+          "cx": 518,
+          "cy": 46,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 381
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page2__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 2154
+    },
+    "head_cf_delete": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_cf_delete",
+      "overlay": "line|cf_delete",
+      "uiname": "head_cf_delete",
+      "uistates": {
+        "cf_allremove1": {
+          "ch": 46,
+          "cw": 487,
+          "cx": 0,
+          "cy": 137,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 487
+        },
+        "cf_allremove2": {
+          "ch": 46,
+          "cw": 534,
+          "cx": 0,
+          "cy": 0,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 534
+        },
+        "cf_backto": {
+          "ch": 46,
+          "cw": 518,
+          "cx": 0,
+          "cy": 46,
+          "h": 46,
+          "ox": 69,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 518
+        },
+        "cf_delete": {
+          "ch": 46,
+          "cw": 438,
+          "cx": 0,
+          "cy": 228,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 438
+        },
+        "cf_exit": {
+          "ch": 45,
+          "cw": 307,
+          "cx": 564,
+          "cy": 538,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 307
+        },
+        "cf_init": {
+          "ch": 45,
+          "cw": 394,
+          "cx": 438,
+          "cy": 228,
+          "h": 45,
+          "ox": 73,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 394
+        },
+        "cf_jump": {
+          "ch": 45,
+          "cw": 462,
+          "cx": 0,
+          "cy": 183,
+          "h": 45,
+          "ox": 70,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 462
+        },
+        "cf_load": {
+          "ch": 45,
+          "cw": 254,
+          "cx": 564,
+          "cy": 583,
+          "h": 45,
+          "ox": 75,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 254
+        },
+        "cf_next": {
+          "ch": 45,
+          "cw": 522,
+          "cx": 0,
+          "cy": 92,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 522
+        },
+        "cf_overwrite": {
+          "ch": 46,
+          "cw": 384,
+          "cx": 487,
+          "cy": 137,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 384
+        },
+        "cf_qload": {
+          "ch": 45,
+          "cw": 363,
+          "cx": 462,
+          "cy": 183,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 363
+        },
+        "cf_qsave": {
+          "ch": 46,
+          "cw": 368,
+          "cx": 534,
+          "cy": 0,
+          "h": 46,
+          "ox": 72,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 368
+        },
+        "cf_title": {
+          "ch": 46,
+          "cw": 381,
+          "cx": 518,
+          "cy": 46,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 381
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page2__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1227
+    },
+    "head_cf_exit": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_cf_exit",
+      "overlay": "line|cf_exit",
+      "uiname": "head_cf_exit",
+      "uistates": {
+        "cf_allremove1": {
+          "ch": 46,
+          "cw": 487,
+          "cx": 0,
+          "cy": 137,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 487
+        },
+        "cf_allremove2": {
+          "ch": 46,
+          "cw": 534,
+          "cx": 0,
+          "cy": 0,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 534
+        },
+        "cf_backto": {
+          "ch": 46,
+          "cw": 518,
+          "cx": 0,
+          "cy": 46,
+          "h": 46,
+          "ox": 69,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 518
+        },
+        "cf_delete": {
+          "ch": 46,
+          "cw": 438,
+          "cx": 0,
+          "cy": 228,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 438
+        },
+        "cf_exit": {
+          "ch": 45,
+          "cw": 307,
+          "cx": 564,
+          "cy": 538,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 307
+        },
+        "cf_init": {
+          "ch": 45,
+          "cw": 394,
+          "cx": 438,
+          "cy": 228,
+          "h": 45,
+          "ox": 73,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 394
+        },
+        "cf_jump": {
+          "ch": 45,
+          "cw": 462,
+          "cx": 0,
+          "cy": 183,
+          "h": 45,
+          "ox": 70,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 462
+        },
+        "cf_load": {
+          "ch": 45,
+          "cw": 254,
+          "cx": 564,
+          "cy": 583,
+          "h": 45,
+          "ox": 75,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 254
+        },
+        "cf_next": {
+          "ch": 45,
+          "cw": 522,
+          "cx": 0,
+          "cy": 92,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 522
+        },
+        "cf_overwrite": {
+          "ch": 46,
+          "cw": 384,
+          "cx": 487,
+          "cy": 137,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 384
+        },
+        "cf_qload": {
+          "ch": 45,
+          "cw": 363,
+          "cx": 462,
+          "cy": 183,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 363
+        },
+        "cf_qsave": {
+          "ch": 46,
+          "cw": 368,
+          "cx": 534,
+          "cy": 0,
+          "h": 46,
+          "ox": 72,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 368
+        },
+        "cf_title": {
+          "ch": 46,
+          "cw": 381,
+          "cx": 518,
+          "cy": 46,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 381
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page2__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 928
+    },
+    "head_cf_init": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_cf_init",
+      "overlay": "line|cf_init",
+      "uiname": "head_cf_init",
+      "uistates": {
+        "cf_allremove1": {
+          "ch": 46,
+          "cw": 487,
+          "cx": 0,
+          "cy": 137,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 487
+        },
+        "cf_allremove2": {
+          "ch": 46,
+          "cw": 534,
+          "cx": 0,
+          "cy": 0,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 534
+        },
+        "cf_backto": {
+          "ch": 46,
+          "cw": 518,
+          "cx": 0,
+          "cy": 46,
+          "h": 46,
+          "ox": 69,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 518
+        },
+        "cf_delete": {
+          "ch": 46,
+          "cw": 438,
+          "cx": 0,
+          "cy": 228,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 438
+        },
+        "cf_exit": {
+          "ch": 45,
+          "cw": 307,
+          "cx": 564,
+          "cy": 538,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 307
+        },
+        "cf_init": {
+          "ch": 45,
+          "cw": 394,
+          "cx": 438,
+          "cy": 228,
+          "h": 45,
+          "ox": 73,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 394
+        },
+        "cf_jump": {
+          "ch": 45,
+          "cw": 462,
+          "cx": 0,
+          "cy": 183,
+          "h": 45,
+          "ox": 70,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 462
+        },
+        "cf_load": {
+          "ch": 45,
+          "cw": 254,
+          "cx": 564,
+          "cy": 583,
+          "h": 45,
+          "ox": 75,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 254
+        },
+        "cf_next": {
+          "ch": 45,
+          "cw": 522,
+          "cx": 0,
+          "cy": 92,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 522
+        },
+        "cf_overwrite": {
+          "ch": 46,
+          "cw": 384,
+          "cx": 487,
+          "cy": 137,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 384
+        },
+        "cf_qload": {
+          "ch": 45,
+          "cw": 363,
+          "cx": 462,
+          "cy": 183,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 363
+        },
+        "cf_qsave": {
+          "ch": 46,
+          "cw": 368,
+          "cx": 534,
+          "cy": 0,
+          "h": 46,
+          "ox": 72,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 368
+        },
+        "cf_title": {
+          "ch": 46,
+          "cw": 381,
+          "cx": 518,
+          "cy": 46,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 381
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page2__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1077
+    },
+    "head_cf_jump": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_cf_jump",
+      "overlay": "line|cf_jump",
+      "uiname": "head_cf_jump",
+      "uistates": {
+        "cf_allremove1": {
+          "ch": 46,
+          "cw": 487,
+          "cx": 0,
+          "cy": 137,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 487
+        },
+        "cf_allremove2": {
+          "ch": 46,
+          "cw": 534,
+          "cx": 0,
+          "cy": 0,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 534
+        },
+        "cf_backto": {
+          "ch": 46,
+          "cw": 518,
+          "cx": 0,
+          "cy": 46,
+          "h": 46,
+          "ox": 69,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 518
+        },
+        "cf_delete": {
+          "ch": 46,
+          "cw": 438,
+          "cx": 0,
+          "cy": 228,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 438
+        },
+        "cf_exit": {
+          "ch": 45,
+          "cw": 307,
+          "cx": 564,
+          "cy": 538,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 307
+        },
+        "cf_init": {
+          "ch": 45,
+          "cw": 394,
+          "cx": 438,
+          "cy": 228,
+          "h": 45,
+          "ox": 73,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 394
+        },
+        "cf_jump": {
+          "ch": 45,
+          "cw": 462,
+          "cx": 0,
+          "cy": 183,
+          "h": 45,
+          "ox": 70,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 462
+        },
+        "cf_load": {
+          "ch": 45,
+          "cw": 254,
+          "cx": 564,
+          "cy": 583,
+          "h": 45,
+          "ox": 75,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 254
+        },
+        "cf_next": {
+          "ch": 45,
+          "cw": 522,
+          "cx": 0,
+          "cy": 92,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 522
+        },
+        "cf_overwrite": {
+          "ch": 46,
+          "cw": 384,
+          "cx": 487,
+          "cy": 137,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 384
+        },
+        "cf_qload": {
+          "ch": 45,
+          "cw": 363,
+          "cx": 462,
+          "cy": 183,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 363
+        },
+        "cf_qsave": {
+          "ch": 46,
+          "cw": 368,
+          "cx": 534,
+          "cy": 0,
+          "h": 46,
+          "ox": 72,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 368
+        },
+        "cf_title": {
+          "ch": 46,
+          "cw": 381,
+          "cx": 518,
+          "cy": 46,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 381
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page2__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1678
+    },
+    "head_cf_load": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_cf_load",
+      "overlay": "line|cf_load",
+      "uiname": "head_cf_load",
+      "uistates": {
+        "cf_allremove1": {
+          "ch": 46,
+          "cw": 487,
+          "cx": 0,
+          "cy": 137,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 487
+        },
+        "cf_allremove2": {
+          "ch": 46,
+          "cw": 534,
+          "cx": 0,
+          "cy": 0,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 534
+        },
+        "cf_backto": {
+          "ch": 46,
+          "cw": 518,
+          "cx": 0,
+          "cy": 46,
+          "h": 46,
+          "ox": 69,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 518
+        },
+        "cf_delete": {
+          "ch": 46,
+          "cw": 438,
+          "cx": 0,
+          "cy": 228,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 438
+        },
+        "cf_exit": {
+          "ch": 45,
+          "cw": 307,
+          "cx": 564,
+          "cy": 538,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 307
+        },
+        "cf_init": {
+          "ch": 45,
+          "cw": 394,
+          "cx": 438,
+          "cy": 228,
+          "h": 45,
+          "ox": 73,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 394
+        },
+        "cf_jump": {
+          "ch": 45,
+          "cw": 462,
+          "cx": 0,
+          "cy": 183,
+          "h": 45,
+          "ox": 70,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 462
+        },
+        "cf_load": {
+          "ch": 45,
+          "cw": 254,
+          "cx": 564,
+          "cy": 583,
+          "h": 45,
+          "ox": 75,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 254
+        },
+        "cf_next": {
+          "ch": 45,
+          "cw": 522,
+          "cx": 0,
+          "cy": 92,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 522
+        },
+        "cf_overwrite": {
+          "ch": 46,
+          "cw": 384,
+          "cx": 487,
+          "cy": 137,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 384
+        },
+        "cf_qload": {
+          "ch": 45,
+          "cw": 363,
+          "cx": 462,
+          "cy": 183,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 363
+        },
+        "cf_qsave": {
+          "ch": 46,
+          "cw": 368,
+          "cx": 534,
+          "cy": 0,
+          "h": 46,
+          "ox": 72,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 368
+        },
+        "cf_title": {
+          "ch": 46,
+          "cw": 381,
+          "cx": 518,
+          "cy": 46,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 381
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page2__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 327
+    },
+    "head_cf_next": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_cf_next",
+      "overlay": "line|cf_next",
+      "uiname": "head_cf_next",
+      "uistates": {
+        "cf_allremove1": {
+          "ch": 46,
+          "cw": 487,
+          "cx": 0,
+          "cy": 137,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 487
+        },
+        "cf_allremove2": {
+          "ch": 46,
+          "cw": 534,
+          "cx": 0,
+          "cy": 0,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 534
+        },
+        "cf_backto": {
+          "ch": 46,
+          "cw": 518,
+          "cx": 0,
+          "cy": 46,
+          "h": 46,
+          "ox": 69,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 518
+        },
+        "cf_delete": {
+          "ch": 46,
+          "cw": 438,
+          "cx": 0,
+          "cy": 228,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 438
+        },
+        "cf_exit": {
+          "ch": 45,
+          "cw": 307,
+          "cx": 564,
+          "cy": 538,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 307
+        },
+        "cf_init": {
+          "ch": 45,
+          "cw": 394,
+          "cx": 438,
+          "cy": 228,
+          "h": 45,
+          "ox": 73,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 394
+        },
+        "cf_jump": {
+          "ch": 45,
+          "cw": 462,
+          "cx": 0,
+          "cy": 183,
+          "h": 45,
+          "ox": 70,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 462
+        },
+        "cf_load": {
+          "ch": 45,
+          "cw": 254,
+          "cx": 564,
+          "cy": 583,
+          "h": 45,
+          "ox": 75,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 254
+        },
+        "cf_next": {
+          "ch": 45,
+          "cw": 522,
+          "cx": 0,
+          "cy": 92,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 522
+        },
+        "cf_overwrite": {
+          "ch": 46,
+          "cw": 384,
+          "cx": 487,
+          "cy": 137,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 384
+        },
+        "cf_qload": {
+          "ch": 45,
+          "cw": 363,
+          "cx": 462,
+          "cy": 183,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 363
+        },
+        "cf_qsave": {
+          "ch": 46,
+          "cw": 368,
+          "cx": 534,
+          "cy": 0,
+          "h": 46,
+          "ox": 72,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 368
+        },
+        "cf_title": {
+          "ch": 46,
+          "cw": 381,
+          "cx": 518,
+          "cy": 46,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 381
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page2__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1916
+    },
+    "head_cf_overwrite": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_cf_overwrite",
+      "overlay": "line|cf_overwrite",
+      "uiname": "head_cf_overwrite",
+      "uistates": {
+        "cf_allremove1": {
+          "ch": 46,
+          "cw": 487,
+          "cx": 0,
+          "cy": 137,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 487
+        },
+        "cf_allremove2": {
+          "ch": 46,
+          "cw": 534,
+          "cx": 0,
+          "cy": 0,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 534
+        },
+        "cf_backto": {
+          "ch": 46,
+          "cw": 518,
+          "cx": 0,
+          "cy": 46,
+          "h": 46,
+          "ox": 69,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 518
+        },
+        "cf_delete": {
+          "ch": 46,
+          "cw": 438,
+          "cx": 0,
+          "cy": 228,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 438
+        },
+        "cf_exit": {
+          "ch": 45,
+          "cw": 307,
+          "cx": 564,
+          "cy": 538,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 307
+        },
+        "cf_init": {
+          "ch": 45,
+          "cw": 394,
+          "cx": 438,
+          "cy": 228,
+          "h": 45,
+          "ox": 73,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 394
+        },
+        "cf_jump": {
+          "ch": 45,
+          "cw": 462,
+          "cx": 0,
+          "cy": 183,
+          "h": 45,
+          "ox": 70,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 462
+        },
+        "cf_load": {
+          "ch": 45,
+          "cw": 254,
+          "cx": 564,
+          "cy": 583,
+          "h": 45,
+          "ox": 75,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 254
+        },
+        "cf_next": {
+          "ch": 45,
+          "cw": 522,
+          "cx": 0,
+          "cy": 92,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 522
+        },
+        "cf_overwrite": {
+          "ch": 46,
+          "cw": 384,
+          "cx": 487,
+          "cy": 137,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 384
+        },
+        "cf_qload": {
+          "ch": 45,
+          "cw": 363,
+          "cx": 462,
+          "cy": 183,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 363
+        },
+        "cf_qsave": {
+          "ch": 46,
+          "cw": 368,
+          "cx": 534,
+          "cy": 0,
+          "h": 46,
+          "ox": 72,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 368
+        },
+        "cf_title": {
+          "ch": 46,
+          "cw": 381,
+          "cx": 518,
+          "cy": 46,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 381
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page2__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 178
+    },
+    "head_cf_qload": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_cf_qload",
+      "overlay": "line|cf_qload",
+      "uiname": "head_cf_qload",
+      "uistates": {
+        "cf_allremove1": {
+          "ch": 46,
+          "cw": 487,
+          "cx": 0,
+          "cy": 137,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 487
+        },
+        "cf_allremove2": {
+          "ch": 46,
+          "cw": 534,
+          "cx": 0,
+          "cy": 0,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 534
+        },
+        "cf_backto": {
+          "ch": 46,
+          "cw": 518,
+          "cx": 0,
+          "cy": 46,
+          "h": 46,
+          "ox": 69,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 518
+        },
+        "cf_delete": {
+          "ch": 46,
+          "cw": 438,
+          "cx": 0,
+          "cy": 228,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 438
+        },
+        "cf_exit": {
+          "ch": 45,
+          "cw": 307,
+          "cx": 564,
+          "cy": 538,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 307
+        },
+        "cf_init": {
+          "ch": 45,
+          "cw": 394,
+          "cx": 438,
+          "cy": 228,
+          "h": 45,
+          "ox": 73,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 394
+        },
+        "cf_jump": {
+          "ch": 45,
+          "cw": 462,
+          "cx": 0,
+          "cy": 183,
+          "h": 45,
+          "ox": 70,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 462
+        },
+        "cf_load": {
+          "ch": 45,
+          "cw": 254,
+          "cx": 564,
+          "cy": 583,
+          "h": 45,
+          "ox": 75,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 254
+        },
+        "cf_next": {
+          "ch": 45,
+          "cw": 522,
+          "cx": 0,
+          "cy": 92,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 522
+        },
+        "cf_overwrite": {
+          "ch": 46,
+          "cw": 384,
+          "cx": 487,
+          "cy": 137,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 384
+        },
+        "cf_qload": {
+          "ch": 45,
+          "cw": 363,
+          "cx": 462,
+          "cy": 183,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 363
+        },
+        "cf_qsave": {
+          "ch": 46,
+          "cw": 368,
+          "cx": 534,
+          "cy": 0,
+          "h": 46,
+          "ox": 72,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 368
+        },
+        "cf_title": {
+          "ch": 46,
+          "cw": 381,
+          "cx": 518,
+          "cy": 46,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 381
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page2__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 627
+    },
+    "head_cf_qsave": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_cf_qsave",
+      "overlay": "line|cf_qsave",
+      "uiname": "head_cf_qsave",
+      "uistates": {
+        "cf_allremove1": {
+          "ch": 46,
+          "cw": 487,
+          "cx": 0,
+          "cy": 137,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 487
+        },
+        "cf_allremove2": {
+          "ch": 46,
+          "cw": 534,
+          "cx": 0,
+          "cy": 0,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 534
+        },
+        "cf_backto": {
+          "ch": 46,
+          "cw": 518,
+          "cx": 0,
+          "cy": 46,
+          "h": 46,
+          "ox": 69,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 518
+        },
+        "cf_delete": {
+          "ch": 46,
+          "cw": 438,
+          "cx": 0,
+          "cy": 228,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 438
+        },
+        "cf_exit": {
+          "ch": 45,
+          "cw": 307,
+          "cx": 564,
+          "cy": 538,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 307
+        },
+        "cf_init": {
+          "ch": 45,
+          "cw": 394,
+          "cx": 438,
+          "cy": 228,
+          "h": 45,
+          "ox": 73,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 394
+        },
+        "cf_jump": {
+          "ch": 45,
+          "cw": 462,
+          "cx": 0,
+          "cy": 183,
+          "h": 45,
+          "ox": 70,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 462
+        },
+        "cf_load": {
+          "ch": 45,
+          "cw": 254,
+          "cx": 564,
+          "cy": 583,
+          "h": 45,
+          "ox": 75,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 254
+        },
+        "cf_next": {
+          "ch": 45,
+          "cw": 522,
+          "cx": 0,
+          "cy": 92,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 522
+        },
+        "cf_overwrite": {
+          "ch": 46,
+          "cw": 384,
+          "cx": 487,
+          "cy": 137,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 384
+        },
+        "cf_qload": {
+          "ch": 45,
+          "cw": 363,
+          "cx": 462,
+          "cy": 183,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 363
+        },
+        "cf_qsave": {
+          "ch": 46,
+          "cw": 368,
+          "cx": 534,
+          "cy": 0,
+          "h": 46,
+          "ox": 72,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 368
+        },
+        "cf_title": {
+          "ch": 46,
+          "cw": 381,
+          "cx": 518,
+          "cy": 46,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 381
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page2__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 477
+    },
+    "head_cf_title": {
+      "class": "layer",
+      "height": 78,
+      "layer": "nosave",
+      "name": "head_cf_title",
+      "overlay": "line|cf_title",
+      "uiname": "head_cf_title",
+      "uistates": {
+        "cf_allremove1": {
+          "ch": 46,
+          "cw": 487,
+          "cx": 0,
+          "cy": 137,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 487
+        },
+        "cf_allremove2": {
+          "ch": 46,
+          "cw": 534,
+          "cx": 0,
+          "cy": 0,
+          "h": 46,
+          "ox": 68,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 534
+        },
+        "cf_backto": {
+          "ch": 46,
+          "cw": 518,
+          "cx": 0,
+          "cy": 46,
+          "h": 46,
+          "ox": 69,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 518
+        },
+        "cf_delete": {
+          "ch": 46,
+          "cw": 438,
+          "cx": 0,
+          "cy": 228,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 438
+        },
+        "cf_exit": {
+          "ch": 45,
+          "cw": 307,
+          "cx": 564,
+          "cy": 538,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 307
+        },
+        "cf_init": {
+          "ch": 45,
+          "cw": 394,
+          "cx": 438,
+          "cy": 228,
+          "h": 45,
+          "ox": 73,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 394
+        },
+        "cf_jump": {
+          "ch": 45,
+          "cw": 462,
+          "cx": 0,
+          "cy": 183,
+          "h": 45,
+          "ox": 70,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 462
+        },
+        "cf_load": {
+          "ch": 45,
+          "cw": 254,
+          "cx": 564,
+          "cy": 583,
+          "h": 45,
+          "ox": 75,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 254
+        },
+        "cf_next": {
+          "ch": 45,
+          "cw": 522,
+          "cx": 0,
+          "cy": 92,
+          "h": 45,
+          "ox": 68,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 522
+        },
+        "cf_overwrite": {
+          "ch": 46,
+          "cw": 384,
+          "cx": 487,
+          "cy": 137,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 384
+        },
+        "cf_qload": {
+          "ch": 45,
+          "cw": 363,
+          "cx": 462,
+          "cy": 183,
+          "h": 45,
+          "ox": 72,
+          "oy": 1,
+          "storage": "config_page2_jp__pack",
+          "w": 363
+        },
+        "cf_qsave": {
+          "ch": 46,
+          "cw": 368,
+          "cx": 534,
+          "cy": 0,
+          "h": 46,
+          "ox": 72,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 368
+        },
+        "cf_title": {
+          "ch": 46,
+          "cw": 381,
+          "cx": 518,
+          "cy": 46,
+          "h": 46,
+          "ox": 71,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 381
+        },
+        "line": {
+          "ch": 70,
+          "cw": 1622,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 1,
+          "storage": "config_page2__pack",
+          "w": 1622
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 14,
+          "storage": "",
+          "w": 1628
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 777
+    },
+    "nextjump_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"setBasicOptionValue/nextjump/toggle\")",
+      "name": "nextjump_chk",
+      "uiname": "nextjump_chk",
+      "uistates": {}
+    },
+    "nextjump_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"setBasicOptionValue/nextjump/off\")",
+      "groupName": "nextjump",
+      "height": 66,
+      "name": "nextjump_off",
+      "uiname": "nextjump_off",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 0,
+          "cy": 670,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 274,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 564,
+          "cy": 274,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 1904
+    },
+    "nextjump_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"setBasicOptionValue/nextjump/on\")",
+      "groupName": "nextjump",
+      "height": 66,
+      "name": "nextjump_on",
+      "uiname": "nextjump_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 406,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 472,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 1904
+    },
+    "nextjump_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"setBasicOptionValue/nextjump/toggle\")",
+      "name": "nextjump_rev",
+      "uiname": "nextjump_rev",
+      "uistates": {}
+    },
+    "pos0": {
+      "class": "area",
+      "height": 64,
+      "name": "pos0",
+      "uiname": "pos0",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 192
+    },
+    "pos0s": {
+      "class": "area",
+      "height": 64,
+      "name": "pos0s",
+      "uiname": "pos0s",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 192
+    },
+    "pos1": {
+      "class": "area",
+      "height": 65,
+      "name": "pos1",
+      "uiname": "pos1",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 341
+    },
+    "pos1s": {
+      "class": "area",
+      "height": 64,
+      "name": "pos1s",
+      "uiname": "pos1s",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 430
+    },
+    "pos2": {
+      "class": "area",
+      "height": 65,
+      "name": "pos2",
+      "uiname": "pos2",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 491
+    },
+    "pos2s": {
+      "class": "area",
+      "height": 64,
+      "name": "pos2s",
+      "uiname": "pos2s",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 668
+    },
+    "pos3": {
+      "class": "area",
+      "height": 65,
+      "name": "pos3",
+      "uiname": "pos3",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 641
+    },
+    "pos4": {
+      "class": "area",
+      "height": 64,
+      "name": "pos4",
+      "uiname": "pos4",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 791
+    },
+    "pos_dw": {
+      "class": "area",
+      "height": 66,
+      "name": "pos_dw",
+      "uiname": "pos_dw",
+      "uistates": {},
+      "width": 282,
+      "x": 852,
+      "y": 395
+    },
+    "pos_next": {
+      "class": "area",
+      "height": 17,
+      "name": "pos_next",
+      "uiname": "pos_next",
+      "uistates": {},
+      "width": 930,
+      "x": 228,
+      "y": 892
+    },
+    "pos_top": {
+      "class": "area",
+      "height": 17,
+      "name": "pos_top",
+      "uiname": "pos_top",
+      "uistates": {},
+      "width": 930,
+      "x": 228,
+      "y": 142
+    },
+    "pos_up": {
+      "class": "area",
+      "height": 66,
+      "name": "pos_up",
+      "uiname": "pos_up",
+      "uistates": {},
+      "width": 282,
+      "x": 852,
+      "y": 306
+    },
+    "prevjump_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"setBasicOptionValue/prevjump/toggle\")",
+      "name": "prevjump_chk",
+      "uiname": "prevjump_chk",
+      "uistates": {}
+    },
+    "prevjump_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"setBasicOptionValue/prevjump/off\")",
+      "groupName": "prevjump",
+      "height": 66,
+      "name": "prevjump_off",
+      "uiname": "prevjump_off",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 538,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 604,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 282,
+          "cy": 670,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 2142
+    },
+    "prevjump_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"setBasicOptionValue/prevjump/on\")",
+      "groupName": "prevjump",
+      "height": 66,
+      "name": "prevjump_on",
+      "uiname": "prevjump_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 564,
+          "cy": 340,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 564,
+          "cy": 406,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 564,
+          "cy": 472,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page2_jp__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 2142
+    },
+    "prevjump_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"setBasicOptionValue/prevjump/toggle\")",
+      "name": "prevjump_rev",
+      "uiname": "prevjump_rev",
+      "uistates": {}
+    },
+    "scroll_term": {
+      "class": "layer",
+      "height": 2,
+      "layer": "(~null~)",
+      "name": "scroll_term",
+      "uiname": "scroll_term",
+      "uistates": {
+        "(~null~)": {
+          "h": 2,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 18
+        }
+      },
+      "width": 18,
+      "x": 228,
+      "y": 2368
+    }
+  }
+}

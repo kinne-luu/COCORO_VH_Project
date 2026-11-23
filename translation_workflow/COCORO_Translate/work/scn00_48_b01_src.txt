@@ -1,0 +1,64 @@
+# scene=scn00_48 batch=1/4 dòng 1-60 / 223
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_48_0001 | ひなた(Hinata) | 『霧香さんは九十九市を解放するための仕事をしてる。もし嫌じゃなければ、協力してあげてほしい』 | "Kirika-san is working on making Tsukumo City accessible again. I want you to help her—if you don't hate the idea, at least." | “雾香小姐正在为了解放九十九市而工作着，如果你不抗拒就请帮帮她吧”
+scn00_48_0002 | ココロ(Cocoro) | 『嫌、という判断基準はワタシにはありません』 | "I don't have a benchmark for judging 'hate.'" | “我并没有关于‘抗拒’的判断基准”
+scn00_48_0003 | ひなた(Hinata) | 『そうだったね』 | "I suppose that's true." | “也是啊”
+scn00_48_0004 | ココロ(Cocoro) | 『もしも九十九市が解放されたら、あなたは嬉しいですか？』 | "Would you be happy if Tsukumo City became freely accessible again?" | “如果九十九市被解放了，你会开心吗？”
+scn00_48_0005 | ひなた(Hinata) | 『ああ、もちろん』 | "Yeah, I would." | “嗯，那当然了”
+scn00_48_0006 | ココロ(Cocoro) | 『それは帰る場所ができるからですか？』 | "Would you have a home again, then?" | “是因为有归宿了吗？”
+scn00_48_0007 | ひなた(Hinata) | 『そうだね……うん、そうだよ』 | "Hmm... Yeah, I think so." | “是啊……嗯，是的”
+scn00_48_0008 | ひなた(Hinata) | 『……実はさ、帰りたい場所があるんだ』 | "You know, there's somewhere I've always wanted to return to." | “……其实，我有想回的地方”
+scn00_48_0009 | ココロ(Cocoro) | 『どこでしょう？』 | "Where is that?" | “是哪里呢？”
+scn00_48_0010 | ひなた(Hinata) | 『想い出の中の……約束』 | "A promise... that I've always remembered." | “回忆中的……约定”
+scn00_48_0011 | ココロ(Cocoro) | 『？　約束は守る、もしくは破るものであり、帰る場所ではありません』 | "Hmm? Promises are things that can be either kept or broken. They're not a place to return to." | “？　约定是会被遵守或打破的东西，并不是可以回去的地方”
+scn00_48_0012 | ひなた(Hinata) | 『まあそうなんだけどさ』 | "Well, technically you're right." | “对你来说是这样没错”
+scn00_48_0013 | ココロ(Cocoro) | 『……あ、もしかして、今のはヒトらしくない反応でしたか？』 | "...Oh, was that response not very humanlike?" | “……啊，难道说，刚刚的反应不像人类？”
+scn00_48_0014 | ひなた(Hinata) | 『そんなことはないよ。正論だし』 | "No, it was fine. You're absolutely correct." | “没有这回事，毕竟你说的是正论”
+scn00_48_0015 | ココロ(Cocoro) | 『正論ばかりいうヒトは嫌われる。過去にそう学習した記憶があります』 | "Sometimes humans hate to be told the truth. That's something I learned about in the past." | “总说正论的人是会被讨厌的，我有曾经学过这个的记忆”
+scn00_48_0016 | ひなた(Hinata) | 『あははは、そうかもね』 | "Hahaha, maybe you're right." | “啊哈哈哈，可能是吧”
+scn00_48_0017 | ココロ(Cocoro) | 『ワタシはヒトとしてまだまだですね……』 | "I still have a long way to go as a human..." | “作为人类我还差得远啊……”
+scn00_48_0018 | ココロ(Cocoro) | 『わかりました、お手伝いをします。あなたに帰る場所を作るための』 | "All right. I will assist you in gaining a home to return to." | “我明白了，我会帮忙的，为了给你制造一个归宿”
+scn00_48_0019 | - | ――数年後。 | A few years later. | ——数年后。
+scn00_48_0020 | - | 先日開通したばかりのハイウェイを、俺が乗る車が駆け抜けていく。 | I'm traveling down the newly opened highway in my car. | 我乘坐的车跑在前几天刚刚开通的高速公路上。
+scn00_48_0021 | ひなた(Hinata) | 「もう少しスピード出せない？」 | "Could you go a little faster?" | “不能再开快一点吗？”
+scn00_48_0022 | 自動運転ナビ(Car Navigation) | 『法定速度ギリギリです。あきらめてください』 | <We're driving at the legal speed limit. Don't even think about it.> | ‘已经到达法定速度的上限了，您还是放弃吧’
+scn00_48_0023 | ひなた(Hinata) | 「そこをなんとか……ちょっとの速度超過くらい、みんなやってるよ？」 | "Please, I beg you... Just a little faster should be fine. Nobody sticks to the speed limits, anyway." | “通融一下吧……大家不都会稍微超一点速嘛？”
+scn00_48_0024 | 自動運転ナビ(Car Navigation) | 『あきれました。違法行為の強要はおやめください。あの方に言いつけますよ？』 | <I'm disappointed in you. Please stop trying to force me to commit illegal acts, or I'll have to report you.> | ‘无语了，请您不要强迫我去进行违法行为。小心我把这件事告诉那位哦？’
+scn00_48_0025 | - | 我が社で開発した自動運転ナビシステムは優秀だ。マスターに強要されても、時速１kmたりとも速度超過してくれない。 | The self-driving navigation system developed by our company is excellent. It refuses to exceed the speed limit by even a single kilometer, even when its owner orders it to. | 我们公司开发的自动驾驶导航系统十分优秀，就算被主人逼迫，也不会超速哪怕1km/h。
+scn00_48_0026 | 自動運転ナビ(Car Navigation) | 『そんなに急ぐくらいなら、どうしてもっと早くお帰りにならなかったのでしょう？』 | <Why did you not come home earlier if you were in such a hurry?> | ‘既然这么急，为什么没有早点往回走呢？’
+scn00_48_0027 | ひなた(Hinata) | 「しょうがないだろ、急な出張だったんだ」 | "I didn't know I'd be going on a sudden business trip." | “没办法啊，突然出了个差”
+scn00_48_0028 | - | 遠方のお客様から、うちの製品でトラブルがあったと報告があり、急遽現地へ確かめに行ってきた。 | I received a report from a customer in another city that there was a problem with one of our products, so I rushed to the site to inspect it. | 有个报告说远方的客人投诉我们的产品出现问题了，我便匆忙去现场进行了确认。
+scn00_48_0029 | - | 結果、よくある見落としで、なんの問題もなかったんだけど。 | But it turned out that the issue was caused by a common oversight, so there was nothing for me to repair. | 结果，就是常见的看漏了东西，其实一点问题都没有。
+scn00_48_0030 | 自動運転ナビ(Car Navigation) | 『やれやれ……我々ロボットへの不信感は、まだ根強いですからね』 | <Good grief... People still have trouble trusting robots, don't they?> | ‘哎呀哎呀……毕竟大家对我们机器人的不信任感依旧根深蒂固啊’
+scn00_48_0031 | ひなた(Hinata) | 「そう言うなって」 | "Come on, don't say that." | “别这么说嘛”
+scn00_48_0032 | - | ナビはどうあっても法定速度は守るつもりなので、俺は[あきら]諦めて景色をのんびり楽しむ事にした。 | The navigation system seems determined to stick to the speed limit, so I give up and decide to just relax and enjoy the ride. | 因为导航无论如何都想要遵守法定速度，我也只能放弃然后悠闲地欣赏着路上的风景了。
+scn00_48_0033 | 自動運転ナビ(Car Navigation) | 『そろそろツクモ市に入ります』 | <We will arrive in New Tsukumo City shortly.> | ‘差不多要进入次百市了’
+scn00_48_0034 | ひなた(Hinata) | 「ああ、分かってる」 | "Yeah, I know." | “嗯，我知道”
+scn00_48_0035 | - | フロントガラスの向こうには、復興を[と]遂げた未来都市ツクモの姿がもう見えていた。 | Looking out the windshield, I can already see the rebuilt futuristic city of New Tsukumo on the horizon. | 我已经能从前挡风玻璃看到完成了复兴的未来都市次百市的轮廓了。
+scn00_48_0036 | - | 世界最先端の技術を集めて、ロボットと人の融合を図った実験都市。 | It's an experimental city where all the world's most advanced technologies are available, and where robots and humans live together in an integrated society. | 这里是聚集了世界最先进的技术，计划使机器人融入人类的实验都市。
+scn00_48_0037 | - | それを可能にしたのが、新世代ＡＩ・ＣＣＲシステム。 | This was made possible by the next-generation AI: the CCR system. | 让这一切变成可能的是，新时代AI・CCR系统。
+scn00_48_0038 | - | 人と感情を通わせる事のできるAIだ。 | It's an AI system that understands human emotions. | 这是能够和人类交流感情的AI。
+scn00_48_0039 | 自動運転ナビ(Car Navigation) | 『あの方へ連絡をしておきますか、社長？』 | <Shall I contact her for you, sir?> | ‘要联系一下那位吗，社长？’
+scn00_48_0040 | ひなた(Hinata) | 「……お願いしていいかな。俺が言うと、またチクチクされちゃうから」 | "...Please do. I'm sure she'd give me an earful if I called her myself." | “……可以拜托你来吗，如果我来说，肯定又会被阴阳怪气”
+scn00_48_0041 | 自動運転ナビ(Car Navigation) | 『了解しました。この大事な日に思いっきり遅刻するのだというのを、昨日からの行動履歴含め、詳細にお伝えしておきます』 | <Understood, sir. I will provide detailed information, including your whereabouts since yesterday, to explain why you're late on such an important day.> | ‘明白了，我会将您要在这么重要的日子中迟到这件事，包括昨天到现在的行程一同详细传达过去’
+scn00_48_0042 | ひなた(Hinata) | 「結局チクチクされるのか。いったい誰に似たのやら……」 | "I'm sure I'll never hear the end of it either way. Who could she be taking after...?" | “结果还是被阴阳怪气了一顿啊，你到底是像谁啊……”
+scn00_48_0043 | - | ようやく『厄災』から立ち直った世界は、再びテクノロジーを進化させていった。 | The world has finally recovered from the Calamity, and the development of new technologies is gaining momentum once more. | 这总算是从‘灾厄’中恢复过来的世界，再次通过科技发生了进化。
+scn00_48_0044 | - | 傷痕が[い]癒えきるより前に、誰かがやめても、誰かが始めてしまう。 | The scars haven't fully healed, and some people may have lost their faith in technology, but it was only a matter of time before someone would start again. | 在伤痕愈合之前，即使有人放弃，也会有人前进。
+scn00_48_0045 | - | 母さんが予言していた。これは人間の宿命、止める事などできない。 | My mom predicted this. It's human destiny, and there's no way to stop it. | 母亲预言过，这就是人类的宿命，是永远无法被阻止的。
+scn00_48_0046 | - | ならば正しい進化を――そう願って、俺は霧香さんと会社を設立した。 | Wishing for the right kind of progress, Kirika-san and I started a new company. | 于是我和雾香小姐便祈祷着世界能够正确的进化，而设立了公司。
+scn00_48_0047 | - | 『厄災』の痛みを教訓として記憶に[とど]留め、二度と[あやま]過ちを犯さぬように。 | The pain of the Calamity has taught us many valuable lessons. We won't repeat the same mistakes again. | 将‘灾厄’带来的伤痛作为教训留在记忆中，为了不再犯下过错。
+scn00_48_0048 | - | 社長は俺だけど、研究開発を取り仕切るのは霧香さんで、実質彼女の会社と言っていい。 | While I'm the CEO, Kirika-san is in charge of research and development, so it's essentially  company. | 公司的总裁虽然是我，但研究开发方面是由雾香小姐全面负责的，所以实际上这家公司可以说是她的。
+scn00_48_0049 | - | 俺は霧香さんの研究をサポートしつつ、社会の中でどう役立てていくかを考え、実行する役目だった。 | My role is to support her research and consider how it could be utilized in society, then put those ideas into practice. | 我的职责就是在协助雾香小姐研究的同时，思考如何应用到社会上，并将其实行。
+scn00_48_0050 | ひなた(Hinata) | （その結果、クレーム処理のために泊まりがけで出張しなきゃいけないんだけどね……。社長が若いと舐められるしなぁ） | (As a result, I keep having to go on overnight business trips to handle customer complaints... And people tend to not take me seriously because I'm so young for a CEO.) | （结果就是，为了处理投诉我不得不出差并留宿啊……毕竟年轻总裁就是会被人瞧不起啊）
+scn00_48_0051 | - | どんなにテクノロジーが進化しても、そこは人と人、顔を合わせて仕事しなきゃいけない。 | No matter how advanced technology gets, some parts of the job can only be done face-to-face. | 无论科技如何进步，都必须要进行人与人之间面对面的工作。
+scn00_48_0052 | - | あるいは、『彼女』が目覚めれば、それも任せられるようになるかもしれないが。 | Eventually, it may become possible to entrust those tasks to  when she wakes up. | 或者，说不定等‘她’醒过来后，这些工作也能交给她了。
+scn00_48_0053 | - | 新世代ＡＩ・ＣＣＲシステムは、『彼女』のデータを元に開発された。 | The next-generation AI CCR system was developed based on  data. | 新时代AI・CCR系统是以‘她’的数据为基础开发出来的。
+scn00_48_0054 | - | 擬似的な感情を持つＡＩだが、暴走を防ぐためリミッターがかけられている。 | Although it's able to simulate emotions, it has a strict limiter in place to prevent it from running amok. | 虽然这个系统是拥有模拟感情的AI，但为了防止其暴走我们也为其加上了限制。
+scn00_48_0055 | ひなた(Hinata) | 「……そのわりに辛辣なんだよな」 | "...Maybe that's why it's so sharp-tongued?" | “……结果却很毒舌啊”
+scn00_48_0056 | 自動運転ナビ(Car Navigation) | 『は？　なにか文句でも？』 | <Huh? Do you have a problem?> | ‘哈？　你有什么意见吗？’
+scn00_48_0057 | ひなた(Hinata) | 「ごめんて。それやめて」 | "Sorry. Can you stop being so rude though?" | “对不起，别这样说话了”
+scn00_48_0058 | 自動運転ナビ(Car Navigation) | 『ワタシの言葉遣いは、あの方[ゆず]譲りです。どうですか、嬉しいでしょう？』 | <My speech patterns were modeled after hers. Doesn't that make you happy?> | ‘我的措辞是那位留给我的，怎么样，是不是很开心？’
+scn00_48_0059 | ひなた(Hinata) | 「まあ、そのくらいの方が会話してる感じがあっていいね」 | "Well, it does make it easier to talk to you." | “算是吧，这样才有对话的感觉，我觉得挺好的”
+scn00_48_0060 | - | 俺にはこんな調子だが、ＴＰＯはわきまえてるので、関係値のない相手には普通に丁寧な対応をする[すぐ]優れものだ。 | She's sassy when she talks to me, but she's intelligent enough to read the room, so she's perfectly capable of speaking politely with strangers. | 它虽然对我是这种语气，但也能分得清TPO，面对不熟的对象就会正常地做出亲切的回应，这一点十分优秀。

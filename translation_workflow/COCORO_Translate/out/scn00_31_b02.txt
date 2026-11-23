@@ -1,0 +1,60 @@
+scn00_31_0061 | Loài côn trùng đi thụ phấn đổi lấy mật ngọt, liệu chúng có cảm thấy những bông hoa ấy đẹp hay không...?
+scn00_31_0062 | Đời nào có chuyện đó.
+scn00_31_0063 | Côn trùng làm sao có được trí thông minh bậc cao như vậy.
+scn00_31_0064 | Chúng chỉ đơn thuần hành động theo sự lập trình sẵn của bộ gen.
+scn00_31_0065 | Cocoro cũng thế.
+scn00_31_0066 | Dù cho tổ hợp các dòng mã do nhà phát triển tạo ra có mang lại những tư duy và hành vi phức tạp đến đâu, thì về căn bản cũng chỉ là một nguyên lý.
+scn00_31_0067 | Vậy con người thì sao...?
+scn00_31_0068 | Có lẽ con người cũng chẳng khác là bao.
+scn00_31_0069 | Thứ mà ta vẫn ngỡ là trái tim thực chất cũng chỉ là một hiện tượng vật lý sinh ra từ sự kết hợp của các chức năng não bộ.
+scn00_31_0070 | Bởi lẽ tôi chưa từng nhìn thấy trái tim bao giờ, cũng chưa từng chạm vào hay ngửi thấy nó.
+scn00_31_0071 | Hương hoa ngọt ngào theo làn gió thoảng khẽ vuốt ve cánh mũi.
+scn00_31_0072 | Trái tim dường như đã khô cằn đến mức chẳng còn cảm giác gì của tôi bỗng được tưới mát trong thoáng chốc.
+scn00_31_0073 | Tôi uể oải ngồi dậy, chăm chú nhìn vào bông hoa.
+scn00_31_0074 | Đẹp thật đấy... tôi nghĩ vậy.
+scn00_31_0075 | Nhưng nếu bị gặng hỏi lại lần nữa, tôi lại chẳng còn dám tự tin khẳng định.
+scn00_31_0076 | Vẻ đẹp vốn là thứ để cảm nhận, một khi cố dùng lý tính để lý giải, đường nét của nó liền trở nên mông lung mơ hồ.
+scn00_31_0077 | Nếu thực sự Cocoro có thể cảm nhận được vẻ đẹp ấy, thì cậu ấy không còn đơn thuần là một robot nữa, mà có lẽ đã có thể trở thành một thứ gì đó giống như con người.
+scn00_31_0078 | Khi khứu giác đã dần quen với mùi hương, tôi lại chẳng còn cảm nhận được gì nữa.
+scn00_31_0079 | Ngay lập tức sự vô lực lại bao trùm, tôi buông mình nằm vật ra sàn nhà.
+scn00_31_0080 | Giờ này không biết Cocoro đang ở đâu, ra sao rồi?
+scn00_31_0081 | Cậu ấy đã bị Jabberwock mang đi đâu?
+scn00_31_0082 | Cơ thể chịu nhiều tổn thương kia liệu có ổn không?
+scn00_31_0083 | Liệu cậu ấy... vẫn còn sống chứ...
+scn00_31_0084 | "...Phù."
+scn00_31_0085 | "Thở dài nhiều quá là may mắn bay đi mất đấy ạ."
+scn00_31_0086 | "Cậu Kotaro..."
+scn00_31_0087 | "Chủ nhiệm lại thức trắng đêm nữa à?"
+scn00_31_0088 | "Ừ. Vì đã thu thập được dữ liệu chi tiết về hiện tượng ức chế sinh vật nên tôi tiến hành phân tích."
+scn00_31_0089 | "Có phát hiện ra điều gì mới không?"
+scn00_31_0090 | "...Hiện giờ mới chỉ là giả thuyết, nhưng có khả năng rất cao hiện tượng ức chế sinh vật được sinh ra từ một lỗi trong mạch cảm xúc."
+scn00_31_0091 | "Mạch cảm xúc?"
+scn00_31_0092 | "Đó là một trong các mạch tư duy được tích hợp bên trong Cocoro. Đúng như tên gọi, nó là mạch dùng để sản sinh cảm xúc."
+scn00_31_0093 | "Sản sinh cảm xúc... Chuyện như vậy mà cũng làm được sao?"
+scn00_31_0094 | "Tôi cũng không rõ. Tuy rất muốn khẳng định là điều không tưởng, nhưng người tạo ra nó không nghi ngờ gì nữa chính là một thiên tài..."
+scn00_31_0095 | "Cách nói của chủ nhiệm cứ như thể người quen vậy nhỉ."
+scn00_31_0096 | "Quen hay không gì chứ, đó chính là chị ruột của tôi."
+scn00_31_0097 | "Chị ruột của Chủ nhiệm Kizuki ư?"
+scn00_31_0098 | "...Chị ấy đã xây dựng nên lý thuyết nền tảng về mạch cảm xúc và hoàn thiện bản nguyên mẫu."
+scn00_31_0099 | "Và bản nguyên mẫu đó đã được lắp đặt bên trong Cocoro..."
+scn00_31_0100 | "Đó là một phát minh đột phá đến kinh ngạc. Thế nhưng, nhà phát triển - Tiến sĩ Mitsumine Yoko - đã qua đời trước khi kịp chứng kiến tương lai của chú robot sở hữu cảm xúc."
+scn00_31_0101 | "Bởi lẽ như một sự đánh đổi cho món quà trời ban ấy, chị ấy sinh ra đã mang số phận đoản mệnh."
+scn00_31_0102 | "..."
+scn00_31_0103 | "Và rồi, sự quá đỗi đột phá của mạch cảm xúc rốt cuộc lại trở thành tai họa."
+scn00_31_0104 | "Tại sao lại thế? Đó là một phát minh vĩ đại cơ mà?"
+scn00_31_0105 | "Vì chẳng ai có thể hiểu nổi nó cả. Dù có muốn đặt câu hỏi thì người thiết kế cũng chẳng còn trên cõi đời này nữa."
+scn00_31_0106 | "Các thử nghiệm với Cocoro... tức CCR-01... vẫn được tiếp tục trong tình trạng bên trong đầu mang theo một hộp đen bí ẩn."
+scn00_31_0107 | "Theo nhật ký bảo trì, ban đầu quá trình học tập của CCR-01 diễn ra khá suôn sẻ. Quả thực, tuy chưa hoàn thiện, nhưng Cocoro đã bắt đầu biểu lộ thứ gì đó tương tự như cảm xúc."
+scn00_31_0108 | "Thế nhưng mọi chuyện không chỉ toàn màu hồng. Bởi cảm xúc còn có cả mặt tiêu cực nữa."
+scn00_31_0109 | "Như giận dữ, bất an hay đau buồn phải không ạ."
+scn00_31_0110 | "Phải. Có thể nói hiện tượng ức chế sinh vật chính là sự khuếch đại của những cảm xúc tiêu cực. Thứ đó lan truyền qua mạng lưới và lây nhiễm sang các AI khác."
+scn00_31_0111 | "Nghe giống hệt con người nhỉ. Kiểu như bực bội bị lây lan sang nhau ấy."
+scn00_31_0112 | "Nghiêm trọng hơn thế nhiều. Những AI khác vốn không có mạch cảm xúc nên chẳng thể hiểu đúng thứ đó là gì. Hậu quả là chúng không thể kiềm chế nổi những cảm xúc tiêu cực mất kiểm soát."
+scn00_31_0113 | "Nghĩa là vốn là sự bực dọc của kẻ khác, nhưng lại biến thành sự bực dọc của chính bản thân mình sao?"
+scn00_31_0114 | "...Dù hiện tại đó vẫn chỉ là giả thuyết."
+scn00_31_0115 | "Nhưng chuyện như vậy mà cũng xảy ra được sao? Bởi lẽ những AI khác vốn dĩ đâu có mạch cảm xúc."
+scn00_31_0116 | "Chúng kết nối qua mạng lưới, rồi lầm tưởng mạch cảm xúc của Cocoro là của chính mình."
+scn00_31_0117 | "Không, có lẽ đúng hơn là các AI khác dường như đã trở thành một phần của Cocoro."
+scn00_31_0118 | "Bị thao túng sao...?"
+scn00_31_0119 | "Dù diễn đạt như thế chưa hẳn đã chuẩn xác, nhưng tình cảnh thì tương tự. Giống như con người hành động theo cảm tính, các AI bị lây nhiễm cũng răm rắp tuân theo những cảm xúc mà chúng tiếp nhận."
+scn00_31_0120 | "Nhưng mạng lưới đã sụp đổ sau thảm họa 'Ách Tai' rồi mà."

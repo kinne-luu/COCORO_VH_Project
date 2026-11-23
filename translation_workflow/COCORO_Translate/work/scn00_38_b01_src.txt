@@ -1,0 +1,64 @@
+# scene=scn00_38 batch=1/6 dòng 1-60 / 326
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_38_0001 | 光太郎(Kotaro) | 「ダメです、主任！　橋を警備ロボットが塞いでいて、これ以上車では行けませんっ」 | "It's no use, Chief. Bridge's blocked by security robots. We can't take the car any further!" | “不行，主任！　桥被安保机器人堵住了，没法开车过去”
+scn00_38_0002 | 霧香(Kirika) | 「……どうにかして中へ入らないと。『厄災』が、また広まってしまう……」 | "I have to get inside, or else the Calamity will spread again..." | “……得想办法进去，不然‘灾厄’就又会蔓延……”
+scn00_38_0003 | 光太郎(Kotaro) | 「どうにかって、危険すぎますって」 | "But how!? It's too dangerous!" | “这怎么想办法，太危险了”
+scn00_38_0004 | 霧香(Kirika) | 「誰かがやらなきゃ……姉さんの起こした『厄災』を、誰かが止めなきゃいけないの！」 | "Somebody has to go... My sister started the Calamity—somebody's got to stop it!" | “必须要有人去做这件事……姐姐引发的‘灾厄’，必须要有人去阻止才行！”
+scn00_38_0005 | 光太郎(Kotaro) | 「落ち着いてください、今、あなたを失うわけにはいかないんです」 | "Please, calm down, Chief. We can't afford to lose you right now." | “请冷静一点，现在我们不能失去你”
+scn00_38_0006 | 霧香(Kirika) | 「駆除隊がミュータントドローンを掃討するのを待つ余裕はない……」 | "If we wait for the extermination squad to sweep up all these mutant drones, it'll be too late..." | “没有时间等驱除队清理变异无人机了……”
+scn00_38_0007 | 光太郎(Kotaro) | 「『厄災』レベルの暴動なら、駆除隊の戦力では太刀打ちできません。もう我々の手に負える事態じゃない」 | "If this riot's on the same level as the Calamity, the extermination squad won't be of any use. This is far beyond what we can handle alone." | “‘灾厄’等级的暴乱，以驱除队的战力是无法进行对抗的，这已经不是我们能处理的事态了”
+scn00_38_0008 | 光太郎(Kotaro) | 「まずいっ、警備ロボットに気付かれた！？　早く逃げましょう！」 | "Shit, that security robot noticed us! We need to get outta here, now!" | “不好，我们安保机器人发现了！？　赶快逃跑吧！”
+scn00_38_0009 | 霧香(Kirika) | 「……ダメよ、あそこにはひなたが……」 | "Hinata is still there... I can't leave him!" | “……不行，日向还在那里……”
+scn00_38_0010 | 光太郎(Kotaro) | 「あなたにもしもの事があったら、誰がこの事態を止めるんですか！　しっかりしてください主任！」 | "But who's going to put an end to this if anything happened to you!? Pull yourself together, Chief!" | “如果你出了什么事，那谁来阻止这个事态啊！　振作一点啊主任！”
+scn00_38_0011 | 霧香(Kirika) | 「……え？　新しいアレロパシー反応が……」 | "Huh? I'm detecting a new wave of allelopathy..." | “……哎？　有新的化感作用反应……”
+scn00_38_0012 | 光太郎(Kotaro) | 「主任、危ない！？」 | "Chief, watch out!" | “主任，危险！”
+scn00_38_0013 | - | …………。 | ... | …………
+scn00_38_0014 | 光太郎(Kotaro) | 「……………………？」 | "...Huh?" | “……………………？”
+scn00_38_0015 | 光太郎(Kotaro) | 「襲ってこない……いったい何が」 | "It's not attacking...? What's going on?" | “它没有袭击我们……到底发生了什么”
+scn00_38_0016 | 霧香(Kirika) | 「エラー状態を示す赤いランプが、青くなってる……。暴走が止まった？」 | "Its red error indicator has turned blue... What could have caused that?" | “表示错误状态的红灯变成了蓝色……暴走停止了？”
+scn00_38_0017 | 光太郎(Kotaro) | 「見てください、他の警備ロボットも急に大人しくなって、セントラルエリアへ帰っていきます」 | "Look at that... The other security robots suddenly stopped rampaging, too. They're turning around and heading back toward the Central Area." | “快看，其他安保机器人也都突然老实起来，返回中心区了”
+scn00_38_0018 | 霧香(Kirika) | 「……中で何かあったんだわ。行ってみましょう！」 | "Something must have happened inside. Let's go!" | “……里面肯定发生了什么，我们走吧！”
+scn00_38_0019 | 光太郎(Kotaro) | 「主任っ、まだ危険ですって！？　ったくもう」 | "Chief! It still isn't safe! Sheesh..." | “主任，现在还很危险啊！　真是的”
+scn00_38_0020 | 大地(Daichi) | 「やばいぞ風音！　南口のバリケードが突破された！！」 | "Bad news, Kazane! They breached the south barricade!!" | “不好了风音！　南口的路障被突破了！”
+scn00_38_0021 | 風音(Kazane) | 「みんなー！　なるべく頑丈な建物に避難してーー！！」 | "Listen everyone! Evacuate to a structurally sound building!" | “各位——！　尽可能去坚固的建筑物里进行避难——！！”
+scn00_38_0022 | 町内会長(Neighborhood Chief) | 「風音ちゃんたちはどうするんだい。君らも早く逃げないと」 | "What about you, Kazane-chan? You guys should evacuate, too." | “风音你们怎么办，你们也得趁早逃跑啊”
+scn00_38_0023 | 風音(Kazane) | 「逃げ遅れてる人がいないか確かめたら避難しますから、会長さんは先に行ってください」 | "We'll go once we know we haven't left anybody behind. Go on ahead, Chief." | “我们在确认所有人都逃离了之后就会去避难，会长就先走吧”
+scn00_38_0024 | 町内会長(Neighborhood Chief) | 「わかった、気を付けるんだよ」 | "Okay. Be careful, you hear?" | “我知道了，小心点啊”
+scn00_38_0025 | 風音(Kazane) | 「……４年前のようにはさせない。みんなを守るんだ」 | "We're not going to have a repeat of what happened four years ago. We'll protect this town." | “……我不会让4年前的悲剧重演。我一定会保护好大家”
+scn00_38_0026 | 犬(Dog) | 「ワンワンワン！！」 | "Woof woof woof!" | “汪汪汪！！”
+scn00_38_0027 | 大地(Daichi) | 「来たぞ！　俺たちも急いで逃げよう！」 | "Here they come! We should start running soon!" | “它们来了！　咱们也赶紧跑吧！”
+scn00_38_0028 | 風音(Kazane) | 「……ッ！？　北口も破られてる！！？　挟まれたッ！！」 | "Huh!? Did they break through the north barricade, too!? We're trapped between them!!" | “……！？　北口也被突破了！！？　我们被夹在中间了！！”
+scn00_38_0029 | 大地(Daichi) | 「うちに逃げ込め！　早く！」 | "Let's run to my place! Quick!" | “逃进我家去！　快点！”
+scn00_38_0030 | 風音(Kazane) | 「ワン太、あんたも来な！」 | "Wanta, come with us!" | “汪太，你也过来！”
+scn00_38_0031 | 犬(Dog) | 「ワン！」 | "Woof!" | “汪！”
+scn00_38_0032 | 大地(Daichi) | 「ここにいればしばらくは安全だ」 | "We should be safe in here for a while." | “待在这里暂时应该是安全的”
+scn00_38_0033 | 風音(Kazane) | 「みんなちゃんと逃げられたかな……」 | "I hope everyone managed to evacuate..." | “大家应该都逃掉了吧……”
+scn00_38_0034 | 大地(Daichi) | 「おまえが早めに声かけて回ったから大丈夫だろう。みんな４年前を経験してて、危機感もある」 | "I'm sure they'll be fine, thanks to your early warning. We all remember well the lessons we learned four years ago." | “你提前和通知他们了，所以应该没事吧。大家也经历过4年前的事，都是有危机感的”
+scn00_38_0035 | 風音(Kazane) | 「……うん」 | "...Yeah." | “……嗯”
+scn00_38_0036 | 犬(Dog) | 「ワゥゥ……」 | "Woo..." | “呜……”
+scn00_38_0037 | 大地(Daichi) | 「とはいえ、立てこもってるだけじゃどうしようもない。……助けなんか来るのか」 | "Still, there's nothing we can do as long as we're trapped inside here... Do you think anyone's gonna come help us?" | “话是这么说，但一直躲着也不是个事……会有人来救我们吗”
+scn00_38_0038 | 風音(Kazane) | 「……わからない。外の人間からしたら、エリア９９には人は住んでない事になってるから」 | "...No idea. On paper, nobody's supposed to be living in Area 99 anymore." | “……我不知道，毕竟在外面的人看来，已经没有人住在99区了”
+scn00_38_0039 | 大地(Daichi) | 「ミュータントドローンが居なくなるまで、ここに閉じこもってるしかねえってのか」 | "So we've got no choice but to shut ourselves in until the mutant drones go away." | “在变异无人机消失前，我们都只能被关在这里吗”
+scn00_38_0040 | 風音(Kazane) | 「……」 | "..." | “……”
+scn00_38_0041 | 大地(Daichi) | 「もし助かっても、今度こそ商店街は滅茶苦茶だ。……クソ、どうなっちまうんだ俺たち」 | "But even if we survive, the town's gonna get destroyed... Dammit, is this the end?" | “就算有人来救我们，商店街这回也会变得一片狼藉……可恶，我们之后会怎么样啊”
+scn00_38_0042 | 風音(Kazane) | 「ッ！！？」 | "...Huh!?" | “！！？”
+scn00_38_0043 | 犬(Dog) | 「ワンワン！！」 | "Woof woof!" | “汪汪！！”
+scn00_38_0044 | 大地(Daichi) | 「あいつら、俺たちがここにいるって気付いてやがるんだ。ボロ家だから、長くは持たないぞ……」 | "They know we're in here. A ramshackle building like this won't last long against them." | “那些家伙们注意到我们在这里了，这个老房子可撑不了多久啊……”
+scn00_38_0045 | 風音(Kazane) | 「ひなた……助けて」 | "Hinata... Help..." | “日向……救救我”
+scn00_38_0046 | - | …………。 | ... | …………
+scn00_38_0047 | - | ………………。 | ...... | ………………
+scn00_38_0048 | 大地(Daichi) | 「？　音がやんだ……？」 | "Huh? The noises stopped..." | “？　声音停了……？”
+scn00_38_0049 | 風音(Kazane) | 「……」 | "..." | “……”
+scn00_38_0050 | 風音(Kazane) | 「見てあれ！　あいつらが帰ってく！」 | "Look! The robots are leaving!" | “你看那边！　他们回来了！”
+scn00_38_0051 | 大地(Daichi) | 「何があったんだ？」 | "What's going on?" | “发生什么事了？”
+scn00_38_0052 | 霧香(Kirika) | 「ひなた！」 | "Hinata!" | “日向！”
+scn00_38_0053 | ひなた(Hinata) | 「？　霧香さん！？」 | "What? Kirika-san!?" | “？　雾香小姐！？”
+scn00_38_0054 | - | 霧香さんと光太郎さんがメンテナンスルームに飛び込んできた。 | The door of the maintenance room bursts open, and in come Kirika-san and Kotaro-san. | 雾香小姐和光太郎先生冲进了维护室。
+scn00_38_0055 | 光太郎(Kotaro) | 「主任、下がって！」 | "Chief, stand back!" | “主任，快后退！”
+scn00_38_0056 | - | そこにいたＣＣＲ－０２を見て、光太郎さんが霧香さんを背中に[かば]庇う。 | Seeing CCR-02, Kotaro-san protectively steps out in front of Kirika-san. | 光太郎先生看到那边的CCR-02后，便将雾香小姐护至了身后。
+scn00_38_0057 | ＣＣＲ－０２(CCR-02) | 『……』 | "..." | ‘……’
+scn00_38_0058 | - | ＣＣＲ－０２は霧香さんたちを見て、部屋を出て行こうとする。 | CCR-02 sees the two newcomers as well and tries to leave the room. | CCR-02看到雾香小姐二人之后，便准备离开房间。
+scn00_38_0059 | ココロ(Cocoro) | 「妹よ、どこへ行くのですか？」 | "My dear sister, where are you going?" | “我的妹妹，你要去哪里？”
+scn00_38_0060 | - | ＣＣＲ－０２は振り返りもせず、どこかへ去っていった。 | CCR-02 leaves without even looking back. | CCR-02头也不回地离开了。

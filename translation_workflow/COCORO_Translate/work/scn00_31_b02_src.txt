@@ -1,0 +1,64 @@
+# scene=scn00_31 batch=2/4 dòng 61-120 / 205
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_31_0061 | ひなた(Hinata) | （蜜を吸う代わりに花粉を運ぶ虫は、花を美しいと感じているんだろうか……？） | (When insects pollinate the flowers in return for receiving their nectar, do they feel that the flowers are beautiful...?) | （以搬运花粉为交换吸食蜂蜜的昆虫，会认为花很美丽吗……？）
+scn00_31_0062 | - | そんなはずはない。 | That can't be true. | 应该是不会。
+scn00_31_0063 | - | 虫に、そんな高度な知能はない。 | Insects don't have that level of intelligence. | 昆虫并没有那么高的智力。
+scn00_31_0064 | - | ただ遺伝子のプログラムに従い、行動しているだけ。 | They merely do what they're genetically programmed to do. | 只是遵从着基因的代码而行动。
+scn00_31_0065 | - | ココロもそう。 | Just like Cocoro. | 心也是如此。
+scn00_31_0066 | - | 開発者が作ったプログラムコードの組み合わせによって、複雑な思考と行動をするが、根本的には同じ事。 | The combination of code put together by the programmer enables her complex thinking and behavior, but the basic principle behind it is the same. | 根据开发者编写的程序代码组做出复杂的思考和行为，和昆虫本质上是一样的。
+scn00_31_0067 | ひなた(Hinata) | （人はどうなんだろう……） | (What does it even mean to be human...?) | （人又是如何呢……）
+scn00_31_0068 | - | 人もまた同じかもしれない。 | Perhaps humans aren't any different. | 人或许也是如此。
+scn00_31_0069 | - | 心だと思っているものは、脳機能の組み合わせによって生じる物理現象でしかない。 | Maybe what we think of as "the soul" is merely a physical phenomenon created by a combination of functions in our brains. | 被认为是人心的东西，也只不过是大脑机能结合在一起产生的物理现象而已。
+scn00_31_0070 | - | だって俺は心なんて見た事がないし、触れた事も、[か]嗅いだ事もない。 | I've never seen anybody's soul with my own eyes, nor have I touched or smelled one. | 毕竟我从来没看到过人心，也没摸到过，也没闻到过。
+scn00_31_0071 | - | 風に運ばれてきた花の甘い香りが、ふんわりと鼻腔をくすぐった。 | The sweet, floral scent carried on the breeze softly tickles my nostrils. | 随风而来的甜美花香，轻搔着我的鼻腔。
+scn00_31_0072 | - | 干からびたように何も感じなくなっていた心が、一瞬だけ[うるお]潤う。 | For a brief moment, my heart perks up like a parched plant that's just received a drink of water. | 让我那干枯了一般什么都感觉不到的心滋润了一瞬间。
+scn00_31_0073 | - | 俺はのろのろと起き上がって、花を見つめた。 | I slowly sit up and look at the flowers. | 我慢慢爬起来，观察起了花。
+scn00_31_0074 | ひなた(Hinata) | （美しい……と思う） | (They're beautiful... I think.) | （我觉得……很美丽）
+scn00_31_0075 | - | 改めてどうかと聞かれると、自信が持てなくなる。 | When I think about it again, I start to lose confidence. | 如果再问我一次，我或许就没有自信这么说了。
+scn00_31_0076 | - | 美しさとは感じるものであって、理性によって理解しようとすると、急に輪郭があやふやになる。 | Beauty is something that you . When we try to understand it through reasoning, it suddenly loses all meaning. | 美丽只能去感受，如果试图通过理性去理解，它的轮廓就会突然变得模糊不清。
+scn00_31_0077 | - | もしほんとにココロが美しさを感じる事があるのなら、たんなるロボットではない、人のような何かになれるかもしれない。 | If Cocoro can really feel that beauty, then she's not just a simple robot. Perhaps she could become something closer to a human. | 心如果真的能感受到美丽，那她就不仅仅是个机器人了，或许就能够成为类似人类的某物。
+scn00_31_0078 | - | 香りに鼻が慣れて、何も感じなくなってきた。 | Now that my nose has gotten used to the scent, I don't notice it anymore. | 在鼻子习惯了香气后，就什么都感受不到了。
+scn00_31_0079 | - | とたんにまた無気力になり、俺は床に身を横たえた。 | The energy drains out of my body once again, and I lie back down on the floor. | 我突然感觉自己又浑身无力了，便躺回了床上。
+scn00_31_0080 | - | ココロは今、どこでどうしているだろう。 | I wonder where Cocoro is right now. What is she doing? | 心现在哪里，过得怎么样啊。
+scn00_31_0081 | - | ジャバウォックにどこへ連れ去られたのか。 | Where did the Jabberwock take her? | 被贾巴沃克带去哪里了呢。
+scn00_31_0082 | - | ダメージを負ったボディは大丈夫だろうか。 | Is her body okay after taking all that damage? | 受损的身体没事吧。
+scn00_31_0083 | - | まだ、生きているだろうか……。 | Is she even still alive...? | 应该，还活着吧……
+scn00_31_0084 | 霧香(Kirika) | 「……はぁ」 | "Hahh..." | “……唉”
+scn00_31_0085 | 光太郎(Kotaro) | 「ため息ついてると、幸せが逃げてっちゃいますよ」 | "If you keep sighing like that, all your happiness is gonna escape." | “叹气会让幸福溜走哦”
+scn00_31_0086 | 霧香(Kirika) | 「光太郎君……」 | "Kotaro-kun..." | “光太郎……”
+scn00_31_0087 | 光太郎(Kotaro) | 「また徹夜ですか？」 | "Were you up all night working again?" | “又通宵了吗？”
+scn00_31_0088 | 霧香(Kirika) | 「ええ。アレロパシーの詳細なデータが取れたから、解析をしてたの」 | "Yes. Now that I have new data on the allelopathy, I can analyze it." | “嗯，拿到了化感作用的详细数据，所以我就去进行解析了”
+scn00_31_0089 | 光太郎(Kotaro) | 「何か分かったんですか？」 | "Have you learned anything new?" | “解析出什么了吗？”
+scn00_31_0090 | 霧香(Kirika) | 「……まだ仮説でしかないけど、恐らくアレロパシーは感情回路のバグによって生み出されている可能性が高い」 | "This is still just a hypothesis, but there's a high chance that allelopathy occurs due to an emotional circuitry bug." | “……现阶段还只是假说，但恐怕化感作用是源自于感情回路Bug的可能性很高”
+scn00_31_0091 | 光太郎(Kotaro) | 「感情回路？」 | "Emotional circuitry?" | “感情回路？”
+scn00_31_0092 | 霧香(Kirika) | 「ココロに搭載されている思考回路の一つよ。その名の通り、感情を生み出すための回路」 | "It's one of the thought processors that Cocoro is equipped with. As its name implies, it's responsible for creating emotions." | “就是心体内搭载的思考回路中的一种，和这个名字一样，是用来产生感情的回路”
+scn00_31_0093 | 光太郎(Kotaro) | 「感情を生み出す……。そんな事が可能なんですか？」 | "Creating emotions...? Is that even possible?" | “产生感情……这真的可能吗？”
+scn00_31_0094 | 霧香(Kirika) | 「分からない。不可能と言い切ってしまいたいところだけど、それを作ったのが[まぎ]紛れもない天才だから……」 | "I don't know. I'm inclined to say that it's impossible, but the person who developed it was a genius, so the sky's the limit..." | “我不知道，虽然我很想断言这是不可能的，但做出这个的人毫无疑问是个天才啊……”
+scn00_31_0095 | 光太郎(Kotaro) | 「まるで知ってる人みたいな口ぶりですね」 | "You sound like you know this person." | “这说得就好像是你认识的人一样啊”
+scn00_31_0096 | 霧香(Kirika) | 「知ってるもなにも、私の実の姉よ」 | "That's because I do. She's my older sister." | “认不认识的，就是我亲姐姐啊”
+scn00_31_0097 | 光太郎(Kotaro) | 「機月主任の？」 | "Your sister?" | “机月主任的姐姐？”
+scn00_31_0098 | 霧香(Kirika) | 「……姉さんは感情回路の基礎理論を作り、プロトタイプを完成させていた」 | "My sister developed the basic principles behind emotional circuitry and created a prototype." | “……姐姐构建出了感情回路的基础理论，并做出了原型”
+scn00_31_0099 | 光太郎(Kotaro) | 「そのプロトタイプがココロちゃんに搭載されていたと……」 | "That prototype is what Cocoro-chan has inside her." | “而那个原型就搭载在心体内……”
+scn00_31_0100 | 霧香(Kirika) | 「驚くべき画期的な発明だった。しかし、開発者の三峯陽子博士は、感情を持ったロボットの行く末を見る前に、この世を去った」 | "It was a groundbreaking invention. However, its developer—Dr. Mitsumine Yoko—passed away before she could see what her creation was fully capable of." | “这是一项惊人且划时代的发明。可是，开发者三峯阳子在见证到拥有感情的机器人的未来之前就去世了”
+scn00_31_0101 | 霧香(Kirika) | 「天から授かったギフトと引き換えに、短命に終わる事が生まれながらに約束されていたから」 | "Perhaps her short lifespan was the price she paid in exchange for her God-given intellect." | “上天赐予了她才能，作为交换，上天也削减了她的寿命”
+scn00_31_0102 | 光太郎(Kotaro) | 「……」 | "..." | “……”
+scn00_31_0103 | 霧香(Kirika) | 「そして、感情回路が画期的すぎた事が[あだ]徒となった」 | "And her groundbreaking invention turned out to be  revolutionary." | “然后，感情回路由于太超前了，最后也变成了徒劳”
+scn00_31_0104 | 光太郎(Kotaro) | 「どうしてですか？　すごい発明だったんですよね？」 | "Why? Wasn't it an amazing invention?" | “为什么？　这不是很厉害的发明吗？”
+scn00_31_0105 | 霧香(Kirika) | 「誰にも理解できなかったのよ。質問しようにも、設計者はもういないし」 | "Nobody could understand it, and there's no way to ask its creator any questions anymore." | “因为谁都无法理解啊，而就算有人想提出疑问，设计者也已经不在了”
+scn00_31_0106 | 霧香(Kirika) | 「ココロ……ＣＣＲ－０１のテストは、頭の中にブラックボックスを入れたまま続けられた」 | "Testing with Cocoro—with CCR-01—continued despite this 'black box' in its head." | “心……CCR-01的测试，是在大脑中装着黑箱的情况下进行的”
+scn00_31_0107 | 霧香(Kirika) | 「メンテのログによると、当初、ＣＣＲ－００１のラーニングは順調に進んでいたみたい。実際、ココロは不完全だけど、感情めいたものを見せていた」 | "According to the maintenance logs, CCR-01's deep learning model seemed to be functioning well at first. In fact, it was starting to show some emotion, albeit imperfect." | “从维护记录上来看，最初，CCR-01的学习似乎进行得很顺利。实际上，虽然不太完全，但心确实展现出了感情色彩”
+scn00_31_0108 | 霧香(Kirika) | 「でも、いい事ばかりじゃないわ。感情にはネガティブな側面もあるから」 | "But that wasn't necessarily a good thing. Emotions can be negative as well." | “但是，这也并不全是好事，毕竟感情存在着消极的一面”
+scn00_31_0109 | 光太郎(Kotaro) | 「怒りとか不安、悲しみなどですね」 | "You mean like anger, anxiety, and sadness, right?" | “愤怒、不安、悲伤之类的对吧”
+scn00_31_0110 | 霧香(Kirika) | 「ええ。アレロパシーは言わば負の感情が増幅されたもの。それがネットワークを通じて他のＡＩに感染拡大していく」 | "That's right. Allelopathy is an amplification of these negative emotions, you could say. It spreads through networks and infects other AI." | “嗯，化感作用就是负面感情受到增幅后的产物，然后通过网络扩大范围感染了其他AI”
+scn00_31_0111 | 光太郎(Kotaro) | 「なんか人間みたいっすね。イライラが伝染するみたいな」 | "That sounds just like humans, doesn't it? Anger can be contagious." | “感觉和人类一样啊，就像是烦躁会传染那样”
+scn00_31_0112 | 霧香(Kirika) | 「もっと深刻よ。感情回路を持たない他のＡＩは、それが何か正しく理解できない。結果、制御できない負の感情を[おさ]抑えられなくなる」 | "It's much more serious than that. AI without emotional circuits can't understand what these emotions are. As a result, they become uncontrollable." | “要更加严重啊，没有感情回路的其他AI无法正确理解那是什么，结果就是，负面感情无法得到控制”
+scn00_31_0113 | 光太郎(Kotaro) | 「他人のイライラのはずが、自分がイライラしてる事になってしまうわけですか」 | "So it's as if someone else's anger becomes your own?" | “明明是别人在烦躁，结果自己也跟着烦躁起来了对吧”
+scn00_31_0114 | 霧香(Kirika) | 「……まだ仮説だけれどね」 | "...It's still just a hypothesis, though." | “……不过这还只是个假说”
+scn00_31_0115 | 光太郎(Kotaro) | 「でも、そんな事が可能なんですか？　だって、他のＡＩには、そもそも感情回路がないのに」 | "How is that possible, though? I mean, you just said that those other AI don't have emotional circuitry to begin with." | “但是，这真的可能吗？　其他AI可是连感情回路都没有啊”
+scn00_31_0116 | 霧香(Kirika) | 「ネットワークで接続され、ココロの持つ感情回路を自らのもののように認識してしまうのよ」 | "If they're connected to the network, they can detect Cocoro's emotions and mistakenly recognize them as their own." | “它们通过网络连接，将心的感情回路认知成自己的东西了”
+scn00_31_0117 | 霧香(Kirika) | 「ううん、他のＡＩがココロの一部のようになってしまう、と言った方が正しいかしら」 | "No, it'd be more accurate to say that those other AI become part of Cocoro." | “不，应该说是其他的AI就像是变成了心的一部分”
+scn00_31_0118 | 光太郎(Kotaro) | 「操られてしまう……？」 | "So she's controlling them...?" | “被控制了……？”
+scn00_31_0119 | 霧香(Kirika) | 「正確な表現ではないけれど、状況としては似ているわ。人間が感情のまま動くように、感染したＡＩも受け取った感情に従ってしまう」 | "That's not exactly accurate either, but it's a similar idea. Infected AI act upon the emotions they receive, just like how humans act upon their emotions." | “虽然这个说法不太准确，但情况确实很相似。就和人类受情感驱使而行动一样，受感染的AI也遵从了接收到的情感”
+scn00_31_0120 | 光太郎(Kotaro) | 「でも、『厄災』でネットワークは崩壊しましたよね」 | "But the network has been down ever since the Calamity, hasn't it?" | “但是，‘灾厄’不是让网络崩溃了吗”

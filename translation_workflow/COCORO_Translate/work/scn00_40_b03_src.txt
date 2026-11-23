@@ -1,0 +1,64 @@
+# scene=scn00_40 batch=3/7 dòng 120-179 / 394
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_40_0120 | ひなた(Hinata) | 「平気だよ。それより、水をあげよう」 | "I'm fine. Let's water the flowers." | “没事，不说这个了，还是来浇水吧”
+scn00_40_0121 | ココロ(Cocoro) | 「はい」 | "Okay." | “好”
+scn00_40_0122 | ココロ(Cocoro) | 「お水ですよ、大好物でしょう。たっぷり光合成をして、元気に花を咲かせるのですよ」 | "Here's some water. It's your favorite, isn't it? Photosynthesize well and make lots of flowers bloom, okay?" | “是水哦，你最喜欢水了对吧，你要努力进行光合作用精神地开出花来哦”
+scn00_40_0123 | ココロ(Cocoro) | 「ついでに周囲がびちゃびちゃになるまで水を[ま]撒いておきましょう。湿度が高まって、明日には咲くかもです」 | "I'll sprinkle some water around the flower bed, too. It will increase the humidity, and therefore the chances of them blooming tomorrow." | “顺便将周围也浇湿一点吧。将湿度提高一些，没准明天就开花了”
+scn00_40_0124 | - | ナツノシラユキが咲くのを無邪気に楽しみにするココロを、俺は微笑ましい気持ちで眺めるのだった。 | A smile forms on my face when I see how genuinely excited Cocoro is to see the summer snows bloom. | 我欣慰地望着一脸天真期待着夏之白雪开花的心。
+scn00_40_0125 | - | 植物園を出て商店街へ戻って来たのは、午後になってからだった。 | By the time we leave the garden and return to the shopping district, it's already past noon. | 离开植物园回到商店街的时候已经是下午了。
+scn00_40_0126 | - | この時間になると、さすがに人目を[さ]避けて帰るわけにもいかない。 | It would be extremely hard to go unseen at this time of day. | 到了这个时间，再怎么样也没办法避开人们的眼睛回去。
+scn00_40_0127 | ココロ(Cocoro) | 「……ぅぅ……暗くなるまで待ちませんか、ひなたさん」 | "Uhh... Hinata-san, can we please wait until it gets dark?" | “……呜呜……不能等到天黑再回去吗，日向先生”
+scn00_40_0128 | ひなた(Hinata) | 「どこでさ。俺、お腹空いたよ」 | "Wait ? Also, I'm hungry." | “能去哪里等啊，我都饿了”
+scn00_40_0129 | - | いつかは顔を合わさなければならないのだからと、ココロの手を引いて歩く。 | I pull Cocoro along by the hand, knowing that she'll eventually have to start talking to people again. | 我用总会用碰面的时候作为理由，拉着心的手走了起来。
+scn00_40_0130 | - | すると、ちょうどうちの前辺りに人が集まっていた。 | Then, I notice a small crowd gathered up ahead. | 然后发现家门口正好聚集着一群人。
+scn00_40_0131 | 犬(Dog) | 「ワンワン！！」 | "Woof woof!" | “汪汪！！”
+scn00_40_0132 | - | 犬がココロに気付いて尻尾を振る。 | The dog notices Cocoro first and approaches, its tail wagging. | 狗注意到心后摇起了尾巴。
+scn00_40_0133 | ココロ(Cocoro) | （シー！　黙ってください！） | "Shhh! Be quiet!" | （嘘！　不要叫了！）
+scn00_40_0134 | 風音(Kazane) | 「？　よぉ、ひなた、ココロちゃん」 | "Oh? Hey, Hinata, Cocoro-chan." | “？　哟，日向、心”
+scn00_40_0135 | - | 風音がこっちに気付くと、ココロが俺の後ろにサッと隠れた。 | When Kazane turns toward us, Cocoro hides herself behind me. | 在风音注意到这边后，心便嗖的一下躲到了我的身后。
+scn00_40_0136 | ひなた(Hinata) | 「どうしたの、大勢で集まって」 | "What's wrong? Why's everyone here?" | “怎么了，为什么这么多人聚在一起”
+scn00_40_0137 | 風音(Kazane) | 「こないだの騒ぎで街に被害が出ちゃったから、分担して修復作業をしようって話してたんだ」 | "We were talking about how we're going to split up restoration efforts between us. The incident the other night left us with a lot of work to do." | “前段时间的事让街道遭到了破坏，现在正在商量着分工进行修复作业”
+scn00_40_0138 | - | ミュータントドローンに壊された街の修繕計画を話し合っているところだったようだ。 | Apparently, they're discussing plans to repair all the damage the rampaging mutant drones caused. | 似乎是在商量关于被变异无人机破坏的街道的修缮计划。
+scn00_40_0139 | ひなた(Hinata) | 「俺にも手伝わせてよ、居候させてもらってる身だし」 | "Let me help, too. I need to pull my weight, since I'm staying here for free." | “让我也来帮忙吧，怎么说我也是寄宿在这里的人”
+scn00_40_0140 | ココロ(Cocoro) | 「……うっ」 | "Uh..." | “……呜”
+scn00_40_0141 | ココロ(Cocoro) | 「そ……そういう事でしたら、ワタシも……お……お手伝いさせて……くださぃ」 | "I-In that case... P-Please... allow me to help... too." | “这……这样的话，就让我……也……也来帮忙吧”
+scn00_40_0142 | 風音(Kazane) | 「どした、ココロちゃん？」 | "What's wrong, Cocoro-chan?" | “怎么了，心？”
+scn00_40_0143 | ココロ(Cocoro) | 「……いえ……べつに」 | "Oh... Nothing." | “……没有……没什么”
+scn00_40_0144 | - | みんなの注目が集まり、ココロが[ひる]怯む。 | Cocoro cowers from all the attention she's getting. | 看到大家的目光都聚集了过来后，心便畏缩了起来。
+scn00_40_0145 | - | シーンと静まり返っているのは、ココロの態度のせいだけじゃないだろう。 | Everyone's gone quiet, but I doubt it's because of Cocoro's behavior. | 大家都默不作声并不只是因为心的态度。
+scn00_40_0146 | ひなた(Hinata) | （みんな、ココロがロボットだったと知って、どう接していいか迷ってるんだ） | (Now that everyone knows Cocoro's a robot, they're not sure how to act around her.) | （大家在知道了心是机器人之后都陷入了迷茫，不知道应该如何与她相处）
+scn00_40_0147 | - | その困惑を生み出した一因は俺にある。 | Part of the blame for that lies with me, though. | 让这种迷茫诞生的一部分原因也出在我身上。
+scn00_40_0148 | ひなた(Hinata) | 「みなさんに謝らないといけない事があります」 | "There's something I need to apologize to you all about." | “我有件事想对大家道个歉”
+scn00_40_0149 | 風音(Kazane) | 「なんだ、どうした急に」 | "What? Where'd that come from?" | “怎么这么突然”
+scn00_40_0150 | ひなた(Hinata) | 「前にココロを、俺の親戚の子だって説明していましたが、ほんとは違います」 | "I told everyone that Cocoro was my cousin before, but I lied." | “我之前说心是我亲戚家的孩子，但其实并不是这样”
+scn00_40_0151 | ひなた(Hinata) | 「この娘は……」 | "She's actually..." | “她是……”
+scn00_40_0152 | - | どう言えば誤った印象を与えずに説明できるだろうか。 | How do I explain it without giving people the wrong impression? | 要怎么介绍才能不带给他们错误的印象呢。
+scn00_40_0153 | - | 迷っていると、集まっていた人の中から、見覚えのあるご婦人が前に出た。 | As I'm trying to figure out what to say, a familiar lady emerges from the crowd. | 就在我不知该怎么办时，人群中走出了一位面熟的夫人。
+scn00_40_0154 | 田中(Tanaka) | 「あなた……やっぱりそうだわ、植物園でボランティアをしてた娘よね」 | "Are you...? I knew it. You're the girl who used to volunteer at the botanical garden." | “你……我果然没看错，你就是在植物园里当志愿者的那个姑娘对吧”
+scn00_40_0155 | - | 俺がこの街へ帰ってきたばかりの時に、ココロの行方を知りたくて風音が紹介してくれた、植物園の元スタッフの方だ。 | Tanaka-san is a former staff member at the garden. Kazane introduced me to her when I first came back to town and was trying to find Cocoro. | 这是在我刚回到这条街的时候，因为想知道心的去向而拜托风音介绍给我的那位植物园前员工。
+scn00_40_0156 | ココロ(Cocoro) | 「……あ、はいどうも」 | "...Oh, yes, I am." | “……啊，你好”
+scn00_40_0157 | ココロ(Cocoro) | 「あなたは、田中さんですね。お久しぶりです」 | "You're Tanaka-san, aren't you? It's been a long time." | “您是田中女士对吧，好久不见”
+scn00_40_0158 | 田中(Tanaka) | 「無事だったのね、よかったわ……」 | "I'm glad to see that you're safe..." | “你原来没事啊，真是太好了……”
+scn00_40_0159 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_40_0160 | - | ココロが居心地悪そうにする。 | Cocoro looks uncomfortable. | 心看上去有些难受。
+scn00_40_0161 | - | 当時、田中さんはココロを、研究所の職員の娘さんだと説明されていたと話していた。 | She told me that Tanaka-san and the other staff members were led to believe that she was the daughter of one of the researchers. | 当时，田中女士对我说心是研究所职员的女儿。
+scn00_40_0162 | ココロ(Cocoro) | 「[なつ]懐かしんでいただく前に、説明せねばならない事があります。ワタシはヒトではありません。ワタシは……」 | "Before you get nostalgic about those days, there's something I must explain. I'm not a human, I'm..." | “在您开始怀念之前，我有事必须要先解释一下，我并不是人类，我是……”
+scn00_40_0163 | 田中(Tanaka) | 「聞いたわよぉ、ロボットなんですって？」 | "I've heard. You're a robot, right?" | “我听说了，你是机器人来着？”
+scn00_40_0164 | - | 田中さんはしげしげとココロを見る。 | Tanaka-san narrows her eyes at Cocoro. | 田中女士端详着心。
+scn00_40_0165 | 田中(Tanaka) | 「全然、見えないわねぇ……ほんとにそうなの？」 | "You don't look like one at all... Is that true?" | “完全不像啊……你真的是机器人吗？”
+scn00_40_0166 | ココロ(Cocoro) | 「……。はい、ヒトっぽさには定評のあるヒューマノイドです」 | "...Yes. I'm a hyperrealistic humanoid!" | “……是的，我是被公认很像人类的仿生人”
+scn00_40_0167 | 田中(Tanaka) | 「いいわねぇ、ずっと変わらなくて。私はあれから白髪が増えちゃって」 | "How nice it must be that you never change. My hair's becoming grayer and grayer these days..." | “真好啊，你一直都没变，我和那时候比可是多了好多白头发啊”
+scn00_40_0168 | - | 田中さんが笑うのを見て、ココロはどう返していいか困っている。 | Cocoro-san seems unsure how to respond to Tanaka-san's hearty laughter. | 心看到田中女士的笑容后，不知该如何回应。
+scn00_40_0169 | - | すると田中さんはココロの[そば]傍に歩み寄り、小さな手をそっと握った。 | Then, she comes up to Cocoro and takes hold of her small hand. | 于是田中女士便走到了心的身边，轻轻握住了她的小手。
+scn00_40_0170 | 田中(Tanaka) | 「あの時はありがとうね」 | "Thank you so much for everything you did back then." | “那时真是谢谢你了”
+scn00_40_0171 | ココロ(Cocoro) | 「あの時とはいつでしょう？」 | "Back when, exactly?" | “那时是什么时候？”
+scn00_40_0172 | 田中(Tanaka) | 「『厄災』があった日よ。私は夕方には帰っていたからなんともなかったけれど、まだ残って働いていたスタッフがいたのよね」 | "The night of the Calamity. I'd already gone home for the day, so I was safe, but some of the other staff members were still working." | “就是‘灾厄’发生那天啊，虽然我傍晚就回去了所以没什么事，但还有很多工作人员在那里工作着呢对吧”
+scn00_40_0173 | 田中(Tanaka) | 「何が起こったのか分からなくて逃げ遅れてた人たちを、あなたが助けてくれたって……」 | "They were unable to evacuate in time because nobody knew what was happening, but I heard that you saved them..." | “听说是你帮了那些不知道发生了什么事而没来得及逃走的人们……”
+scn00_40_0174 | ココロ(Cocoro) | 『さあ、早く行ってくださいどうぞ』 | "Please take him, and hurry." | “好了，请快点离开吧”
+scn00_40_0175 | 父(Dad) | 『他にも暴れているロボットがいるのか』 | "Are there more robots rampaging out there?" | “还有其他发狂的机器人吗”
+scn00_40_0176 | ココロ(Cocoro) | 『困りましたね……。そうだ。あなた』 | "That sounds like trouble... Hey, you." | “真是头疼啊……对了，你过来”
+scn00_40_0177 | ココロ(Cocoro) | 『こちらの方を安全なところまでお送りしてください。いいですね？』 | "Please guard these two until they reach a safe place. Can you do that?" | “把这几位先生送到安全的地方去，明白了没有？”
+scn00_40_0178 | ココロ(Cocoro) | 『これで多少は安全です。さ、急いで』 | "This one should keep you safe. Now, please hurry." | “这样就稍微安全一点了，好了，快走吧”
+scn00_40_0179 | 父(Dad) | 『ありがとう』 | "Thank you." | “谢谢”

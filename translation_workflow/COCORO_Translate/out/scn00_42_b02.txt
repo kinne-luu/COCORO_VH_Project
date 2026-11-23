@@ -1,0 +1,60 @@
+scn00_42_0061 | "Điều đó có thật không? Cậu có thể chứng minh được không?"
+scn00_42_0062 | Phải làm cách nào mới có thể truyền tải trọn vẹn thứ cảm xúc này đến cho cậu ấy hiểu được đây.
+scn00_42_0063 | Dùng ngôn từ là điều bất khả thi. Với sự hạn hẹp trong vốn từ ngữ của tôi, chẳng thể nào diễn tả hết được.
+scn00_42_0064 | Phải làm sao đây... phải làm sao đây... biết giãi bày thế nào cho đặng.
+scn00_42_0065 | "? Cậu Hinata??"
+scn00_42_0066 | "?"
+scn00_42_0067 | Cocoro tỏ vẻ bối rối. Nhưng tôi lại chẳng hiểu vì cớ làm sao cậu ấy lại ngỡ ngàng như thế.
+scn00_42_0068 | "...Sao cậu lại khóc thế? Quả nhiên là bộ váy này không hợp với tôi sao?"
+scn00_42_0069 | Ơ, mình... đang khóc ư?
+scn00_42_0070 | Chẳng biết tự bao giờ, những giọt lệ đã tuôn rơi giàn giụa trên khóe mi tôi.
+scn00_42_0071 | Tôi ôm chầm lấy nàng dâu Cocoro trong bộ váy cưới lộng lẫy vào lòng.
+scn00_42_0072 | "Tại cậu đẹp quá... làm tôi xúc động nghẹn ngào mất rồi."
+scn00_42_0073 | "Thật hạnh phúc vì ngày đó tôi đã ngỏ lời cầu hôn cậu."
+scn00_42_0074 | "...May quá, thì ra không phải là những giọt nước mắt buồn bã."
+scn00_42_0075 | Tôi buông Cocoro ra rồi lại ngắm nhìn cậu ấy thật kỹ thêm một lần nữa.
+scn00_42_0076 | "Đẹp thật sự luôn đấy..."
+scn00_42_0077 | "Hợp dã man tàn bạo luôn ấy chứ."
+scn00_42_0078 | "Ngưỡng mộ ghê cơ..."
+scn00_42_0079 | "Cháu ưng ý là bà vui lắm rồi."
+scn00_42_0080 | "Cháu cảm ơn bà Yoshino nhiều lắm ạ."
+scn00_42_0081 | "Cháu xin cảm ơn bà nhiều ạ. Cúi chào."
+scn00_42_0082 | "Không có gì đâu. Được thấy cháu mặc thế này bản thân bà cũng thấy hạnh phúc lắm."
+scn00_42_0083 | Hôm nay bà Yoshino mang chiếc váy cưới đã sửa xong kích thước đến, và Cocoro vừa mới mặc thử xong.
+scn00_42_0084 | Tôi khi nãy chỉ đứng đợi ở ngoài cho tới khi cậu ấy thay đồ xong xuôi.
+scn00_42_0085 | "Chị Coco ơii, em cũng muốn ngắm nữaaa!"
+scn00_42_0086 | "Gâu!!"
+scn00_42_0087 | Từ bên ngoài, bé Kosame cất tiếng gọi vọng vào.
+scn00_42_0088 | "Cháu cho cả Kosame xem cùng có được không ạ?"
+scn00_42_0089 | "Được chứ, được chứ, cháu cứ tự nhiên đi."
+scn00_42_0090 | "Để tôi nâng tà váy lên giúp cậu kẻo bị lấm bẩn nhé."
+scn00_42_0091 | Tôi cùng Ryuzaki đỡ hai bên tà váy để không bị quệt xuống đất, rồi dìu Cocoro bước xuống tầng dưới.
+scn00_42_0092 | "Oaaa~~~~......"
+scn00_42_0093 | "Huýttt saooo~~♪"
+scn00_42_0094 | "Trông tôi thế nào ạ?"
+scn00_42_0095 | "Tuyệt vời lắm luôn ạ! Chị Coco trông xinh ơi là xinh luôn ấy!!"
+scn00_42_0096 | "Trông khác hẳn ngày thường luôn đấy nhé. Nhìn chững chạc ra dáng người lớn hẳn lên."
+scn00_42_0097 | "Hì hì, chuyện đương nhiên rồi mà lại."
+scn00_42_0098 | "Có chuyện gì thế, ồn ào gì đấy?"
+scn00_42_0099 | Daichi đang phụ việc trong tiệm bánh cũng tò mò bước ra ngoài.
+scn00_42_0100 | "Ồ ồ...!? ...Mày đấy hả, thật sự là con nhỏ Cocoro đấy à?"
+scn00_42_0101 | "Tôi xin kết luận là câu hỏi đó chẳng có lấy một mẩu tế nhị nào cả."
+scn00_42_0102 | "Anh hai thật là..."
+scn00_42_0103 | "Gâu gâu gâu gâu!!"
+scn00_42_0104 | "Đứng yên."
+scn00_42_0105 | Thấy chú cún toan nhảy bổ vào người, Cocoro nghiêm giọng quát dừng lại ngay tức khắc.
+scn00_42_0106 | Chú cún khựng phắt lại rồi ngoan ngoãn ngồi xuống, nhưng cái đuôi thì ngúng nguẩy không tài nào ngồi yên.
+scn00_42_0107 | "Nếu cậu dám làm bộ váy này dính đầy lông chó của cậu thì tôi tuyệt đối không tha cho đâu đấy."
+scn00_42_0108 | "Ẳng ẳng..."
+scn00_42_0109 | Giữa lúc mọi người đang tíu tít trò chuyện, những người đi đường bắt đầu dừng bước rồi đám đông dần dà xúm lại quanh đó.
+scn00_42_0110 | Ai nấy đều bị hút hồn bởi vẻ kiều diễm của Cocoro trong bộ váy cưới, người khen 'xinh quá', kẻ trầm trồ 'đáng yêu ghê'.
+scn00_42_0111 | Và rồi những lời xì xào khen ngợi ấy đều được bộ cảm biến thính giác cực kỳ nhạy bén của Cocoro thu lại trọn vẹn.
+scn00_42_0112 | "Hì hì..."
+scn00_42_0113 | Cocoro ngượng ngùng bẽn lẽn với nụ cười ngập tràn hạnh phúc, khẽ nép sát vào rồi dịu dàng khoác lấy cánh tay tôi.
+scn00_42_0114 | "Mọi người ai nấy đều không ngớt lời khen ngợi tôi kìa."
+scn00_42_0115 | "Vì cậu là vị hôn thê mà tôi vô cùng tự hào mà."
+scn00_42_0116 | Trong đám đông tụ tập lại đây, không phải tất cả mọi người trước giờ đều có thiện cảm với Cocoro.
+scn00_42_0117 | Từng có những người lộ rõ vẻ e dè, ghét bỏ khi hay tin Cocoro là một người máy hình người, thế nhưng,
+scn00_42_0118 | "Đó chẳng phải là cô bé hôm nọ bảo là robot sao..."
+scn00_42_0119 | "Ơ, đùa à... Xinh dã man luôn kìa."
+scn00_42_0120 | Chỉ trong khoảnh khắc này đây, bất cứ ai cũng đều mê mẩn trước nhan sắc của Cocoro mà dần rộng mở cõi lòng.

@@ -1,0 +1,43 @@
+# scene=scn00_48 batch=4/4 dòng 185-223 / 223
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_48_0185 | ナツ(Natsu) | 「バウ……」 | "Bow-wow..." | “汪……”
+scn00_48_0186 | - | リングドッグという重要な役目を務めたナツは、もうお爺ちゃん犬だ。 | Natsu, who's tasked with the duty of ring bearer, is getting to be an elderly dog. | 担任了婚戒狗这个重要职责的夏天，已经变成老狗了。
+scn00_48_0187 | - | だいぶボケ始めてて普段は一日中寝ているが、ココロを見ると昔のように元気にじゃれついて邪険にされていた。 | He's starting to go a little senile and usually just sleeps most of the day, but whenever he sees Cocoro, he greets her just as enthusiastically as he always has. And of course, she still doesn't like him getting in the way. | 它虽然已经开始痴呆了，平时一天到晚都在睡觉，但一看到心还是会像以前一样精神地缠上去然后被冷淡对待。
+scn00_48_0188 | 風音(Kazane) | 「ドレス、間に合ってよかったな～。めっちゃ似合ってる！」 | "I'm glad the dress was ready in time! It looks great on you!" | “婚纱赶在婚礼前做好真是太好了啊～，非常好看！”
+scn00_48_0189 | 吉野(Yoshino) | 「ええ、ええ、ほんとに似合ってるわぁ～」 | "Yes, it really looks amazing on you..." | “是啊，是啊，真的非常好看啊～”
+scn00_48_0190 | - | ココロのウェディングドレスは、吉野さんが仕立ててくれた。 | We accepted Yoshino-san's incredibly kind offer to make a new wedding dress for Cocoro. | 心的婚纱是吉野婆婆制作的。
+scn00_48_0191 | - | あの日、襲撃によって焼けて泥だらけになってしまったものを、ココロの希望もあってわざわざ再現してくれたのだ。 | She perfectly recreated the one that was damaged beyond repair the day of the attack. That's what Cocoro wanted, too. | 她还在心的希望下，特意再现了那一天在袭击中被烧毁沾满泥土的婚纱。
+scn00_48_0192 | - | 吉野さんの口癖は『ココロちゃんのドレスを仕立てるまで死ねない』だった。間に合ってよかった。 | Yoshino-san kept saying that she couldn't afford to die until she finished that dress and saw Cocoro wear it. I'm really glad her dream came true. | 吉野婆婆的口头禅已经变成了‘给心做好婚纱前我可不能死’，能赶上真是太好了。
+scn00_48_0193 | 光太郎(Kotaro) | 「いや、ほんとにキレイだな。見ちがえたよ」 | "Wow, you look gorgeous. I almost didn't recognize you." | “哎呀，真的很漂亮啊，真是让人刮目相看啊”
+scn00_48_0194 | 霧香(Kirika) | 「やっと、あの日の続きができるのね……」 | "You two can finally start again where you left off that day..." | “终于是能够让那一天继续了啊……”
+scn00_48_0195 | - | 光太郎さんは何かと理由を付けて、我が社に出入りしている。 | For some reason, Kotaro-san has become a familiar face around the office. He always has some sort of excuse to be there. | 光太郎先生找了个理由经常进出着我们公司。
+scn00_48_0196 | - | 個人的思惑もあるだろうが、うちの会社の監視というのもあるんだろう。 | He may have personal motives, but I also suspect that he's still monitoring us. | 他这个行为虽然有个人的想法在里面，但估计也有监视我们公司的目的吧。
+scn00_48_0197 | - | 油断ならない相手だけど、悪い人ではない。 | I can't let my guard down around him, but all in all he's not a bad guy. | 虽然不能对他放松警惕，但他也并不是什么坏人。
+scn00_48_0198 | - | 霧香さん[いわ]曰く、『私たちの事を全部知っててもらった方が、あらぬ疑いを持たれなくていいわ』との事。 | Kirika-san's of the opinion that it's better if he knows everything about us, because if anything happened he'd be able to clear us from suspicion. | 雾香小姐的说法是，‘只要将我们这里的一切全部告知，就不会引发毫无缘由的怀疑了’
+scn00_48_0199 | - | 俺も同意見だ。 | I tend to agree with her. | 我也同意这一点。
+scn00_48_0200 | ココロ(Cocoro) | 「皆さん、ワタシの魅惑的なボディラインにメロメロのようですね。仕方がない事です。ワタシもオトナになりましたから」 | "It looks as if everyone's enchanted by my enchanting curves. I suppose that's only natural when I'm all grown up now." | “各位似乎都被我诱人的身体曲线吸引住了目光呢，但这也是没办法的事，毕竟我也已经变成大人了”
+scn00_48_0201 | 大地(Daichi) | 「ココロはほんと変わってねーなー。ずっと子どものままいられて羨ましいぜ」 | "You really haven't changed, though. I'm kinda jealous that you don't get older." | “心真的一点都没变啊——，一直都像个小孩子一样真让人羡慕啊”
+scn00_48_0202 | ココロ(Cocoro) | 「ノンデリバカ野郎。呼ぶんじゃなかったです」 | "Have some delicacy, you fool! I shouldn't have invited you." | “你这个不会说话的蠢货，就不应该叫你来”
+scn00_48_0203 | 大地(Daichi) | 「え、俺怒られた？」 | "Huh? Why are you yelling at me?" | “哎，我是被骂了吗？”
+scn00_48_0204 | こさめ(Kosame) | 「お兄ちゃん……」 | "Daichi..." | “哥哥……”
+scn00_48_0205 | 司会者(Officiant) | 「では、誓いのキスを」 | "You may now kiss the bride." | “那么，接下来请进行誓约之吻”
+scn00_48_0206 | - | 列席者から『おお』と期待するような声があがる。 | Soft gasps of anticipation echo among the guests. | 出席者们纷纷期待地发出了‘哦哦’的声音。
+scn00_48_0207 | ひなた(Hinata) | 「キレイだよ、ココロ」 | "You're beautiful, Cocoro." | “你很漂亮啊，心”
+scn00_48_0208 | ココロ(Cocoro) | 「客観的事実として把握はしていますが……ひなたさんの主観と一致しているのが確認できて嬉しいです、ひなたさん」 | "I'm aware that that's objectively true... But I'm glad that your subjective opinion matches the truth, Hinata-san." | “虽然我知道这是客观事实……但确认到和日向先生的主观想法一致后我很开心，日向先生”
+scn00_48_0209 | - | 俺とココロは、証人となる皆さんの前で口づけを交わした。 | Cocoro and I share a kiss in front of all our witnesses. | 我和心在众人的见证下接吻了。
+scn00_48_0210 | - | 今朝、ココロが目覚めてから、最初のキス。 | It's our first kiss since Cocoro woke up this morning. | 这是今天早上心醒过来之后的第一个吻。
+scn00_48_0211 | - | するチャンスはあったのに、『自慢のぷにぷには結婚式までお預けです』と言われて、させてくれなかった。 | We've had plenty of chances, but Cocoro insisted that the softness of her perfect, plump lips should be saved for the wedding itself. | 明明有机会接吻，但心却对我说‘引以为傲的软乎乎部分要留到婚礼上’，不让我亲她。
+scn00_48_0212 | ココロ(Cocoro) | 「どうですか、ひさびさにするキスは」 | "How does it feel to kiss me again after so long?" | “怎么样，时隔许久接吻感觉如何”
+scn00_48_0213 | ひなた(Hinata) | 「最高です」 | "It's the best." | “棒极了”
+scn00_48_0214 | ココロ(Cocoro) | 「でしょう」 | "I bet it is." | “对吧”
+scn00_48_0215 | ココロ(Cocoro) | 「ちなみにワタシも同意見です。最高」 | "I have to agree, though. It's the best." | “顺带一提我的意见也一样，棒极了”
+scn00_48_0216 | - | 口づけによって重なり合うのは、ふたりの気持ち。 | Kisses serve to connect the feelings of two people to each other. | 通过嘴唇重合在一起的是我们二人的感情。
+scn00_48_0217 | - | 俺は今、ココロの心を、触れ合った唇から感じている。 | Right now, I can directly feel Cocoro's soul through our touching lips. | 我现在能够通过触碰在一起的嘴唇感受到心的内心。
+scn00_48_0218 | - | これから先、楽しい事ばかりではないだろう。苦難や悲しい出来事も起こるにちがいない。 | We don't know what the future will bring. Other than joy and happiness, I'm sure there'll also be hardships and grief. | 今后大概不会只有快乐的事吧，痛苦和伤心的事一定也会发生。
+scn00_48_0219 | - | 何があっても[あきら]諦めずに立ち向かい、乗り越えていこう――ふたりで。 | But no matter what happens to us, we'll face it—and overcome it—together. | 无论发生什么困难都不会放弃，而是勇敢面对并将其跨越——两个人一起。
+scn00_48_0220 | ひなた(Hinata) | 「きっと素敵な未来にするって誓うよ、ココロ」 | "I promise I'll make our future a wonderful one, Cocoro." | “我发誓一定会为你带来美好的未来，心”
+scn00_48_0221 | ココロ(Cocoro) | 「必ずやひなたさんを幸せにすると、かけがえのない季節に誓います」 | "I promise I'll make you happy, Hinata-san, in each and every irreplaceable season." | “我对这独一无二的季节发誓，我一定会让日向先生幸福”
+scn00_48_0222 | - | \n\n\n\n\n\n\n\n２０ＸＸ年　８月２４日（土） | \n\n\n\n\n\n\nSaturday, August 24th, 20XX. | \n\n\n\n\n\n\n\n20XX年　8月24日（星期六）。
+scn00_48_0223 | - | %n;俺は、ヒューマノイドの女の子と結婚した。 | %n;On that day, I married a humanoid girl. | %n;我和仿生人女孩结婚了。

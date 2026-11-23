@@ -1,0 +1,1424 @@
+{
+  "evals": {
+    "-cont": [
+      [
+        "exp",
+        "this.enabled=global.SystemAction.canContinue"
+      ]
+    ],
+    "-extra": [
+      [
+        "exp",
+        "this.enabled=!IsTrial&&(.tf.allseen||.sf.clear)"
+      ]
+    ],
+    "base": [
+      [
+        "call",
+        ".SoftwareCursor.GetFunc('onUiExtraFuncCalled')",
+        "true"
+      ]
+    ],
+    "names": [
+      [
+        "call",
+        "uiloadSysSE",
+        "title"
+      ]
+    ]
+  },
+  "holdimage": [
+    "title__pack"
+  ],
+  "imports": null,
+  "names": [
+    "allmain",
+    "cont",
+    "after",
+    "start",
+    "load",
+    "option",
+    "extra",
+    "credits",
+    "exit",
+    "pos_1",
+    "pos_2",
+    "allextra",
+    "gallery",
+    "music",
+    "back",
+    "copyright",
+    "bgchange",
+    "bg",
+    "grp_main",
+    "grp_extra",
+    "pre_title"
+  ],
+  "order": null,
+  "packbase": [
+    "title"
+  ],
+  "packhash": [
+    8460197340190279935,
+    -3446747696290622606,
+    6085429626397148181,
+    5281906769078369686,
+    -2298808032805372382,
+    -4293267847901759444,
+    -3141709838727022950,
+    7377464870815697471,
+    1018287568498488103,
+    2579023499192194678,
+    -5042470661414698518,
+    1403097715353727339,
+    -6793685320655531734,
+    -2725165565469222534,
+    2533025994297314234,
+    4288804423469114139,
+    -9202685971815330919,
+    -4728481959305545276,
+    -9047545962553118152,
+    -7834159650758204868,
+    246044578816695193,
+    5342703415689500910,
+    -396293624800962264,
+    2028346535384897897
+  ],
+  "packlist": [
+    [
+      52,
+      316,
+      115,
+      29,
+      0,
+      1172,
+      null,
+      null,
+      [
+        226,
+        -11,
+        129,
+        53,
+        6,
+        11
+      ]
+    ],
+    [
+      52,
+      250,
+      115,
+      33,
+      0,
+      1173,
+      null,
+      null,
+      [
+        228,
+        -11,
+        129,
+        53,
+        6,
+        11
+      ]
+    ],
+    [
+      202,
+      126,
+      93,
+      30,
+      0,
+      1197,
+      null,
+      null,
+      [
+        359,
+        -10,
+        109,
+        53,
+        8,
+        10
+      ]
+    ],
+    [
+      206,
+      62,
+      93,
+      34,
+      0,
+      1200,
+      null,
+      null,
+      [
+        360,
+        -10,
+        109,
+        53,
+        8,
+        10
+      ]
+    ],
+    [
+      52,
+      33,
+      174,
+      29,
+      0,
+      1172,
+      null,
+      null,
+      [
+        -8,
+        -11,
+        191,
+        53,
+        8,
+        11
+      ]
+    ],
+    [
+      52,
+      0,
+      177,
+      33,
+      0,
+      1173,
+      null,
+      null,
+      [
+        -6,
+        -11,
+        191,
+        53,
+        6,
+        11
+      ]
+    ],
+    [
+      0,
+      0,
+      52,
+      347,
+      0,
+      1168,
+      null,
+      1
+    ],
+    [
+      52,
+      221,
+      125,
+      29,
+      0,
+      1172,
+      null,
+      null,
+      [
+        1088,
+        -11,
+        142,
+        53,
+        8,
+        11
+      ]
+    ],
+    [
+      52,
+      188,
+      128,
+      33,
+      0,
+      1173,
+      null,
+      null,
+      [
+        1090,
+        -11,
+        142,
+        53,
+        6,
+        11
+      ]
+    ],
+    [
+      226,
+      33,
+      82,
+      29,
+      0,
+      1172,
+      null,
+      null,
+      [
+        1270,
+        -11,
+        97,
+        53,
+        7,
+        11
+      ]
+    ],
+    [
+      229,
+      0,
+      83,
+      33,
+      0,
+      1173,
+      null,
+      null,
+      [
+        1272,
+        -11,
+        97,
+        53,
+        6,
+        11
+      ]
+    ],
+    [
+      180,
+      188,
+      115,
+      29,
+      0,
+      1172,
+      null,
+      null,
+      [
+        918,
+        -11,
+        129,
+        53,
+        6,
+        11
+      ]
+    ],
+    [
+      52,
+      283,
+      115,
+      33,
+      0,
+      1173,
+      null,
+      null,
+      [
+        920,
+        -11,
+        129,
+        53,
+        6,
+        11
+      ]
+    ],
+    [
+      52,
+      96,
+      153,
+      30,
+      0,
+      1197,
+      null,
+      null,
+      [
+        -9,
+        -10,
+        170,
+        53,
+        9,
+        10
+      ]
+    ],
+    [
+      52,
+      62,
+      154,
+      34,
+      0,
+      1200,
+      null,
+      null,
+      [
+        -8,
+        -10,
+        170,
+        53,
+        8,
+        10
+      ]
+    ],
+    [
+      205,
+      96,
+      93,
+      28,
+      0,
+      1172,
+      null,
+      null,
+      [
+        561,
+        -11,
+        110,
+        53,
+        7,
+        11
+      ]
+    ],
+    [
+      180,
+      312,
+      96,
+      33,
+      0,
+      1173,
+      null,
+      null,
+      [
+        563,
+        -11,
+        110,
+        53,
+        6,
+        11
+      ]
+    ],
+    [
+      180,
+      283,
+      109,
+      29,
+      0,
+      1197,
+      null,
+      null,
+      [
+        197,
+        -10,
+        126,
+        53,
+        8,
+        11
+      ]
+    ],
+    [
+      180,
+      250,
+      110,
+      33,
+      0,
+      1200,
+      null,
+      null,
+      [
+        198,
+        -10,
+        126,
+        53,
+        8,
+        11
+      ]
+    ],
+    [
+      289,
+      283,
+      23,
+      55,
+      0,
+      1176,
+      null,
+      1
+    ],
+    [
+      52,
+      159,
+      147,
+      29,
+      0,
+      1172,
+      null,
+      null,
+      [
+        713,
+        -11,
+        164,
+        53,
+        7,
+        11
+      ]
+    ],
+    [
+      52,
+      126,
+      150,
+      33,
+      0,
+      1173,
+      null,
+      null,
+      [
+        715,
+        -11,
+        164,
+        53,
+        6,
+        11
+      ]
+    ],
+    [
+      199,
+      159,
+      110,
+      28,
+      0,
+      1172,
+      null,
+      null,
+      [
+        395,
+        -11,
+        125,
+        53,
+        7,
+        11
+      ]
+    ],
+    [
+      180,
+      217,
+      111,
+      33,
+      0,
+      1173,
+      null,
+      null,
+      [
+        397,
+        -11,
+        125,
+        53,
+        6,
+        11
+      ]
+    ]
+  ],
+  "result": {
+    "after": {
+      "class": "button",
+      "cref": 1,
+      "exp": "Current.action(\"storeFocus\")||(tf.gamestart=\"after\")||(sf.start_after=true)",
+      "height": 53,
+      "name": "after",
+      "storage": "title.ks",
+      "target": "*game",
+      "uiname": "after",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 104,
+          "oy": 29,
+          "storage": "",
+          "w": 14
+        },
+        "nosave": {
+          "h": 53,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 129
+        },
+        "off": {
+          "ch": 29,
+          "cw": 115,
+          "cx": 52,
+          "cy": 316,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 129
+        },
+        "on": {
+          "ch": 33,
+          "cw": 115,
+          "cx": 52,
+          "cy": 250,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 129
+        },
+        "over": {
+          "ch": 33,
+          "cw": 115,
+          "cx": 52,
+          "cy": 250,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 129
+        }
+      },
+      "width": 129,
+      "x": 506,
+      "y": 927
+    },
+    "allextra": {
+      "class": "cref",
+      "height": 34,
+      "name": "allextra",
+      "uiname": "allextra",
+      "uistates": {
+        "off": {
+          "h": 30,
+          "ox": 1,
+          "oy": 0,
+          "storage": "psd://title.psd/id/1197.bmp",
+          "w": 460
+        },
+        "on": {
+          "h": 34,
+          "ox": 0,
+          "oy": 0,
+          "storage": "psd://title.psd/id/1202.bmp",
+          "w": 461
+        },
+        "over": {
+          "h": 34,
+          "ox": 0,
+          "oy": 0,
+          "storage": "psd://title.psd/id/1200.bmp",
+          "w": 461
+        }
+      },
+      "width": 461,
+      "x": 660,
+      "y": 937
+    },
+    "allmain": {
+      "class": "cref",
+      "height": 33,
+      "name": "allmain",
+      "uiname": "allmain",
+      "uistates": {
+        "off": {
+          "h": 29,
+          "ox": 2,
+          "oy": 0,
+          "storage": "psd://title.psd/id/1172.bmp",
+          "w": 1359
+        },
+        "on": {
+          "h": 33,
+          "ox": 0,
+          "oy": 0,
+          "storage": "psd://title.psd/id/1174.bmp",
+          "w": 1361
+        },
+        "over": {
+          "h": 33,
+          "ox": 0,
+          "oy": 0,
+          "storage": "psd://title.psd/id/1173.bmp",
+          "w": 1361
+        }
+      },
+      "width": 1361,
+      "x": 278,
+      "y": 938
+    },
+    "back": {
+      "class": "button",
+      "cref": 1,
+      "height": 53,
+      "name": "back",
+      "storage": "custom.ks",
+      "target": "*title_back",
+      "uiname": "back",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 85,
+          "oy": 29,
+          "storage": "",
+          "w": 14
+        },
+        "nosave": {
+          "h": 53,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 109
+        },
+        "off": {
+          "ch": 30,
+          "cw": 93,
+          "cx": 202,
+          "cy": 126,
+          "h": 53,
+          "ox": 8,
+          "oy": 10,
+          "storage": "title__pack",
+          "w": 109
+        },
+        "on": {
+          "ch": 34,
+          "cw": 93,
+          "cx": 206,
+          "cy": 62,
+          "h": 53,
+          "ox": 8,
+          "oy": 10,
+          "storage": "title__pack",
+          "w": 109
+        },
+        "over": {
+          "ch": 34,
+          "cw": 93,
+          "cx": 206,
+          "cy": 62,
+          "h": 53,
+          "ox": 8,
+          "oy": 10,
+          "storage": "title__pack",
+          "w": 109
+        }
+      },
+      "width": 109,
+      "x": 1020,
+      "y": 927
+    },
+    "bg": {
+      "class": "base",
+      "height": 1080,
+      "name": "bg",
+      "storagex": 0,
+      "storagey": 0,
+      "uiname": "bg",
+      "uistates": {
+        "nosave": {
+          "h": 1080,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1920
+        }
+      },
+      "width": 1920,
+      "x": 0,
+      "y": 0
+    },
+    "bgchange": {
+      "class": "button",
+      "enabled": "false",
+      "height": 154,
+      "name": "bgchange",
+      "storage": "custom.ks",
+      "tabfocus": "false",
+      "target": "*title_reload",
+      "uiname": "bgchange",
+      "uistates": {
+        "nosave": {
+          "h": 154,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 154
+        }
+      },
+      "width": 154,
+      "x": 888,
+      "y": 214
+    },
+    "cont": {
+      "class": "button",
+      "cref": 1,
+      "exp": "Current.action(\"storeFocus\")",
+      "halftone": "true",
+      "height": 53,
+      "name": "cont",
+      "onenter": "Current.cmd(\"contPopup/1/cont\")",
+      "onleave": "Current.cmd(\"contPopup/0/cont\")",
+      "storage": "custom.ks",
+      "target": "*continue",
+      "uiname": "cont",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 168,
+          "oy": 29,
+          "storage": "",
+          "w": 14
+        },
+        "nosave": {
+          "h": 53,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 191
+        },
+        "off": {
+          "ch": 29,
+          "cw": 174,
+          "cx": 52,
+          "cy": 33,
+          "h": 53,
+          "ox": 8,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 191
+        },
+        "on": {
+          "ch": 33,
+          "cw": 177,
+          "cx": 52,
+          "cy": 0,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 191
+        },
+        "over": {
+          "ch": 33,
+          "cw": 177,
+          "cx": 52,
+          "cy": 0,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 191
+        }
+      },
+      "width": 191,
+      "x": 272,
+      "y": 927
+    },
+    "copyright": {
+      "class": "layer",
+      "height": 52,
+      "layer": "(~null~)",
+      "name": "copyright",
+      "uiname": "copyright",
+      "uistates": {
+        "(~null~)": {
+          "ch": 347,
+          "cr": 1,
+          "cw": 52,
+          "cx": 0,
+          "cy": 0,
+          "h": 52,
+          "ox": 0,
+          "oy": 0,
+          "storage": "title__pack",
+          "w": 347
+        }
+      },
+      "width": 347,
+      "x": 786,
+      "y": 1025
+    },
+    "credits": {
+      "class": "button",
+      "cref": 1,
+      "halftone": "true",
+      "height": 53,
+      "name": "credits",
+      "storage": "credits.ks",
+      "uiname": "credits",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 118,
+          "oy": 29,
+          "storage": "",
+          "w": 14
+        },
+        "nosave": {
+          "h": 53,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 142
+        },
+        "off": {
+          "ch": 29,
+          "cw": 125,
+          "cx": 52,
+          "cy": 221,
+          "h": 53,
+          "ox": 8,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 142
+        },
+        "on": {
+          "ch": 33,
+          "cw": 128,
+          "cx": 52,
+          "cy": 188,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 142
+        },
+        "over": {
+          "ch": 33,
+          "cw": 128,
+          "cx": 52,
+          "cy": 188,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 142
+        }
+      },
+      "width": 142,
+      "x": 1368,
+      "y": 927
+    },
+    "exit": {
+      "class": "button",
+      "cref": 1,
+      "exp": "kag.close()",
+      "height": 53,
+      "name": "exit",
+      "uiname": "exit",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 74,
+          "oy": 29,
+          "storage": "",
+          "w": 14
+        },
+        "nosave": {
+          "h": 53,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 97
+        },
+        "off": {
+          "ch": 29,
+          "cw": 82,
+          "cx": 226,
+          "cy": 33,
+          "h": 53,
+          "ox": 7,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 97
+        },
+        "on": {
+          "ch": 33,
+          "cw": 83,
+          "cx": 229,
+          "cy": 0,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 97
+        },
+        "over": {
+          "ch": 33,
+          "cw": 83,
+          "cx": 229,
+          "cy": 0,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 97
+        }
+      },
+      "width": 97,
+      "x": 1550,
+      "y": 927
+    },
+    "extra": {
+      "class": "button",
+      "cref": 1,
+      "exp": "Current.action(\"storeFocus\")",
+      "halftone": "true",
+      "height": 53,
+      "name": "extra",
+      "storage": "custom.ks",
+      "target": "*title_change",
+      "uiname": "extra",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 105,
+          "oy": 29,
+          "storage": "",
+          "w": 14
+        },
+        "nosave": {
+          "h": 53,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 129
+        },
+        "off": {
+          "ch": 29,
+          "cw": 115,
+          "cx": 180,
+          "cy": 188,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 129
+        },
+        "on": {
+          "ch": 33,
+          "cw": 115,
+          "cx": 52,
+          "cy": 283,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 129
+        },
+        "over": {
+          "ch": 33,
+          "cw": 115,
+          "cx": 52,
+          "cy": 283,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 129
+        }
+      },
+      "width": 129,
+      "x": 1198,
+      "y": 927
+    },
+    "gallery": {
+      "class": "button",
+      "cref": 1,
+      "exp": "Current.action(\"storeFocus\")",
+      "height": 53,
+      "name": "gallery",
+      "storage": "title.ks",
+      "target": "*cgmode",
+      "uiname": "gallery",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 147,
+          "oy": 29,
+          "storage": "",
+          "w": 14
+        },
+        "nosave": {
+          "h": 53,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 170
+        },
+        "off": {
+          "ch": 30,
+          "cw": 153,
+          "cx": 52,
+          "cy": 96,
+          "h": 53,
+          "ox": 9,
+          "oy": 10,
+          "storage": "title__pack",
+          "w": 170
+        },
+        "on": {
+          "ch": 34,
+          "cw": 154,
+          "cx": 52,
+          "cy": 62,
+          "h": 53,
+          "ox": 8,
+          "oy": 10,
+          "storage": "title__pack",
+          "w": 170
+        },
+        "over": {
+          "ch": 34,
+          "cw": 154,
+          "cx": 52,
+          "cy": 62,
+          "h": 53,
+          "ox": 8,
+          "oy": 10,
+          "storage": "title__pack",
+          "w": 170
+        }
+      },
+      "width": 170,
+      "x": 652,
+      "y": 927
+    },
+    "grp_extra": {
+      "class": "part",
+      "name": "grp_extra",
+      "part": [
+        "gallery",
+        "music",
+        "back"
+      ],
+      "uiname": "grp_extra",
+      "uistates": {}
+    },
+    "grp_main": {
+      "class": "part",
+      "name": "grp_main",
+      "part": [
+        "cont",
+        "after",
+        "start",
+        "load",
+        "option",
+        "extra",
+        "credits",
+        "exit",
+        "new"
+      ],
+      "uiname": "grp_main",
+      "uistates": {}
+    },
+    "load": {
+      "class": "button",
+      "cref": 1,
+      "exp": "Current.action(\"storeFocus\")",
+      "height": 53,
+      "name": "load",
+      "storage": "title.ks",
+      "target": "*load",
+      "uiname": "load",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 87,
+          "oy": 29,
+          "storage": "",
+          "w": 14
+        },
+        "nosave": {
+          "h": 53,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 110
+        },
+        "off": {
+          "ch": 28,
+          "cw": 93,
+          "cx": 205,
+          "cy": 96,
+          "h": 53,
+          "ox": 7,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 110
+        },
+        "on": {
+          "ch": 33,
+          "cw": 96,
+          "cx": 180,
+          "cy": 312,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 110
+        },
+        "over": {
+          "ch": 33,
+          "cw": 96,
+          "cx": 180,
+          "cy": 312,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 110
+        }
+      },
+      "width": 110,
+      "x": 841,
+      "y": 927
+    },
+    "music": {
+      "class": "button",
+      "cref": 1,
+      "exp": "Current.action(\"storeFocus\")",
+      "height": 53,
+      "name": "music",
+      "storage": "title.ks",
+      "target": "*soundmode",
+      "uiname": "music",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 103,
+          "oy": 29,
+          "storage": "",
+          "w": 14
+        },
+        "nosave": {
+          "h": 53,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 126
+        },
+        "off": {
+          "ch": 29,
+          "cw": 109,
+          "cx": 180,
+          "cy": 283,
+          "h": 53,
+          "ox": 8,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 126
+        },
+        "on": {
+          "ch": 33,
+          "cw": 110,
+          "cx": 180,
+          "cy": 250,
+          "h": 53,
+          "ox": 8,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 126
+        },
+        "over": {
+          "ch": 33,
+          "cw": 110,
+          "cx": 180,
+          "cy": 250,
+          "h": 53,
+          "ox": 8,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 126
+        }
+      },
+      "width": 126,
+      "x": 858,
+      "y": 927
+    },
+    "new": {
+      "class": "layer",
+      "height": 23,
+      "layer": "(~null~)",
+      "name": "new",
+      "uiname": "new",
+      "uistates": {
+        "(~null~)": {
+          "ch": 55,
+          "cr": 1,
+          "cw": 23,
+          "cx": 289,
+          "cy": 283,
+          "h": 23,
+          "ox": 0,
+          "oy": 0,
+          "storage": "title__pack",
+          "w": 55
+        }
+      },
+      "width": 55,
+      "x": 510,
+      "y": 915
+    },
+    "option": {
+      "class": "button",
+      "cref": 1,
+      "exp": "Current.action(\"storeFocus\")",
+      "height": 53,
+      "name": "option",
+      "storage": "title.ks",
+      "target": "*option",
+      "uiname": "option",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 141,
+          "oy": 29,
+          "storage": "",
+          "w": 14
+        },
+        "nosave": {
+          "h": 53,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 164
+        },
+        "off": {
+          "ch": 29,
+          "cw": 147,
+          "cx": 52,
+          "cy": 159,
+          "h": 53,
+          "ox": 7,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 164
+        },
+        "on": {
+          "ch": 33,
+          "cw": 150,
+          "cx": 52,
+          "cy": 126,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 164
+        },
+        "over": {
+          "ch": 33,
+          "cw": 150,
+          "cx": 52,
+          "cy": 126,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 164
+        }
+      },
+      "width": 164,
+      "x": 993,
+      "y": 927
+    },
+    "pos_1": {
+      "class": "area",
+      "height": 53,
+      "name": "pos_1",
+      "uiname": "pos_1",
+      "uistates": {},
+      "width": 129,
+      "x": 506,
+      "y": 927
+    },
+    "pos_2": {
+      "class": "area",
+      "height": 53,
+      "name": "pos_2",
+      "uiname": "pos_2",
+      "uistates": {},
+      "width": 125,
+      "x": 675,
+      "y": 927
+    },
+    "pre_title": {
+      "class": "part",
+      "name": "pre_title",
+      "part": [
+        "grp_main",
+        "bg"
+      ],
+      "uiname": "pre_title",
+      "uistates": {}
+    },
+    "start": {
+      "class": "button",
+      "cref": 1,
+      "exp": "Current.action(\"storeFocus\")||(delete tf.gamestart)",
+      "height": 53,
+      "name": "start",
+      "storage": "title.ks",
+      "target": "*game",
+      "uiname": "start",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 102,
+          "oy": 29,
+          "storage": "",
+          "w": 14
+        },
+        "nosave": {
+          "h": 53,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 125
+        },
+        "off": {
+          "ch": 28,
+          "cw": 110,
+          "cx": 199,
+          "cy": 159,
+          "h": 53,
+          "ox": 7,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 125
+        },
+        "on": {
+          "ch": 33,
+          "cw": 111,
+          "cx": 180,
+          "cy": 217,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 125
+        },
+        "over": {
+          "ch": 33,
+          "cw": 111,
+          "cx": 180,
+          "cy": 217,
+          "h": 53,
+          "ox": 6,
+          "oy": 11,
+          "storage": "title__pack",
+          "w": 125
+        }
+      },
+      "width": 125,
+      "x": 675,
+      "y": 927
+    }
+  }
+}

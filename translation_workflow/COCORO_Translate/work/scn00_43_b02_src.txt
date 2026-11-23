@@ -1,0 +1,64 @@
+# scene=scn00_43 batch=2/4 dòng 61-120 / 224
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_43_0061 | ひなた(Hinata) | 「ユートピア構想の資料がほしい。残っているものを、できる限り全部」 | "If you have any documents on the Utopia Initiative, I want to see them. All of them—anything you have." | “我想要乌托邦构想的资料，最好是把残留下来的都给我”
+scn00_43_0062 | 父(Dad) | 『ユートピア構想の資料？　今頃どうして……』 | <Documents on the Utopia Initiative? Why now?> | ‘乌托邦构想的资料？　现在要这个做什么……’
+scn00_43_0063 | ひなた(Hinata) | 「『厄災』の後、反対派がほとんど破棄してしまったって聞いたけど、父さんなら持ってるんじゃないかと思って」 | "I heard that the opposition destroyed everything they could get their hands on after the Calamity, but I thought you might have something left." | “我听说‘灾厄’过后这些资料基本都被反对派的人销毁了，所以我就在想父亲手里应该还会有吧”
+scn00_43_0064 | 父(Dad) | 『ああ……持ち出せた物が、手元にまだ残っているが』 | <Yeah... I still have the documents that I was able to save.> | ‘嗯……我带走的东西倒是还都留在手里’
+scn00_43_0065 | ひなた(Hinata) | 「俺はココロが幸せに暮らせる未来を創りたい」 | "I want to create a future where Cocoro and I can live happily together." | “我想要开创一个能让心幸福生活的未来”
+scn00_43_0066 | ココロ(Cocoro) | 「ひなたさん……」 | "Hinata-san..." | “日向先生……”
+scn00_43_0067 | - | それは俺の決意だった。 | I've made up my mind. | 这就是我的决意。
+scn00_43_0068 | - | ヒューマノイドであるココロと結婚し、彼女を生涯守っていくという事は、社会そのものを変えようという挑戦だ。 | Marrying Cocoro—a humanoid—and protecting her for as long as we are together means taking on the challenge to change society itself. | 和身为仿生人的心结婚，穷极一生保护她，就意味着要去挑战改变社会本身。
+scn00_43_0069 | - | そのために、一度は成功し、しかし大きな事故を起こして[つい]潰えてしまったユートピア構想から学ぶ事は多いはず。 | To accomplish that, there has to be much to learn from the Utopia Initiative. It  quite successful until disaster struck. | 为此，这个曾一度成功但却因一场巨大事故而崩溃的乌托邦构想有很多值得我学习的地方。
+scn00_43_0070 | 父(Dad) | 『わかった。ふたりにとって役立つというなら、おまえに譲ろう。もう私が持っていてもしょうがないものだしな』 | <All right. If there's anything that could be of use to you two, I'll bring it. There's no point in me hanging on to them, anyway.> | ‘我知道了，如果这些资料能帮上你们两个，我就把它们都给你，毕竟我拿在手里也没什么用了啊’
+scn00_43_0071 | ひなた(Hinata) | 「ありがとう」 | "Thanks." | “谢谢”
+scn00_43_0072 | 父(Dad) | 『ひなた、久しぶりに声が聴けてよかった。ココロさん』 | <Hinata, I'm glad I got to hear your voice today. And Cocoro-san?> | ‘日向，能久违听到你的声音真的是太好了，还有心’
+scn00_43_0073 | ココロ(Cocoro) | 「はい、なんでしょうお義父様」 | "Yes? What is it, Father?" | “我在，有什么事吗父亲大人”
+scn00_43_0074 | 父(Dad) | 『ひなたをよろしくお願いします』 | <Look out for Hinata for me, okay?> | ‘日向就交给你了’
+scn00_43_0075 | ココロ(Cocoro) | 「ええ、よろしくされました」 | "Of course. I'll never take my eyes off him." | “嗯，交给我吧”
+scn00_43_0076 | - | ココロの独特な言い回しに[なご]和んだ様子で、父は通話を切った。 | Dad chuckles at Cocoro's strange turn of phrase before hanging up the phone. | 父亲听到心独特的说话方式后似乎放松了下来，然后挂断了电话。
+scn00_43_0077 | ひなた(Hinata) | 「……ふぅ」 | "...Phew." | “……呼”
+scn00_43_0078 | - | 緊張から解放され、俺は電話を置いて大きく息を吐いた。 | All the tension leaves my body when I hang up the phone. | 从紧张感中脱离出来后，我放下电话大大地松了口气。
+scn00_43_0079 | ココロ(Cocoro) | 「わかります」 | "I understand." | “我明白”
+scn00_43_0080 | ひなた(Hinata) | 「なにが……？」 | "What...?" | “明白什么……？”
+scn00_43_0081 | ココロ(Cocoro) | 「いかにひなたさんが勇気を振り絞ったかです。今のワタシには分かってしまいます」 | "I've learned enough to understand how much courage it took you to make that call." | “现在的我能明白你到底鼓起了多大的勇气”
+scn00_43_0082 | ココロ(Cocoro) | 「ワタシのために、ありがとうございます」 | "Thank you so much for doing that for me." | “谢谢你为了我鼓起勇气”
+scn00_43_0083 | - | ココロは頑張った俺を[ねぎら]労おうと、頭を撫でてくれる。 | Cocoro pats me on the head as if to reward me for my efforts. | 心为了犒赏努力过后的我，摸了摸我的头。
+scn00_43_0084 | ひなた(Hinata) | 「大変なのはこれからだよ。たくさん勉強して、父さんのように偉くならないといけない。計画が実現するのは、ずっと未来だ」 | "But the hardest part hasn't even started yet. I'll need to study to get anywhere close to what my father achieved, and only after that can I begin to carry out my plan." | “难事还在后面呢，我必须要努力读书，变得和父亲一样厉害才行，而要实现我的计划还需要很长时间”
+scn00_43_0085 | ココロ(Cocoro) | 「それまで待てます。４年間、ひとり植物園で待ち続けたのに比べたら、どうって事ありません」 | "I can wait. It'll be nothing compared to the four years I spent waiting by myself at the garden." | “我会一直等下去的，和独自一人在植物园里等待4年相比根本算不上什么”
+scn00_43_0086 | ひなた(Hinata) | 「そうだね」 | "Yeah, that's true." | “是啊”
+scn00_43_0087 | - | 俺との約束を信じて４年間待ち続けてくれていた事を思うと、急に胸が一杯になって、俺はココロを抱きしめた。 | Suddenly, I'm filled with emotion when I think about how Cocoro waited for four whole years believing in our promise. Impulsively, I give her a hug. | 一想到心在这4年里一直相信着我们之间的约定等待着，我便再也抑制不住内心的感情，将心抱在了怀里。
+scn00_43_0088 | ひなた(Hinata) | 「幸せになろうね」 | "Let's become happy together, okay?" | “你要变得幸福起来啊”
+scn00_43_0089 | ココロ(Cocoro) | 「幸せにしてください」 | "Yes, please make me happy." | “请让我变得幸福起来吧”
+scn00_43_0090 | - | どこか人目に触れにくい場所で、こっそりと暮らす事も考えた。 | At first, I thought we would live an unassuming life, hidden from the public eye. | 我想过要不要在没人的地方偷偷生活下去。
+scn00_43_0091 | - | しかし、それはココロという心を持ったヒューマノイドの存在を否定するのと同じだ。 | But now? That would be the same as denying Cocoro's existence—the humanoid with a soul. | 但是，这样做的话就相当于是在否定心这个拥有人心的仿生人。
+scn00_43_0092 | - | ココロは自分の存在がセカイから祝福される事を望んでいた。 | Cocoro wishes to receive the world's blessing—for her existence to be acknowledged. | 心希望自己能够得到世界的祝福。
+scn00_43_0093 | - | 恐らくは、それさえ叶えば死さえも幸福に受け入れられるほどに。 | As long as her wish can be fulfilled, she probably wouldn't even fear death anymore. | 如果这真的实现了，心大概甚至面对死亡都会十分幸福地接受吧。
+scn00_43_0094 | - | なら、ココロのためにセカイを変えよう。 | So, I want to change the world for Cocoro's sake. | 那么，我就必须为了心而改变世界。
+scn00_43_0095 | - | 成功するか失敗するか分からないが、命を懸けてその計画に取り組む事が彼女への祝福となる。 | I don't know if I'll be able to succeed, but I'm sure that dedicating my life to this plan will become a blessing for her. | 虽然不知道会成功还是会失败，但拼命去实行这个计划的行为应该也能成为对她的祝福吧。
+scn00_43_0096 | - | ココロを愛するというのは、そういう事だ。 | That's what it means for me to love Cocoro. | 我对心的爱就是如此。
+scn00_43_0097 | ひなた(Hinata) | 「さて、もう寝ようか。明日は霧香さんのところで調査に協力しないとだからね」 | "Why don't we go to bed? We'll be helping Kirika-san with her research tomorrow." | “好了，差不多该睡觉了。明天还得去雾香小姐那里协助调查呢”
+scn00_43_0098 | - | ココロだからできる事、解る事がある。全面的に協力しようという話になっていた。 | There are certain things that only Cocoro is able to do—things that only she can understand. She promised to help in whatever way she can. | 如果出现了只有心才能做到的事和只有心才能解决的事，我们便会全力进行协助。
+scn00_43_0099 | ココロ(Cocoro) | 「……あの、一つお願いがあります」 | "...Um, can I make a request?" | “……那个，我有一个请求”
+scn00_43_0100 | ひなた(Hinata) | 「なに？」 | "What is it?" | “什么请求？”
+scn00_43_0101 | - | 改まった態度で、急にどうしたんだろう。 | I wonder what's so important to her that she's asking permission like this. | 怎么突然这么郑重其事的。
+scn00_43_0102 | ココロ(Cocoro) | 「ワタシのボディはいつ壊れてもおかしくありません」 | "My body could break down at any time." | “我的身体随时都有可能会坏掉”
+scn00_43_0103 | ひなた(Hinata) | 「……うん」 | "...Yeah." | “……嗯”
+scn00_43_0104 | ココロ(Cocoro) | 「ですので、ワタシのメモリーのバックアップをお願いできないでしょうか？」 | "So, could I ask to have a backup made of my memory?" | “因此，可以将我的记忆进行备份吗？”
+scn00_43_0105 | ひなた(Hinata) | 「メモリーのバックアップ？」 | "A backup of your memory?" | “将记忆备份？”
+scn00_43_0106 | ココロ(Cocoro) | 「はい。我々ヒューマノイドにとって、ボディは交換可能なパーツです。人格のベースとなるプログラムも、復元可能です」 | "Yes. For us humanoids, our body is entirely replaceable. And the program that serves as the baseline of our personality can be recreated, too." | “是的，对于我们仿生人来说，身体是可以更换的零件，人格的基础程序也能够复原”
+scn00_43_0107 | ひなた(Hinata) | 「そうだね」 | "Right." | “是啊”
+scn00_43_0108 | - | セントラルにデータが残っていたおかげで、ココロのベースとなるＡＩのバックアップもある。 | The data that remained on the computer at Central includes a backup of the AI that Cocoro is based on. | 中心区还残存着数据，因此心的原型AI也还有备份。
+scn00_43_0109 | ココロ(Cocoro) | 「ならワタシがワタシと呼べるものは何か……それは記憶です」 | "So, the part of me that I recognize as 'me'... is my memory." | “那么能让我称为自己的东西又是什么呢……那就是记忆”
+scn00_43_0110 | ココロ(Cocoro) | 「ひなたさんと出逢い、九十九商店街のヒトたちと交流を持ち、様々な感情に触れ、学んできました」 | "Through my experiences meeting you and interacting with the people of the Tsukumo shopping district, I learned a wide range of emotions." | “我和日向先生相遇，和九十九商店街的人们交流，接触并学到了各种各样的感情”
+scn00_43_0111 | ココロ(Cocoro) | 「みなさんと過ごしたかけがえのない夏……その記憶だけは、失われれば復元ができません」 | "The summer that I spent with you all is irreplaceable... If I lose my memories of it, they'll be lost forever." | “和大家一起度过的这独一无二的夏天……唯有这些记忆，失去了就再也无法复原了”
+scn00_43_0112 | - | 人間ならば、記憶よりも人格こそが重要になるだろう。自分が自分だと感じる部分の大半は人格だろうから。 | For humans, our personalities probably make up a larger part of who we are than our memories. | 对人类而言，人格应该才是比记忆更加重要的部分吧，毕竟认知自己的部分大多都是人格啊。
+scn00_43_0113 | - | じゃあココロにとってはどうか？ | But how does it feel for Cocoro? | 那么对于心来说又是如何呢？
+scn00_43_0114 | - | 人格は重要なパーツであるが、復元可能でもある。 | Her personality is an important part of it, but it can be restored if lost. | 人格虽然是很重要的零件，但也是能够复原的零件。
+scn00_43_0115 | - | 唯一のユニークなパーツは彼女が体験してきた記憶。 | The only things unique to her alone are her experiences—her memories. | 唯一独特的零件就只有她经历过的回忆。
+scn00_43_0116 | - | ただ、記憶もまたそれだけではたんなるデータに過ぎないだろう。 | But memories by themselves are nothing but data. | 但是，如果只是这样，记忆也就仅仅是一份数据而已了。
+scn00_43_0117 | - | 人格は、記憶というデータを読み解く鍵であり、人格との組み合わせによって記憶は意味を持つ。 | Her personality is the key to deciphering that data. It's what gives meaning to the memories. | 人格是解读记忆这个数据的钥匙，而记忆也对人格的形成有着意义。
+scn00_43_0118 | - | メモリーデータとココロの人格の基礎となるプログラムが結びつく事で、ココロの心が形成されると言っていいのかもしれない。 | I suppose you could say that Cocoro's soul is composed of the combination of her memory data with the program that forms the base of her personality. | 将记忆数据和心由代码构建的人格相结合，或许就能形成心的心灵。
+scn00_43_0119 | ココロ(Cocoro) | 「ワタシの身に何かあると困りますので……」 | "I wouldn't want anything to happen to ..." | “毕竟如果我的身体出现了什么意外就麻烦了……”
+scn00_43_0120 | ひなた(Hinata) | 「分かった、明日、霧香さんにお願いしてみよう」 | "All right. Let's ask Kirika-san if she can do that tomorrow." | “我知道了，明天去问问雾香小姐吧”

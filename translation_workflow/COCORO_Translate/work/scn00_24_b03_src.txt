@@ -1,0 +1,63 @@
+# scene=scn00_24 batch=3/5 dòng 119-177 / 259
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_24_0119 | ココロ(Cocoro) | 「たしかに、ピントの調節ができなくなっています。以前、強い衝撃を受けた時に故障してしまったようです」 | "You're right that I haven't been able to focus my vision well. It's been that way since I suffered a strong, blunt impact in the past." | “确实，我已经无法调节焦距了，貌似是以前受到强烈冲击的时候出现了故障”
+scn00_24_0120 | ココロ(Cocoro) | 「ですが、まったく見えないわけではありません」 | "However, it's not as if I'm completely blind." | “但是，也不是完全看不见”
+scn00_24_0121 | ココロ(Cocoro) | 「大まかな色などは判別できますし、ワタシは他にもセンサーを備えていますので、今でも充分、ひなたさんのお役に立てます」 | "I can distinguish large objects and colors, and I'm equipped with many other sensors, so I'm still useful enough to assist you as needed, Hinata-san." | “能判断出大致的颜色，而且我还有其他传感器，所以现在也完全能够帮上日向先生的忙”
+scn00_24_0122 | ひなた(Hinata) | 「うん……」 | "Right..." | “嗯……”
+scn00_24_0123 | - | 役に立てるかどうかなんて、どうだってよかった。 | I don't care whether she's "useful" to me or not. | 能不能帮上忙完全不重要。
+scn00_24_0124 | - | そんな事のために、ココロと一緒にいるわけじゃないから。 | That's not why I'm keeping her by my side. | 我并不是为了这个才和心待在一起的。
+scn00_24_0125 | - | 気になっているのは、どうしてココロが黙っていたかだ。 | The one thing I'm most curious about right now is why she didn't tell me. | 我在意的是，为什么心一直没有说这件事。
+scn00_24_0126 | - | 植物園から避難するために、俺を仮のマスターと認定した。本来なら、報告しておくべき事だと思う。 | She acknowledged me as her temporary master when we escaped from the botanical garden. That means she should be reporting crucial information like that to me. | 为了逃离植物园，她将我认定为了暂时的主人，所以我觉得这本来应该是需要报告给我的事。
+scn00_24_0127 | - | たんに言わなくていいと判断した？ | Did she judge that it wasn't worth mentioning? | 为什么会认为不说比较好？
+scn00_24_0128 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_24_0129 | - | ココロはすがるような、捨て犬みたいな目を俺に向ける。 | Cocoro looks at me with puppy dog eyes, almost like she's afraid of being abandoned. | 心用十分可怜、如同弃犬般的目光看向了我。
+scn00_24_0130 | - | ぼんやりと[にじ]滲んだ視界で、俺を見ている。 | Despite her blurry vision, she's clearly looking at me. | 用模糊的视野看着我。
+scn00_24_0131 | ひなた(Hinata) | 「とりあえず、ここを出よう」 | "Let's go home, okay?" | “总之先离开这里吧”
+scn00_24_0132 | - | 駆除隊が、ココロに事情聴取をしようとしていた。ここに長居すると鉢合わせしかねない。 | The extermination squad wanted to bring Cocoro in for questioning. If we stay here, there's a high chance we'll run into them sooner than I'd like. | 驱除队想找心问一下情况，在这里待太久可能会撞上他们。
+scn00_24_0133 | ココロ(Cocoro) | 「はい、わかりました」 | "Understood. Let's go." | “好的，我明白了”
+scn00_24_0134 | - | ココロは不安を抱えた表情のまま、俺に付き従った。 | Cocoro follows me, but that uncertain expression still lingers on her face. | 心一脸不安地跟上了我。
+scn00_24_0135 | - | 部屋に戻ってきた。 | We're back at our apartment. | 回到了房间里。
+scn00_24_0136 | - | 少し眠っていたとはいえ、どっと疲れが押し寄せてくる。 | While I had a quick nap, I still feel exhausted. | 虽说已经睡了一会儿，但疲劳还是在不断地涌出身体。
+scn00_24_0137 | ココロ(Cocoro) | 「お腹が空いているんじゃありませんか？　ワタシ、何か作ります」 | "Are you hungry? I'll make you something." | “是饿了吗？　我来做点东西吧”
+scn00_24_0138 | ひなた(Hinata) | 「いや、いいよ。食欲ないし」 | "No, it's fine. I don't feel like eating." | “不用了，我没什么食欲”
+scn00_24_0139 | - | 正直、お腹は空いている。けど、目が見えていないと分かった今、ココロに料理をしてもらうのは心理的ハードルが高かった。 | To be honest, I  hungry. But now that I know how bad Cocoro's eyesight is, it doesn't feel right to make her cook for me. | 说实话，我现在很饿，但既然现在已经知道心的眼睛看不见了，我心里就很难接受让心去为我做饭。
+scn00_24_0140 | ココロ(Cocoro) | 「では……うーん」 | "Then... Hmm..." | “那么……嗯——”
+scn00_24_0141 | ひなた(Hinata) | 「じゃあ、コーヒーを淹れて」 | "Can you make some coffee?" | “那就泡个咖啡吧”
+scn00_24_0142 | ココロ(Cocoro) | 「[うけたまわ]承りました」 | "Understood." | “明白了”
+scn00_24_0143 | - | 頼んだものの、心配になって遠巻きに見守ってしまう。 | Even though I entrusted her with the task, I can't help but glance over at the kitchen to see how she's faring. | 虽然要求是我提出来的，但还是感觉有些担心，于是我便远远地看着她。
+scn00_24_0144 | ココロ(Cocoro) | 「まずは豆をミルで[ひ]挽いて……」 | "First, you grind the beans in the coffee mill..." | “先用研磨机磨豆子……”
+scn00_24_0145 | - | この部屋に来てから、ココロは何度もコーヒーを淹れてくれている。 | Cocoro has made coffee countless times since we moved into this apartment. | 自从来到这个房间里后，心已经给我泡过很多次咖啡了。
+scn00_24_0146 | - | その都度、やり方を教えたりはしてきた。 | Under my guidance, she's been improving her skills. | 每次我都会将方法教给她。
+scn00_24_0147 | ココロ(Cocoro) | 「できました。どうぞ、熱いのでふぅふぅして飲んでください」 | "Your coffee is ready. Here you go. It's still hot, so please be careful." | “完成了，请用吧，有点烫所以请吹一吹再喝”
+scn00_24_0148 | ひなた(Hinata) | 「ありがとう」 | "Thanks." | “谢谢”
+scn00_24_0149 | - | 無事に出てきたコーヒーを見て安心する。 | I breathe a sigh of relief when I see that the coffee looks normal. | 看到平安制作出来的咖啡后我放下了心。
+scn00_24_0150 | - | ココロは俺の前にちょこんと座って、まるで待てを命じられた犬みたいにしている。 | Cocoro sits down in front of me, like a dog waiting for orders. | 心乖巧地坐在我面前，就像是等待命令的狗一样。
+scn00_24_0151 | ココロ(Cocoro) | 「次は何をしましょうか」 | "What should I do next?" | “接下来我需要做什么呢”
+scn00_24_0152 | ひなた(Hinata) | 「いいよ、何もしなくても。休んでなよ」 | "It's fine. There's nothing to do right now. Just take it easy and rest." | “不用了，什么都不做也没关系，好好休息一下吧”
+scn00_24_0153 | ココロ(Cocoro) | 「フル充電なので、休む必要がありません。なんでもおっしゃってください」 | "I'm fully charged, so I have no need for rest. Please tell me what to do—I'll do anything." | “我已经充满电了，所以不需要休息，有什么事请尽管吩咐”
+scn00_24_0154 | ひなた(Hinata) | 「今は……とくにはないかな」 | "There... really isn't anything right now." | “现在……没有什么想做的事啊”
+scn00_24_0155 | ココロ(Cocoro) | 「では掃除をいたします」 | "In that case, I will do some cleaning." | “那我就清扫一下吧”
+scn00_24_0156 | ひなた(Hinata) | 「無理はしないで」 | "Don't overdo it, okay?" | “别勉强自己”
+scn00_24_0157 | - | ボディのダメージを考えると、何もしないでいてくれる方が気が楽だった。 | Considering the damage to her body, I'd feel more at ease if she didn't do anything for a while. | 考虑到她身体的损伤，还是什么都不做比较轻松。
+scn00_24_0158 | ココロ(Cocoro) | 「でも……」 | "But..." | “但是……”
+scn00_24_0159 | ひなた(Hinata) | 「いいから座ってなよ。あ、直立の方が楽なんだっけ」 | "Just sit down. Or stand, if that's more comfortable for you?" | “好了你坐下来吧，啊，是直立姿势更舒服来着”
+scn00_24_0160 | - | どっちでもいいから、休んでほしかった。 | I don't care how, I just want her to rest. | 什么姿势都行，我只是想让她休息。
+scn00_24_0161 | ココロ(Cocoro) | 「ひなたさん……」 | "Hinata-san..." | “日向先生……”
+scn00_24_0162 | - | ココロのほとんど何も見えていない瞳が、俺に向けられていた。 | Cocoro's nearly unseeing eyes are turned toward me. | 心用她那基本什么都看不见的瞳孔看向了我。
+scn00_24_0163 | ひなた(Hinata) | 「？」 | "Hmm?" | “？”
+scn00_24_0164 | ココロ(Cocoro) | 「ワタシを捨てないでください」 | "Please don't dispose of me." | “请不要抛弃我”
+scn00_24_0165 | ひなた(Hinata) | 「？　どうしたの急に」 | "What? Where did that come from?" | “？　为什么突然这么说”
+scn00_24_0166 | - | 今、そんな話をしてただろうか？ | Did I say anything that suggested I would? | 刚刚说过和这个有关的话吗？
+scn00_24_0167 | ココロ(Cocoro) | 「ワタシはまだ動けます。お役に立てます」 | "I can still work. I can be useful." | “我还能动，我还能派上用场”
+scn00_24_0168 | ひなた(Hinata) | 「捨てたりしないよ」 | "I'm not going to throw you away." | “我不会抛弃你啦”
+scn00_24_0169 | ひなた(Hinata) | 「もしかして、役に立てなくなったら、廃棄されるって思ってる？　そんな事するわけないじゃないか」 | "Do you think that I'd dispose of you if you couldn't work for me anymore? I'd never do that!" | “难道说，你觉得自己要是派不上用场了就会被废弃掉吗？　我怎么会做这种事啊”
+scn00_24_0170 | - | ココロは黙って首を振る。 | Cocoro quietly shakes her head. | 心默默摇了摇头。
+scn00_24_0171 | ココロ(Cocoro) | 「そんな事はありません。あなたたちヒトは、壊れた道具は捨ててしまいます」 | "That can't be true. Humans throw tools away when they're broken." | “没有这回事，你们是人类，会扔掉损坏的道具”
+scn00_24_0172 | ひなた(Hinata) | 「ココロを道具だなんて……」 | "You're not a tool, Cocoro..." | “心怎么会是道具……”
+scn00_24_0173 | - | 思っちゃいない。思ってたら、ここまで悩んだりしない。 | I don't think of her that way. If I did, I wouldn't be worrying this much. | 我从没这么想过，如果我真是这么想的，就不会这么烦恼了。
+scn00_24_0174 | - | でもそれは、俺の認識にすぎない。 | But that's just how I see things. | 但这只不过是我单方面的认知。
+scn00_24_0175 | ココロ(Cocoro) | 「ミュータントドローンと認識されたロボットは、処分されます。そうじゃないロボットも、修復不可能と判断されれば廃棄されます」 | "Robots that have been deemed mutant drones are being exterminated, and robots that aren't mutants get disposed of when they're damaged beyond repair." | “被认定为变异无人机的机器人会被处理掉，其他机器人只要被认定无法修复也会被废弃掉”
+scn00_24_0176 | - | ココロにとってセカイは、俺と同じには見えていない。 | Cocoro doesn't see the world the same way I do. | 心看到的世界，和我眼中的不一样。
+scn00_24_0177 | ココロ(Cocoro) | 「ワタシはロボット。ヒトの役に立つ、有益な存在でなければいけません」 | "I'm a robot. My worth is determined by my ability to be useful to humans." | “我是机器人，必须要帮上人类的忙，成为有益的存在”

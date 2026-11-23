@@ -1,0 +1,46 @@
+# scene=scn00_30 batch=7/7 dòng 343-384 / 384
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_30_0343 | - | ココロが隊長に向かっていく。 | Cocoro turns to the leader of the extermination squad. | 心看向了队长。
+scn00_30_0344 | ココロ(Cocoro) | 「先ほどは失礼しました。ドッキリ大成功～。ロボットはヒトを傷つけられません、ほら笑ってください」 | "I'm sorry about earlier. It was just a prank, and you fell for it. Robots can't hurt humans. Funny, right? Please laugh." | “刚刚真是抱歉，整人大成功～，机器人是无法伤害人类的，来吧快笑一个”
+scn00_30_0345 | 駆除隊隊長(Extermination Squad Leader) | 「ひぃっっ」 | "Eeep!" | “咿——”
+scn00_30_0346 | - | 地面に倒れたままだった隊長が、[おび]怯えながら後ずさる。 | The squad leader, still cowering on the ground, shrinks away from her. | 倒在地面的队长惊恐地向后退去。
+scn00_30_0347 | ココロ(Cocoro) | 「投降します」 | "I surrender." | “我投降了”
+scn00_30_0348 | ひなた(Hinata) | （ココロ、行くんじゃない！） | (Cocoro, don't go!) | （心，不要去！）
+scn00_30_0349 | - | 手を掴んで強く引くと、ココロは振り返った。 | I grab her hand and try to pull her back. She turns to look at me. | 我用力拉起她的手后，心便回过了头。
+scn00_30_0350 | - | 恐ろしいほどの冷たい目を、俺に向ける。 | Her eyes are terrifyingly cold. | 用冰冷到恐怖的眼睛看向了我。
+scn00_30_0351 | ココロ(Cocoro) | 「ひなたさんのおっしゃった通りです。ワタシはフィアンセを利用し、ウソの承認を得ようと試みていました」 | "You were right, Hinata-san. I was just trying to use my fiancé to gain fake acknowledgement." | “正如日向先生所说，我利用了未婚夫，试图得到虚假的承认”
+scn00_30_0352 | ココロ(Cocoro) | 「しかし、ニセモノの承認は、ワタシがこのセカイに存在してもいい理由にはなりません」 | "However, fake acknowledgement won't give me a reason to keep existing in this world." | “可是，虚假的承认，无法成为让我继续存在于这个世界的理由”
+scn00_30_0353 | ココロ(Cocoro) | 「ワタシはヒトにはなれません」 | "I can't become human." | “我无法成为人类”
+scn00_30_0354 | ひなた(Hinata) | 「……ぁぅぅ……」 | "Ah..." | “……啊呜呜……”
+scn00_30_0355 | - | なんと抗弁すればいいか分からない。 | I'm not sure how to refute what she's saying. | 我不知道该如何反驳。
+scn00_30_0356 | - | 俺は言葉にならない声を[も]漏らし、ただ首を振った。 | All I can muster is a groan as I shake my head. | 我发出了嘶哑的声音，一味地摇着头。
+scn00_30_0357 | ひなた(Hinata) | （今朝、君が[い]淹れてくれたコーヒーが美味しかったんだ……） | (The coffee you made this morning was really good.) | （今天早上，你泡给我的咖啡很美味啊……）
+scn00_30_0358 | - | せめて、それだけでも伝えたい。 | If only I could at least tell her that. | 我想着，起码要将这件事传达给她。
+scn00_30_0359 | - | でも、その気持ちを音として外に出す事ができない。 | But there's no way for me to convert that feeling into sound right now. | 但是，我却没法想法转化为话语。
+scn00_30_0360 | - | のどが引きつって、声にならない。 | The words get stuck in my throat and refuse to come out. | 喉咙紧缩着发不出声音。
+scn00_30_0361 | ココロ(Cocoro) | 「最後に一つだけ、お尋ねしてもいいですか？」 | "Can I ask you one last thing?" | “可以最后让我再问一个问题吗？”
+scn00_30_0362 | ココロ(Cocoro) | 「花はどうして美しいのですか？」 | "Why are flowers so beautiful?" | “花为什么美丽？”
+scn00_30_0363 | - | …………。 | ... | …………
+scn00_30_0364 | ひなた(Hinata) | （花は美しい……。どうしてそう感じるんだろう……） | (Flowers  beautiful... But why do I feel that way?) | （花很美丽……我为什么会有这种感受呢……）
+scn00_30_0365 | - | あるいは、感じるからこそ美しいのか。 | Or, are they beautiful  I feel that they are? | 还是说，是先有了这种感受才会觉得美丽吗。
+scn00_30_0366 | - | だとすれば、それを感じる心を持たない者には理解できるはずもない。 | In that case, there's no way someone without a soul could understand that beauty. | 如果是这样，没有能感受的人心就无法理解。
+scn00_30_0367 | - | 俺が答えられずにいると、冷たく固まっていたココロの表情に、悲しげな笑みが浮かんだ。 | As I'm standing here, unable to answer, Cocoro's cold, hardened expression morphs into a wistful smile. | 看到我迟迟没有回答，心冰冷的脸上浮现出了悲伤的笑容。
+scn00_30_0368 | ココロ(Cocoro) | 「……ウソつきでした。ワタシも、ひなたさんも」 | "...We both lied, me and you." | “……真是个骗子，我也是，日向先生也是”
+scn00_30_0369 | ココロ(Cocoro) | 「ウソはいずれ[あば]暴かれ、修正されます。今が……その……時……」 | "All lies will eventually come to light and be corrected. And now... is that... time..." | “谎言终有一日会被揭穿，被修正，现在……就是……那个时候……”
+scn00_30_0370 | - | ガクッ――ココロが急に意識を失ったように倒れた。 | Thud... Cocoro suddenly loses consciousness and collapses. | 咣当——心突然像是失去意识般倒了下去。
+scn00_30_0371 | ひなた(Hinata) | （ココロ！！） | (Cocoro!!) | （心！！）
+scn00_30_0372 | - | 蓄積したダメージによって、ボディが限界に達したんだ。 | Her body has finally reached its limit. | 不断累积的损伤已经让她的身体到达极限了。
+scn00_30_0373 | - | それを見た隊長が、ニヤリと笑みを浮かべる。 | A grin appears on the squad leader's face when he sees this. | 看到这一幕的队长阴险地笑了起来。
+scn00_30_0374 | 駆除隊隊長(Extermination Squad Leader) | 「……手こずらせやがって。おい、やれ！」 | "This clanker sure gave us a hard time. Now, finish it!" | “……真是费事，喂，做掉她！”
+scn00_30_0375 | - | 駆除隊の銃口がココロへ集まる。 | The squad members aim their guns at Cocoro. | 驱除队的枪口一齐指向了心。
+scn00_30_0376 | ココロ(Cocoro) | 「……さよ……ならです……ひ……なた……さん……」 | "Good...bye... Hi...nata-...san..." | “……永……别了……日……向……先生……”
+scn00_30_0377 | - | そう言ったココロの瞳から、洗浄液が流れ出ていた。 | As she struggles to speak, fluid leaks from Cocoro's eyes. | 心这么说着，眼中流淌出了清洁液。
+scn00_30_0378 | ジャバウォック(Jabberwock) | 『ガァオオオオオオオオオオオオ！！！！！！！』 | "Gahhhhhhhhhhhh!!!" | ‘嘎哦——————————！！！！！！！’
+scn00_30_0379 | - | ジャバウォックが吠えたかと思うと、飛び込んできて俺を突き飛ばした。 | The Jabberwock roars, and before I can respond, it shoves me out of the way. | 贾巴沃克咆哮着，冲过来把我撞飞了。
+scn00_30_0380 | - | ぐったりとして倒れているココロを、口のようなパーツで[くわ]咥える。 | It stands over Cocoro's motionless body and picks her up with what I assume is its mouth. | 用像嘴一样的零件将心衔在了口中。
+scn00_30_0381 | - | そして―― | Then... | 然后——
+scn00_30_0382 | - | 空高く跳躍した。 | It leaps up into the sky. | 然后向着天空高高跃起。
+scn00_30_0383 | 駆除隊隊長(Extermination Squad Leader) | 「撃てぇぇ！！！　逃がすなッッ！！！！！」 | "Fire!!! Don't let them get away!!!" | “开枪！！！　别让它们跑了！！！！！”
+scn00_30_0384 | - | 駆除隊が空に向かって発砲するが、ジャバウォックの姿はとっくに見えなくなっていた。 | The squad members fire into the air, but the Jabberwock is nowhere to be seen anymore. | 驱除队朝着空中开起了枪，但贾巴沃克却早已消失了踪影。

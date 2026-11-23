@@ -1,0 +1,60 @@
+scn00_44_0120 | "Thứ phế vật kia, đừng có ngáng đường tao!"
+scn00_44_0121 | "Tao đã điều tra về mày rồi. Một con chó giả mạo phế phẩm, được chế tạo để đối đầu với CCR-01 nhưng bị coi là thất bại và bị vứt bỏ!"
+scn00_44_0122 | "Tao sẽ tiêu trừ mày đến mức không còn lưu lại một mẩu tàn tích nào!"
+scn00_44_0123 | "Hãy dừng tay lại!"
+scn00_44_0124 | "Ông rõ ràng đã bị bãi nhiệm khỏi Đội Tiêu trừ rồi. Tiếp tục hành vi bạo lực hung tàn này thì ông sẽ bị truy tố trước pháp luật đấy!"
+scn00_44_0125 | "...Mày, ăn mặc cái bộ dạng gì thế kia hả? Một con robot mà cũng bày đặt chơi trò đóng giả làm người sao?"
+scn00_44_0126 | "..."
+scn00_44_0127 | "Tao tuyệt đối sẽ không bao giờ tha thứ cho lũ chúng mày."
+scn00_44_0128 | "Tại sao ông lại căm thù chúng tôi đến nhường ấy chứ?"
+scn00_44_0129 | "Bởi vì gia đình tao đã bị lũ chúng mày giết chết!"
+scn00_44_0130 | "Trong Ách Tai, tao đã mất đi cả vợ lẫn đứa con thơ dại... Lũ chúng mày chính là những kẻ thủ ác đã giết chết họ!"
+scn00_44_0131 | "..."
+scn00_44_0132 | "Hà... hà... hà... hà...!"
+scn00_44_0133 | Đột nhiên bàn đạp dưới chân mất sạch lực cản, tôi chới với dúi người về phía trước rồi ngã nhào cùng cả chiếc xe đạp.
+scn00_44_0134 | "Khốn thật... đứt xích mất rồi!"
+scn00_44_0135 | Tôi vứt bỏ chiếc xe đạp leo núi lại bên đường, dùng chính đôi chân mình cắm đầu chạy thục mạng.
+scn00_44_0136 | "Hộc... hộc... chân mình... không còn chút sức lực nào nữa..."
+scn00_44_0137 | Từng thớ cơ bắp đau nhức như muốn rách toạc ra. Dẫu vậy, tôi vẫn nghiến răng lao về phía trước.
+scn00_44_0138 | Từ chiếc kính bảo hộ vẫn đeo trên đầu, những âm thanh căng thẳng liên tục vọng lại.
+scn00_44_0139 | <Không chỉ riêng tao đâu. Số con người căm ghét lũ chúng mày nhiều như núi ấy!>
+scn00_44_0140 | <Mày tuyệt đối sẽ không bao giờ có được hạnh phúc đâu. Dẫu tao có tha cho mày, thì cả thế giới này cũng chẳng bao giờ dung thứ cho mày!>
+scn00_44_0141 | <...Ông đã mất đi những người thân yêu trong gia đình. Và ông muốn trút nỗi oán hận ngút trời ấy lên đầu chúng tôi.>
+scn00_44_0142 | <Lũ chúng mày chính là cội nguồn của mọi tai ương! Chỉ là lũ robot thấp kém... mà dám trơ tráo bắt chước làm con người sao!!!>
+scn00_44_0143 | "Không phải thế............ Cocoro và các em ấy không làm gì sai cả!"
+scn00_44_0144 | Cocoro có được trái tim là bởi vì mẹ tôi đã tạo ra em như thế.
+scn00_44_0145 | CCR-02 phát ra sóng tương tác sinh hóa cũng là vì em đã bị nhào nặn để trở nên như vậy.
+scn00_44_0146 | Nếu robot gây ra tai họa, thì trách nhiệm tối thượng thuộc về con người.
+scn00_44_0147 | <Nếu việc đó có thể cứu rỗi được tâm hồn ông, tôi xin chấp nhận.>
+scn00_44_0148 | "Cocoro, em đang nói gì thế..."
+scn00_44_0149 | <Thế nhưng, xin ông hãy đợi thêm một chút được không ạ? Những đóa hoa này sắp sửa nở bung rồi... >
+scn00_44_0150 | "Hoa... cái gì cơ?"
+scn00_44_0151 | "Một loài hoa mang tên Tuyết Trắng Mùa Hạ, vài năm mới nở một lần, nhìn xem, những nụ hoa đang hé mở rực rỡ dường này..."
+scn00_44_0152 | "Đừng có giả nhân giả nghĩa nữa, con búp bê bằng máy móc kiaaaaa!!!!!"
+scn00_44_0153 | <Cocoro, phản kháng lại mau! Anh cho phép em giải phóng giới hạn an toàn!>
+scn00_44_0154 | "..."
+scn00_44_0155 | <Sao thế hả, Cocoro!>
+scn00_44_0156 | "...Làm tổn thương người khác... tôi sợ lắm..."
+scn00_44_0157 | Việc sử dụng một thứ sức mạnh có thể dễ dàng đả thương, thậm chí đoạt mạng một con người... khiến Cocoro sợ hãi đến tột cùng.
+scn00_44_0158 | Dù đã nhận được lệnh cho phép giải trừ giới hạn, nhưng chính cảm xúc nhân tính bên trong Cocoro lại khước từ việc thi hành nó.
+scn00_44_0159 | "Chết đi, con bù nhìn sắt vụn!!!"
+scn00_44_0160 | Gã Đội trưởng Đội Tiêu trừ giương súng trường lên ngắm bắn.
+scn00_44_0161 | <Dừng tay lạiiiiiiiiiiiiiiiiiiiii!!!!!>
+scn00_44_0162 | "Ách!!?"
+scn00_44_0163 | Chiếc flycam từ đâu bất ngờ lao bổ xuống, đâm sầm vào người gã đội trưởng.
+scn00_44_0164 | Viên đạn súng trường tuy hơi chệch hướng, nhưng vẫn sượt qua cánh tay của Cocoro.
+scn00_44_0165 | Chịu phải tổn hại, Cocoro lảo đảo rồi ngã gục xuống đất.
+scn00_44_0166 | "Cánh tay của tôi..."
+scn00_44_0167 | "...Hoa hoét cái gì. Một cỗ máy rác rưởi mà bày đặt muốn ngắm hoa sao..."
+scn00_44_0168 | Tên đội trưởng hung bạo xông thẳng vào bồn hoa, giơ chân toan giẫm nát những đóa Tuyết Trắng Mùa Hạ.
+scn00_44_0169 | "Dừng lại đi mà!"
+scn00_44_0170 | <Gaaaaaaaaaaaaaaaaa!!!!!!!>
+scn00_44_0171 | "Cút ra chỗ khác!"
+scn00_44_0172 | Thấy Shirayuki lao chồm tới, tên đội trưởng liền vung báng súng nện thẳng vào người nó.
+scn00_44_0173 | "Xin ông hãy dừng lại đi, em ấy sẽ chết mất!"
+scn00_44_0174 | "...Lũ chúng mày làm sao biết chết. Chỉ là hư hỏng biến thành sắt vụn thôi!"
+scn00_44_0175 | Gã đội trưởng chĩa thẳng nòng súng trường vào Shirayuki.
+scn00_44_0176 | Thứ đạn được nạp trong băng có lẽ là loại đạn xuyên giáp chuyên dụng dùng để bắn thủng lớp vỏ bọc kim loại của robot.
+scn00_44_0177 | "Trở về với cõi hư vô đi, đồ robot phế thải vô dụng. Ngay từ đầu số kiếp của mày đã là phải đem đi tiêu hủy rồi!"
+scn00_44_0178 | "DỪNG LẠI MAU!!!!!!!!!!"
+scn00_44_0179 | "Gự aaaa!!?"

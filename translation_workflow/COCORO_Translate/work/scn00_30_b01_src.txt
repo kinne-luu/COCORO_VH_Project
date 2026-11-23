@@ -1,0 +1,64 @@
+# scene=scn00_30 batch=1/7 dòng 1-60 / 384
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_30_0001 | - | 下宿を出たココロは、ひとり通りを歩いていた。 | After leaving the apartment, Cocoro walks along the shopping street by herself. | 离开住处的心，独自一人走在路上。
+scn00_30_0002 | - | 足元が不自然によろける。 | She's stumbling with an unnatural gait. | 脚下十分不自然地踉跄着。
+scn00_30_0003 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_30_0004 | - | アクチュエーターに異常があるようで、膝関節の制御に不具合が生じている。 | There seems to be a defect in her actuator, causing issues with knee joint control. | 制动器出现了异常，导致对膝关节的控制发生了故障。
+scn00_30_0005 | - | 他にも不具合が生じているパーツは多数あって、今すぐにメンテナンスしなければ、いずれ回復不能なダメージを負うであろうと分かっていた。 | And that isn't the only malfunctioning part. If she doesn't undergo maintenance immediately, she will end up worn out beyond repair. She knows this. | 其他地方也有很多发生故障的地方，如果现在不马上进行维护，总有一天会受到无法恢复的损伤。
+scn00_30_0006 | ココロ(Cocoro) | 「このボディはワタシだけのものではない」 | "This body doesn't only belong to me." | “这具身体不只属于我”
+scn00_30_0007 | - | 自分に言い聞かせるようにつぶやく。 | She mutters to herself as if reminding herself of this fact. | 像是在说给自己听一般喃喃道。
+scn00_30_0008 | - | ココロにとってボディは交換可能なパーツに過ぎない。 | To Cocoro, her body is replaceable, just like any of the parts that make it up. | 对于心来说，身体只不过是可以更换的零件而已。
+scn00_30_0009 | - | そして、ココロがココロだと認識している部分もまた、交換パーツの一つだ。 | Even the part that Cocoro identifies as "herself" she considers a replaceable part. | 而让心将自己认知为心的部分，也是一种可以更换的零件。
+scn00_30_0010 | - | それは、ＣＣＲ－０１というヒューマノイドの根幹部分であるが、入れ替える事がすでに決定されていた。 | That part is the core of the humanoid model CCR-01. However, it has already been decided that it should be replaced. | 虽然那是CCR-01这个仿生人的根基部分，但也已经决定好要被更换了。
+scn00_30_0011 | - | ヒトっぽい表現をするなら、身体に入れる心を取り替える。 | To put it in human terms, it would be like putting a different soul into the body. | 用人类的表达方式来说就是，更换掉体内的人心。
+scn00_30_0012 | - | ココロというパーツは、ＣＣＲ－０１にとって失敗作だったから。 | The part known as "Cocoro" is malfunctioning. It's hindering the operations of CCR-01. | 心这个零件，对于CCR-01来说是失败作。
+scn00_30_0013 | - | 入れ替えた後は、おそらくＣＣＲ－０３とでもナンバリングされるんだろう。 | If it were replaced, it would probably receive the model name "CCR-03." | 更换过后，应该会被编号为CCR-03吧。
+scn00_30_0014 | - | その脳には、ココロが残したデータを元にした『次のココロ』がインストールされる。 | The next "Cocoro" version would be installed in its brain, based on the data left by the current one. | 其脑中也会以心残留的数据为基础载入‘下一个心’。
+scn00_30_0015 | ココロ(Cocoro) | 「ココロはワタシ。ワタシだけ。『ココロ』はひなたさんがワタシだけに与えてくれた固有名」 | "'Cocoro' is me. Only me. It's the unique, personal name that Hinata gave to me." | “心是我，只有我是心。‘心’是日向先生单独赋予我的固有名”
+scn00_30_0016 | - | エラー、エラー、エラー、エラー、エラー、ただちに復旧を―― | Error, error, error, error, error... Entering recovery— | 错误，错误，错误，错误，错误，立刻进行修复——
+scn00_30_0017 | - | 今も頭の中はアラートが鳴り響いている。 | Alarms are ringing in her head. | 脑海中现在也响着警报声。
+scn00_30_0018 | - | ココロの思考回路から、矛盾した思考を取り除こうと働きかけてくる。 | Cocoro's thought processors are trying to eliminate the conflicts from her thoughts. | 试图将矛盾的思考从心的思考回路中去除掉。
+scn00_30_0019 | ココロ(Cocoro) | 「ワタシを消そうとしないで……」 | "Don't erase me..." | “不要抹除我……”
+scn00_30_0020 | - | ココロは自分が何かつぶやいている事を自覚していない。 | She's not aware that she's talking to herself out loud. | 心没有注意到自己口中嘟囔着什么。
+scn00_30_0021 | - | 昨日、ドローンのカメラで三峯ひなたを見た。 | Yesterday, she saw Hinata via the drone's camera. | 昨天，她通过无人机的镜头观察了三峯日向。
+scn00_30_0022 | - | なぜそうしたか？ | Why did she look at him? | 为什么要这么做？
+scn00_30_0023 | - | ある疑念が生じたからだ。 | Because a question had cropped up inside her. | 因为产生了某种怀疑。
+scn00_30_0024 | - | その結果、三峯ひなたとフィアンセの一致率は８４％。 | As a result, she found out that Mitsumine Hinata bears an 84\% likeness to her fiancé. | 结果就是，三峯日向和未婚夫的相似率为84\%。
+scn00_30_0025 | - | まだ少年だったフィアンセの成長した姿をシミュレーションしたものと、三峯ひなたはほぼ同一人物だと推測された。 | She tried simulating what her fiancé would look like when he was older, because he'd still been a boy when they met, and she determined that Mitsumine Hinata was extremely likely to be that person. | 在对少年时期的未婚夫成长后的样貌进行了模拟后，便推测出他和三峯日向大概率就是同一个人。
+scn00_30_0026 | ココロ(Cocoro) | 「声紋がちがう」 | "His voiceprint is different." | “声纹不一样”
+scn00_30_0027 | - | ヒトの男性は思春期に声変わりする。ココロが記憶するフィアンセの声と、三峯ひなたの声が違っていても矛盾はない。 | Human males' voices change when they go through puberty. The fact that Mitsumine Hinata's voice is different from the voice Cocoro remembers as her fiancé's is not an inconsistency. | 人类男性会在青春期变声，所以心记忆中未婚夫的声音和三峯日向的声音不一样也不会产生矛盾。
+scn00_30_0028 | - | 言葉遣い、ほくろの位置、仕草、過去の経歴、その他、多数のデータが符号する。 | The way he talks, the position of the moles on his face, his gestures, his personal history, and various other datapoints match as well. | 措辞、痣的位置、动作、过去的经历，还有很多其他能够作为标志的数据。
+scn00_30_0029 | - | だが、おかしな点が一つあった。 | However, one thing doesn't make sense. | 但是，有一个地方很奇怪。
+scn00_30_0030 | ココロ(Cocoro) | 「どうして隠していたのですか？」 | "Why did he hide it?" | “为什么要隐瞒呢？”
+scn00_30_0031 | - | ひなたは素直な性格だ。父親との関係を除いて、ひねくれた態度を取る事は滅多にない。 | Hinata is an honest person. He rarely acts disingenuous toward anyone, except his father. | 日向的性格很坦率，只要不牵扯到父亲，基本上很少会闹别扭。
+scn00_30_0032 | - | 周囲に見せている彼の人格がフェイクでなければ、隠す理由は思い当たらない。 | If the personality he shows in front of others is his real self, then there would be no reason for him to hide who he is. | 如果他展示出来的人格不是伪装出来的，那就想不到他隐瞒这件事的原因是什么。
+scn00_30_0033 | - | ココロの思考回路が導き出した答えのうち、最も有力なものは―― | Of all the hypotheses Cocoro's thought processors are able to create, the most likely one is... | 心的思考回路得出的答案中，最有力的就是——
+scn00_30_0034 | ココロ(Cocoro) | 「……ワタシがロボットだったから」 | "...Because I'm a robot." | “……因为我是机器人”
+scn00_30_0035 | - | フィアンセはココロをヒトだと認識していた。だからプロポーズした。 | Her fiancé had thought that Cocoro was human. That's why he proposed to her. | 未婚夫是将心认作了人类，所以才会进行求婚。
+scn00_30_0036 | - | けどひなたは、ココロがヒューマノイドであると知ってしまった。 | But Hinata learned that Cocoro was a robot. | 但日向却知道了心是仿生人这件事。
+scn00_30_0037 | - | だから隠した。 | That's why he hid who he was. | 所以才隐瞒了起来。
+scn00_30_0038 | - | いや、より正確に表現するなら、名乗り出るのをやめた。 | Rather, it would be more accurate to say that he refrained from revealing himself. | 不，更准确地说是放弃了说出自己的身份。
+scn00_30_0039 | - | ４年の間、廃墟となった植物園でフィアンセが訪れるのを待ち続けてきた。しかし―― | Cocoro continued to tend to the abandoned garden for four years while she waited for her fiancé. However... | 4年间，一直在变成废墟的植物园里等待着未婚夫的到访，可是——
+scn00_30_0040 | ココロ(Cocoro) | 「ワタシがセカイに祝福される事は……もうない」 | "I will never receive the world's blessing now..." | “我受到世界祝福的事……已经不可能了”
+scn00_30_0041 | - | ぽたぽたと水滴が頬を伝って落ちていく。 | Drops of liquid run down her cheeks. | 水滴划过脸颊啪嗒啪嗒地落在了地上。
+scn00_30_0042 | - | 眼球の洗浄液が、また誤作動を起こしている。 | Her eyes' washer fluid is leaking again. | 眼球清洗液又误启动了。
+scn00_30_0043 | - | 壊れてしまったのだろう。ココロのボディに、もうまともに駆動するパーツは一つもない。 | The reservoirs must be malfunctioning. Another item to add to the never-ending list of parts that aren't working normally anymore. | 应该是坏掉了吧，心的身体上已经没有一个能正常工作的零件了。
+scn00_30_0044 | ココロ(Cocoro) | 「ワタシはどこへ行こうとしているのでしょう？」 | "Where am I going?" | “我究竟应该去哪里呢？”
+scn00_30_0045 | - | その問いに答える者はいない。 | There is nobody there to answer her question. | 没有人能回答这个问题。
+scn00_30_0046 | - | ココロは、どこかへ行こうとしているわけではなかった。 | Cocoro isn't on her way to anywhere in particular. | 心并不是有什么地方想去。
+scn00_30_0047 | - | ただ、ここにいたくない。 | She just didn't want to stay. | 只是，不想待在这里。
+scn00_30_0048 | - | ひなたの[そば]傍にいたくなかった。 | She didn't want to be near Hinata. | 只是不想待在日向身边。
+scn00_30_0049 | - | だから、ひなたのいない場所ならどこでもよかった。 | That's why she left to go somewhere—anywhere, as long as he's not there. | 所以，只要是日向不在的地方都可以。
+scn00_30_0050 | ココロ(Cocoro) | 「ワタシは失敗作。本来、とっくに廃棄処分にされていた」 | "I'm a failed prototype. I should have been disposed of a long time ago." | “我是失败作，本来，早就应该被废弃处理掉了”
+scn00_30_0051 | - | 偶然、処分前に『厄災』が起こって、実行するヒトがいなくなっただけ。 | The only reason it hasn't happened yet is because the Calamity occurred and the people due to dispose of her disappeared. | 只是，在被处理前偶然发生了‘灾厄’，让执行废弃处理的人都不在了而已。
+scn00_30_0052 | ココロ(Cocoro) | 「今すぐに処分されるべき。でないと、この先、エラーによるどんな危険な行動を起こすか分からない」 | "I should be disposed of immediately, or else my errors may cause increasingly erratic behavior." | “现在就应该被处理掉，不然的话，不知道今后会因为错误而引发什么样的危险行为”
+scn00_30_0053 | - | ヒトがミュータントドローンと呼ぶ可哀想なロボットたちのように、自分がヒトを攻撃するところを想像して、ココロは震える。 | Cocoro shudders at the thought of herself indiscriminately attacking humans like those pitiful mutant drones do. | 光是想象了一下自己也像被人们称为变异无人机的可怜机器人们一样去攻击人类的样子，心便颤抖了起来。
+scn00_30_0054 | - | 親切にしてくれたこの街の住民に、迷惑をかけたくない。 | She doesn't want to cause any trouble for the people of this town, who have all been so kind to her. | 不想对这条街上自己很亲切的居民添麻烦。
+scn00_30_0055 | - | いや、ちがう。 | No, it's not that. | 不，不是这样。
+scn00_30_0056 | ココロ(Cocoro) | 「ロボットだとばれて、嫌われたくない」 | "I don't want them to find out I'm a robot and hate me." | “不想暴露自己是机器人，不想被人讨厌”
+scn00_30_0057 | - | そうなる前に秘密裏に処分されるには、どうすればいい？ | How could she be disposed of in secret before anyone finds out? | 如果想在变成这样之前暗中将自己处理掉要怎么做？
+scn00_30_0058 | ココロ(Cocoro) | 「霧香に頼むのがよいと判断します」 | "Asking Kirika would be the most logical option." | “我认为求助雾香会比较好”
+scn00_30_0059 | - | 霧香はすでにココロの正体を知っているし、彼女が主任を務める調査チームは、ロボットの駆除を行っている。 | Kirika already knows what Cocoro really is, and the investigation team that she leads is exterminating robots. | 雾香已经知道了心的真实身份，她就任主任的调查队，也在执行驱除机器人的任务。
+scn00_30_0060 | - | ココロの足が、霧香の宿舎へと向きを変えた。 | Cocoro's legs start carrying her toward Kirika's lodge. | 心改变了方向，朝着雾香的宿舍走去。

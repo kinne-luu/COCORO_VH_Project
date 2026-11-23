@@ -1,0 +1,62 @@
+# scene=scn00_29 batch=2/3 dòng 61-118 / 164
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_29_0061 | ひなた(Hinata) | （……やっぱり美味しい！） | (It really  good!) | （……真的很美味！）
+scn00_29_0062 | - | ココロはどこだ？ | Where is Cocoro? | 心在哪里？
+scn00_29_0063 | - | 教えてあげないと、このコーヒーは美味しいって。 | I need to tell her that this coffee is amazing. | 我得把这杯咖啡很美味的告诉她。
+scn00_29_0064 | ひなた(Hinata) | （ココロ！） | (Cocoro!) | （心！）
+scn00_29_0065 | ひなた(Hinata) | 「……ぁぅぁぅ……」 | "Ah, ah..." | “……啊呜啊呜……”
+scn00_29_0066 | - | 声が出ない事がもどかしい。 | It's so annoying that my voice won't come out. | 发不出声音让我很是急躁。
+scn00_29_0067 | - | 立ち上がって一階を見に行くが、いない。 | I stand up and look around the apartment. Then, I check downstairs, but she's not there either. | 我起身去一楼看了一眼，她也不在。
+scn00_29_0068 | ひなた(Hinata) | （どこに行っちゃったんだろう） | (Seriously, where did she go?) | （到底去哪了呢）
+scn00_29_0069 | - | このコーヒーが美味しいと、早く教えてあげたいのに。 | I need to tell her as soon as possible that this is the best coffee she's ever made. | 我还想将这杯咖啡很美味这件事早点告诉她呢。
+scn00_29_0070 | 霧香(Kirika) | 「……メンテログはあらかた読み終えたけれど、驚いたわ」 | "I've read through most of her maintenance logs, and... This is a surprise." | “……维护记录我基本上都看完了，真是令人吃惊”
+scn00_29_0071 | 霧香(Kirika) | 「ＣＣＲ－０１の魂とも言うべき感情回路、その設計者は三峯陽子……姉さんだったのね」 | "The emotional circuitry, which you could say is the 'soul' of model CCR-01, was designed by Mitsumine Yoko... My sister." | “可以被称为CCR-01灵魂的感情回路，其设计者是三峯阳子……也就是我姐姐啊”
+scn00_29_0072 | 霧香(Kirika) | 「セントラルでの研究はどれも重要機密だから、関わっている事も口外できない。……でも、そんな気はしてた」 | "She always said that the research carried out in Central was top-secret, so she couldn't tell me much about her work... But I already had a hunch." | “虽然中心区的研究全都是重要机密，所以相关的事也都不能对外人说……但我也隐约有所察觉了”
+scn00_29_0073 | 霧香(Kirika) | 「ココロからは、どこか懐かしさを感じていたから……」 | "Talking to Cocoro made me feel nostalgic, for some reason..." | “毕竟，我从心身上感觉到了怀念……”
+scn00_29_0074 | 霧香(Kirika) | 「……陽子姉さん」 | "...Yoko, my dear sister." | “……阳子姐姐”
+scn00_29_0075 | - | コンコン。 | Knock, knock... | 咚咚。
+scn00_29_0076 | 霧香(Kirika) | 「こんな朝早くに誰かしら……。はーい」 | "Who could it be at this time of morning? Coming!" | “这一大早会是谁啊……来了——”
+scn00_29_0077 | 光太郎(Kotaro) | 「おはようございます、主任！」 | "Good morning, Chief!" | “早上好，主任！”
+scn00_29_0078 | 霧香(Kirika) | 「光太郎君、どうしたの？」 | "Kotaro-kun? What are you doing here?" | “光太郎啊，有什么事吗？”
+scn00_29_0079 | 光太郎(Kotaro) | 「いえ、また徹夜してるみたいなんで、朝食の差し入れです」 | "I noticed the lights in your room were on all night, so I brought you some breakfast." | “没什么，只是我看你好像又通宵了，所以带了早饭给你”
+scn00_29_0080 | 霧香(Kirika) | 「ありがとう。そういえば、昨日から何も食べていなかったわ」 | "Thank you. I completely forgot that I haven't eaten anything since yesterday." | “谢谢，说起来，我从昨天到现在还什么都没吃呢”
+scn00_29_0081 | 光太郎(Kotaro) | 「無理なダイエットは美容の敵ですよ」 | "You're going to lose weight, and not in a healthy way." | “过度减肥可是美容的敌人哦”
+scn00_29_0082 | 霧香(Kirika) | 「そうね。お肌がガサガサだわ。コーヒーを[い]淹れるから、光太郎君も飲んでいって」 | "You're right. My skin feels all dry and flaky. I'll make some coffee—you should stay and have some too, Kotaro-kun." | “是啊，皮肤都变粗糙了。我去泡杯咖啡，光太郎也来一杯吧”
+scn00_29_0083 | 光太郎(Kotaro) | 「いいんですか！？　ラッキー♪」 | "Really!? Today must be my lucky day! %f$記号$;♪%fuser;" | “可以吗！？　真走运♪”
+scn00_29_0084 | 光太郎(Kotaro) | 「あ、俺手伝います」 | "Oh, let me help." | “啊，我也来帮忙”
+scn00_29_0085 | 霧香(Kirika) | 「いいわ、座ってて」 | "It's fine. Sit down." | “不用啦，你坐着吧”
+scn00_29_0086 | 光太郎(Kotaro) | 「うーむ、お節介かとも思ったが、やってみるもんだな」 | "Hmm... I was afraid I was being overbearing, but I'm glad I gave it a shot anyway." | “唔呣，还以为她会觉得我多管闲事，但结果却出乎意料地好啊”
+scn00_29_0087 | 光太郎(Kotaro) | 「にしても、機月主任は仕事熱心だな。厄介事を押しつけられても、嫌な顔一つせずに真剣に取り組んでおられる」 | "Still, I can't believe how passionate you are about your work, Chief Kizuki. You never complain, even when you're given the most difficult tasks." | “话说回来，机月主任真是热爱工作啊，就算是被人塞了棘手的工作，也不会满脸抗拒而是认真致力于工作”
+scn00_29_0088 | 光太郎(Kotaro) | 「素晴らしい研究者だ」 | "You're an amazing researcher." | “真是出色的研究者啊”
+scn00_29_0089 | 霧香(Kirika) | 「そんなんじゃないわ。誰かがやらないと、『厄災』はいつまで経っても終わらないもの。はい、どうぞ」 | "You're giving me too much credit. Somebody has to do this work, or else the Calamity will never truly come to an end. Here you go." | “没有这回事，只是因为如果没人去做，‘灾厄’再过多久都不会结束。来，给你”
+scn00_29_0090 | 光太郎(Kotaro) | 「ありがとうございます。う～ん、主任の入れてくださったコーヒー。いい香りだ」 | "Thank you. Mmm, your coffee always smells delicious, Chief." | “十分感谢。嗯～，主任泡的咖啡好香啊”
+scn00_29_0091 | 光太郎(Kotaro) | 「昨晩も徹夜だったんです？」 | "Did you stay up all night?" | “昨晚是通宵了吗？”
+scn00_29_0092 | 霧香(Kirika) | 「ええ、調べたい事があって」 | "Yeah. I was doing some research." | “嗯，有些事想调查一下”
+scn00_29_0093 | 光太郎(Kotaro) | 「いったい何を。俺でよければ、お手伝いしますよ！」 | "What are you working on? If you don't mind, I can help." | “是什么事，可以的话，就让我也来帮忙吧！”
+scn00_29_0094 | 霧香(Kirika) | 「ちょっと、アレロパシーの発信源について調べていたの。……はふぅ、徹夜した朝はこれに限るわね」 | "I was just looking further into the original source of the allelopathy... Pwahh, this stuff hits different after a night of hard work." | “只是稍微调查了一下贾巴沃克的信号源……哈呜，通宵之后的早上就得来一杯咖啡啊”
+scn00_29_0095 | 光太郎(Kotaro) | （機月主任、コーヒーにはミルクをたっぷり入れるんだな。ギャップがあっていい） | (Huh, Chief Kizuki puts so much milk in her coffee... Never would've expected that from .) | （机月主任在咖啡里加了好多牛奶啊，这反差感真不错）
+scn00_29_0096 | 光太郎(Kotaro) | 「例のジャバウォックが出してるシグナルがどうとかってやつですね。何か分かったんですか？」 | "You mentioned there was a signal being emitted from that 'Jabberwock' we fought, right? Did you figure anything else out?" | “是之前贾巴沃克发出的什么信号对吧，那分析出什么结果了吗？”
+scn00_29_0097 | 霧香(Kirika) | 「うん……それがかえって分からなくなったわ」 | "Well... I'm afraid it only complicates matters further." | “嗯……但反倒让我更不明白了”
+scn00_29_0098 | 光太郎(Kotaro) | 「と言いますと」 | "What do you mean?" | “这话怎么说”
+scn00_29_0099 | 霧香(Kirika) | 「これが解析中のデータなんだけど、おかしなところがあって」 | "That's what I've been trying to analyze, but something about the data is strange." | “这就是解析中的数据，里面有些地方很奇怪”
+scn00_29_0100 | 霧香(Kirika) | 「ジャバウォックが出現した時のアレロパシー発信源の座標に誤差が生じてる」 | "When the Jabberwock appeared, the coordinates from which the allelopathy was being emitted shifted." | “贾巴沃克出现时的化感作用信号源坐标出现了误差”
+scn00_29_0101 | 光太郎(Kotaro) | 「ミュータントドローンなら、どれでも発生させてるんですよね？　そのアレロパシーってやつ」 | "Mutant drones are able to emit it as well, aren't they? That allelopathy stuff?" | “只要是变异无人机就都能发出那个叫化感作用的信号对吧？”
+scn00_29_0102 | 霧香(Kirika) | 「ええ。でもアレロパシーの強度は、ＡＩの知能や通信機能によって変化する。ここまで強烈なものは、普通のロボットには発信できないわ」 | "They are. But the intensity varies depending on the AI's intelligence level and communication capabilities. No ordinary robot could transmit something this intense." | “是的，但化感作用的强度会根据AI的智力和通信技能而发生变化，普通的机器人无法发出如此强烈的信号”
+scn00_29_0103 | 光太郎(Kotaro) | 「じゃあ、あの獣みたいなミュータントドローンは、相当知能が高いという事ですか」 | "So are you saying that beast-like mutant drone is especially intelligent?" | “那，意思是那个像野兽一样的变异无人机拥有相当高的智力吗”
+scn00_29_0104 | 霧香(Kirika) | 「ええ、そうなんだけど……。ここを見て。同じ場所から発生しているようで……」 | "Yeah, it would seem so... But look at this. It looks like it's being emitted from the same location, but..." | “嗯，应该是这样……看这里，似乎是从同一个地方发出的……”
+scn00_29_0105 | 光太郎(Kotaro) | 「？　……発生源が２つある？」 | "Huh? There's two sources?" | “？　……信号源有2个？”
+scn00_29_0106 | 霧香(Kirika) | 「……そう見えるわ」 | "That's what it looks like." | “……看上去是这样”
+scn00_29_0107 | 光太郎(Kotaro) | 「まるであそこに、知能の高いロボットが２体いたみたいな」 | "This data would suggest that there's two highly intelligent robots in that spot." | “就好像那里有2台高智能机器人一样啊”
+scn00_29_0108 | 霧香(Kirika) | 「…………」 | "..." | “…………”
+scn00_29_0109 | 霧香(Kirika) | 「ッ……」 | "Ah..." | “……”
+scn00_29_0110 | 光太郎(Kotaro) | 「どうしました、主任？」 | "What's wrong, Chief?" | “怎么了，主任？”
+scn00_29_0111 | 霧香(Kirika) | 「……もしかしたら、私はとんでもない勘違いをしていたのかもしれない」 | "...I might have made a terrible mistake." | “……说不定，我没准是产生了一个很大的误会”
+scn00_29_0112 | 光太郎(Kotaro) | 「どこ行くんですか、主任」 | "Where are you going, Chief?" | “你要去哪里啊，主任”
+scn00_29_0113 | 霧香(Kirika) | 「……すぐに確かめないと」 | "I need to confirm something." | “……得赶紧去确认一下”
+scn00_29_0114 | 光太郎(Kotaro) | 「徹夜で外をうろつくのは危ないっすよ。一度休んでからにした方が！　って、行っちゃったよ」 | "It's dangerous to wander around outside when you're sleep deprived. Wouldn't it be better if you took a break!? Hey, wait... And there she goes." | “通宵之后再去外面乱晃很危险啊，还是先休息一下比较好吧！　呃，已经走了啊”
+scn00_29_0115 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_29_0116 | - | とっくに飲み終えたコーヒーカップを、ぼんやりと見つめる。 | I absentmindedly stare at my empty coffee cup. | 我呆呆地望着早已喝干的咖啡杯。
+scn00_29_0117 | - | もう一杯、おかわりをお願いしたかったけど、ココロはまだ戻っていなかった。 | I'd love another one, but Cocoro still hasn't come back. | 虽然想再来一杯，但心还没有回来。
+scn00_29_0118 | ひなた(Hinata) | （……昨日のココロ、様子がおかしかった） | (...Cocoro was acting really weird yesterday.) | （……昨天的心也很奇怪）

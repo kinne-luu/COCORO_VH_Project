@@ -1,0 +1,60 @@
+scn00_42_0121 | "Mọi người ơi, xin hãy đến dự lễ cưới của chúng cháu nhé! Bất cứ ai cũng đều có thể tham dự được ạ!"
+scn00_42_0122 | Khi tôi cất lời mời gọi, Ryuzaki và Daichi liền tiếp lời phụ họa ngay sau đó.
+scn00_42_0123 | "Hôn lễ sẽ được tổ chức ở vườn bách thảo bên Khu Trung Tâm nhéee! Mọi người hãy cùng đến chúc phúc cho khởi đầu mới của hai bạn trẻ nhaaa!"
+scn00_42_0124 | "Tiệc mừng sau đó ai muốn tham gia chung vui cũng đều hoan nghênh hết nhé!"
+scn00_42_0125 | "Đây là thiệp mời của hai anh chị nèee!"
+scn00_42_0126 | Bé Kosame nhanh thoăn thoắt phát từng tờ giấy ghi lịch trình cụ thể của ngày diễn ra hôn lễ cho mọi người.
+scn00_42_0127 | "Vườn bách thảo là cái chỗ đằng kia sao..."
+scn00_42_0128 | "Nếu ai đi cũng được thì khéo mình cũng ghé xem sao nhỉ..."
+scn00_42_0129 | Định kiến xã hội đôi khi có thể bị phá vỡ chỉ nhờ vào một cơ duyên nhỏ bé.
+scn00_42_0130 | Được tận mắt ngắm nhìn Cocoro trong bộ váy cưới đẹp lộng lẫy đến ngỡ ngàng, những định kiến gay gắt dường như đã tan biến tự lúc nào, như thể chưa từng tồn tại.
+scn00_42_0131 | "Xem ra đám cưới của tụi mình sẽ náo nhiệt lắm đây."
+scn00_42_0132 | "...Dạ vâng."
+scn00_42_0133 | Công tác chuẩn bị cho ngày trọng đại không chỉ có mỗi bộ váy cưới của Cocoro được tiến hành trơn tru.
+scn00_42_0134 | "Khách mời sẽ đứng xếp hàng dọc hai bên lối đi, rồi cô dâu chú rể sẽ sánh bước ở giữa nhé. Nhớ để ý cẩn thận kẻo giẫm phải cây cối đấy nhaaa."
+scn00_42_0135 | "Hai người sẵn sàng chưa, bắt đầu nàooo!"
+scn00_42_0136 | Theo hiệu lệnh của Ryuzaki, tôi bước đi trước, còn Cocoro dịu dàng nối gót theo sau.
+scn00_42_0137 | "Tôi có nên vẫy tay chào các vị khách quý không nhỉ?"
+scn00_42_0138 | "Không cần phải làm màu thể hiện thế đâu nhé."
+scn00_42_0139 | Chúng tôi lúc này đang tiến hành buổi tổng duyệt cho lễ cưới.
+scn00_42_0140 | Khâu trang trí hoa lệ cũng đã được bài trí sẵn sàng, giờ chỉ là lúc kiểm tra lại xem mọi khâu có diễn ra suôn sẻ đúng theo kịch bản hay không.
+scn00_42_0141 | "Hì hục... hì hục..."
+scn00_42_0142 | Phía sau Cocoro, bé Kosame đang cẩn thận bám theo từng bước.
+scn00_42_0143 | Em ấy đảm nhận nhiệm vụ của một bé nâng khăn voan cưới, chuyên nâng đuôi khăn voan của cô dâu lên cao.
+scn00_42_0144 | "Chỗ này chỉ dành cho người thân và một số khách mời đặc biệt đứng thôi nhỉ."
+scn00_42_0145 | Vì không thể giẫm nát cỏ cây hoa lá nên không gian để người đứng trong này khá khiêm tốn.
+scn00_42_0146 | "Nếu lượng người tới đông quá thì đành nhờ bà con đứng ngắm từ bên ngoài vườn bách thảo vậy."
+scn00_42_0147 | "Đành phải vậy thôi. Xem chừng sẽ có kha khá người đến đấy. Dù có hơi áy náy nhưng bù lại sẽ để mọi người quẩy hết mình ở tiệc cưới vậy."
+scn00_42_0148 | "Tự dưng dì thấy bồn chồn nôn nao cứ như đám cưới của chính mình vậy..."
+scn00_42_0149 | "Bình thường tôi chẳng mặn mà gì với đám cưới của người khác, nhưng nếu là hôn lễ của cậu nhóc Hinata và bé Cocoro thì không thể bỏ qua được rồi."
+scn00_42_0150 | Liếc nhìn mọi người đang thảo luận rôm rả, tôi và Cocoro chỉ biết đứng ngẩn ngơ trơ trọi một chỗ vì chẳng có việc gì để làm.
+scn00_42_0151 | "Tiếp theo, sau khi cô dâu chú rể tiến vào lễ đường sẽ là lời phát biểu của đại diện gia đình."
+scn00_42_0152 | "Chủ nhiệm ơi, đến lượt cô tỏa sáng rồi kìa."
+scn00_42_0153 | "Hả, a, đúng rồi nhỉ. Ừm... ngày thằng bé Hinata về sống ở nhà tôi là 4 năm trước..."
+scn00_42_0154 | "Ấy, bây giờ thì chưa cần nói đâu ạ. Dì để dành đến lúc làm lễ thật hẵng phát biểu nhé."
+scn00_42_0155 | "...Dì xin lỗi nhé."
+scn00_42_0156 | "Rồi, sau phần đó sẽ đến lời thề nguyện của cô dâu chú rể."
+scn00_42_0157 | "Chúng tôi sẽ thề nguyện trước mặt ai vậy?"
+scn00_42_0158 | "Trước mặt tất cả những người đã tụ họp về đây chung vui cùng chúng mình đấy."
+scn00_42_0159 | Hôn lễ của chúng tôi là một lễ cưới dân sự trước sự chứng kiến của mọi người.
+scn00_42_0160 | Quy trình tuy tương tự như một buổi lễ diễn ra trong giáo đường, nhưng điểm khác biệt là được tổ chức tại vườn bách thảo, và chúng tôi không thề nguyện trước Chúa trời.
+scn00_42_0161 | Chúng tôi thề nguyện trước sự chứng giám của những người đã luôn dõi theo và ủng hộ tình yêu này. Mọi người đều là những nhân chứng cho hạnh phúc của hai đứa.
+scn00_42_0162 | "Lời thề nguyện thì có cần nói thử bây giờ luôn không?"
+scn00_42_0163 | "Cái đó để dành bất ngờ cho ngày chính thức đi. Tiếp theo, sau lời thề nguyện là nghi thức trao nhẫn cưới nhé. Chú cún đưa nhẫn, xin mời ra đââây!"
+scn00_42_0164 | "Gâu!"
+scn00_42_0165 | Trên cổ đeo lủng lẳng một chiếc hộp nhỏ, chú cún lon ton chạy vào.
+scn00_42_0166 | Nó chạy thẳng đến trước mặt tôi và Cocoro rồi ngoan ngoãn ngồi thụp xuống.
+scn00_42_0167 | "Tốt lắm, em ngoan lắm."
+scn00_42_0168 | "Gâu."
+scn00_42_0169 | Bên trong chiếc hộp đeo trên cổ nó chính là nhẫn cưới của hai đứa.
+scn00_42_0170 | Chiếc nhẫn dành cho Cocoro chính là chiếc nhẫn đính hôn di vật của mẹ mà tôi đã trao cho cậu ấy trước đây.
+scn00_42_0171 | Bởi Cocoro bảo rằng chỉ cần duy nhất một chiếc nhẫn thiêng liêng ấy là đã quá đủ rồi.
+scn00_42_0172 | Còn chiếc nhẫn của tôi thì được bà con lối xóm chuẩn bị giúp, đó là một chiếc nhẫn bạc trơn vô cùng giản dị.
+scn00_42_0173 | Vì hôm nay chỉ là buổi tổng duyệt nên chúng tôi chưa thực hiện nghi thức trao nhẫn.
+scn00_42_0174 | "Lại sắp được cậu Hinata đeo nhẫn vào tay rồi. Tôi mong chờ giây phút ấy lắm."
+scn00_42_0175 | Cocoro thốt lên với niềm hân hoan rạng rỡ.
+scn00_42_0176 | "Rồi, tiếp theo là... à, thôi thì chỗ này cũng bỏ qua luôn đi nhé."
+scn00_42_0177 | "Là nụ hôn thề nguyền đúng không nào."
+scn00_42_0178 | "Chụt."
+scn00_42_0179 | Cocoro vòng hai tay ôm lấy cổ tôi, khẽ kiễng chân lên rồi trao cho tôi một nụ hôn nồng thắm.
+scn00_42_0180 | "Chà chà~♪"

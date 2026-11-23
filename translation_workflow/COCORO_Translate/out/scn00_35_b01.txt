@@ -1,0 +1,59 @@
+scn00_35_0001 | "Lũ Mutant Drone đang tiến tới gần rồi! Hãy dựng rào chắn cố thủ cổng phía Nam đi!!"
+scn00_35_0002 | "Khốn kiếp... Ta quyết không để các ngươi lộng hành như 4 năm trước đâu!!"
+scn00_35_0003 | "Đội Tiêu Trừ đang làm cái trò gì không biết nữa..."
+scn00_35_0004 | "Đừng trông mong gì vào đám đó. Bọn họ đâu có mặt ở đây để bảo vệ chúng ta đâu."
+scn00_35_0005 | "Khu phố của chúng ta, chúng ta phải tự mình bảo vệ lấy thôi."
+scn00_35_0006 | "Cháu nói đúng lắm... Được rồi, bà con ơi cùng nhau dựng rào chắn nào!"
+scn00_35_0007 | "Chị Kazane, em cũng muốn giúp một tay."
+scn00_35_0008 | "Kosame, nguy hiểm lắm! Sao em lại chạy ra đây thế hả!"
+scn00_35_0009 | "Lúc nào em cũng chỉ toàn được mọi người chăm sóc, nên em cũng muốn làm điều gì đó mà."
+scn00_35_0010 | "Này bé con! Vướng chân vướng tay lắm, mau lùi vào trong đi!"
+scn00_35_0011 | "Hic..."
+scn00_35_0012 | "Em hãy giúp hướng dẫn các em nhỏ đi sơ tán đi."
+scn00_35_0013 | "Nhưng mà..."
+scn00_35_0014 | "Giờ Kosame đã là chị gái lớn rồi mà, đúng không? Hãy dỗ dành cho các em nhỏ đang hoang mang sợ hãi được yên tâm. Đó cũng là một nhiệm vụ vô cùng quan trọng đấy."
+scn00_35_0015 | "...Vâng ạ, em hiểu rồi!"
+scn00_35_0016 | "Nào, mau tranh thủ lúc này dựng rào chắn kiên cố, tuyệt đối không để lũ quái vật lọt vào trong nhé!"
+scn00_35_0017 | "Oa oa!?"
+scn00_35_0018 | "Có chuyện gì thế!?"
+scn00_35_0019 | "Mutant Drone ư!? Rốt cuộc nó chui từ đâu ra thế này!!"
+scn00_35_0020 | "Mau lại đây với chị!"
+scn00_35_0021 | "Chị Kosame ơi!"
+scn00_35_0022 | "Không kịp nữa rồi!?"
+scn00_35_0023 | "Chết đi nàyyyyyyyy!!!!!"
+scn00_35_0024 | "Ơ... Daichi!!?"
+scn00_35_0025 | "Anh hai!"
+scn00_35_0026 | "Đau đau đau... Em có sao không Kosame?"
+scn00_35_0027 | "Vâng."
+scn00_35_0028 | "Cậu thì sao, có bị làm sao không đấy!?"
+scn00_35_0029 | "Vẫn trụ được... Lần này, tự tay tao đã bảo vệ được con bé rồi."
+scn00_35_0030 | "Con này nó vẫn còn động đậy kìa!"
+scn00_35_0031 | "Kosame, dắt em ấy đến chỗ an toàn mau!"
+scn00_35_0032 | "Dạ, em biết rồi! Lại đây với chị, chúng mình cùng chạy nào."
+scn00_35_0033 | "Tránh ra, để tao tặng thêm cho nó một quả nữa!"
+scn00_35_0034 | "Đợi đã. Chân nó gãy rồi, có vẻ không nhúc nhích được nữa đâu."
+scn00_35_0035 | "Thế mà nó vẫn ráng cựa quậy để tấn công bọn mình à... Đúng là lũ quái thai."
+scn00_35_0036 | "Cứ như thể chúng đang khiếp sợ điều gì đó vậy..."
+scn00_35_0037 | "Phía này tạm thời ổn rồi đấy. Tao sẽ lấy xe tải chặn đường làm rào chắn."
+scn00_35_0038 | "Ừ, nhờ cậu đấy."
+scn00_35_0039 | "...Hinata à, bên này bọn tớ sẽ tự xoay xở được. Thế nên Cocoro đành nhờ cậy cả vào cậu đấy nhé."
+scn00_35_0040 | Tôi đang cố gắng truy cập vào Cocoro thông qua thiết bị đầu cuối.
+scn00_35_0041 | Không được rồi, bị từ chối truy cập.
+scn00_35_0042 | <...Những... tổn... hại... nghiêm... trọng... đã... được... sửa... chữa... Thế... nhưng... chị... ấy... vẫn... không... chịu... tỉnh... lại...>
+scn00_35_0043 | <Có... gọi... thế... nào... chị... ấy... cũng... không... đáp... lời...>
+scn00_35_0044 | Tôi gửi lệnh tái khởi động từ thiết bị đầu cuối, nhưng chẳng hề có chút phản hồi nào.
+scn00_35_0045 | <Tại sao câu lệnh lại bị hủy bỏ chứ?>
+scn00_35_0046 | <Mạch... tư... duy... của... chị... ấy... đang... bị... làm... cho... tràn... bộ... nhớ...>
+scn00_35_0047 | <Tràn bộ nhớ mạch tư duy ư?>
+scn00_35_0048 | <Chị... ấy... liên... tục... suy... nghĩ... về... một... câu... hỏi... không... có... lời... giải...>
+scn00_35_0049 | Bằng việc không ngừng trăn trở về một câu hỏi không có lời đáp, cô ấy đang cố tình làm tràn bộ nhớ của mình sao?
+scn00_35_0050 | Vì tài nguyên của mạch tư duy đã bị vắt kiệt, nên dẫu có gửi lệnh thì hệ thống cũng không thể chuyển sang bước xử lý tiếp theo, tạo ra tình trạng đóng băng hoàn toàn.
+scn00_35_0051 | <Không còn cách nào khác để tái khởi động cho Cocoro sao em?>
+scn00_35_0052 | <Có... 2... cách...>
+scn00_35_0053 | <Cách... thứ... nhất... là... định... dạng... lại... bộ... nhớ...>
+scn00_35_0054 | Khởi tạo lại bộ nhớ ư?
+scn00_35_0055 | <Nếu làm như thế thì Cocoro sẽ biến mất hoàn toàn mất!>
+scn00_35_0056 | Điều đó đồng nghĩa với việc toàn bộ những trải nghiệm, những ký ức từ ngày Cocoro bắt đầu vận hành cho đến tận hôm nay sẽ bị xóa sạch không còn một dấu vết.
+scn00_35_0057 | Một Cocoro với bộ nhớ trắng trơn liệu có còn là Cocoro nữa hay không?
+scn00_35_0058 | <Thế còn cách thứ hai là gì?>
+scn00_35_0059 | <Mang... đến... câu... trả... lời... cho... thắc... mắc... của... chị... ấy...>

@@ -1,0 +1,44 @@
+# scene=scn00_37 batch=4/5 dòng 181-220 / 261
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_37_0181 | ココロ(Cocoro) | （ひなたさん、声が……） | (He can speak again...) | （日向先生的声音……）
+scn00_37_0182 | ひなた(Hinata) | 「はぁ……はぁ……ふぅ……」 | "Hahh, hahh... Hff..." | “哈……哈……呼……”
+scn00_37_0183 | - | のどの緊張をほぐそうとしてるのか、深く深呼吸をしている。 | He's taking deep, labored breaths, as if trying to release the tension in his throat. | 或许是在缓解喉咙的紧张，他进行了深呼吸。
+scn00_37_0184 | ココロ(Cocoro) | （しかし、ワタシには聞こえてしまう。ひなたさんの心臓がドキドキしてるのが。なにせワタシは耳がいいので……フフフ） | (I can hear his heart pounding... My auditory sensors are excellent, after all... Hehehe...) | （不过，我能听到日向先生心脏扑通扑通的跳动声，毕竟我的耳朵可是很灵敏的……呵呵呵）
+scn00_37_0185 | - | 悪戯でもしてるような愉快な『気分』を感情回路が伝えてくる。 | My emotional circuits are putting me in a playful, mischievous mood. | 恶作剧般的愉快‘心情’从感情回路中传了出来。
+scn00_37_0186 | ひなた(Hinata) | 「ココ……ロ……が……好き……だッ……人だから……とか……ロボッ……ト……だから……じゃ……ない……」 | "Coco...ro... I... love... you. Robot... or human... It doesn't... matter." | “我……喜欢……心……与你……是人类……还是……机器……人……都……无关……”
+scn00_37_0187 | ココロ(Cocoro) | （えっ……ひなたさん？　今なんと？） | (Huh? Hinata-san? What did he just say?) | （哎……日向先生？　你刚刚说什么？）
+scn00_37_0188 | ひなた(Hinata) | 「ココロだ……から……好きに……なッ……はぁ、はぁ……た！」 | "I... love you... hahh, hahh, for being... !" | “因为……你是……心……我……才会……喜欢……哈啊、哈啊……你！”
+scn00_37_0189 | ココロ(Cocoro) | （……） | (...) | （……）
+scn00_37_0190 | - | じんわりとした不思議な『嬉しさ』が胸に広がっていく感覚があった。 | I detect a strange 'happy' feeling filling my chest. | 不可思议的‘开心感’逐渐在胸口蔓延开来。
+scn00_37_0191 | ひなた(Hinata) | 「不安……も……こわい事も……君となら……わかち……あえ……る……って信じ……てる」 | "We can... overcome... any... fear... and any... worry... as long... as... we... face it... together..." | “不安……也好……可怕的事……也好……我相信……这些……都能和……你一同……分担”
+scn00_37_0192 | - | 不安や恐れを分かち合える？ | We can face it together? | 分担不安和害怕？
+scn00_37_0193 | - | 心は実は目に見えるという新事実を知ったばかりだが、今度は心をはんぶんこできると言いだした。 | First he says that the soul is visible to the eye, and now he's saying we can share what it feels? | 我才刚刚得知心其实是能用眼睛看到这个新的事实，现在又和我说心其实是能够分享的。
+scn00_37_0194 | ココロ(Cocoro) | （心……深すぎないか？） | (The soul... sure is complicated.) | （心……是不是太深奥了？）
+scn00_37_0195 | - | 難解すぎますって。 | It's too difficult for me to understand. | 也太难懂了。
+scn00_37_0196 | - | でも、これもまた不思議な事に、ひなたさんの説に違和感はない。 | But strangely enough, I don't have any objections to Hinata-san's theory. | 但是，说起来也挺不可思议的，我并不觉得日向先生的说法中有哪里不对。
+scn00_37_0197 | - | 彼と一緒なら、不安も恐れも半減する気がした。 | When I'm with him, any worry or fear I face is only half as troubling. | 我感觉如果是和他在一起，不安和害怕都会减半。
+scn00_37_0198 | ココロ(Cocoro) | （もう一声何かありませんか……？　そしたら目を開けられる気がするんです。もう一声でいいので！） | (Does he have anything else to say...? I feel like if I heard his voice just one more time, I'd finally be able to open my eyes. Just one more time!) | （能再说一句什么么……？　我感觉他再说一句我就能睁开眼睛了，再说一句就行了！）
+scn00_37_0199 | ココロ(Cocoro) | （不安を勇気が乗り越える、そんな言葉をください、ひなたさん――） | (Please give me the words that I need to be brave, Hinata-san...) | （请给我一句话，让我有跨越不安的勇气吧，日向先生——）
+scn00_37_0200 | ひなた(Hinata) | 「お……おれ……お、お……俺と…………ハァ、ハァ…………」 | "P-P... Please... m-m-m... Hahh, hahh..." | “我……我……我、我……和我…………哈啊、哈啊…………”
+scn00_37_0201 | ココロ(Cocoro) | （俺と？　俺となんですか？） | (Please what? A request?) | （和我？　和我什么？）
+scn00_37_0202 | ひなた(Hinata) | 「俺と……結婚してください！」 | "Please... Marry me!" | “和我……结婚吧！”
+scn00_37_0203 | ココロ(Cocoro) | 「待ってました」 | "I've been waiting to hear that." | “就等你这句话了”
+scn00_37_0204 | - | 『え？』という気配がした。 | I hear him gasp softly. | 我似乎听到了一声‘哎？’。
+scn00_37_0205 | ココロ(Cocoro) | （おっと……ワタシはまた間違えてしまったようです） | (Oops... Did I make a mistake again?) | （哎呀……我好像又做错了）
+scn00_37_0206 | - | しかし、勇気は得た。 | However, I've gained courage. | 不过，我确实获得了勇气。
+scn00_37_0207 | ひなた(Hinata) | 「コ……コロ……！」 | "Co...coro...!" | “心……”
+scn00_37_0208 | ココロ(Cocoro) | 「……光学センサー、ピント機能良好……」 | "My optical sensors' focus motor is functioning well..." | “……光学传感器，聚焦机能良好……”
+scn00_37_0209 | ココロ(Cocoro) | 「……ひなたさん？」 | "Hinata-san?" | “……日向先生？”
+scn00_37_0210 | - | 現在のひなたさんを見たのは、一度きり。 | I've only seen the present Hinata-san one time before. | 我只看到过一次现在的日向先生。
+scn00_37_0211 | - | 植物園でドローンのカメラを使ってだから、映像があまり鮮明ではなかった。 | And because I was using the drone's camera inside the garden, the footage wasn't very clear. | 那时是在植物园通过无人机镜头看到的，所以并不十分清楚。
+scn00_37_0212 | ココロ(Cocoro) | （こんな顔でしたっけ……） | (Has he always looked like this...?) | （他原来是这副面容啊……）
+scn00_37_0213 | - | ワタシは右手を使って、ひなたさんの前髪を[か]掻き上げる。 | I use my right hand to lift Hinata-san's bangs from his face. | 我用右手撩起了日向先生的刘海。
+scn00_37_0214 | ひなた(Hinata) | 「……？」 | "...?" | “……？”
+scn00_37_0215 | - | そこに、うっすらと傷痕があった。 | There's a faded scar on his forehead. | 那里有一道浅浅的伤痕。
+scn00_37_0216 | ココロ(Cocoro) | （あの時の子どもが、降って来たガラスの破片で切った傷と９６％一致します） | (It's a 96\% match with the wound that boy sustained when the glass from the broken dome fell on him.) | （和那个孩子当时被掉下来的玻璃碎片割开的伤口相似度为96\%）
+scn00_37_0217 | - | やはりこのヒトがワタシの……。 | So this person really  my... | 这个人类果然是我的……
+scn00_37_0218 | ひなた(Hinata) | 「見える……んだね」 | "You can see me... Right?" | “你能看到……对吧”
+scn00_37_0219 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_37_0220 | ひなた(Hinata) | 「ココロ？」 | "Cocoro?" | “心？”

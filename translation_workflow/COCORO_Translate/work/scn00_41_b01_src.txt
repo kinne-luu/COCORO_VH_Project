@@ -1,0 +1,64 @@
+# scene=scn00_41 batch=1/5 dòng 1-60 / 314
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_41_0001 | - | 翌日から、状況が変わった。 | The next day, it feels like everything has changed. | 第二天开始，情况就发生了变化。
+scn00_41_0002 | 町内会長(Neighborhood Chief) | 「風音ちゃんから聞きました。ぜひ、披露宴会場を九十九商店会で用意させてください」 | "Kazane-chan told us everything. Allow us to provide a reception venue in the Tsukumo City shopping district." | “我从风音那里都听说了。请务必让我们九十九商店会来准备婚宴场地”
+scn00_41_0003 | 住民Ａ(Resident A) | 「披露宴の料理なら、うちに任せてくれないか。こう見えて、『厄災』前はシェフやってたんだ」 | "I actually used to be a chef before the Calamity. So if you need catering, just leave it to me." | “婚宴的料理可以交给我们吗，你别看我现在这样，但‘灾厄’前我可是干主厨的”
+scn00_41_0004 | ひなた(Hinata) | 「いいんですか」 | "Really?" | “真的可以吗”
+scn00_41_0005 | 町内会長(Neighborhood Chief) | 「ええ。その代わり、町の人たちを出席させてもらえませんか」 | "Of course. All we ask for in return is that you invite everyone to the wedding." | “嗯，作为交换，可以让城里的人们出席婚礼吗？”
+scn00_41_0006 | ひなた(Hinata) | 「それは、全然いいですけど……」 | "That's absolutely fine with me, but..." | “这倒是完全没有问题……”
+scn00_41_0007 | - | 昨日の態度を思い出すと、あまり人は集まりそうにないが。 | After seeing how everyone reacted yesterday, I don't expect many people to show up. | 但从昨天的态度来看，估计也不会有多少人来吧。
+scn00_41_0008 | 町内会長(Neighborhood Chief) | 「みなさん、呑み込むのに時間がかかってるだけなんです。ココロちゃんがロボットだったなんて……」 | "They just need some time to process all this. They're still coming to terms with the fact that Cocoro-chan is really a robot..." | “大家都只是需要时间来消化而已。没想到心居然是机器人……”
+scn00_41_0009 | ココロ(Cocoro) | 「はい、ココロです」 | "Yes, I'm Cocoro." | “是，我就是心”
+scn00_41_0010 | 町内会長(Neighborhood Chief) | 「いまだに信じがたいですから」 | "I can still hardly believe it myself." | “现在还是感觉很难相信”
+scn00_41_0011 | ココロ(Cocoro) | 「よく言われます。ヒトっぽさに定評のあるヒューマノイドです」 | "I'm told that often. I'm a hyperrealistic humanoid." | “经常有人对我这么说，毕竟我是被公认很像人类的仿生人”
+scn00_41_0012 | 町内会長(Neighborhood Chief) | 「ですが、ひなた君とココロちゃん……おふたりにはとてもお世話になりました」 | "Either way, Hinata-kun and Cocoro-chan... You've done so much for the community." | “但是，日向和心……我们得到了你们很多的帮助”
+scn00_41_0013 | 住民Ａ(Resident A) | 「ああ、ほんとにな」 | "You really have." | “嗯，确实啊”
+scn00_41_0014 | 町内会長(Neighborhood Chief) | 「おかげで街が元気になりましたし。こさめちゃんを助けてくれました」 | "Everyone is so much happier now, and you even saved Kosame-chan's life." | “街上也因为你们而恢复了精神，小雨也被你们救了下来”
+scn00_41_0015 | 住民Ａ(Resident A) | 「地上げ屋を追い出してくれたりな！」 | "You even got rid of that guy who was trying to run us off!" | “还把地皮商赶了出去呢！”
+scn00_41_0016 | ひなた(Hinata) | 「ありがとうございます。お言葉に甘えさせていただきます」 | "Thank you. We'll take you up on your kind offers, then." | “谢谢，那我就恭敬不如从命了”
+scn00_41_0017 | ココロ(Cocoro) | 「ありがとうございます」 | "Thank you very much." | “谢谢”
+scn00_41_0018 | 大地(Daichi) | 「披露宴会場が決まったようだな」 | "Sounds like you've found yourselves a venue." | “看来婚宴场所已经决定好了啊”
+scn00_41_0019 | - | 町内会長さんらが帰っていくのを見送っていると、後ろから大地が声をかけてきた。 | While we watch the neighborhood chief leave, Daichi calls out to us from behind. | 在目送居委会会长一行离开后，身后便传来了大地的声音。
+scn00_41_0020 | ひなた(Hinata) | 「なんか決まっちゃったね」 | "Seems so." | “感觉突然就被定下来了啊”
+scn00_41_0021 | 大地(Daichi) | 「だが、結婚式に必要な物、他にもあるんじゃねーか？」 | "Aren't you forgetting about one of the most important wedding essentials, though?" | “不过，婚礼还有其他需要准备的吧？”
+scn00_41_0022 | ひなた(Hinata) | 「ドレスに式場……は霧香さんに相談するとして、披露宴もどうにかなりそうだし……」 | "We've got a dress, a reception venue... And we can ask Kirika-san about using the garden for the ceremony itself... What else is there?" | “礼服和礼堂……和雾香小姐商量一下的话，婚宴方面应该也不是什么难事……”
+scn00_41_0023 | 大地(Daichi) | 「ケーキだよ！」 | "A cake!" | “蛋糕啊！”
+scn00_41_0024 | ひなた(Hinata) | 「あー」 | "Oh!" | “啊——”
+scn00_41_0025 | - | 大地がドンと胸を叩く。 | Daichi loudly pats himself on the chest. | 大地咚地锤了一下胸膛。
+scn00_41_0026 | 大地(Daichi) | 「うちに任せとけってんだ」 | "Amai Confectionery has got you covered." | “就交给我们吧”
+scn00_41_0027 | ひなた(Hinata) | 「いいの」 | "Are you sure?" | “真可以吗”
+scn00_41_0028 | 大地(Daichi) | 「おまえらにゃ、返しても返しきれない恩がある。ぜひ、うちでやらせてくれ」 | "I owe you a debt of gratitude that I could never repay. Let me do this for you." | “你们对我有还不完的恩情，请务必让我们来做”
+scn00_41_0029 | ひなた(Hinata) | 「うん、頼む」 | "All right, thanks." | “嗯，拜托你了”
+scn00_41_0030 | ココロ(Cocoro) | 「頼みます」 | "Thank you." | “拜托了”
+scn00_41_0031 | - | そんなこんなで、あれよあれよという間に結婚式の手配が整っていくのだった。 | And just like that, all of our wedding arrangements are taken care of. | 就这样，眨眼间婚礼就被安排好了。
+scn00_41_0032 | ひなた(Hinata) | 「というわけなんだ。植物園の使用許可ってもらえたりしないかな」 | "So, yeah, I was wondering if we could get permission to use the botanical garden." | “就是这样，所以可以给我植物园的使用许可吗”
+scn00_41_0033 | 霧香(Kirika) | 「許可するわ」 | "You have my permission." | “我许可了”
+scn00_41_0034 | ひなた(Hinata) | 「早っ。いいの、そんな簡単に」 | "That was fast! Is it really that easy?" | “好快，这么简单就决定真的好吗”
+scn00_41_0035 | 霧香(Kirika) | 「いいもなにも、言ったでしょ。私はあなたたちの結婚を応援するって」 | "Of course it is. I said I would support your marriage, didn't I?" | “有什么好不好的，我不是说过了吗，我是支持你们结婚的”
+scn00_41_0036 | 霧香(Kirika) | 「街の人たちにも理解が得られているのは、とても意義のある事よ。それはきっと、今後のココロの立場にも関わってくるはずだから」 | "It means a lot that you've gotten all the townspeople to approve of Cocoro. I'm sure that will help Cocoro's position in the future." | “获得街上的人们理解是非常有意义的事啊，毕竟这肯定会关系到心今后的立场”
+scn00_41_0037 | ひなた(Hinata) | 「……うん」 | "...Yeah." | “……嗯”
+scn00_41_0038 | - | ココロが存在する事が社会的に許されるのかどうか。 | Will Cocoro's existence really be accepted by society at large? | 心的存在是否能被社会允许。
+scn00_41_0039 | - | 『厄災』の原因でないと証明できたとしても、ココロの自由が保障されるわけじゃない。 | Even though it's been proven that she didn't cause the Calamity, her freedom isn't exactly guaranteed by law. | 就算证明了心不是引发‘灾厄’的原因，也无法保证她的自由。
+scn00_41_0040 | 霧香(Kirika) | 「できる限りの事はするわ。だから、安心して」 | "I'll do whatever I can to help, so don't worry." | “我会做我力所能及的事，所以，你就放心吧”
+scn00_41_0041 | ひなた(Hinata) | 「ありがとう霧香さん」 | "Thanks, Kirika-san." | “谢谢你雾香小姐”
+scn00_41_0042 | 霧香(Kirika) | 「それより、あなたの進路を考えないといけないわね。学校はどうするの？」 | "You'll need to think about your own career path, too. What are you going to do about school?" | “话说回来，你得考虑考虑自己的未来了啊。学校那边怎么办？”
+scn00_41_0043 | ひなた(Hinata) | 「うっ……」 | "Uhh..." | “呜……”
+scn00_41_0044 | ひなた(Hinata) | 「ココロを連れてはいけない……よね」 | "Cocoro won't be able to join me... Will she?" | “没法带着心过去……对吧”
+scn00_41_0045 | 霧香(Kirika) | 「うーん、無理ね」 | "Hrmm, I'm afraid not." | “唔——，不行吧”
+scn00_41_0046 | 霧香(Kirika) | 「本来なら、今すぐ収容しなければならないところだけど、あなたたちを信頼して見て見ぬふりをしている状態だから」 | "Truthfully, I should have taken her into custody immediately, but I've been turning a blind eye because I trust you two." | “原本是应该立刻将她收容才行，是出于对你们的信赖才会像现在这样睁一只眼闭一只眼”
+scn00_41_0047 | 霧香(Kirika) | 「それに、ココロのボディはいつ壊れてもおかしくない。今すぐ修復する事は不可能だから、この施設から離れるのは危険だわ」 | "Besides, Cocoro's body could start malfunctioning again at any time. We'll never be able to fully repair her, so it wouldn't be safe for her to travel too far away from this facility." | “更何况，新的身体随时都有可能会坏掉。无法立刻进行修复，所以一旦离开这个设施就危险了”
+scn00_41_0048 | ひなた(Hinata) | 「……だよね」 | "...That's true." | “……也是啊”
+scn00_41_0049 | - | 霧香さんが俺を気遣って優しく微笑む。 | Kirika-san gives me a gentle smile. | 雾香小姐体谅着我温柔地微笑了起来。
+scn00_41_0050 | 霧香(Kirika) | 「あなたが離れている間、ココロは私が預かるわ。私なら、あの子を守ってあげられる」 | "I'll take care of Cocoro while you're away. I can keep her safe." | “你离开的这段时间里，心就交给我吧，我是能保护她的”
+scn00_41_0051 | ひなた(Hinata) | 「ありがとう、霧香さん」 | "I'd really appreciate that, Kirika-san." | “谢谢你，雾香小姐”
+scn00_41_0052 | 霧香(Kirika) | 「それで、あなたはどうするつもりなのか。聞かせてちょうだい」 | "So, what are your plans? Tell me what you're thinking." | “所以，你想怎么做，说给我听听吧”
+scn00_41_0053 | 霧香(Kirika) | 「言っておきますけど、ココロと一緒にいたいからなんて理由だけで、学校を辞めるのは許さないわよ。姉さんに顔向けできないもの」 | "Just know that I won't allow you to quit school. I know you want to be with Cocoro, but I wouldn't be able to face Yoko if I did." | “我先说好，我可不允许你光凭想和心待在一起之类的理由就不上学了哦。这样的话我就没脸去见姐姐了”
+scn00_41_0054 | ひなた(Hinata) | 「……転校とかは？」 | "How about transferring schools?" | “……转学呢？”
+scn00_41_0055 | 霧香(Kirika) | 「まあ、いいでしょう。でも、九十九市が解放されるのは、もっと先になるわ」 | "I suppose that's an option. However, Tsukumo City won't be reopening anytime soon." | “那也行吧，不过，九十九市距离解放还很远”
+scn00_41_0056 | - | 『厄災』の収束が確認されたとしても、九十九市の解放までさらに時間が必要になるだろう。 | Even if it's confirmed that the Calamity is officially over, it will still take some time to secure the whole area. | 就算已经确定‘灾厄’结束了，九十九市解放也是需要时间的吧。
+scn00_41_0057 | - | もし近くの都市の学校に転校したとしても、気軽に出入りできるわけじゃない。 | I could transfer to a high school in a nearby city, but I wouldn't be able to come and go as I please. | 就算转学到附近城市的学校，也无法随意进出这里。
+scn00_41_0058 | ひなた(Hinata) | 「それでも、少しでも近くにいたいから」 | "Still, I want to be as close as possible." | “即便如此，我也想尽可能离她近一点”
+scn00_41_0059 | 霧香(Kirika) | 「ええ、そうしなさい」 | "Okay, then you do that." | “嗯，那就这样吧”
+scn00_41_0060 | - | 霧香さんが優しく俺の肩を撫でてくれた。 | Kirika-san gives me a gentle pat on the shoulder. | 雾香小姐温柔的抚摸我的肩膀。

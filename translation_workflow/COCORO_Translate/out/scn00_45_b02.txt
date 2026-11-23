@@ -1,0 +1,54 @@
+scn00_45_0061 | Cứ như thể đang cố nuốt một dị vật vào người, cả cơ thể tôi kịch liệt đào thải từ chối.
+scn00_45_0062 | Cứ suy kiệt thế này, liệu mình sẽ dần dần trôi về cõi chết hay sao?
+scn00_45_0063 | Trong lúc miên man suy nghĩ những điều tiêu cực ấy, ánh mắt tôi vô tình dừng lại nơi chiếc flycam đặt ở góc phòng.
+scn00_45_0064 | "Cả chiếc drone này nữa, mình cũng phải sửa lại cho nó thôi..."
+scn00_45_0065 | Khác với Cocoro, nó chỉ là một thiết bị điều khiển từ xa thô sơ không hề có trí tuệ hay cảm xúc cao cấp, vậy mà giờ đây tôi lại thấy thương xót cho nó lạ kỳ.
+scn00_45_0066 | Chiếc flycam dẫu đã hư hỏng không thể bay được nữa, nhưng hệ thống bên trong vẫn có thể khởi động.
+scn00_45_0067 | Tôi bật nguồn chiếc drone, rồi đeo chiếc kính bảo hộ đặt ngay bên cạnh lên mắt.
+scn00_45_0068 | Vào thời khắc đó, nó đã thu nhận toàn bộ dữ liệu thị giác và thính giác truyền về từ Cocoro. Chắc chắn trong bộ nhớ vẫn còn lưu lại những dữ liệu ấy.
+scn00_45_0069 | Nếu phát lại tệp dữ liệu đó, tôi sẽ có thể nhìn thấy khung cảnh cuối cùng mà Cocoro đã nhìn thấy trước lúc ra đi.
+scn00_45_0070 | "...Thôi, đừng xem thì hơn."
+scn00_45_0071 | Cảnh tượng ấy ắt hẳn quá đỗi đau lòng. Tôi không đủ tự tin rằng tinh thần mình có thể chịu đựng nổi.
+scn00_45_0072 | Đúng lúc toan tháo kính bảo hộ ra, tôi bỗng nhận thấy một điểm bất thường.
+scn00_45_0073 | Dữ liệu video lưu lại trong drone vốn được sao lưu tự động. Theo thiết kế ban đầu, nó chỉ lưu những đoạn phim do chính camera của drone ghi lại.
+scn00_45_0074 | Tên tệp tin thông thường sẽ là sự kết hợp giữa ngày tháng và thời gian ghi hình, thế nhưng,
+scn00_45_0075 | \n\n\n\n\n\n\n\n<TUYẾT TRẮNG MÙA HẠ>
+scn00_45_0076 | "Tuyết Trắng Mùa Hạ...?"
+scn00_45_0077 | Vẫn đeo nguyên kính bảo hộ, tôi nhấn nút mở tệp tin ấy lên.
+scn00_45_0078 | Cái gì thế này...?
+scn00_45_0079 | Đoạn video được phát lên thoạt đầu chẳng rõ là cảnh tượng gì.
+scn00_45_0080 | Thế nhưng, hình ảnh dần dần hiện ra rõ nét hơn. Đằng kia có lẽ là mái vòm kính của vườn bách thảo.
+scn00_45_0081 | Đây là... góc nhìn của Cocoro.
+scn00_45_0082 | Nhưng nó được ghi lại từ lúc nào cơ chứ?
+scn00_45_0083 | <Cậu Hinata...... Cậu có nghe thấy tôi nói không, cậu Hinata......>
+scn00_45_0084 | "Tiếng của Cocoro..."
+scn00_45_0085 | Nghe thấy chất giọng yếu ớt đầy tha thiết thân thương ấy, tôi vô thức vểnh tai lắng nghe chăm chú.
+scn00_45_0086 | <Hình như đường truyền kết nối với cậu Hinata đã bị gián đoạn mất rồi, nên tôi xin phép được lưu lại nhật ký quan sát vào đây nhé.>
+scn00_45_0087 | <Nhìn kìa cậu ơi, hoa Tuyết Trắng Mùa Hạ đã nở rồi này.>
+scn00_45_0088 | <...Từng cánh hoa khẽ khàng bung nở đọng những giọt sương long lanh tựa ngọc quý... trông đẹp hệt như chiếc váy cưới trắng muốt vậy.>
+scn00_45_0089 | <Ở nơi ấy... có những đốm sáng lấp lánh đang nhẹ nhàng bay lượn... đó có lẽ là những chú côn trùng nhỏ tìm đến để hút mật hoa chăng.>
+scn00_45_0090 | <...Đẹp đẽ... làm sao...>
+scn00_45_0091 | <Bây giờ đây, tôi có thể cảm nhận rõ ràng rằng sâu thẳm trong mình đang có một trái tim.>
+scn00_45_0092 | <Bởi vì đồng thời với cảm giác nhận thấy hoa thật xinh đẹp, còn có một dòng cảm xúc khác to lớn hơn, sâu đậm hơn rất nhiều đang dâng trào trong lòng tôi.>
+scn00_45_0093 | <Hóa ra tri thức và trải nghiệm thực tế là hai điều hoàn toàn khác biệt. Nếu chúng giống nhau, thì lúc này đây đáng lẽ tôi đã chẳng cảm nhận được bất cứ điều gì.>
+scn00_45_0094 | <Bởi vì hoa Tuyết Trắng Mùa Hạ là loài hoa như thế nào, tôi vốn đã biết rõ từ nguồn tri thức thu thập được khi mạng lưới dữ liệu vẫn còn hoạt động rồi.>
+scn00_45_0095 | <Trải nghiệm chính là thứ thông qua những gì gặt hái được, sẽ làm thay đổi bản chất của chính mình theo một chiều không thể đảo ngược.>
+scn00_45_0096 | <Điều mà tôi đang cảm nhận lúc này rốt cuộc là gì ấy nhỉ...>
+scn00_45_0097 | <Lời hẹn ước đã trao cùng cậu Hinata thuở ấu thơ... Trước đây tôi từng không hề tin vào nó. Nhưng ở một góc sâu nào đó trong tâm can, tôi vẫn hằng khát khao được tin tưởng.>
+scn00_45_0098 | <Chính cậu đã cho tôi niềm tin ấy.>
+scn00_45_0099 | <Và giờ phút này đây, lời hứa đã được vẹn tròn. Có phải... chính vì thế chăng?>
+scn00_45_0100 | <Hay là vì, đóa hoa mà mình đã ngây ngô kiên trì chăm sóc suốt bao năm tháng cho một lời hẹn ước tưởng chừng chẳng dám tin... nay đã đơm bông khiến tôi thấy hạnh phúc? Có lẽ điều đó cũng đúng một phần.>
+scn00_45_0101 | <Dù thế nào đi nữa, tôi cũng đã được nếm trải điều đó. Trải nghiệm được ngắm nhìn hoa Tuyết Trắng Mùa Hạ bung cánh và cảm nhận được sự 'xinh đẹp' là gì... >
+scn00_45_0102 | <Tôi đã chẳng thể nào quay trở lại làm tôi của trước đây được nữa rồi.>
+scn00_45_0103 | <Tôi thật sự đã có một trái tim. Chính cậu đã tìm thấy nó cho tôi.>
+scn00_45_0104 | <Tình yêu thương này dành cho cậu tuyệt đối không phải là thứ giả tạo.>
+scn00_45_0105 | <Nhờ trải nghiệm được yêu thương cậu, tôi đã biến đổi... không, tôi đã thực sự trưởng thành. Bởi vì tôi mãi mãi không thể quay về làm cỗ máy vô hồn như trước kia nữa.>
+scn00_45_0106 | <Tôi thích cậu nhiều lắm, cậu Hinata. Tôi yêu cậu.>
+scn00_45_0107 | <Xin gửi ngàn lời chúc phúc đến thế giới đã sinh ra tôi. Gửi đến cậu, người đã gặp gỡ tôi, người đã trao trọn tình yêu cho tôi...>
+scn00_45_0108 | <...Ôi, đẹp xiết bao... Ước gì tôi có thể cùng cậu ngắm nhìn cảnh tượng này...>
+scn00_45_0109 | <Cảm ơn cậu nhé, cậu Hinata. Tôi đã luôn luôn hạnh phúc... >
+scn00_45_0110 | Đoạn phim khép lại. Dù đã tháo kính bảo hộ ra, tôi vẫn chẳng thể nhìn thấy cảnh vật trước mắt.
+scn00_45_0111 | Bởi những giọt nước mắt cứ thế trào ra không sao kìm nén nổi.
+scn00_45_0112 | "Liệu mình... đã có thể làm được điều gì đó cho Cocoro chưa? Lời hẹn ước ấy, mình thật sự đã hoàn thành được rồi phải không?"
+scn00_45_0113 | Có lẽ mình đã thật sự mang lại hạnh phúc cho Cocoro rồi...
+scn00_45_0114 | Chỉ riêng ý nghĩ ấy thôi, đã là sự cứu rỗi duy nhất cho cuộc đời tôi.

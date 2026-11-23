@@ -1,0 +1,58 @@
+scn00_29_0061 | ...Quả nhiên là ngon thật!
+scn00_29_0062 | Cocoro đang ở đâu chứ?
+scn00_29_0063 | Mình phải nói cho cậu ấy biết rằng ly cà phê này ngon đến nhường nào mới được.
+scn00_29_0064 | Cocoro!
+scn00_29_0065 | "...A... a..."
+scn00_29_0066 | Không thể cất lên tiếng gọi khiến lòng tôi bứt rứt vô cùng.
+scn00_29_0067 | Tôi đứng dậy đi xuống tầng một để tìm, nhưng chẳng thấy ai.
+scn00_29_0068 | Cậu ấy đi đằng nào rồi nhỉ?
+scn00_29_0069 | Rõ ràng mình muốn mau chóng khoe với cậu ấy rằng món cà phê này rất tuyệt cơ mà.
+scn00_29_0070 | "...Mình đã đọc gần hết nhật ký bảo trì rồi, thật đáng kinh ngạc."
+scn00_29_0071 | "Mạch cảm xúc thứ có thể xem là linh hồn của CCR-01... người thiết kế lại chính là Mitsumine Yoko... là chị gái của mình."
+scn00_29_0072 | "Các nghiên cứu ở Khu Vực Trung Tâm đều là cơ mật trọng yếu, nên dẫu có tham gia cũng không thể tiết lộ ra ngoài... Thế nhưng, mình vốn đã lờ mờ cảm nhận được điều đó rồi."
+scn00_29_0073 | "Bởi ở Cocoro, mình luôn cảm thấy có nét gì đó thật hoài niệm..."
+scn00_29_0074 | "...Chị Yoko."
+scn00_29_0075 | Cộc cộc.
+scn00_29_0076 | "Ai mà lại đến vào sáng sớm thế này nhỉ... Có tôi đây."
+scn00_29_0077 | "Chào buổi sáng, Chủ nhiệm!"
+scn00_29_0078 | "Cậu Kotaro, có chuyện gì thế?"
+scn00_29_0079 | "Dạ không, em thấy dường như chị lại thức trắng đêm nên mang bữa sáng tới bồi dưỡng cho chị đây ạ."
+scn00_29_0080 | "Cảm ơn cậu nhé. Nhắc mới nhớ, từ hôm qua tới giờ tôi chưa ăn chút gì vào bụng cả."
+scn00_29_0081 | "Nhịn ăn quá mức là kẻ thù của nhan sắc đấy chị nhé."
+scn00_29_0082 | "Phải rồi ha, da dẻ tôi sần sùi hết cả lên rồi này. Tôi sẽ đi pha cà phê, cậu Kotaro cũng ngồi uống cùng một ly nhé."
+scn00_29_0083 | "Được thế thì còn gì bằng ạ!? Quá may mắn luôn♪"
+scn00_29_0084 | "A, để em phụ một tay ạ."
+scn00_29_0085 | "Không cần đâu, cậu cứ ngồi nghỉ đi."
+scn00_29_0086 | "Chà chà, cứ ngỡ mình nhiều chuyện phiền toái, ai dè lại có lộc thế này."
+scn00_29_0087 | "Cơ mà nói thật, Chủ nhiệm Kizuki tâm huyết với công việc thật đấy. Dẫu bị đùn đẩy những việc phiền phức, chị cũng chẳng hề tỏ thái độ khó chịu mà vẫn dốc lòng làm việc."
+scn00_29_0088 | "Đúng là một nhà nghiên cứu xuất sắc."
+scn00_29_0089 | "Tôi đâu có vĩ đại đến mức đó. Nếu không ai bắt tay vào làm, thảm họa 'Ách Tai' sẽ chẳng bao giờ chịu chấm dứt đâu. Nè, cà phê của cậu đây."
+scn00_29_0090 | "Em xin cảm ơn ạ. Uiss, cà phê do chính tay Chủ nhiệm pha... thơm nức mũi luôn."
+scn00_29_0091 | "Đêm qua chị lại thức thâu đêm suốt sáng nữa sao?"
+scn00_29_0092 | "Ừ, tại có điều tôi cần điều tra làm rõ."
+scn00_29_0093 | "Là chuyện gì thế ạ? Nếu được thì cứ để em giúp chị một tay!"
+scn00_29_0094 | "Tôi đang tìm hiểu thêm về nguồn phát tín hiệu allelopathy một chút. ...Phù, buổi sáng sau một đêm thức trắng thì đúng là chỉ có thứ này là tuyệt nhất."
+scn00_29_0095 | Chủ nhiệm Kizuki cho nhiều sữa vào cà phê thật đấy. Nét tương phản này trông hay ghê.
+scn00_29_0096 | "Chính là cái vụ tín hiệu mà con Jabberwock kia phát ra đúng không ạ? Chị đã phát hiện được gì mới chưa?"
+scn00_29_0097 | "Ừm... thế nhưng kết quả lại càng khiến tôi thêm mông lung."
+scn00_29_0098 | "Nghĩa là sao ạ?"
+scn00_29_0099 | "Đây là dữ liệu đang trong quá trình phân tích, nhưng lại xuất hiện điểm kỳ lạ."
+scn00_29_0100 | "Tọa độ nguồn phát tín hiệu allelopathy vào thời điểm Jabberwock xuất hiện lại có sai lệch."
+scn00_29_0101 | "Cứ là Mutant Drone thì con nào cũng phát ra thứ đó đúng không ạ? Cái tín hiệu allelopathy ấy."
+scn00_29_0102 | "Đúng vậy. Thế nhưng cường độ của allelopathy sẽ biến thiên tùy theo trí thông minh và chức năng truyền thông tin của AI. Một tín hiệu mãnh liệt đến mức này thì robot thông thường không thể nào phát ra nổi đâu."
+scn00_29_0103 | "Vậy có nghĩa là con Mutant Drone dạng dã thú đó sở hữu trí thông minh cực kỳ cao sao ạ?"
+scn00_29_0104 | "Ừ, đáng lẽ là như thế... Nhưng cậu nhìn chỗ này xem. Trông như thể cùng phát ra từ một vị trí, nhưng mà..."
+scn00_29_0105 | "? ...Có tới 2 nguồn phát sao ạ?"
+scn00_29_0106 | "...Nhìn thì đúng là như vậy đấy."
+scn00_29_0107 | "Cứ như thể tại chỗ đó có tới hai cá thể robot trí tuệ cao cùng hiện diện vậy."
+scn00_29_0108 | "............"
+scn00_29_0109 | "...!"
+scn00_29_0110 | "Có chuyện gì thế hả Chủ nhiệm?"
+scn00_29_0111 | "...Có khi nào, tôi đã nhầm lẫn một chuyện vô cùng tai hại rồi không."
+scn00_29_0112 | "Chị định đi đâu thế Chủ nhiệm?"
+scn00_29_0113 | "...Tôi phải đi xác nhận chuyện này ngay lập tức."
+scn00_29_0114 | "Thức trắng đêm rồi mà còn chạy ra ngoài lung tung thì nguy hiểm lắm đó chị! Ít ra cũng nên nghỉ ngơi một lát đã chứ...! Ơ kìa, đi mất tiêu rồi."
+scn00_29_0115 | "..."
+scn00_29_0116 | Tôi thẫn thờ ngắm nhìn chiếc tách cà phê đã cạn khô từ lâu.
+scn00_29_0117 | Tôi rất muốn nhờ cậu ấy rót thêm một ly nữa, nhưng Cocoro vẫn chưa chịu quay về.
+scn00_29_0118 | ...Hôm qua dáng vẻ của Cocoro lạ lùng lắm.

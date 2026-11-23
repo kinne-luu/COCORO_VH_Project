@@ -1,0 +1,64 @@
+# scene=scn00_38 batch=3/6 dòng 121-180 / 326
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_38_0121 | ココロ(Cocoro) | 「じゃあ言ってみてください」 | "Then tell me—how do you think I feel?" | “那你就说说看吧”
+scn00_38_0122 | ひなた(Hinata) | 「色んな事がありすぎて、胸がいっぱいで、自分の感情がどういう状態か把握できないんだろ？」 | "With everything that happened, you've got so much on your mind that you're not quite sure what emotional state you're in... Right?" | “发生了太多事，都堆积在了胸口，以至于无法正确掌握自己感情是什么状态对吧？”
+scn00_38_0123 | ココロ(Cocoro) | 「正解です」 | "Correct." | “正确”
+scn00_38_0124 | ココロ(Cocoro) | 「なんだか感情回路が不安定で、上手く制御できないのです。壊れてしまったんでしょうか……」 | "My emotional circuits are unstable, and I'm having trouble controlling them. I wonder if they're malfunctioning." | “我感觉感情回路十分不稳定，也没法进行控制，是坏掉了吗……”
+scn00_38_0125 | ひなた(Hinata) | 「ううん、それは人間でもよくある事だから」 | "No, it's okay. Humans experience that a lot, too." | “不，这也是人类身上经常发生的事”
+scn00_38_0126 | ひなた(Hinata) | 「気持ちが落ち着いたら、今回の事、霧香さんに話そう」 | "Once you've calmed down, let's tell Kirika-san about it." | “等你平静下来之后，再去和雾香小姐解释这次的事吧”
+scn00_38_0127 | - | 中には辛い出来事もあるだろう。もし話したくないなら、話さなくてもいい。 | She must've had quite a few painful experiences. If there's anything she doesn't want to talk about, she doesn't have to. | 想必其中也有很多痛苦的事情吧，所以她不想说的话，不说也没关系。
+scn00_38_0128 | - | ココロには心があって、プライバシーは尊重されるべきだ。 | Cocoro has feelings, so we should respect her privacy. | 既然心是有人心的，那就应该尊重她的隐私。
+scn00_38_0129 | ココロ(Cocoro) | 「はい」 | "Okay." | “好”
+scn00_38_0130 | ひなた(Hinata) | 「さ、帰ろう」 | "Let's get going." | “来吧，回去吧”
+scn00_38_0131 | - | 俺が差し出した手を見て、ココロは一瞬戸惑うような素振りを見せてから、恐る恐る握った。 | I offer her my hand, and Cocoro hesitates for a moment. But then, she gingerly reaches out and grabs hold of it. | 心看到我伸出的手后，瞬间露出了一副困惑的样子，随后小心翼翼地握住了我的手。
+scn00_38_0132 | - | 俺たちは手をつないで、並んで歩いて帰った。 | Hand in hand, we decide to head out. | 我们手牵着手，并排着走了回去。
+scn00_38_0133 | 大地(Daichi) | 「あちこち被害が出てるな。でも、怪我人がいなくてよかった」 | "There's all sorts of damage everywhere, but I'm glad nobody was injured." | “到处都有损害啊，不过，还好没有人受伤”
+scn00_38_0134 | 風音(Kazane) | 「うん、そうだね」 | "Yeah, me too." | “嗯，是啊”
+scn00_38_0135 | 大地(Daichi) | 「おまえのおかげだよ」 | "It's all thanks to you." | “都是你的功劳啊”
+scn00_38_0136 | 風音(Kazane) | 「うん……」 | "Mmh..." | “嗯……”
+scn00_38_0137 | 大地(Daichi) | 「どうしたよ、暗い顔して」 | "What's wrong? Why are you looking so gloomy?" | “你怎么了啊，一脸失落的”
+scn00_38_0138 | 風音(Kazane) | 「だって、まだひなたたちが」 | "Hinata and Cocoro still haven't come back, you know?" | “因为，日向他们还没有回来”
+scn00_38_0139 | 犬(Dog) | 「ワウ？　ワンワンワンワン！！」 | "Woo? Woof woof woof woof!!" | “呜汪？　汪汪汪汪！！”
+scn00_38_0140 | 風音(Kazane) | 「？」 | "Huh?" | “？”
+scn00_38_0141 | 風音(Kazane) | 「ひなた！」 | "Hinata!" | “日向！”
+scn00_38_0142 | 大地(Daichi) | 「ココロもいるぞ」 | "And Cocoro's with him." | “心也在呢”
+scn00_38_0143 | ココロ(Cocoro) | 「あ」 | "Ah..." | “啊”
+scn00_38_0144 | - | ココロは風音たちを見付けると、そっと俺の後ろに隠れた。 | When Cocoro spots Kazane and Daichi, she quickly hides behind me. | 心看到风音她们后，便嗖的一下躲到了我的身后。
+scn00_38_0145 | 風音(Kazane) | 「無事だったんだ！　って、どうしたのココロちゃん？」 | "You made it back safe! But... What's wrong, Cocoro-chan?" | “你们没事啊！　呃，心你怎么了？”
+scn00_38_0146 | ひなた(Hinata) | 「いや、なんか人見知りしてるのかも」 | "She's okay. She's just shy." | “没什么，感觉可能是有点怕生了”
+scn00_38_0147 | 風音(Kazane) | 「人見知り？　誰に？」 | "Shy? Of who?" | “怕生？　因为谁？”
+scn00_38_0148 | ひなた(Hinata) | 「ちょっと色々あって。ただいま」 | "A lot has happened... But we're back." | “因为发生了不少事，我回来了”
+scn00_38_0149 | 風音(Kazane) | 「うん、おかえり」 | "Welcome back." | “嗯，欢迎回来”
+scn00_38_0150 | 大地(Daichi) | 「？　おまえ声……」 | "Huh? Your voice..." | “？　你声音……”
+scn00_38_0151 | ひなた(Hinata) | 「ああ、これも色々あってね」 | "Yeah. We went through a lot." | “嗯，这也是因为发生了不少事”
+scn00_38_0152 | - | 胸につっかえていたものが取れたら、また自然としゃべれるようになっていた。 | Whatever was blocking my throat seems to have disappeared, and I'm able to speak normally again. | 在去掉堵在胸口的东西后，我就又能很自然地说出话来了。
+scn00_38_0153 | ココロ(Cocoro) | 「……風音ってあんな顔してたんですね。想像していた通りです。大地は思ったよりちょっとあれですね。犬はもふもふしています」 | "So 's what Kazane looks like... Just as I'd imagined. Daichi... reminds me of my omelet attempts. And the dog's fluffiness exceeds my expectations." | “……风音原来是长这样啊，和我想象中的一样。大地要比我想象要稍微那啥一点啊。狗毛茸茸的”
+scn00_38_0154 | 大地(Daichi) | 「なんだ、どうしたよ」 | "What're you muttering about?" | “嗯，怎么了吗”
+scn00_38_0155 | 風音(Kazane) | 「あたしたちの事、恐がってるんじゃ……。あんな事があったから」 | "Is she scared of us because of what happened before?" | “是不是在害怕我们啊……毕竟发生过那种事”
+scn00_38_0156 | ひなた(Hinata) | 「みんな大丈夫だった？」 | "Is everyone safe?" | “大家都没事吧？”
+scn00_38_0157 | 風音(Kazane) | 「怪我人なし。あいつらが途中で帰ってかなきゃ、危なかったけどね」 | "Nobody was hurt. The robots suddenly stopped rampaging and left. Who knows what would've happened otherwise..." | “没人受伤，但如果不是那些家伙们突然回去了，情况就危险了啊”
+scn00_38_0158 | ココロ(Cocoro) | 「ほっ……」 | "Phew..." | “呼……”
+scn00_38_0159 | - | 俺の後ろで、ココロが安堵するのが分かった。 | I hear Cocoro breathe a sigh of relief behind me. | 我知道身后的心放下心来了。
+scn00_38_0160 | 大地(Daichi) | 「しかし、街はこの有り様だ。また補修とかやんないとだな」 | "But the town's all messed up. Now we gotta fix everything again." | “但是，街道却已经变成这副模样了，又得去修理了啊”
+scn00_38_0161 | 風音(Kazane) | 「街なんて、何度でも造り直せばいいさ。こうしてみんな無事だったんだ！」 | "We'll rebuild as many times as we have to. As long as everyone's okay!" | “街道被毁多少次都能重建，只要大家都像这样平安无事的话！”
+scn00_38_0162 | 大地(Daichi) | 「だな！」 | "Right!" | “是啊！”
+scn00_38_0163 | ひなた(Hinata) | 「すごいバイタリティだなぁ」 | "You guys are so resilient." | “生命力真顽强啊”
+scn00_38_0164 | 風音(Kazane) | 「このくらいの精神じゃなきゃ、ここじゃやってけないのさ」 | "You gotta have a positive mindset here, or else you're never gonna last." | “毕竟如果没有这种程度的精神，是没法在这里生活下去的啊”
+scn00_38_0165 | - | 大きな被害が出ていなくてほんとによかった。 | I'm glad that the damage isn't more serious or extensive. | 没出现重大损失真是太好了。
+scn00_38_0166 | ひなた(Hinata) | 「安心したらドッと疲れが出てきたよ……。帰ろうか、ココロ」 | "Now that everything's over, I suddenly feel really tired... Let's go home, Cocoro." | “一放下心来之后疲劳感一下子就涌上来了啊……我们回去吧，心”
+scn00_38_0167 | ココロ(Cocoro) | 「はい」 | "Okay." | “好”
+scn00_38_0168 | - | 俺はココロと一緒に部屋へと帰っていった。 | Cocoro and I return to our apartment together. | 我和心一起走上了回房间的路。
+scn00_38_0169 | - | 夜のうちにロボットたちの暴走は沈静化し、朝陽が昇ると住人たちが恐る恐る外へと出てきた。 | During the night, it became clear that the robots' rampage had completely subsided. The next morning, the residents cautiously emerge from their shelters. | 因夜晚时分机器人们的暴走而安静下来的居民们，等朝阳升起来的时候都小心翼翼地走出了家门。
+scn00_38_0170 | - | 太陽の下で街の被害状況を確認しながら、早くも復興計画を話し合っている。 | As the sun rises, people are already inspecting the damage and discussing reconstruction plans. | 一边在太阳下检查着街道的受灾情况，一边商量着重建计划。
+scn00_38_0171 | 町内会長(Neighborhood Chief) | 「一時はどうなる事かと思ったが……。みんな無事でよかった」 | "For a moment, I thought we were all goners... I'm so glad that everyone is safe." | “一时之间我还挺担心的来着……大家都没事真是太好了”
+scn00_38_0172 | 風音(Kazane) | 「この程度なら、どうとでもなりますね」 | "A little riot isn't enough to bring us down." | “这种程度我们还是能应付的啊”
+scn00_38_0173 | - | さすが、エリア９９で暮らす人たちは[ねば]粘り強い。 | The residents of Area 99 are some of the most tenacious people I know. | 不愧是生活在99区里的人们，韧性真强啊。
+scn00_38_0174 | - | 俺はその様子を見ながら、犬に餌をあげていた。 | I watch them go about their business as I feed the dog his breakfast. | 我一边看着他们，一边喂着狗。
+scn00_38_0175 | 犬(Dog) | 「ワン！　ワン！」 | "Woof! Woof!" | “汪！　汪！”
+scn00_38_0176 | ひなた(Hinata) | 「ココロじゃなくてごめんな。今は部屋から出たくないらしいんだ」 | "Sorry I'm not Cocoro. She doesn't want to come outside right now." | “抱歉啦，不是心来喂你，她现在貌似不想从房间里出来”
+scn00_38_0177 | - | ココロの中に心はあるんだろう。 | I'm sure there's a soul inside Cocoro. | 心的体内是存在人心的吧。
+scn00_38_0178 | - | それを自覚した事で、様々な感情を無視できなくなっている。 | And now that she's become aware of it, she has to come to terms with all the emotions she can no longer ignore. | 在对此有自知之明之后，她就再也无法无视那种种感情了。
+scn00_38_0179 | - | この街の惨状も、自分のせいだと罪の意識を感じているようだった。 | She seems to feel guilty, believing that everything that happened to the city is entirely her fault. | 她似乎也产生了罪恶感，将街上的这副惨状看做是自己造成的了。
+scn00_38_0180 | ひなた(Hinata) | （ココロは自分の身を守ろうとしただけなのに……） | (But she was just trying to protect herself...) | （心明明只是在保护自己而已……）

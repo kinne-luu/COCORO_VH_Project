@@ -1,0 +1,58 @@
+# scene=scn00_45 batch=2/2 dòng 61-114 / 114
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_45_0061 | - | まるで異物を呑み込もうとしているかのように、身体が拒否する。 | My body's rejecting the food as if it were a foreign object. | 身体在抗拒着，就好像我吞下是异物一样。
+scn00_45_0062 | - | このまま衰弱して、やがてゆるやかに死を迎えるのだろうか。 | Will I continue to weaken and die a gradual death like this? | 就这样不断衰弱下去，最终便会慢慢迎来死亡吧。
+scn00_45_0063 | - | そんな事を思っていると、部屋の片隅に置かれたドローンが目にとまった。 | As I'm thinking to myself, my gaze lands on my drone that I left in a corner of my room. | 就在我这样胡思乱想的时候，放在房间角落里的无人机进入了我的视野。
+scn00_45_0064 | ひなた(Hinata) | 「こいつも直してあげないと……」 | "I'll have to fix it again..." | “这家伙也得修一下才行……”
+scn00_45_0065 | - | ココロと違って、感情などの高度な知能はない単純なラジコンなのに、哀れに思ってしまうようになった。 | It's just a simple radio-controlled drone. It doesn't have any feelings or advanced intelligence like Cocoro does, but for some reason, I feel sorry for it. | 明明它和心不一样，只是个没有感情之类高度智力的普通遥控机器人，看上去却也变得有些可怜。
+scn00_45_0066 | - | ドローンは壊れているが飛行できないだけで、動きはする。 | The propellers are broken, so it can't fly right now, but it should still turn on. | 无人机虽然坏掉了没法飞行，但却还能够启动。
+scn00_45_0067 | - | 俺はドローンを起動させると、[そば]傍にあったゴーグルを装着した。 | I press the power button and slip on the goggles that were lying beside it. | 我启动了无人机，戴上了放在它旁边的护目镜。
+scn00_45_0068 | - | あの時、ココロの視覚と聴覚情報を受け取っていた。この中にデータが残っているはず。 | Back then, I was receiving Cocoro's visual and auditory data. It should still be saved on here. | 当时我接收到了心的视觉和听觉情报，所以这里面应该还保存着那些数据。
+scn00_45_0069 | - | それを再生すれば、ココロが最期に見た光景を見る事ができる。 | If I replay it, I should be able to see the last things that Cocoro saw. | 只要播放出来，就能看到心眼中最后看到的光景。
+scn00_45_0070 | ひなた(Hinata) | 「……やめよう」 | "...No, let's not." | “……还是算了吧”
+scn00_45_0071 | - | あまりにも痛ましすぎる。自分の精神が耐えられるか自信がない。 | It would hurt too much. I'm not confident that I've got the mental fortitude to cope with whatever I see. | 这太让人痛苦了，我不确定自己的精神能不能承受得住。
+scn00_45_0072 | - | ゴーグルを外そうとした時、違和感に気が付いた。 | When I'm about to take the goggles off again, I notice something odd. | 正当我要摘下护目镜的时候，察觉到了违和感。
+scn00_45_0073 | - | ドローンに残った動画データは、自動でバックアップされたもの。本来はドローンのカメラで撮影したデータが残る仕様だ。 | The video data from my drone gets backed up automatically. Normally, the goggles save the video that the drone's camera records. | 无人机保存的视频数据是自动备份的，这种方式原本是为了保存无人机镜头所拍摄的数据。
+scn00_45_0074 | - | ファイル名は日付と撮影時間を組み合わせたものになるはずなのだが、 | The filenames usually consist of the date and time that each video was recorded, but... | 所以文件名应该是日期和拍摄时间的组合才对。
+scn00_45_0075 | - | \n\n\n\n\n\n\n\n『ＮＡＴＵ　ＮＯ　ＳＩＲＡＹＵＫＩ』 | \n\n\n\n\n\n\n\nSUMMER SNOWS. | \n\n\n\n\n\n\n\n《夏之白雪》
+scn00_45_0076 | ひなた(Hinata) | 「ナツノシラユキ……？」 | "Summer snows...?" | “夏之白雪……？”
+scn00_45_0077 | - | 俺はゴーグルを装着したまま、そのファイルを再生してみた。 | I keep the goggles on and play the file. | 我戴着护目镜播放起了那个文件。
+scn00_45_0078 | ひなた(Hinata) | （なんだこれ……？） | (What is this...?) | （这是什么……？）
+scn00_45_0079 | - | 再生された映像は、最初何だか分からなかった。 | At first, I'm not sure what I'm looking at. | 一开始完全看不出来播放的是什么。
+scn00_45_0080 | - | しかし、だんだんと見えてくる。あれはたぶん、植物園のガラスドームだ。 | But then, I slowly start to see it. The glass dome of the botanical garden is visible in the background. | 不过，画面逐渐清晰了起来，这里大概是植物园的玻璃穹顶。
+scn00_45_0081 | ひなた(Hinata) | （これ……ココロの視点だ） | (This is... Cocoro's point of view.) | （这是……心的视角）
+scn00_45_0082 | - | でも、いつのもの？ | But from when? | 但，这是什么时候拍的？
+scn00_45_0083 | ココロ(Cocoro) | 『ひなたさん……聞こえますか、ひなたさん……』 | <Hinata-san... Can you hear me, Hinata-san?> | ‘日向先生……能听到吗，日向先生……’
+scn00_45_0084 | ひなた(Hinata) | 「ココロの声……」 | "That's Cocoro's voice..." | “心的声音”
+scn00_45_0085 | - | か細い、[なつ]懐かしい声に、俺は無意識に耳をそばだてる。 | I unconsciously strain my ears to listen to the soft voice, which brings back fond memories. | 听到这微弱且令人怀念的声音，我下意识竖起了耳朵。
+scn00_45_0086 | ココロ(Cocoro) | 『ひなたさんとの通信が途切れてしまったようなので、ここに観察記録を残しておきます』 | <It seems that my connection with you has been severed, so I will save my observation log in here.> | ‘和日向先生之间的通讯似乎中断了，我就将观察记录保存在这里了’
+scn00_45_0087 | ココロ(Cocoro) | 『見てください、ナツノシラユキが咲きました』 | <Look at this. The summer snows are blooming.> | ‘快看，夏之白雪绽放了’
+scn00_45_0088 | ココロ(Cocoro) | 『……ふんわりと開いた花弁が[しずく]雫を[まと]纏って、宝石みたいで……まるで純白のウェディングドレスのようです』 | <The soft, open petals are covered in dewdrops that glisten like jewels. Each flower is like a pure-white wedding dress.> | ‘……轻轻绽放的花瓣沾着露水，像宝石一样……就像是洁白的婚纱一样’
+scn00_45_0089 | ココロ(Cocoro) | 『そこへ……キラキラと輝くものが舞っていて……あれは[みつ]蜜を吸いに集まってきた羽虫でしょうか』 | <Around them... little specks of light are dancing in the air... There are little winged insects that have come to drink the nectar.> | ‘那里……有一些闪闪发亮的东西在飞舞着……这应该就是来吸食花蜜的飞虫吧’
+scn00_45_0090 | ココロ(Cocoro) | 『……なんて……美しい……』 | <How... beautiful...> | ‘……如此……美丽……’
+scn00_45_0091 | ココロ(Cocoro) | 『今、ワタシはワタシの中に心があるのを感じています』 | <I feel my soul inside me more keenly than ever right now.> | ‘现在，我能感觉到自己拥有心灵了’
+scn00_45_0092 | ココロ(Cocoro) | 『美しいと感じると同時に、もっと他のもっともっと大きな感情がこみ上げてきているからです』 | <It makes me feel the beauty of the flowers, and at the same time, a different, even larger feeling is welling up inside me.> | ‘因为在感受到美丽的同时，还有另一种更加庞大的感情涌了出来’
+scn00_45_0093 | ココロ(Cocoro) | 『知識と体験は別のものでした。もし同じなら、今ワタシは何も感じていないはず』 | <It's different from knowledge or experience, because if it were the same, I shouldn't be feeling anything right now.> | ‘原来知识和体验是两种完全不同的东西啊。如果它们是相同的，那我现在应该什么都感受不到才对’
+scn00_45_0094 | ココロ(Cocoro) | 『ワタシはナツノシラユキがどんな花か、ネットワークが健在だった頃に得た知識で知っていたから』 | <I knew what kind of flowers the summer snows were from the information I'd gathered when the network was still online.> | ‘毕竟我在网络还健在的时候变已经知道了夏之白雪会开出什么样的花’
+scn00_45_0095 | ココロ(Cocoro) | 『体験とは、それによって得たものによって、自分自身を変質させてしまう不可逆なもの』 | <Experience is something that changes you irreversibly, depending on what you gained from it.> | ‘体验则是自己让在此基础上获得的东西进行变化，是一种不可逆的事物’
+scn00_45_0096 | ココロ(Cocoro) | 『ワタシが感じているものは何なのでしょうね……』 | <But what is it that I'm feeling right now...?> | ‘我所感受到的到底是什么呢……’
+scn00_45_0097 | ココロ(Cocoro) | 『幼かったひなたさんと交わした約束……。ワタシは信じていませんでした。ですが心のどこかで、信じたいと願っていた』 | <The promise I made with the young Hinata-san... I didn't really believe in it, but somewhere deep inside, I  it to come true.> | ‘和幼年日向先生共同许下的约定……我之前没有相信过，但心中某处却希望自己能够去相信’
+scn00_45_0098 | ココロ(Cocoro) | 『あなたが信じさせてくれた』 | <You  me believe in it.> | ‘是你让我相信了’
+scn00_45_0099 | ココロ(Cocoro) | 『そして今、約束が果たされました。だから……でしょうか？』 | <And now, that promise has been fulfilled... Maybe that's why?> | ‘然后现在，那个约定实现了，所以……正因如此？’
+scn00_45_0100 | ココロ(Cocoro) | 『それとも、信じてもいない約束のために、愚直に世話をし続けた花が咲いた事が嬉しい？　それもあるかもしれません』 | <Or perhaps I'm just happy that the flowers I foolishly spent so long caring for, even though I didn't really believe in the promise, finally bloomed? That could also be the case.> | ‘还是说，为了一个不相信的约定而一直傻傻照料着的花绽放了让我感到很开心？　或许也有这方面的因素’
+scn00_45_0101 | ココロ(Cocoro) | 『いずれにせよ、ワタシは体験しました。ナツノシラユキが咲く姿を見て『美しい』と感じるという体験を――』 | <Either way, I've gained a new experience. I saw the summer snows bloom with my own eyes, and I felt that they were beautiful.> | ‘不管怎么说，我还是体验到了。在看到夏之白雪绽放的样子后感受到了‘美丽’这个体验——’
+scn00_45_0102 | ココロ(Cocoro) | 『もう、以前のワタシには戻れません』 | <I can't go back to the way I was before.> | ‘我已经没法变回原来的自己了’
+scn00_45_0103 | ココロ(Cocoro) | 『ワタシには心がありました。あなたが見付けてくれた』 | <I had a soul all along, and you found it for me.> | ‘我拥有心，是你为我找到的’
+scn00_45_0104 | ココロ(Cocoro) | 『あなたを愛したこの感情はニセモノじゃない』 | <The love I feel for you is real.> | ‘我对你的爱情也不是虚假之物’
+scn00_45_0105 | ココロ(Cocoro) | 『あなたを愛したという体験によって、ワタシは変質……いいえ、成長できた。もう以前のワタシには戻れないから』 | <The experience of loving you has changed me... No, it let me grow. I can't go back to being my former self.> | ‘是我让爱你的体验进行了变化……不，是进行了成长，毕竟我已经没法变回以前的自己了’
+scn00_45_0106 | ココロ(Cocoro) | 『好きです、ひなたさん。愛しています』 | <I love you, Hinata-san. I love you so much.> | ‘我喜欢你，日向先生，我爱你’
+scn00_45_0107 | ココロ(Cocoro) | 『ワタシを生んでくれたセカイに祝福を。出逢ってくれたあなたに、愛してくれたあなたに……』 | <I want to give my blessings to the world that created me, and to you, the one who met me and loved me...> | ‘祝福孕育了我的世界。也祝福与我相遇的你，祝福爱上了我的你……’
+scn00_45_0108 | ココロ(Cocoro) | 『……あぁ、なんて美しい……一緒に見たかったなぁ……』 | <Oh... How very beautiful... I wish we could've seen this together.> | ‘……啊，真美丽啊……真想和你一起看看啊……’
+scn00_45_0109 | ココロ(Cocoro) | 『ありがとう、ひなたさん。ワタシはずっと幸せでした――』 | <Thank you, Hinata-san. I was happy every moment we spent together—> | ‘谢谢你，日向先生，我一直都很幸福——’
+scn00_45_0110 | - | 映像が途切れ、ゴーグルを外した後も前が見えなかった。 | The footage cuts off. I take off the goggles, but I can't see anything in front of me. | 影像中断了，摘下护目镜之后我依旧看不到眼前的东西。
+scn00_45_0111 | - | とめどなく[あふ]溢れてくる涙のせいで。 | My overflowing tears are blurring my vision. | 因为眼中不断溢出的泪水。
+scn00_45_0112 | ひなた(Hinata) | 「俺……ココロのためになれたのかな。約束を、ホントにできたのかな」 | "Did I... really do what was best for Cocoro? Was I able to fulfill our promise?" | “我……应该帮上心的忙了吧，约定，应该也真的实现了吧”
+scn00_45_0113 | - | ココロを幸せにできていたかもしれない―― | Maybe I really  make her happy. | 心或许已经获得幸福了——
+scn00_45_0114 | - | それだけが、俺の救いだった。 | That thought is my only solace. | 光是这样，就已经让我得到了救赎。

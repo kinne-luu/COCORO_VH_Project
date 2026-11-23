@@ -1,0 +1,40 @@
+# scene=scn00_44 batch=4/4 dòng 180-215 / 215
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_44_0180 | - | ココロが隊長を倒し、組み伏せていた。 | Cocoro pushes the squad leader to the ground and pins him down. | 心放倒了队长，并按住了他。
+scn00_44_0181 | ひなた(Hinata) | 「ハァ、ハァ、ハァ、ハァ……！！！」 | "Hahh, hahh, hahh, hahh...!" | “哈啊，哈啊，哈啊，哈啊……！！！”
+scn00_44_0182 | - | 俺はゴーグルでココロからの視覚・聴覚情報を得ながら、橋を渡っていた。 | I can see and hear everything Cocoro does through my goggles as I run across the bridge. | 我一边通过护目镜接收着心那边传来的视觉和听觉情报，一边渡着桥。
+scn00_44_0183 | - | 何度もよろけ、倒れ、肩で息をしながら起き上がって、また走る。 | I'm out of breath, and I stumble and fall a few times, but each time I get back up and continue running. | 无数次步伐不稳，倒了下去，然后又喘着粗气站起身，再次跑了起来。
+scn00_44_0184 | - | ココロの目を通して、[おび]怯えながら憎しみを[にじ]滲ませる隊長の表情が見えた。 | Through Cocoro's eyes, I can see the squad leader glare at her with fear and hatred. | 通过心的眼睛，我能看到队长那胆怯中夹杂着憎恨的表情。
+scn00_44_0185 | 駆除隊隊長(Extermination Squad Leader) | 『殺せ…………殺してみろ、あの夜のように！！』 | <Kill me... Just try and kill me, just like you killed everyone that night!> | ‘杀了我…………你杀了我啊，就像那晚一样！！’
+scn00_44_0186 | 駆除隊隊長(Extermination Squad Leader) | 『俺の家族を殺したように！！！！！』 | <Just like you killed my family!!!> | ‘就像杀掉我家人那样！！！！！’
+scn00_44_0187 | ひなた(Hinata) | 「ココロ……やめろ、ダメだ……ココロ……」 | "Cocoro, stop... Don't do it, Cocoro..." | “心……不要，不可以啊……心……”
+scn00_44_0188 | ココロ(Cocoro) | 『あなたを殺すのは容易い。ですが、できません。したくありません。命は[とうと]尊いから』 | <It would be easy for me to kill you. However, I can't do it, and I don't want to. All life is precious.> | ‘杀了你很简单，但是我做不到，也不想做，因为生命很宝贵’
+scn00_44_0189 | ココロ(Cocoro) | 『ワタシはただ、ナツノシラユキが咲くところが見たいだけなのです』 | <All I want right now is to watch the summer snows bloom.> | ‘我只是想看夏之白雪开花的样子而已’
+scn00_44_0190 | 駆除隊隊長(Extermination Squad Leader) | 『モノが命を語るな……』 | <How dare you talk about life when you're just some inanimate object...!> | ‘物品就别大谈生命了……’
+scn00_44_0191 | - | 隊長が手に何かを握っていた。 | The squad leader has something in his hand. | 队长的手里握住了什么东西。
+scn00_44_0192 | - | それをココロに押しつけて―― | He thrusts it against Cocoro... | 然后将其按到了心的身上——
+scn00_44_0193 | ひなた(Hinata) | 「ぐあッ！！？」 | "Ack!!?" | “咕啊！！？”
+scn00_44_0194 | - | 突然、バチバチッとショートしたようなノイズが走ったかと思うと、視界が途切れた。 | Suddenly, I hear an electronic crackle, as if my device short-circuited, and my vision goes black. | 突然，一阵噼里啪啦像是短路一样的噪音传了过来，之后视野共享便中断了。
+scn00_44_0195 | - | ゴーグルには『ＮＯ　ＳＩＧＮＡＬ』の文字が。 | My goggles display the words "NO SIGNAL." | 护目镜上出现了‘NO　SIGNAL’。
+scn00_44_0196 | ひなた(Hinata) | 「ココロ……？　ココロ！！！」 | "Cocoro...? Cocoro!!!" | “心……？　心！！！”
+scn00_44_0197 | - | 呼びかけても、ココロからの声も映像も戻ってこない。 | I call out, but Cocoro's voice and video aren't coming back. | 无论我再怎么呼喊，心那边的声音和影响也都没有恢复。
+scn00_44_0198 | ひなた(Hinata) | 「…………ココ……ロ……」 | "Coco...ro..." | “…………心……”
+scn00_44_0199 | - | へなへなと力を失いかけた足に、最早気力とも呼べない執念のような力を込めて、俺は[は]這うように走った。 | I will my legs to keep moving, even though I'm running on fumes. It's my determination alone that's propelling me forward at this point. | 我靠着近乎执念的力量迈着早已失去力气的腿连滚带爬地跑着。
+scn00_44_0200 | - | 俺がそこへ辿り着いた時、最初に目に入ったのは倒れて動かない隊長だった。 | When I arrive at the garden, the first thing I see is the unmoving body of the former extermination squad leader. | 当我到达哪里时，第一个看到的是躺着不动的队长。
+scn00_44_0201 | - | 気を失っているのか、死んでいるのか分からない。どっちだっていい。 | I can't tell if he's dead or just unconscious, and I don't care enough to check. | 不知道是昏过去了还是死了，但要无所谓了。
+scn00_44_0202 | - | 花壇の前に、主人を失った老犬のように、項垂れてむせび泣く獣の姿をしたロボットの姿があった。 | In front of a flower bed, I find a beastly looking robot drooping her shoulders and whimpering like an old dog that's lost its master. | 花坛前还有一个像是失去主人的老犬般，正垂头呜咽着的野兽外形机器人。
+scn00_44_0203 | - | その足元、ナツノシラユキの植えられた花壇に、純白のドレスを[まと]纏った少女が倒れていた。 | At her feet, in the middle of the bed of summer snows, lies a girl in a white dress. | 其脚边种着夏之白雪的花坛里，倒着一名身着洁白婚纱的少女。
+scn00_44_0204 | - | ピクリとも動かない。 | She's not moving at all. | 少女一动不动。
+scn00_44_0205 | ひなた(Hinata) | 「ココロ……？」 | "Cocoro...?" | “心……？”
+scn00_44_0206 | ひなた(Hinata) | 「ねえ、いつもの冗談なんでしょ？　それ笑えないからさ……」 | "Hey, are you joking? If you are, this isn't funny..." | “我说，这和以前一样是在开玩笑吧？　这可让人笑不出来啊……”
+scn00_44_0207 | ひなた(Hinata) | 「ココロ……なぁ、起きてよ。せっかくのドレスが汚れちゃうってば。ねえ、ココロ！！！！！！！！！」 | "Cocoro... Come on, get up. You're getting your pretty dress all dirty. Hey, Cocoro!!!" | “心……你快起来吧，好好的婚纱都弄脏了啊，听到了吗，心！！！！！！！！”
+scn00_44_0208 | - | 駆け寄ろうとするが、それよりも先に[ひざ]膝から力が抜けて走れなくなる。 | I try to run to her side, but my knees give in. | 我本想跑到她身边去，但膝盖却先一步失去了力气。
+scn00_44_0209 | - | 俺は這いずってココロにすがりつく。 | I drag myself along the ground, trying to get closer to Cocoro. | 我爬过去抱住了心。
+scn00_44_0210 | ひなた(Hinata) | 「……目を開けてくれよ……何か言ってくれよ……」 | "Open your eyes... Say something..." | “……你睁开眼睛啊……你说句话啊……”
+scn00_44_0211 | ひなた(Hinata) | 「……ココロ……」 | "Cocoro..." | “……心……”
+scn00_44_0212 | - | 涙が次々に[あふ]溢れてきて、前が見えなくなった。 | My eyes fill with tears, and my vision goes blurry. | 泪水止不住地溢出，眼前变得一片模糊。
+scn00_44_0213 | - | 耳の奥がキンキンして何も聞こえない。 | My ears are ringing, and I can't hear anything else. | 耳朵也出现了耳鸣，什么都听不到了。
+scn00_44_0214 | - | 自分自身の嗚咽も聞こえない。 | Not even my own sobs. | 甚至连自己的呜咽声也听不到了。
+scn00_44_0215 | - | 頭が真っ白になって、それから後どうなったかは知らない。 | My mind goes blank, and I don't know what happens next. | 大脑变得一片空白，之后发生了什么我都完全没有印象了。

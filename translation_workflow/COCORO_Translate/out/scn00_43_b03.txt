@@ -1,0 +1,60 @@
+scn00_43_0121 | "...Cảm ơn cậu nhé."
+scn00_43_0122 | Tôi khẽ xoa đầu Cocoro để em an lòng bớt lo âu.
+scn00_43_0123 | "Nào, mau đi ngủ thôi. Sáng mai chúng ta còn phải đi ngắm Tuyết Trắng Mùa Hạ nữa chứ nhỉ?"
+scn00_43_0124 | "Tất nhiên rồi ạ. Hoa nở chỉ còn tính từng giây từng phút nữa thôi!"
+scn00_43_0125 | <Gừ rừ rừ rừ rừ......>
+scn00_43_0126 | "Cuối cùng cũng dồn được mày vào đường cùng rồi, Jabberwock. Khôn hồn thì hãy ngoan ngoãn đầu hàng đi, nếu không bọn tao buộc phải làm mày bị thương đấy."
+scn00_43_0127 | <...Kh... ông... muố... n...>
+scn00_43_0128 | "...Chuẩn bị nổ súng. Không được dùng đạn điện giật, trời mưa sẽ gây sát thương lan ra xung quanh."
+scn00_43_0129 | "Khoan đã, cậu Kotaro!"
+scn00_43_0130 | "Chủ nhiệm, nguy hiểm lắm đừng ra ngoài! Hãy lùi lại phía sau đi!"
+scn00_43_0131 | "CCR-02... nghe tôi nói này, chúng tôi muốn bảo vệ em. Chúng tôi muốn trở thành bạn của em."
+scn00_43_0132 | <...Khô... ng... ta... khô... ng muốn... b... iến mất...>
+scn00_43_0133 | "Có thể em không tin, nhưng mà, chỉ có tôi... mới là người có thể bảo vệ được em thôi."
+scn00_43_0134 | <Kh... ông... sợ... lắm... c... ứu em... ch... ị ơi...>
+scn00_43_0135 | "Cocoro là bạn của tôi. Nên chúng ta cũng hãy làm bạn nhé?"
+scn00_43_0136 | <Dối... trá... bọn m... ày... đã t... ừng định... x... óa sổ... c... hị...>
+scn00_43_0137 | "Chuyện đó..."
+scn00_43_0138 | "Chủ nhiệm, có muốn nói chuyện gì thì cũng đợi khống chế được nó đã!"
+scn00_43_0139 | <...Chị ơi... chị ơi... em... sợ... lắm... c... ứu... em với...>
+scn00_43_0140 | <E... m... c... ũng... m... uốn trở th... ành... giống nh... ư chị... ch... ị ơi... ch... ị... ơi...>
+scn00_43_0141 | "Em ngưỡng mộ Cocoro đến thế sao... Tôi có thể cứu vớt được em. Không, cứu vớt em chính là sứ mệnh của đời tôi."
+scn00_43_0142 | "Vì thế, được không em? Hãy đi cùng tôi..."
+scn00_43_0143 | <Gừ rừ rừ rừ rừ rừ......!!>
+scn00_43_0144 | "Nguy hiểm quá rồi, bảo vệ Chủ nhiệm Kizuki mau!"
+scn00_43_0145 | "A, khoan đã! Đừng chạy mà, xin hãy quay lại đây đi!"
+scn00_43_0146 | "Không được để nó trốn thoát, đuổi theo!"
+scn00_43_0147 | "Trời mưa tầm tã thế này thì không thể nào lần theo dấu vết được đâu ạ!"
+scn00_43_0148 | "Khốn thật, rõ ràng là cơ hội ngàn vàng để bắt sống nó mà lại."
+scn00_43_0149 | "...Tôi chỉ muốn cứu vớt em thôi mà..."
+scn00_43_0150 | "Cả biến cố Ách Tai xảy ra lẫn việc tạo ra Jabberwock đều là trách nhiệm của nhóm nghiên cứu thời bấy giờ. Đó không phải lỗi của Chủ nhiệm Kizuki đâu ạ."
+scn00_43_0151 | "Xin cô đừng tự dằn vặt ép uổng bản thân quá mức như vậy."
+scn00_43_0152 | "..."
+scn00_43_0153 | .........
+scn00_43_0154 | ......
+scn00_43_0155 | "......Phát hiện âm thanh tiếng mưa rơi. Bật dậy."
+scn00_43_0156 | "..."
+scn00_43_0157 | "Cậu Hinata, cậu Hinata ơi, trời mưa rồi."
+scn00_43_0158 | ......
+scn00_43_0159 | "Cậu Hinata, trời đổ mưa rồi này. Chẳng lẽ nào là..."
+scn00_43_0160 | "Ư... ưm............... khò... khò............"
+scn00_43_0161 | "Có vẻ như cậu ấy đang ngủ say như chết. Phán đoán việc quấy rầy giấc ngủ ngon của người khác là hành vi vi phạm phép lịch sự trong xã hội loài người."
+scn00_43_0162 | "...Hôm nay có thể hoa Tuyết Trắng Mùa Hạ sẽ nở bung. Bồn chồn quá đi thôi."
+scn00_43_0163 | "Tình hình này không phải là lúc thảnh thơi kích hoạt chế độ ngủ đâu ạ."
+scn00_43_0164 | "Rất may là tôi không cần ngủ cũng có thể hoạt động bình thường, nên tôi quyết định sẽ thức canh suốt đêm."
+scn00_43_0165 | "Chỉ cần đến giờ thức dậy dự kiến, giấc ngủ êm đềm của cậu Hinata sẽ chính thức chấm dứt. Tôi sẽ dùng biện pháp còn mạnh hơn bất kỳ chiếc đồng hồ báo thức nào để cưỡng chế cậu thức dậy."
+scn00_43_0166 | "...Bồn chồn đứng ngồi không yên quá."
+scn00_43_0167 | "Đứng ngồi không yên... bồn chồn bồn chồn..."
+scn00_43_0168 | "Hãy bình tĩnh lại nào, CPU của tôi ơi... Có cảm xúc quả đúng là rắc rối thật đấy. Cứ thế này khéo tôi phải lo lắng bị quá nhiệt mất thôi."
+scn00_43_0169 | ......
+scn00_43_0170 | "Rảnh rỗi quá đi. Đây lại là một mặt trái nữa của cảm xúc rồi. Mình đã biết thế nào là cảm giác rảnh rỗi buồn chán rồi cơ đấy."
+scn00_43_0171 | "Thôi thì đành giết thời gian bằng cách ngắm nhìn gương mặt đang say ngủ của cậu Hinata vậy."
+scn00_43_0172 | "...Khò... khò"
+scn00_43_0173 | "...Hì hì, gương mặt khi ngủ trông thật bình yên làm sao. Kỳ lạ thật đấy, chỉ ngắm nhìn thế này thôi mà tình yêu thương cứ thế trào dâng trong lòng."
+scn00_43_0174 | "Chụt."
+scn00_43_0175 | "...Ư... ưm..."
+scn00_43_0176 | "Cậu Hinata, cậu dậy rồi sao?"
+scn00_43_0177 | "...Khò... khò"
+scn00_43_0178 | "Đến nụ hôn ngọt ngào mà cũng không làm cậu tỉnh giấc được ư............ Có vẻ cậu quyết tâm ngủ li bì cho đến tận giờ cưỡng chế thức giấc rồi nhỉ. Phù..."
+scn00_43_0179 | "..."
+scn00_43_0180 | ......

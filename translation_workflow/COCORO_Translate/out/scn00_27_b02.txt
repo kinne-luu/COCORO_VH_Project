@@ -1,0 +1,60 @@
+scn00_27_0060 | 'Cậu tự mình kiểm chứng xem sao.'
+scn00_27_0061 | Tôi chìa chiếc bánh crepe trên tay ra trước mặt cậu ấy.
+scn00_27_0062 | Cocoro hơi ngập ngừng một thoáng, rồi...
+scn00_27_0063 | "Ngoạm... nhai nhai... Dữ liệu cảm biến vị giác ghi nhận được vẫn y hệt như cũ."
+scn00_27_0064 | "...Nhai nhai... nhai nhai..."
+scn00_27_0065 | "...Thế nhưng, cảm giác 'ngon' không chỉ đơn thuần được cảm nhận bằng vị giác."
+scn00_27_0066 | 'Ngon không?'
+scn00_27_0067 | "T-Tôi không biết nữa. Chuyện này... đối với tôi vẫn còn quá khó."
+scn00_27_0068 | "Bởi vậy, tôi phải ăn thêm nữa mới được!"
+scn00_27_0069 | "...A---"
+scn00_27_0070 | Nhìn Cocoro há miệng chờ đợi như một chú chim non, tôi liền bón bánh crepe cho cậu ấy.
+scn00_27_0071 | "Ngoạm... nhai nhai... nhai nhai..."
+scn00_27_0072 | "..."
+scn00_27_0073 | "......Đây chính là 'ngon' sao? Tôi không hiểu... tôi vẫn chưa hiểu..."
+scn00_27_0074 | Cocoro lộ rõ vẻ bối rối trong lúc cố gắng cảm nhận hương vị.
+scn00_27_0075 | Nguy hiểm quá!
+scn00_27_0076 | "Á!"
+scn00_27_0077 | Lần này tôi đã kịp thời giữ lại.
+scn00_27_0078 | Tôi nắm chặt lấy tay Cocoro, ngăn không để cậu ấy vấp ngã.
+scn00_27_0079 | "Cảm ơn cậu... Tôi lại bất cẩn làm phiền cậu Hinata nữa rồi..."
+scn00_27_0080 | Cocoro buồn rầu mất rồi. Biết phải làm sao đây...
+scn00_27_0081 | Trong lúc tôi còn đang lúng túng, Cocoro đã chủ động nắm lấy tay tôi.
+scn00_27_0082 | "?"
+scn00_27_0083 | "Chúng ta có thể vừa đi vừa nắm tay thế này được không ạ? Tôi... mắt tôi nhìn không được rõ lắm..."
+scn00_27_0084 | "...(Gật đầu)"
+scn00_27_0085 | "Cảm ơn cậu rất nhiều... hi hi."
+scn00_27_0086 | Tôi nắm tay Cocoro đang mỉm cười e thẹn đầy hạnh phúc, cùng nhau sánh bước trên con đường ven biển.
+scn00_27_0087 | Nơi Cocoro dẫn tôi đến là một bãi cát ven biển.
+scn00_27_0088 | Hôm nay cũng có lác đác vài người đang tắm biển.
+scn00_27_0089 | 'Đi bơi sao?'
+scn00_27_0090 | "Tôi cũng từng cân nhắc điều đó, nhưng sau khi đánh giá rủi ro ngâm mình trong nước biển là quá cao nên tôi đã từ bỏ. Cậu Hinata sẽ bị gỉ sét mất."
+scn00_27_0091 | Con người làm sao mà gỉ sét được cơ chứ.
+scn00_27_0092 | Cơ mà hẹn hò mà lại mặc đồ bơi thì có vẻ hơi kích thích quá rồi.
+scn00_27_0093 | "Bởi vậy, tôi đề xuất chúng ta nên ngồi ở đây."
+scn00_27_0094 | Thuận theo lời đề nghị của Cocoro, tôi ngồi bệt xuống bãi cát.
+scn00_27_0095 | Từng con sóng xô bờ rồi rút ra xa lấp lánh phản chiếu ánh mặt trời, chỉ ngắm nhìn thôi cũng đủ khiến lòng tôi trở nên thanh thản.
+scn00_27_0096 | "A---"
+scn00_27_0097 | "...Ngoạm... nhai nhai..."
+scn00_27_0098 | "A... a..."
+scn00_27_0099 | "Vẫn chưa rõ ạ. Tôi đang thăm dò khả năng có thể là nó ngon. Vì vậy, cho tôi thêm một miếng nữa nhé. A---"
+scn00_27_0100 | Tôi tiếp tục bón từng miếng bánh crepe cho Cocoro.
+scn00_27_0101 | "...Nhai nhai... nhai nhai..."
+scn00_27_0102 | "...Nhai nhai...... nhai......"
+scn00_27_0103 | "...(Nhìn chăm chú)"
+scn00_27_0104 | "...? Tôi cảm nhận được dường như cậu Hinata đang nhìn chằm chằm vào tôi."
+scn00_27_0105 | 'Cậu cũng nhận ra sao?'
+scn00_27_0106 | "Dù chỉ nhìn thấy lờ mờ, nhưng tôi suy đoán qua nhịp thở của cậu đấy ạ."
+scn00_27_0107 | "Sao cậu lại nhìn tôi thế ạ?"
+scn00_27_0108 | 'Vì trông cậu có vẻ hạnh phúc lắm.'
+scn00_27_0109 | "Hạnh phúc? Tôi sao?"
+scn00_27_0110 | "Ủa, tôi đâu có cố gắng biểu lộ điều đó ra đâu. Có khi nào là cậu Hinata nhìn nhầm rồi không?"
+scn00_27_0111 | 'Có lẽ vậy.'
+scn00_27_0112 | "Không phải 'có lẽ', mà chắc chắn là vậy rồi ạ."
+scn00_27_0113 | Cocoro quả quyết đáp lại, rồi lại há miệng ra.
+scn00_27_0114 | "A---..."
+scn00_27_0115 | ............
+scn00_27_0116 | "Cậu Hinata, a--- nào."
+scn00_27_0117 | "...(Lắc đầu)"
+scn00_27_0118 | "? A, vì ngon quá nên cậu không muốn chia cho tôi nữa sao?"
+scn00_27_0119 | 'Không phải đâu.'

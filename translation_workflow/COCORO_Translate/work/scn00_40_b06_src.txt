@@ -1,0 +1,65 @@
+# scene=scn00_40 batch=6/7 dòng 299-359 / 394
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_40_0299 | ココロ(Cocoro) | 「ワタシにですか……？　なぜ？？」 | "Me...? But why?" | “我吗……？　为什么？？”
+scn00_40_0300 | 吉野(Yoshino) | 「きっと似合うんじゃないかと思って……。ご迷惑じゃなければ」 | "I just thought you would look amazing in it... I hope I'm not imposing..." | “我觉得它肯定很适合你……如果这不会给你们添麻烦的话”
+scn00_40_0301 | ココロ(Cocoro) | 「ひなたさん」 | "Hinata-san?" | “日向先生”
+scn00_40_0302 | - | ココロがどうしていいか分からない様子で俺を見る。 | Cocoro gives me a questioning look. | 心一副不知该如何是好的样子看向了我。
+scn00_40_0303 | ひなた(Hinata) | 「もちろん、迷惑なんかじゃ……。でも、いいんですか？」 | "Of course, not at all... But are you sure?" | “当然不会给我们添麻烦……但是，这真的好吗？”
+scn00_40_0304 | - | 大切な物なのではないだろうか。 | This dress must carry some special meaning for her. | 应该是很珍贵的物品吧。
+scn00_40_0305 | 吉野(Yoshino) | 「ほんとはね、うちの孫娘が着るはずだったものなんだけれど、予定がなくなっちゃったから。よかったらと思って」 | "Well, you see, my granddaughter was going to wear it at her wedding, but unfortunately it had to be canceled... I was hoping that someone else might be able to use it." | “原本是想让我家孙女穿的，但现在已经没这个预定了，所以我就想着要不就让你来穿吧”
+scn00_40_0306 | ひなた(Hinata) | 「どう、ココロ？」 | "What do you think, Cocoro?" | “你觉得呢，心？”
+scn00_40_0307 | ココロ(Cocoro) | 「ワタシ……これが着たいです。これを着て、ひなたさんと……」 | "I... I would love to wear this. I'll wear this, and then we'll..." | “我……想穿这个，我要穿着它和日向先生……”
+scn00_40_0308 | 風音(Kazane) | 「うんうん、絶対似合うよ」 | "I'm sure it will look great on you!" | “嗯嗯，肯定很合适啦”
+scn00_40_0309 | 吉野(Yoshino) | 「[たけ]丈直しがいるから、寸法を測らせていただいてもいいかしら」 | "If you need it adjusted to your size, I could take your measurements." | “需要改一下长度，所以可以让我来为你测量一下尺寸吗”
+scn00_40_0310 | ココロ(Cocoro) | 「測るまでもありません。ワタシの寸法ならスペック表に書かれています！」 | "There's no need to measure me. My dimensions are listed on my specs sheet." | “不用测量，我的尺寸就写在规格表里”
+scn00_40_0311 | ひなた(Hinata) | 「まあでもせっかくだから測ってもらいな」 | "But she's being so kind to offer. You should take her up on it." | “不过机会难得还是去量一下吧”
+scn00_40_0312 | 吉野(Yoshino) | 「ええ、ぜひそうさせてちょうだいな」 | "Yes, please let me do this for you." | “是啊，请务必让我来量一下”
+scn00_40_0313 | ココロ(Cocoro) | 「そうですか、ではお言葉に甘えさせていただきます。どうぞ！」 | "All right, then I'll take you up on your kind offer. Please go ahead." | “这样啊，那我就恭敬不如从命了，请！”
+scn00_40_0314 | - | ココロが勢いよく服を脱ごうとする。 | Cocoro immediately starts taking off her clothes. | 心猛地脱起了衣服。
+scn00_40_0315 | ひなた(Hinata) | 「えっと、じゃあ俺、外に出てるよっ」 | "Umm, I guess I'll wait outside then." | “呃，那我就先出去了哦”
+scn00_40_0316 | - | 慌てて外へ出た。 | I rush out the door. | 我慌忙跑到了外面。
+scn00_40_0317 | ひなた(Hinata) | 「まさか、ドレスを貸してくれる人がいるなんて」 | "I didn't think anyone would be willing to lend her a wedding dress." | “没想到，居然会有人愿意将婚纱借给我们”
+scn00_40_0318 | - | 俺が手配したんじゃ、あんな素敵なドレスは準備してやれなかったろう。 | If I'd tried to source one on my own, I doubt I would've been able to find one nearly as gorgeous. | 如果是我来安排，就没法准备出那么漂亮的婚纱了吧。
+scn00_40_0319 | 風音(Kazane) | 「よかったな、ひなた」 | "Aren't you glad, Hinata?" | “真是太好了呢，对吧日向”
+scn00_40_0320 | ひなた(Hinata) | 「うん……びっくりしたけど」 | "Yeah... She really surprised me, though." | “嗯……虽然吓了我一跳”
+scn00_40_0321 | 風音(Kazane) | 「びっくりしたのはこっちだって。いきなり『結婚します！』だもん」 | "You're the one who surprised all of us when you suddenly declared that you were getting married." | “被吓了一跳的是我才对，你可是突然就说了一句‘我要结婚了！’啊”
+scn00_40_0322 | ひなた(Hinata) | 「みんなの前で、ちゃんと態度を表明しておきたかったんだ」 | "I thought it'd be a good idea to state my intentions in front of some witnesses." | “我是想在大家面前表明我的态度”
+scn00_40_0323 | - | 俺は強い人間じゃない。周りに流されて心がぐらつかないか不安だった。 | I'm not a very strong person. I was afraid that if I just kept going with the flow, it would sway my resolve. | 我不是一个坚强的人，担心自己的心会随波逐流。
+scn00_40_0324 | - | 宣言してしまえば、気持ちをはっきり決められる。 | But putting my intentions into words allowed me to make up my mind. | 但只要宣言过后，便能够坚定自己的感情。
+scn00_40_0325 | ひなた(Hinata) | （それに、きっとココロのためになると思ったんだ） | (And I thought that it would benefit Cocoro as well.) | （而且，我也觉得这样肯定会对心有好处）
+scn00_40_0326 | - | 結婚しようという人間がいるくらいだ、友達や隣人くらいなんて事ないと思ってもらえるんじゃないかと考えた。 | If people knew that there's someone who wants to marry her, they surely wouldn't think anything of having her as a friend or a neighbor. | 我觉得他们在知道有想要和心结婚的人类存在后，就不会觉得朋友和邻居这种身份有什么大不了的了。
+scn00_40_0327 | - | 理解してくれる人は少なかったけど、大事なドレスを貸してくれるという人が現れた。 | Not many people seemed to understand yet, but that one lady kindly offered us her precious wedding dress. | 虽然理解的人很少，但也出现了将珍贵的婚纱借给我们的人。
+scn00_40_0328 | ひなた(Hinata) | 「でも、ほんとにいいのかな」 | "Is it really okay to use her dress, though?" | “不过，这样真的好吗”
+scn00_40_0329 | 風音(Kazane) | 「吉野さんのお孫さん、結婚する予定だったんだ。それで吉野さんは、ぴかぴかのドレスを用意してあげたんだけど」 | "Yoshino-san's granddaughter was planning her wedding, so Yoshino-san made a brand-new wedding dress for her." | “吉野婆婆的孙女原本是定好要结婚了的，所以吉野婆婆才会准备这么一件漂亮的婚纱”
+scn00_40_0330 | - | 破談になってしまったんだろうか。 | I wonder if the couple broke up... | 是婚事告吹了么。
+scn00_40_0331 | 風音(Kazane) | 「……『厄災』でね、お孫さんが亡くなって」 | "But then the Calamity happened, and her granddaughter passed away." | “……但她的孙女在‘灾厄’中去世了”
+scn00_40_0332 | ひなた(Hinata) | 「え……」 | "Huh...?" | “哎……”
+scn00_40_0333 | 風音(Kazane) | 「以来、着る人のいなくなったドレスをずっと取ってあったらしいんだよ」 | "Apparently, she'd been holding on to the dress ever since, even though the girl who was supposed to wear it was gone." | “据说在这之后，她就一直保存着这条没人穿的裙子”
+scn00_40_0334 | ひなた(Hinata) | 「……それをココロに」 | "...And now she's giving it to Cocoro?" | “……然后将它给了心”
+scn00_40_0335 | 風音(Kazane) | 「うん。だから、もし嫌じゃなきゃ着せてあげてくれ」 | "Yeah. If you two don't mind, she'd love to see Cocoro-chan wear it." | “嗯，所以，如果不嫌弃就穿着吧”
+scn00_40_0336 | - | 大切な人を亡くした時、時間が止まったままになってしまう事がある。 | When a loved one passes away, it often feels like time has stopped. | 珍视之人去世的时候，时间可能会停滞不前。
+scn00_40_0337 | - | 何かきっかけがあれば、凍り付いた時間が動き出すかもしれない。 | But certain events can set time in motion again for someone who's been grieving. | 如果没有什么契机，或许就无法让冻结的时间再次运转。
+scn00_40_0338 | ココロ(Cocoro) | 「採寸終わりました」 | "We finished taking my measurements." | “测量结束了”
+scn00_40_0339 | - | 二階の窓から、ココロが呼んでいた。 | Cocoro calls out from the second-floor window. | 心从二楼的窗户叫了我们一声。
+scn00_40_0340 | ココロ(Cocoro) | 「次はひなたさんの番です」 | "It's your turn next, Hinata-san." | “接下来轮到日向先生了”
+scn00_40_0341 | ひなた(Hinata) | 「え、俺も？」 | "Huh? I have to get measured?" | “哎，我也要吗？”
+scn00_40_0342 | 風音(Kazane) | 「あんたも正装すんだよ。ココロちゃんだけドレス着させるわけにいかんでしょうが」 | "You'll need a suit, or else you're gonna look totally underdressed next to Cocoro-chan." | “你也要穿正装啊，总不能只让心穿着婚纱吧”
+scn00_40_0343 | ひなた(Hinata) | 「そりゃそうか……。今いく！」 | "I guess you're right... Coming!" | “这倒也确实……我现在就来！”
+scn00_40_0344 | 吉野(Yoshino) | 「はい、おしまいよ」 | "There, all done." | “好了，结束了”
+scn00_40_0345 | ひなた(Hinata) | 「ありがとうございました」 | "Thank you so much." | “谢谢您”
+scn00_40_0346 | ココロ(Cocoro) | 「ございました。ぺこり」 | "So much! And bow!" | “谢谢您，鞠躬”
+scn00_40_0347 | 吉野(Yoshino) | 「ううん、いいのよ。ドレスの直しができたら、お届けさせてもらうわね」 | "Don't mention it. I'll drop by again to deliver the dress as soon as I'm done adjusting it, okay?" | “不必道谢啦，等婚纱改好了之后我再带过来吧”
+scn00_40_0348 | - | 吉野さんはドレスを持って帰っていった。 | Yoshino-san carefully puts the dress back in the bag and heads home. | 吉野婆婆带着婚纱回去了。
+scn00_40_0349 | ココロ(Cocoro) | 「さようなら」 | "Bye!" | “再见”
+scn00_40_0350 | - | ココロは窓から手を振って見送った。 | Cocoro leans out of the window and waves her goodbye. | 心从床边挥手送行。
+scn00_40_0351 | 風音(Kazane) | 「吉野さん、嬉しそうだったなぁ。ありがとね、ふたりとも」 | "I haven't seen Yoshino-san smile like that in a long time. Thank you two so much." | “吉野婆婆看上去很开心啊，谢谢你们了”
+scn00_40_0352 | ひなた(Hinata) | 「礼を言うのはこっちの方だよ」 | "No, we should be thanking ." | “该道谢的人是我们才对啊”
+scn00_40_0353 | ココロ(Cocoro) | 「ええ……」 | "Yeah..." | “嗯……”
+scn00_40_0354 | 風音(Kazane) | 「どしたの、ココロちゃん。やっぱ気に入らなかった……？」 | "What's wrong, Cocoro-chan? You don't like the dress after all?" | “怎么了，心，还是不太中意吗……”
+scn00_40_0355 | ココロ(Cocoro) | 「いいえ、そうではありません。とっても素敵なドレスで、着るのが今から楽しみでなりません」 | "No, I do. It really is a lovely dress. I'm looking forward to wearing it." | “不，没有这回事，我觉得那是条非常漂亮的婚纱，我现在就开始期待着穿上它了”
+scn00_40_0356 | ひなた(Hinata) | 「他に何か心配事？」 | "Is there anything else you're worried about?" | “那是有什么其他担心的事？”
+scn00_40_0357 | ココロ(Cocoro) | 「嬉しいのです。ワタシたちを祝福してくださるヒトがいて」 | "I'm happy to think that there are humans willing to give us their blessing." | “我很开心有人能来祝福我们”
+scn00_40_0358 | ココロ(Cocoro) | 「ただ、本音を言うと戸惑ってもいます」 | "But frankly, it also confuses me." | “不过，说实话我有点困惑”
+scn00_40_0359 | ココロ(Cocoro) | 「ロボットであるワタシと、ヒトであるひなたさんの婚姻を認めてくれるヒトがいるとは思っていませんでしたから」 | "I didn't expect that any humans would accept a marriage between you, a human, and me, a robot." | “因为我没想过会有人认同身为机器人的我和身为人类的日向先生的婚姻”

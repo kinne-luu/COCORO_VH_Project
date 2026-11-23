@@ -1,0 +1,60 @@
+scn00_34_0182 | <Có... trái tim... sao...?>
+scn00_34_0183 | Tôi gật đầu.
+scn00_34_0184 | <Cocoro không hề muốn chết. Cậu ấy đang khát khao được sống.>
+scn00_34_0185 | <Khát... khao... gì... chứ... không... có... đâu...>
+scn00_34_0186 | <Chính vì muốn sống, mà lại không thể tiếp tục sống, nên cậu ấy mới tuyệt vọng.>
+scn00_34_0187 | Nếu không có hy vọng, người ta sẽ chẳng bao giờ tuyệt vọng.
+scn00_34_0188 | Nếu không có trái tim, người ta sẽ chẳng biết đau buồn.
+scn00_34_0189 | Jabberwock ghé sát khuôn mặt lại gần, như muốn soi rọi thấu tận đáy sâu tâm can tôi.
+scn00_34_0190 | Khuôn mặt dã thú chắp vá như một quái thú Chimera từ những mảnh sắt vụn phả hơi sáp lại ngay trước mắt.
+scn00_34_0191 | Trông nó như đang đắn đo suy xét xem nên tin lời tôi, hay sẽ ra tay hạ sát.
+scn00_34_0192 | Chiếc miệng của nó hé mở.
+scn00_34_0193 | Mình sắp bị giết ư!!?
+scn00_34_0194 | Từ bên kia mi mắt đang nhắm nghiền vì kinh hãi, một giọng nói bỗng vang lên.
+scn00_34_0195 | <Cậu... Hina... ta...>
+scn00_34_0196 | Hả...!!?
+scn00_34_0197 | Vừa rồi, Jabberwock đã gọi tên mình ư?
+scn00_34_0198 | Tôi nơm nớp hé mở bờ mi, nhìn thẳng vào đôi mắt của cỗ máy dạng thú.
+scn00_34_0199 | <Cậu... Hi... na... ta...>
+scn00_34_0200 | Như để xác nhận lại cảm giác, nó lại gọi tên tôi thêm một lần nữa.
+scn00_34_0201 | "... (ú ớ)..."
+scn00_34_0202 | Cố gắng đáp lại, tôi chỉ có thể rặn ra từng thanh âm nghẹn ứ từ cổ họng.
+scn00_34_0203 | <Cứu... chị... em... với...>
+scn00_34_0204 | Cứu chị gái với...?
+scn00_34_0205 | Nó vừa nói thế sao?
+scn00_34_0206 | <Chị gái ư?>
+scn00_34_0207 | <Em... là... CCR-02... Em... gái... của... chị... Co... co... ro...>
+scn00_34_0208 | CCR-02... Thế hệ kế nhiệm của Cocoro đã được chế tạo rồi sao!?
+scn00_34_0209 | Nhưng mà, tại sao em ấy lại mang hình dạng như thế này...
+scn00_34_0210 | <...Em... yêu... chị... Cocoro... lắm...>
+scn00_34_0211 | <Xin... anh... hãy... cứu... chị... ấy... với...>
+scn00_34_0212 | "Lũ Mutant Drone đang bị kích động dữ dội... Nhanh lên, cậu Kotaro."
+scn00_34_0213 | "Tôi đang hết tốc lực rồi đây!"
+scn00_34_0214 | "Chiếc xe đằng kia, dừng lại!"
+scn00_34_0215 | "Các người định đi đâu đấy?"
+scn00_34_0216 | "Tôi đưa Chủ nhiệm đến Phân khu Trung tâm. Tôi được Đội trưởng giao nhiệm vụ bảo vệ Chủ nhiệm."
+scn00_34_0217 | "Chủ nhiệm? ...Chúng tôi có lệnh không được để ai rời khỏi khu ký túc xá. Quay lại ngay!"
+scn00_34_0218 | "Người chịu trách nhiệm ở đây là tôi. Tôi không phải nghe lệnh của bất kỳ ai cả."
+scn00_34_0219 | "Không được, quay đầu ngay!"
+scn00_34_0220 | "Tính sao đây, Chủ nhiệm?"
+scn00_34_0221 | "..."
+scn00_34_0222 | "Ủa? Gì kia? Có xe đang lao về phía này!"
+scn00_34_0223 | "Tránh ra tránh ra tránh ra tránh raaaaaaaaa!!!??"
+scn00_34_0224 | "Bám riết phía sau là... lũ Mutant Drone!!"
+scn00_34_0225 | "Nghênh chiến ngay lập tức!"
+scn00_34_0226 | "Phù, thoát chết rồi. Đám đó thỉnh thoảng cũng được việc phết."
+scn00_34_0227 | "Này nhóc, cậu là bạn của cậu bé Hinata đúng không?"
+scn00_34_0228 | "Chú là cái người bên Đội Tiêu Trừ mà lại đi dọn rác bãi biển... Còn kia là dì của Hinata."
+scn00_34_0229 | "Sao cháu lại bị chúng đuổi theo vậy?"
+scn00_34_0230 | "Hự... chuyện đó..."
+scn00_34_0231 | "Sao, có gì mờ ám à?"
+scn00_34_0232 | "Không phải, thực ra sau khi chở Hinata đi, cháu đã làm mồi nhử để dụ lũ Mutant Drone đuổi theo mình."
+scn00_34_0233 | "Cháu nói sao cơ? Giờ Hinata đang ở đâu?"
+scn00_34_0234 | "...Nếu suôn sẻ thì nó đã đột nhập vào Trung tâm rồi. Nó bảo đi gặp Cocoro."
+scn00_34_0235 | "Thằng ngốc này! Nơi đó là hang ổ của lũ Mutant Drone đấy!?"
+scn00_34_0236 | "Tính sao đây Chủ nhiệm?"
+scn00_34_0237 | "...Chúng ta cũng đi thôi."
+scn00_34_0238 | "Muốn dập tắt cơn hỗn loạn này, bắt buộc phải ngăn chặn cội nguồn của hiện tượng ức chế sinh vật. Tôi phải gặp Cocoro."
+scn00_34_0239 | "Đến tận đó ư... dù thế nào cũng quá nguy hiểm đấy ạ."
+scn00_34_0240 | "Nhưng phải có người đứng ra làm. Nếu không, thảm họa sẽ chỉ ngày một lan rộng mà thôi."
+scn00_34_0241 | "...Hơn nữa, tôi không thể bỏ mặc Hinata một mình."

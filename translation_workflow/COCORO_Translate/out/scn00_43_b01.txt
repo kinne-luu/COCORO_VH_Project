@@ -1,0 +1,60 @@
+scn00_43_0001 | Vừa đi dạo đêm về đến nơi, tiếng chuông điện thoại trong nhà đã reo vang.
+scn00_43_0002 | "Dạ, alô ạ."
+scn00_43_0003 | "Tôi suy đoán là do cậu Hinata vừa gọi đi ban nãy. Tôi sẽ chuyển máy ngay bây giờ, xin hãy đợi trong giây lát ạ."
+scn00_43_0004 | Cocoro đưa ống nghe lại cho tôi.
+scn00_43_0005 | "Dựa vào dấu vết giọng nói và mục đích cuộc gọi, tôi suy đoán người gọi đến có vẻ là bố chồng tương lai đấy ạ."
+scn00_43_0006 | "... Cảm ơn cậu nhé."
+scn00_43_0007 | Nhận lấy ống nghe, tôi hít một hơi thật sâu rồi mới bắt đầu lên tiếng.
+scn00_43_0008 | "...Alô, bố đấy ạ?"
+scn00_43_0009 | <Hinata đấy à... con nói lại được rồi sao?>
+scn00_43_0010 | Nghĩ lại thì, lần gọi điện trước tôi vẫn còn đang trong tình trạng mất giọng không thể nói được.
+scn00_43_0011 | "Vâng."
+scn00_43_0012 | <Thế à, tốt quá rồi.>
+scn00_43_0013 | <Thế, con gọi bố có việc gì vậy?>
+scn00_43_0014 | "Con có vài chuyện muốn thông báo cho bố biết."
+scn00_43_0015 | "Bố ơi, con quyết định kết hôn rồi."
+scn00_43_0016 | <Kết hôn?>
+scn00_43_0017 | Đến cả một người như bố cũng không giấu nổi vẻ kinh ngạc.
+scn00_43_0018 | <Người ấy là...?>
+scn00_43_0019 | "Là người mà bố cũng biết đấy ạ."
+scn00_43_0020 | Ở đầu dây bên kia dường như đang trầm ngâm suy nghĩ một lúc, rồi tôi nghe thấy một tiếng thốt khẽ: <A>.
+scn00_43_0021 | <Giọng nói ban nãy... là cô bé hồi đó sao?>
+scn00_43_0022 | "Vâng. Cô ấy là một humanoid tên là Cocoro."
+scn00_43_0023 | <...Ra vậy.>
+scn00_43_0024 | Bố đáp lại đúng một câu ngắn ngủi, tựa như đang chiêm nghiệm từng lời trong tâm can.
+scn00_43_0025 | "Tuy hơi đường đột, nhưng con muốn bố cũng đến dự hôn lễ của tụi con."
+scn00_43_0026 | <Bố tham dự thật sự ổn chứ con?>
+scn00_43_0027 | Liệu có ổn không?
+scn00_43_0028 | Tôi đã tự hỏi bản thân câu này biết bao nhiêu lần.
+scn00_43_0029 | Tôi vẫn chưa hề tha thứ trọn vẹn cho bố, và cũng chẳng có chút tự tin nào rằng gặp lại nhau sau ngần ấy năm có thể cởi mở chuyện trò.
+scn00_43_0030 | Nhưng nỗi lòng của bố khi cố bảo bọc trái tim mình trước viễn cảnh mất đi người mẹ yêu dấu... tôi lại thấu hiểu đến đau đớn tâm can.
+scn00_43_0031 | Trái tim con người vốn yếu đuối, mong manh và bất toàn xiết bao, đó là điều mà những ngày tháng bên Cocoro đã dần dạy cho tôi nhận ra.
+scn00_43_0032 | Để có thể ngẩng cao đầu hướng về phía trước, mình bắt buộc phải đối diện và chấp nhận quá khứ giữa hai bố con.
+scn00_43_0033 | Kết quả của việc đó là hòa giải hay tuyệt giao, hay bước sang một ngã rẽ hoàn toàn khác, thì lại là câu chuyện của tương lai.
+scn00_43_0034 | Chạm khẽ. Có ai đó từ phía sau vỗ nhẹ lên vai tôi.
+scn00_43_0035 | "?"
+scn00_43_0036 | Cocoro đang chìa tay ra đón lấy.
+scn00_43_0037 | "Xin lỗi bố nhé, dường như Cocoro muốn nói chuyện với bố một chút. Con đưa máy cho cô ấy nhé."
+scn00_43_0038 | <Ờ, được rồi.>
+scn00_43_0039 | "Đã lâu không gặp bác, bố của cậu Hinata ạ."
+scn00_43_0040 | <...Cảm ơn cháu vì đêm hôm đó đã cứu giúp con trai bác. Gọi cháu là... cô bé Cocoro có được không?>
+scn00_43_0041 | "Dạ vâng, cháu là Cocoro ạ. Tên gọi chính thức là CCR-01, nhưng vì thấy cái tên ấy quá xa lạ khô khan nên cậu Hinata đã đặt cho cháu cái tên Cocoro. Cháu rất thích cái tên này."
+scn00_43_0042 | <Ừ, một cái tên thật đẹp.>
+scn00_43_0043 | "...Quả đúng là bố của cậu Hinata. Khen tên cháu hay như vậy chứng tỏ bác có mắt nhìn thẩm mỹ tuyệt vời lắm ạ."
+scn00_43_0044 | Cách ăn nói độc đáo mang phong cách riêng của Cocoro khiến bố có vẻ đang lúng túng không biết có nên bật cười hay không.
+scn00_43_0045 | "Cháu sắp kết hôn cùng cậu Hinata. Điều này có thể sẽ mở ra một trang sử hoàn toàn mới."
+scn00_43_0046 | "Thế nhưng, cũng sẽ có những người phản đối. Điều đó cũng là chuyện không thể tránh khỏi."
+scn00_43_0047 | <...Ừ.>
+scn00_43_0048 | Từng là người thúc đẩy Dự án Utopia, bố đã kiên trì đối thoại với cả những phe phái luôn tìm cách bài trừ robot và AI.
+scn00_43_0049 | Với một người đã thấu hiểu tâm can và yêu thương Cocoro sâu đậm như tôi, suy nghĩ bài xích ấy dẫu đáng buồn thật, nhưng cũng không hẳn là điều đáng bị phủ nhận hoàn toàn.
+scn00_43_0050 | Thay vì tranh đoạt và phủ nhận lẫn nhau, hãy hướng tới một tương lai nơi đôi bên có thể thấu hiểu nhau.
+scn00_43_0051 | Chúng ta có trái tim, có lý trí. Bởi vì biết đâu một ngày nào đó, tất cả sẽ có thể tìm được tiếng nói chung.
+scn00_43_0052 | "Cũng là vì cậu Hinata, xin bác hãy đến dự hôn lễ của tụi cháu được không ạ? Bởi sự công nhận của người làm cha chính là lời chúc phúc tuyệt vời nhất dành cho cậu ấy."
+scn00_43_0053 | <...Nếu một người như bố có thể làm được điều đó.>
+scn00_43_0054 | "Cháu xin chân thành cảm ơn bác ạ."
+scn00_43_0055 | Cocoro đưa ống nghe lại cho tôi.
+scn00_43_0056 | "Cảm ơn bố nhiều lắm."
+scn00_43_0057 | <Không, chính bố mới phải cảm ơn con.>
+scn00_43_0058 | Cảm giác ngượng ngùng và bối rối khôn xiết, nhưng nhờ có Cocoro, tôi nghĩ hai bố con đã có thể thấu hiểu nhau thêm được một chút.
+scn00_43_0059 | "Với lại, con còn một thỉnh cầu nữa muốn nhờ bố giúp."
+scn00_43_0060 | <Chuyện gì thế con?>

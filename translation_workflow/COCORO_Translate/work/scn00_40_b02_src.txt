@@ -1,0 +1,64 @@
+# scene=scn00_40 batch=2/7 dòng 60-119 / 394
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_40_0060 | ココロ(Cocoro) | 「それでしたらワタシが教えてあげます。霧香好みのコーヒーの[い]淹れ方を」 | "Why don't I tell you how to make coffee exactly the way Kirika prefers it." | “既然如此我就将雾香喜欢的咖啡泡法告诉你吧”
+scn00_40_0061 | ココロ(Cocoro) | 「霧香はミルクたっぷりのコーヒーを好みます。なので、少し苦めに淹れてやるのがコツです」 | "She likes to put a lot of milk in it, so the trick is to make the coffee itself slightly more bitter than usual." | “雾香喜欢放很多牛奶的咖啡，因此诀窍就是将咖啡泡得苦一点”
+scn00_40_0062 | 光太郎(Kotaro) | 「ありがとう。我々人類は未来永劫、君たちの友人だ」 | "Thank you. As a representative of the human race, I guarantee you that we'll be your friends forever." | “谢谢你，我们人类今后会永远都是你们的朋友”
+scn00_40_0063 | ココロ(Cocoro) | 「ズッ友というやつですね」 | "So we're BFFs. Got it." | “就是永友对吧”
+scn00_40_0064 | - | ガシッ。ふたりは固い握手を交わした。 | The two share a firm handshake. | 两个人将手牢牢地握在了一起。
+scn00_40_0065 | ココロ(Cocoro) | 「ところで光太郎、あなたにお尋ねしたい事があります」 | "By the way, Kotaro, I have something I want to ask you." | “话说回来光太郎，我有件事想问你”
+scn00_40_0066 | 光太郎(Kotaro) | 「なんだい？」 | "What is it?" | “什么事？”
+scn00_40_0067 | ココロ(Cocoro) | 「我が妹はどうなりますか？」 | "What's going to happen to my sister?" | “我的妹妹会被如何处理？”
+scn00_40_0068 | 光太郎(Kotaro) | 「妹？　ジャバウォックの事かい？」 | "Your sister? You mean the Jabberwock?" | “妹妹？　你是指贾巴沃克吗？”
+scn00_40_0069 | - | その呼び方にココロはかすかに[まゆ]眉をひそめつつ頷いた。 | Cocoro furrows her brow upon hearing that name. | 听到这个称呼的心眉头微皱着点了点头。
+scn00_40_0070 | 光太郎(Kotaro) | 「俺の仲間が行方を追っているところだ。見付かったら……そうだな、捕獲の対象となるだろう」 | "My colleagues are trying to track it down. If they find it... They'll probably capture it." | “我的同伴正在追她，等找到了之后……我想想，应该会将其作为捕捉对象吧”
+scn00_40_0071 | ココロ(Cocoro) | 「駆除されるわけではないと」 | "So they won't exterminate her?" | “不会进行驱除吗”
+scn00_40_0072 | 光太郎(Kotaro) | 「ああ、それは保証できるよ。機月主任の仮説通りなら、『厄災』の元凶となったのはジャバウォックだ。捕獲して調査する必要がある」 | "No, I can assure you they won't. If Chief Kizuki's hypothesis is correct and it's really the cause of the Calamity, we need to capture it and investigate." | “嗯，这一点我可以保证。如果机月主任的假说是正确的，‘灾厄’的元凶就是贾巴沃克，我们就有必要对她进行抓捕和调查”
+scn00_40_0073 | ココロ(Cocoro) | 「そうですか、了解しました。ありがとうございます」 | "Right, I understand. Thank you." | “这样啊，我明白了，非常感谢”
+scn00_40_0074 | ココロ(Cocoro) | 「霧香は頭をぽんぽんしてやると幼児退行しますよ」 | "Also, Kirika regresses to a toddler-like state if you pat her on the head." | “摸摸雾香的头就会让她退化成婴儿哦”
+scn00_40_0075 | 光太郎(Kotaro) | 「マジで！？」 | "Seriously?" | “真的吗！？”
+scn00_40_0076 | ひなた(Hinata) | 「それは俺やココロが相手の時だけで、光太郎さんがやったら事故ります！！！」 | "That's only when Cocoro or I do it, though. If you did it, she might freak out!" | “那是在面对我和心的时候，光太郎先生这么做会引发事故的！！！”
+scn00_40_0077 | 光太郎(Kotaro) | 「だよなぁ…………[あせ]焦ったぜ」 | "Right... You had me wondering for a moment." | “说的也是啊……是我有些急躁了”
+scn00_40_0078 | ココロ(Cocoro) | 「ワタシはまた間違えましたか？」 | "Did I make another mistake?" | “我又错了吗？”
+scn00_40_0079 | - | 危うく大変な事故というか事件を生むところだった。 | You could say that... She almost caused a crime scene. | 差点就引发重大事故甚至重大事件了。
+scn00_40_0080 | 光太郎(Kotaro) | 「じゃあ、俺はもう行くよ。機月主任にミルクたっぷりのコーヒーを淹れてあげないといけないからな」 | "I gotta get going. I'll make sure to make Chief Kizuki some coffee with plenty of milk." | “那我就先走了啊，我得去给机月主任泡加了很多牛奶的咖啡”
+scn00_40_0081 | 光太郎(Kotaro) | 「もしジャバウォックの行方が分かったり、何か手がかりを見付けたら教えてくれ。君のところになら、姿を見せるかもしれない」 | "Let me know if you find out anything regarding the Jabberwock's whereabouts. It might show itself to you." | “如果知道了贾巴沃克的行踪，或者发现了什么线索记得告诉我。她或许会在你们面前现身”
+scn00_40_0082 | ココロ(Cocoro) | 「わかりました」 | "Understood." | “我明白了”
+scn00_40_0083 | 光太郎(Kotaro) | 「……機月主任にそんな一面があったとは、ギャップ萌えという奴か」 | "...I never realized Chief Kizuki had a childlike side to her. That's adorable." | “……没想到机月主任还有这样一面，这就是反差萌么”
+scn00_40_0084 | - | 光太郎さんはぶつぶつと言いながら去っていった。 | Kotaro-san mumbles to himself as he walks away. | 光太郎先生嘟嘟囔囔着离开了。
+scn00_40_0085 | ココロ(Cocoro) | 「見てください、蕾が以前より明らかにぷっくりと膨らんでいます」 | "Look at the flower buds. They're noticeably bigger than before." | “快看，花蕾和之前相比明显膨大了许多”
+scn00_40_0086 | - | 興奮気味に言うココロに手招きされ、俺もナツノシラユキの前に屈む。 | Cocoro excitedly beckons me to come over. I crouch down next to her to observe the summer snows. | 心有些兴奋地说着对我招了招手，我便也到夏之白雪前面蹲了下来。
+scn00_40_0087 | ひなた(Hinata) | 「ほんとだ」 | "You're right." | “还真是”
+scn00_40_0088 | ココロ(Cocoro) | 「これは、もう咲くのでは？　明日には咲いてしまうのでは？？」 | "Doesn't this mean they'll bloom soon? Maybe even tomorrow." | “这是不是已经要开花了？　是不是明天就要开花了？？”
+scn00_40_0089 | ひなた(Hinata) | 「そうだね」 | "Maybe, yeah." | “是啊”
+scn00_40_0090 | ココロ(Cocoro) | 「明日は目覚ましを早朝４時に設定します。大丈夫、ワタシは時計を内蔵しており、時間には極めて正確です」 | "I'll set an alarm for four o'clock tomorrow morning, then. Don't worry, I have an internal clock, so the time will be perfectly accurate." | “将明天的闹钟设定为凌晨4点。没关系，我身体里是有闹钟的，时间也很精确”
+scn00_40_0091 | - | ココロが興奮気味に言う。 | She sounds so excited. | 心有些兴奋地说道。
+scn00_40_0092 | ひなた(Hinata) | 「ナツノシラユキの開花条件は、季節は夏、夜明け頃、あと一つは霧が出るくらいの湿度の高い時だったかな」 | "The ideal conditions for the summer snows to bloom are at dawn in midsummer and when it's humid enough for fog to form in the air." | “毕竟夏之白雪的开花条件是，季节为夏天，黎明时分，还有就是能够结雾的高湿度之时啊”
+scn00_40_0093 | ひなた(Hinata) | 「雨が降った翌朝とかに咲く事が多いらしいよ」 | "Apparently, they'll often bloom the morning after a rainy day." | “据说很多都会在降雨后的第二天绽放哦”
+scn00_40_0094 | - | 開花寸前の蕾を見る限り、残る条件は湿度だろう。 | Judging by the size of the swollen buds, the only thing they need is a bit of humidity. | 从这马上就要开花的花蕾上来看，条件应该只剩下湿度了吧。
+scn00_40_0095 | ココロ(Cocoro) | 「高い湿度……大変です、陽射しが強すぎて水分が枯渇しています」 | "Humidity... That's worrying. The sunlight has been so strong that the dew evaporates immediately." | “高湿度……不好了，阳光过于强烈以至于水分枯竭了”
+scn00_40_0096 | - | 土が乾いていた。 | The soil feels parched, too. | 土地变得很干燥。
+scn00_40_0097 | - | ガラスドーム内の気温や湿度は自動で調整されていて、そのシステムは今も稼働しているようだ。 | The temperature and humidity inside the glass dome are artificially regulated, and the system still appears to be functional. | 穹顶里能自动调整气温和湿度的系统现在似乎还在正常工作。
+scn00_40_0098 | - | だが、ガラスが割れて外気が入り込んできてしまうのと、システム自体も万全とは言えない状態だろう。 | However, due to the holes in the glass dome, the garden is exposed to the outside, so the climate control isn't as effective as it's supposed to be. | 但是，玻璃破碎导致外面的空气跑了进来，所以也不能说这个系统处于完美运转状态。
+scn00_40_0099 | ココロ(Cocoro) | 「[ひ]干からびてしまわないよう、今のうちにたっぷりと水をあげておきましょう」 | "We should give them plenty of water today so that they won't wither." | “为了不让它干枯，就趁现在多浇点水吧”
+scn00_40_0100 | - | ココロはジョウロを取りに行った。 | Cocoro goes to fetch a watering can. | 心跑去拿洒水壶了。
+scn00_40_0101 | - | 俺は一人になって、もう明日には咲こうとしているナツノシラユキを見つめる。 | Left by myself, I look at the summer snows again. They really do look as if they could bloom tomorrow. | 我独自盯着明天就要开花的夏之白雪看。
+scn00_40_0102 | - | この花が咲く時、俺はココロと結婚すると約束した。 | I promised to marry Cocoro when the summer snows bloom. | 我和心约定好了，在这朵花绽放时，我就会和她结婚。
+scn00_40_0103 | - | プロポーズした気持ちに嘘はない。 | My feelings when I proposed to her were very real. | 求婚时的心意并不是虚假的。
+scn00_40_0104 | - | けど、結婚とは気持ちの問題だけじゃなく、ふたりのこれからを具体的に考えなきゃいけない。 | But marriage isn't just about feelings—we also need to make concrete plans for a future together. | 但是，结婚并不只是心意上的问题，还必须要具体思考一下两个人的未来才行。
+scn00_40_0105 | - | 学校はどうする？ | What about school? | 上学的事怎么办？
+scn00_40_0106 | - | ココロとどこで暮らす？ | Where will we live? | 我要和心住在哪里？
+scn00_40_0107 | - | どうやって生活していく？ | How will we make a living? | 要怎么生活？
+scn00_40_0108 | - | いや、それ以前にもっと現実的な課題があるぞ。 | No, there are way more practical issues we'll have to consider first. | 不，在这之前还有更加现实的问题。
+scn00_40_0109 | ひなた(Hinata) | （結婚式って、どうやってすればいいんだろう……） | (How are we going to have a wedding?) | （婚礼要怎么办才好……）
+scn00_40_0110 | - | まずは式を挙げる事だ。 | We'll need to have some sort of ceremony. | 首先就是举行仪式的事。
+scn00_40_0111 | - | まさか高校生の自分が結婚するなんて考えてもみなかったから、想像さえした事がない。 | I never thought I'd get married while still in high school, so I never even imagined what it'd be like. | 毕竟我完全没有考虑自己会在高中结婚，甚至连想象都没有过。
+scn00_40_0112 | - | 俺はぼんやりとガラスのドームを見上げた。 | I stare up at the broken glass dome in a daze. | 我呆呆地抬头望着玻璃穹顶。
+scn00_40_0113 | - | 陽射しを反射してキラキラと輝いていて綺麗だ。 | It sparkles as it reflects the rays of the sun. | 玻璃反射着阳光闪闪发亮，看上去十分漂亮。
+scn00_40_0114 | ひなた(Hinata) | 「……ココロのためにも、ちゃんとした結婚式を挙げないと」 | "...We'll need to have a proper wedding, more so for Cocoro's sake than mine." | “……为了心，我也得办一个正式的婚礼才行”
+scn00_40_0115 | - | ずっとそれだけを心待ちにしてきたんだから。 | It's the one thing she's been looking forward to all these years. | 毕竟她一直都在期待着结婚。
+scn00_40_0116 | ココロ(Cocoro) | 「ひなたさん？　……どうかしましたか？」 | "Hinata-san? Is something the matter?" | “日向先生？　……怎么了吗？”
+scn00_40_0117 | - | いつの間にか、水を入れたジョウロを持ってココロが戻ってきていた。 | While I was spacing out, Cocoro has come back with a full watering can. | 心不知何时带着装满水的洒水壶回来了。
+scn00_40_0118 | ひなた(Hinata) | 「ちょっと考え事をしてただけだよ」 | "I was just thinking." | “只是在想事情”
+scn00_40_0119 | ココロ(Cocoro) | 「お疲れなのではないですか？　ワタシのせいでご心配をおかけしましたので」 | "Are you tired? Are you worrying about something because of me?" | “是累了吗？　毕竟我也让你感到担心了”

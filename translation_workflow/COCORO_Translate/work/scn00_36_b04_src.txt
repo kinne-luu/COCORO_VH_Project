@@ -1,0 +1,68 @@
+# scene=scn00_36 batch=4/4 dòng 178-241 / 241
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_36_0178 | ココロ(Cocoro) | （そうしたら、騒ぎを起こす前に終わらせる事ができたのに） | (Then, I could have put an end to everything before causing a scene.) | （这样一来，就能在引发骚乱前结束这一切了）
+scn00_36_0179 | - | あの日、ドローンのカメラを通じて、ひなたさんの姿を見た。そして全てを理解した。 | That day, when I saw Hinata-san through his drone's camera, I suddenly understood everything. | 那天，我通过无人机的镜头看到日向先生的样貌后，就全都理解了。
+scn00_36_0180 | - | ひなたさんはあの時、ワタシと結婚を誓ったフィアンセで、でもその事を隠していた。 | Hinata-san was actually my fiancé who had promised to marry me, but he was hiding his identity from me. | 日向先生就是那时誓约要与我结婚的未婚夫，但他却隐瞒了这件事。
+scn00_36_0181 | - | どうして？ | Why? | 为什么？
+scn00_36_0182 | - | 考え得る理由は２つ。 | I can think of two reasons. | 能想到的理由有2个。
+scn00_36_0183 | - | １つはワタシが誰か気付いていなかった。 | One: He didn't realize who I was. | 1个是他没注意到我是谁。
+scn00_36_0184 | ココロ(Cocoro) | （それはない。ワタシの姿は４年前から変わっておらず、ひなたさんは記憶喪失ではない） | (That's impossible. My appearance hasn't changed in the past four years, and Hinata-san doesn't have amnesia.) | （这不可能，我的样子和4年前相比没有发生任何变化，日向先生也没有丧失记忆）
+scn00_36_0185 | - | 残る１つは、ワタシと結婚したくなくなったから。 | Two: He doesn't want to marry me anymore. | 另1个就是他不想和我结婚了。
+scn00_36_0186 | - | ワタシがロボットだと気付いてしまったせいで。 | Because he realized that I'm a robot. | 因为他注意到我是机器人了。
+scn00_36_0187 | ココロ(Cocoro) | （そんなの、あんまりです） | (That's just cruel...) | （这样，也太过分了）
+scn00_36_0188 | - | 『あんまり』？　なぜ？ | Why is it cruel? | ‘太过分了’？　为什么？
+scn00_36_0189 | - | 理解不能。エラーとして処理します。 | I don't understand. I will process this as an error. | 无法理解，将其当做错误进行处理。
+scn00_36_0190 | - | 現在、視覚も聴覚もシャットダウンし、端末からのアクセスもシャットアウトしている。 | Currently, both my auditory and optical sensors are shut down, and I'm shutting out any access attempts from the computer terminal. | 现在，视觉和听觉都已关闭，终端的访问也已经被锁定了。
+scn00_36_0191 | - | この真っ暗闇の中、ワタシは消える時を待っている。 | I'm waiting in the darkness until it comes the time I disappear. | 我在这一片漆黑之中，等待着自己的消失之时。
+scn00_36_0192 | - | 永遠のごとき虚無の中で―― | In this eternal emptiness... | 在这永恒的虚无之中——
+scn00_36_0193 | - | 静寂に包まれた闇の中に、ぽつんと何かが浮かんだ。 | Something is floating in the silent darkness. | 在这片被寂静包裹的黑暗之中，突然浮现出了什么东西。
+scn00_36_0194 | - | 光？ | Light? | 光？
+scn00_36_0195 | - | いや…… | No... | 不……
+scn00_36_0196 | ココロ(Cocoro) | （花……？） | (A flower?) | （花……？）
+scn00_36_0197 | - | 暗闇に小さな花が咲いた。 | A small flower is blooming in the dark. | 黑暗中一朵小花绽放了。
+scn00_36_0198 | - | 花は花火のように散りながら何かを伝えてくる。 | Its petals are scattering like fireworks, and it's trying to tell me something... | 花朵像烟花一样四散开来，某种信息也随之传达了过来。
+scn00_36_0199 | - | ワタシにはそれが、文字として認識できた。 | I recognize the shapes as letters. | 我将其识别为了文字。
+scn00_36_0200 | - | \n\n\n\n\n\n\n\n『コ……』 | \n\n\n\n\n\n\n\nCo... | \n\n\n\n\n\n\n\n‘co……’
+scn00_36_0201 | ココロ(Cocoro) | （コ……？） | (Co...?) | （co……？）
+scn00_36_0202 | - | \n\n\n\n\n\n\n\n『……コ……』 | \n\n\n\n\n\n\n\n... | \n\n\n\n\n\n\n\n‘……co……’
+scn00_36_0203 | - | まただ。 | There it is again. | 还没完。
+scn00_36_0204 | - | 開花の季節になって、小さな花が一つ、また一つと咲いていくように、虚無の闇に文字が浮かんでくる。 | Letters appear in the darkness, popping up like flowers that unfurl their petals when it's time for them to bloom. | 就像是花季时分，一朵又一朵小花接连盛开一般，文字不断从虚无的黑暗中浮现了出来。
+scn00_36_0205 | ココロ(Cocoro) | （誰かが入力している……どうやって） | (Somebody is inputting this... But how?) | （有人在输入文字……这是怎么做到的）
+scn00_36_0206 | - | \n\n\n\n\n\n\n\n『……ロ』 | \n\n\n\n\n\n\n\n... | \n\n\n\n\n\n\n\n‘……ro’
+scn00_36_0207 | - | 文字が連なって、言葉となった。 | The letters string together to form a word. | 文字连起来之后便成了一个词。
+scn00_36_0208 | ココロ(Cocoro) | （ココロ……？） | (Cocoro...?) | （心……？）
+scn00_36_0209 | - | １文字１文字、言葉が入力されてくる。 | The letters were input one after the other. | 文字被1个字1个字地输入了进来。
+scn00_36_0210 | - | 手だ。 | It's my hand. | 用手。
+scn00_36_0211 | - | ワタシの手のひらを何か細いもの、おそらくは指でなぞって文字を書いている。 | Something thin, likely a finger, is tracing letters on my palm. | 有什么细细的东西在我的手心描绘着文字，大概是手指吧。
+scn00_36_0212 | ココロ(Cocoro) | （迂闊でした。こんな方法でワタシにアクセスしてくるなんて……） | (I've made an oversight. I didn't consider the possibility that somebody might try to access me this way.) | （大意了，没想到居然能用这种方式访问我）
+scn00_36_0213 | - | \n\n\n\n\n\n\n\n『コーヒー』 | \n\n\n\n\n\n\nYour coffee... | \n\n\n\n\n\n\n\n‘咖啡’
+scn00_36_0214 | - | %n;『おいしかった』 | %n; tasty. | %n;‘很美味’
+scn00_36_0215 | ココロ(Cocoro) | （コーヒー……おいしかった……） | (Your coffee was tasty...) | （咖啡……很美味……）
+scn00_36_0216 | - | 何についての言葉か、すぐにメモリーを検索した。 | I immediately search my memory to find what those words could be referring to. | 我立刻搜索了一下这是在说哪件事。
+scn00_36_0217 | - | ひなたさんの元から去ろうと決めた朝、作ったコーヒーだ。 | It must be the coffee I left for Hinata-san the morning I decided to leave. | 是我在决定离开日向先生身边的那天早上，制作的咖啡。
+scn00_36_0218 | - | 毎朝、試行錯誤を重ねてきたが失敗続きだった。 | I'd been trying to improve it through trial and error every morning, but I kept failing. | 我虽然每天早上都会反复试验，但却一直都在失败。
+scn00_36_0219 | ココロ(Cocoro) | （最後のコーヒーは、美味しくできてたんですね。よかった） | (So, the last coffee I made turned out to be tasty. That's good.) | （最后一杯咖啡制作得很美味啊，太好了）
+scn00_36_0220 | - | 『死』を待つ者には不自然な感情を、感情回路が吐き出した。 | My emotional circuits are emitting feelings that are unnatural for somebody eagerly awaiting their death. | 感情回路流露出了对于等待‘死亡’之人来说并不正常的感情。
+scn00_36_0221 | - | それは『うれしい』だった。 | I feel "happy." | 那便是‘开心’。
+scn00_36_0222 | ＣＣＲ－０２(CCR-02) | 『……ハンのう……アリ……おネエ……チャん……が……はんノウし……た！』 | "Detecting... re...sponse. My sister... is re...sponding!" | ‘……有……反应……了……姐姐……有反应……了！’
+scn00_36_0223 | - | ココロの[そば]傍に[ひざまず]跪き、祈るように手のひらに文字をなぞっていた俺に、ＣＣＲ－０２が言った。 | CCR-02 speaks to me as I sit beside Cocoro, tracing letters on her hand as if I were writing a prayer. | CCR-02对跪在心身边像是在祈祷一般在心的手掌上写字的我说道。
+scn00_36_0224 | - | アクセスに応じたという事は、 | If she responded to my attempt to access her, does that mean... | 她对访问产生了反应也就是说。
+scn00_36_0225 | - | 『つなげる？』 | "Can you connect me to her?" | ‘连接上了？’
+scn00_36_0226 | ＣＣＲ－０２(CCR-02) | 『た……ブン……』 | "Pro...bably." | ‘应……该是……’
+scn00_36_0227 | - | ＣＣＲ－０２は独自の通信機能を使ってココロと接続しようとしていた。 | CCR-02 is trying to connect to Cocoro using her own communication system. | CCR-02试着用自己的通信机能与心连接。
+scn00_36_0228 | - | 俺はドローンの操縦に使うゴーグルを装着する。 | I put on the goggles that I use when piloting my drone. | 我则戴上了用来操纵无人机的护目镜。
+scn00_36_0229 | - | ＣＣＲ－０２経由で、ココロと交信を試みるためだ。 | Perhaps these will allow me to communicate with Cocoro via CCR-02's connection. | 为了能通过CCR-02和心进行交流。
+scn00_36_0230 | ＣＣＲ－０２(CCR-02) | 『いク……よ』 | "Let's... try..." | ‘开始了……啊’
+scn00_36_0231 | - | 『うん』 | "Okay." | ‘嗯’
+scn00_36_0232 | ひなた(Hinata) | （ココロ……今迎えに行くよ！） | (Cocoro... I'm here to bring you home!) | （心……我现在就去接你！）
+scn00_36_0233 | - | 視界に、黒いインクで[ぬ]塗り固めたような、真っ暗な闇が広がった。 | A pitch-black darkness spreads across my vision, as if I'm diving into a vat of ink. | 视野中一片漆黑，就像是被黑色墨水涂满了一般。
+scn00_36_0234 | - | これはココロが見ているものを、視覚化したもの。言わば心象風景。 | This is a visualization of what Cocoro sees. A virtual landscape, so to speak. | 这就是将心看到的东西可视化后的产物，也就是心象风景。
+scn00_36_0235 | - | フリーズしているから真っ暗なのか、それとも人間の俺には理解できないデータの集合体なのか。 | Is it dark because her thought processors are frozen, or is this a collection of data that I, as a human being, am not capable of understanding? | 是因为死机了所以才会一片漆黑呢，还是说这是身为人类的我所不能理解的数据集合体呢。
+scn00_36_0236 | ひなた(Hinata) | （何もない……虚無） | (There's nothing here... but emptiness.) | （什么都没有……虚无）
+scn00_36_0237 | - | いや、何かある。 | No, wait. | 不，还是有东西的。
+scn00_36_0238 | - | ぼんやりとした小さな光が見えた。 | I can see a faint, small light. | 隐约能看到一点微弱的光芒。
+scn00_36_0239 | - | 近づいてみる。 | It's coming closer. | 我靠近了过去。
+scn00_36_0240 | ひなた(Hinata) | （花が……[つぼみ]蕾を付けている） | (It's... a flower bud.) | （花……结着花蕾）
+scn00_36_0241 | - | 何もない虚無の闇に、固く閉ざした蕾だけがあった。 | Among the pitch-black emptiness, there's a bud with its petals tightly closed. | 在这一片虚无的黑暗中，仅有一朵紧紧闭合着的花蕾。

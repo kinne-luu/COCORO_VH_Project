@@ -1,0 +1,64 @@
+# scene=scn00_41 batch=2/5 dòng 61-120 / 314
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_41_0061 | 霧香(Kirika) | 「その先はどうするの？」 | "How about after you graduate?" | “在那之后呢？”
+scn00_41_0062 | ひなた(Hinata) | 「実は、考えてる事がある」 | "I've actually got something in mind." | “其实，我有个想法”
+scn00_41_0063 | - | 俺はその計画を、霧香さんに打ち明けた。 | I open up and tell Kirika-san all about my plans. | 我将那个计划说给了雾香小姐听。
+scn00_41_0064 | 霧香(Kirika) | 「……それ、本気なの？」 | "...You're serious about this, aren't you?" | “……你是认真的？”
+scn00_41_0065 | ひなた(Hinata) | 「うん」 | "Yeah." | “嗯”
+scn00_41_0066 | 霧香(Kirika) | 「とっても厳しい道になるわよ」 | "It's not going to be easy." | “这条路可是充满荆棘的啊”
+scn00_41_0067 | ひなた(Hinata) | 「わかってる。でも、やりたいんだ、ココロのために」 | "I know. But I still want to try, for Cocoro's sake." | “我明白，但是，为了心我想这样做”
+scn00_41_0068 | - | 決意を込めて答えると、霧香さんはフッと笑った。 | Kirika-san lets out a soft laugh when she hears the determination in my voice. | 听到我饱含决心的回答后，雾香小姐轻笑了起来。
+scn00_41_0069 | 霧香(Kirika) | 「やっぱり姉さんの子ね。私もあなたの思い描く未来に力を貸すわ」 | "You really are Yoko's son, aren't you? I would love to help you build your ideal future." | “真不愧是姐姐的孩子呢。那就让我为你描绘的未来出一份力吧”
+scn00_41_0070 | ひなた(Hinata) | 「霧香さんがいてくれたら心強いよ」 | "It's reassuring to have you on my side." | “有雾香小姐的帮助我心里就有底了”
+scn00_41_0071 | - | まだ決断しきれずにいた未来の事を霧香さんに打ち明けたら、急に勇気が湧いてきた。 | I hadn't quite made up my mind about my future, but after confiding in Kirika-san, I suddenly feel a lot more confident about it. | 在将还没决定好的未来的事说给雾香小姐听后，勇气便突然涌了出来。
+scn00_41_0072 | ひなた(Hinata) | （今ならなんだってやれる。母さんを亡くして泣いてただけの子どもじゃない） | (I can do anything. I'm not that little kid who could only cry about losing his mom anymore.) | （现在的我什么都能做到。我已经不是那个母亲去世后只会哭泣的孩子了）
+scn00_41_0073 | 霧香(Kirika) | 「一緒にがんばりましょう」 | "Let's do our best together." | “一起加油吧”
+scn00_41_0074 | ひなた(Hinata) | 「うん」 | "Yeah." | “嗯”
+scn00_41_0075 | こさめ(Kosame) | 「そーれ、とってこーーーーい」 | "Go feeeeetch!" | “我扔，捡回来————”
+scn00_41_0076 | 犬(Dog) | 「ワンワン！！」 | "Woof woof!" | “汪汪！！”
+scn00_41_0077 | ココロ(Cocoro) | 「ふぅ……」 | "Hahh..." | “呼……”
+scn00_41_0078 | こさめ(Kosame) | 「どうしたの、ココちゃん。ため息なんかついて」 | "What's wrong, Coco-chan? You've been sighing over and over." | “怎么了心儿，为什么在叹气”
+scn00_41_0079 | ココロ(Cocoro) | 「？　ため息をついていましたか？」 | "Huh? Was I sighing?" | “？　我叹气了吗？”
+scn00_41_0080 | こさめ(Kosame) | 「うん。話を聞いてほしいけど、自分からは言い出せない～って感じだった」 | "Yeah. You're acting like you're waiting for me to ask what's wrong." | “嗯，有种‘我有话想让你听，但却没法自己说出来’的感觉”
+scn00_41_0081 | ココロ(Cocoro) | 「……無意識でした。とても有意義な発見です」 | "...I wasn't aware of that. What an interesting discovery." | “……我完全没意识到，这是个很有意义的发现”
+scn00_41_0082 | ココロ(Cocoro) | 「マリッジブルーというやつかもしれません」 | "It may be the wedding jitters." | “没准是婚前忧郁”
+scn00_41_0083 | こさめ(Kosame) | 「結婚するのがやなの？」 | "You don't want to get married after all?" | “是不想结婚吗？”
+scn00_41_0084 | ココロ(Cocoro) | 「そうではありませんが、ワタシはひなたさんの妻に相応しいのかどうか悩ましいのです」 | "No, I do, but I keep wondering if I'm really good enough to become Hinata-san's wife." | “这倒不是，我只是在烦恼我是不是有资格当日向先生的妻子”
+scn00_41_0085 | こさめ(Kosame) | 「相応しいに決まってるよ。だって、ひなたさんはココちゃんの事、大好きだもん」 | "Of course you are. Hinata-san loves you!" | “当然有资格啦，毕竟日向先生可是最喜欢心儿了”
+scn00_41_0086 | ココロ(Cocoro) | 「ええ、それはもう、ひなたさんがワタシにぞっこんなのは疑いようもありません」 | "Yes, he does. I don't doubt that he's head over heels for me." | “没错，那是当然的，日向先生被我迷住了这件事毋庸置疑”
+scn00_41_0087 | こさめ(Kosame) | 「じゃあいいじゃん」 | "Then what's the problem?" | “那不就没问题了嘛”
+scn00_41_0088 | ココロ(Cocoro) | 「こさめ、ちょっといいですか。顔をよく見せてください」 | "Kosame, do you have a moment? Let me have a good look at your face." | “小雨，可以让我仔细看看你的脸吗”
+scn00_41_0089 | こさめ(Kosame) | 「むにゅ」 | "Mmgh..." | “呣呢”
+scn00_41_0090 | ココロ(Cocoro) | 「じー」 | "*staaaare*..." | “盯——”
+scn00_41_0091 | こさめ(Kosame) | 「にゃに？？」 | "What?" | “怎么惹？？”
+scn00_41_0092 | ココロ(Cocoro) | 「こさめはこんな顔をしてたんですね」 | "So  is what you look like." | “小雨原来是长这样啊”
+scn00_41_0093 | こさめ(Kosame) | 「？」 | "Huh?" | “？”
+scn00_41_0094 | ココロ(Cocoro) | 「いえ、可愛いなと思いまして。とても可愛い」 | "Oh, I was just thinking that you're cute. Adorable, even." | “没，我觉得你很可爱，非常可爱”
+scn00_41_0095 | こさめ(Kosame) | 「えへへ、ありがと。ココちゃんも可愛いよ」 | "Hehehe, thanks. You're adorable too, Coco-chan." | “哎嘿嘿，谢谢，心儿也很可爱哦”
+scn00_41_0096 | ココロ(Cocoro) | 「ええ、知ってます。こさめ、うちの子になりませんか？」 | "Yes, I know. Kosame, would you like to be our daughter?" | “嗯，我知道，小雨，能来当我家的孩子吗？”
+scn00_41_0097 | こさめ(Kosame) | 「はえ！？　ど、どういう事？？」 | "Huh!? Wh-What do you mean!?" | “哈哎！？　什、什么意思？？”
+scn00_41_0098 | ココロ(Cocoro) | 「そのままの意味です。ワタシとひなたさんの子という事になりませんか」 | "I mean exactly what I said. Would you like to be my and Hinata-san's daughter?" | “就是字面上的意思，你能来当我和日向先生的孩子吗”
+scn00_41_0099 | こさめ(Kosame) | 「む、無理だよぉ～～。だって私にはお父さんもお母さんもお兄ちゃんもいるもんっ」 | "I-I can't! I already have a mom, a dad, and a big brother!" | “不、不行啦～。毕竟我也有父亲母亲和哥哥啦”
+scn00_41_0100 | ココロ(Cocoro) | 「そうですか……残念です。はぁ……」 | "I see... That's a shame. Hahh..." | “这样啊……太遗憾了，唉……”
+scn00_41_0101 | こさめ(Kosame) | 「へんなココちゃん」 | "You're being weird, Coco-chan." | “好奇怪的心儿”
+scn00_41_0102 | 犬(Dog) | 「ワゥゥ！」 | "Awoo!" | “呜呜！”
+scn00_41_0103 | ココロ(Cocoro) | 「犬はのんきでいいですね」 | "It must be nice to be a dog with no worries..." | “狗什么都不用想真好啊”
+scn00_41_0104 | こさめ(Kosame) | 「ねぇ、この子のお名前、付けてあげないの？」 | "That reminds me, have you given him a name yet?" | “话说，你还不给它起名字吗？”
+scn00_41_0105 | ココロ(Cocoro) | 「犬」 | "Dog." | “狗”
+scn00_41_0106 | 犬(Dog) | 「ワン！」 | "Woof!" | “汪！”
+scn00_41_0107 | ココロ(Cocoro) | 「ほら、犬と呼ばれて尻尾を振っています。本人は納得しています」 | "He wags his tail when I address him as 'Dog,' so he seems to approve of that being his name." | “你看，一叫狗它就会摇尾巴，它自己都已经接受了”
+scn00_41_0108 | こさめ(Kosame) | 「ダメだよぉ、ココちゃんが付けないなら私が付けちゃうよ？」 | "That's no good... If you're not gonna give the poor thing a name, then I will!" | “不可以啦，心儿如果不给它起名字那我就要给它起名了哦”
+scn00_41_0109 | ココロ(Cocoro) | 「実はもう喉元まで出かかっているのですが…………むむむ……むむぅぅ……はふぅ」 | "Actually, it's already on the tip of my tongue... Hmmm... Hmmm... Hmph..." | “其实已经到嗓子眼了…………呣呣呣……呣呣……哈呜”
+scn00_41_0110 | こさめ(Kosame) | 「出ない」 | "But it's not coming out." | “没说出来”
+scn00_41_0111 | ココロ(Cocoro) | 「名付けはもうしばらくお預けです」 | "The naming process will be on hold for a bit longer." | “起名的事还是再等等吧”
+scn00_41_0112 | 犬(Dog) | 「ワゥゥ……」 | "Awoo..." | “呜呜……”
+scn00_41_0113 | ココロ(Cocoro) | 「それより、マリッジブルー解消のために、霧香の力を借りましょう」 | "Forget that. How about I ask Kirika to help me deal with my wedding jitters?" | “现在先去找雾香帮忙消除一下婚前忧郁吧”
+scn00_41_0114 | ココロ(Cocoro) | 「こさめ、行きますよ。運んであげますから、ジッとしててください」 | "Kosame, let's go right now. I'll carry you, so don't move." | “小雨，走吧，我来搬着你过去，你不要乱动”
+scn00_41_0115 | こさめ(Kosame) | 「わぁ～、ココちゃん力持ち～」 | "Wow! You're so strong, Coco-chan!" | “哇～，心儿好有力气～”
+scn00_41_0116 | ココロ(Cocoro) | 「犬もついてきなさい」 | "Come with us too, Dog." | “狗也跟过来”
+scn00_41_0117 | 犬(Dog) | 「ワンワン！！」 | "Woof woof!" | “汪汪！！”
+scn00_41_0118 | ココロ(Cocoro) | 「霧香はいますか」 | "Kirika, are you here?" | “雾香在吗”
+scn00_41_0119 | 霧香(Kirika) | 「？　ココロじゃない、どうしたの」 | "Huh? Oh, Cocoro. Is something wrong?" | “？　这不是心嘛，怎么了？”
+scn00_41_0120 | こさめ(Kosame) | 「こんにちはー」 | "Hello!" | “你好——”

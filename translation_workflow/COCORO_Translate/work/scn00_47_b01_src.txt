@@ -1,0 +1,64 @@
+# scene=scn00_47 batch=1/4 dòng 1-60 / 220
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_47_0001 | - | ９月下旬。 | Late September. | 9月下旬。
+scn00_47_0002 | - | 夏休みが終わって、俺は寮へ戻り、平凡な高校生活を送っていた。 | After summer break, I returned to my dorm and continued my uneventful high school life. | 暑假结束后，我回到了宿舍，过上了平凡的高中生活。
+scn00_47_0003 | - | 暑さがだんだん治まっていくうちに、九十九商店街で過ごしたかけがえのない夏が遠ざかっていく。 | The summer heat slowly abated, and the days I spent in Tsukumo City soon became a distant summer memory. | 在酷暑逐渐消退之时，九十九商店街度过的独一无二的夏天也离我远去了。
+scn00_47_0004 | - | 日常という平和で、今の時代にはとても貴重な毎日に、決意が薄れていく気がして恐くなる。 | A peaceful daily life is a rarity these days, but I was afraid that it would cause my resolve to waver. | 我感觉日常生活这种平和，并且在现在这个时代十分珍贵的每一天都在消磨自己的决意，这让我有些害怕。
+scn00_47_0005 | - | そんなある日、霧香さんから連絡が入った。 | Until one day, I received a message from Kirika-san. | 在这种日子中的某天，雾香小姐联系了我。
+scn00_47_0006 | - | 『ココロを目覚めさせる準備ができた』 | Cocoro will be ready to wake up soon. | ‘已经做好让心醒过来的准备了’
+scn00_47_0007 | - | 週末の休みを利用して、俺は再び、九十九市へと向かった。 | The next weekend, I headed back to Tsukumo City. | 于是我便利用周末的时间，再次前往了九十九市。
+scn00_47_0008 | ナツ(Natsu) | 「ワン！　ワンワン！！」 | "Woof! Woof woof!!" | “汪！　汪汪！！”
+scn00_47_0009 | ひなた(Hinata) | 「ちょ、邪魔だよナツ」 | "Hey! You're in the way, Natsu." | “别，你很碍事啊夏天”
+scn00_47_0010 | - | 犬を避けながら、トラックの荷台から段ボールを抱えて降ろす。 | I'm careful not to trip on the dog as I unload cardboard boxes from the truck's cargo bed. | 我在避开着狗的同时，将纸箱从卡车的货台上面抱了下来。
+scn00_47_0011 | ひなた(Hinata) | 「荷物、今ので最後ですか？」 | "Was that the last one?" | “刚刚那就是最后的行李了吧？”
+scn00_47_0012 | トラックの運転手(Truck Driver) | 「あんがとな、兄ちゃん」 | "Yup. Thanks, kid." | “谢啦，小哥”
+scn00_47_0013 | ひなた(Hinata) | 「いえいえ、こちらこそありがとうございました」 | "Oh no, thank you for the ride, sir." | “没有没有，我才应该说谢谢”
+scn00_47_0014 | - | 荷降ろしを終えて走り去るトラックに手を振る。 | I wave my hand as the truck drives away. | 我对着卸完货后离去了的卡车挥了挥手。
+scn00_47_0015 | ひなた(Hinata) | 「さてと」 | "Well then..." | “好了”
+scn00_47_0016 | 風音(Kazane) | 「なんでひなたが荷下ろし手伝ってんの？」 | "Why were you unloading those boxes?" | “为什么日向要去帮忙卸货？”
+scn00_47_0017 | - | いつの間にか風音が傍にいた。 | Before I realize it, Kazane is standing next to me. | 风音不知何时站在了我的身边。
+scn00_47_0018 | ひなた(Hinata) | 「途中から乗せてきてもらったから、そのお礼にね」 | "He gave me a ride in his truck, so I wanted to pay him back somehow." | “因为路上他让我搭了一段车，这只是在报答他”
+scn00_47_0019 | - | 九十九市へ来るのに、俺はまた昨晩からマウンテンバイクを走らせていたのだが。 | I left for Tsukumo City on my mountain bike last night, and I pedaled for hours. | 我为了来九十九市，又是从昨晚开始一直骑着山地自行车。
+scn00_47_0020 | - | 今朝、通り過ぎていくトラックの運転手さんに声を掛けられて、自転車ごと乗せてきてもらった。 | Then, this morning, a truck driver who passed by asked me if I needed a ride, and he helped load my bike onto the truck as well. | 不过今天早上的时候，有个路过的卡车司机朝我搭了话，让我连同自行车一起乘上了卡车。
+scn00_47_0021 | - | おかげで、予定よりも半日早くついた。 | Thanks to him, I arrived half a day sooner than I'd planned. | 多亏了他，我比预定时间早到了半天。
+scn00_47_0022 | ひなた(Hinata) | 「物流が回復し始めてるんだね」 | "I see that the supply chain is starting to move again." | “物流似乎是开始恢复了啊”
+scn00_47_0023 | 風音(Kazane) | 「うん。ちょっとずつ復興に向かってる。やっとだよ」 | "Yeah. We're slowly moving toward recovery. It's about time!" | “嗯，正在一步步走向复兴。这一天总算是来了啊”
+scn00_47_0024 | - | 安全性が確認され、エリア９９は段階的に解放されようとしているというのを、俺もニュースで見た。 | I saw on the news that Area 99 had been declared safe. It's now being reopened in stages. | 我从新闻上看到，99区的安全性已得到确认，现在正逐步进行解放。
+scn00_47_0025 | 大地(Daichi) | 「よぉ、ひなた！」 | "'Sup, Hinata!" | “哟，日向！”
+scn00_47_0026 | こさめ(Kosame) | 「ひなたさん？　ほんとだっ」 | "Hinata-san's here? Oh, you're right!" | “日向先生？　真的啊”
+scn00_47_0027 | - | 天衣兄妹が店から顔を出した。 | The Amai siblings come out of the confectionery shop. | 天衣兄妹从店里出来了。
+scn00_47_0028 | ひなた(Hinata) | 「店の営業、再開したんだ」 | "Oh, you've reopened the shop." | “这个店重新开业了啊”
+scn00_47_0029 | 大地(Daichi) | 「まだメニューは少ないがな。食ってくか、特製クレープ」 | "We don't have much on the menu yet, but do you want one of our special crepes?" | “不过现在菜品还很少啊，你要尝尝特制可丽饼吗？”
+scn00_47_0030 | こさめ(Kosame) | 「これ見て、ひなたさん」 | "Look at this, Hinata-san." | “看这个，日向先生”
+scn00_47_0031 | - | クレープの包み紙に、イラストがプリントされているのだが、 | The wrapping paper they use for crepes has a print on it. | 可丽饼的包装纸上印着一张插画。
+scn00_47_0032 | ひなた(Hinata) | 「これ、ココロ？」 | "Is that Cocoro?" | “这是，心？”
+scn00_47_0033 | 大地(Daichi) | 「こさめが描いたんだぜ。上手いだろう。我が妹ながら、才能を感じる。将来は売れっ子イラストレーターになるぞ」 | "Kosame drew her. Pretty good, right? My little sister's really talented. I'm sure she's going to become a famous illustrator." | “这是小雨画的哦，画得很好吧。她虽然是我妹妹，但我却从她身上看到了才能。她将来肯定能成为人气画师哦”
+scn00_47_0034 | こさめ(Kosame) | 「ココちゃんがね、いたんだって事をちゃんと残したくて」 | "I wanted to have something to remind us of Coco-chan." | “因为心儿说，想将自己曾经存在过这件事记录下来”
+scn00_47_0035 | 風音(Kazane) | 「こさめは親友だったもんな」 | "She was your best friend, huh..." | “毕竟小雨可是她的挚友呢”
+scn00_47_0036 | ひなた(Hinata) | 「大地、一晩だけまた泊めてもらっていいかな？」 | "Daichi, would you mind if I stayed upstairs for a night?" | “大地，能让我再住一个晚上吗？”
+scn00_47_0037 | 大地(Daichi) | 「もちろんだ。何日だって泊まってってくれ」 | "You're always more than welcome. Stay as long as you want!" | “当然了，你想住几天都行”
+scn00_47_0038 | 風音(Kazane) | 「食事なら任せな。ひなたにメシ食わせたいって人、ここにはいっぱいいるんだ」 | "Don't worry about your meals. There's plenty of people here who'd love to feed you, including myself." | “吃饭的事就交给我吧，这里想请日向吃饭的人可不少啊”
+scn00_47_0039 | 光太郎(Kotaro) | 「ココちゃん印のチョコクレープ１つ」 | "One Coco-chan brand chocolate crepe, please." | “来1个心儿款的巧克力可丽饼”
+scn00_47_0040 | 大地(Daichi) | 「あいよー、ココちゃん印１つねー」 | "One Coco-chan crepe, got it." | “好嘞，心儿款一个——”
+scn00_47_0041 | ひなた(Hinata) | 「光太郎さん！」 | "Kotaro-san!" | “光太郎先生！”
+scn00_47_0042 | 光太郎(Kotaro) | 「？　ひなた少年！　なんでいるんだ？」 | "Huh? Oh, Hinata! What are you doing here, kiddo?" | “？　日向少年！　你怎么在这里？”
+scn00_47_0043 | ひなた(Hinata) | 「霧香さんから連絡があって。休みを利用して来ました」 | "Kirika-san messaged me. I'm just here for the weekend." | “雾香小姐联系我了，所以我就找了个休息时间过来了”
+scn00_47_0044 | 光太郎(Kotaro) | 「そうか。ちょうどよかった」 | "I see. Great timing." | “这样啊，那正好”
+scn00_47_0045 | ひなた(Hinata) | 「？」 | "Why?" | “？”
+scn00_47_0046 | 光太郎(Kotaro) | 「……いや、俺じゃ主任を満足させるコーヒーが[い]淹れられなくてな。代わりになんか甘いものでもと思って買いに来たんだ」 | "...Well, I still haven't been able to make any coffee that's to the chief's liking. I've been coming here to buy her sweets instead." | “……没啥，就是我泡不出来能让主任满意的咖啡，所以才想着来买点甜食作为替代品”
+scn00_47_0047 | ひなた(Hinata) | 「わかりました。任せてください」 | "All right, leave it to me." | “我知道了，交给我吧”
+scn00_47_0048 | - | 霧香さんは今日もまたストレスフルな職場で戦っているらしい。癒してやらねば。 | It sounds like Kirika-san is having another stressful day at work. Maybe I can cheer her up. | 雾香小姐今天貌似依旧奋战在压力满载的职场上，得去治愈一下她才行。
+scn00_47_0049 | 霧香(Kirika) | 「……（ぶつぶつ）……」 | "*mumble* *mumble*..." | “……（嘟嘟囔囔）……”
+scn00_47_0050 | 霧香(Kirika) | 「………………クンクン…………？」 | "*sniff* *sniff*...?" | “………………嗅嗅…………？”
+scn00_47_0051 | - | モニタに集中していた霧香さんが、コーヒーの香りに釣られて顔を上げた。 | Despite being completely focused on the monitor in front of her, Kirika-san turns her head when she notices the aroma of fresh coffee. | 注意力集中在屏幕上的雾香小姐被咖啡的香气引诱着抬起了头。
+scn00_47_0052 | 光太郎(Kotaro) | 「コーヒーどうぞ。あと、クレープも買ってきたんで」 | "Here, have some coffee. I also got you a crepe." | “给你咖啡，然后我还买了可丽饼”
+scn00_47_0053 | 霧香(Kirika) | 「ありがとう、光太郎君。……少し休憩にするわ」 | "Thanks, Kotaro-kun... I think I'll take a break." | “谢谢你，光太郎……稍微休息一会儿吧”
+scn00_47_0054 | - | 霧香さんが椅子の上で伸びをしてから、淹れたてのコーヒーに口をつけた。 | Kirika-san stretches and leans back in her chair, then takes a sip of the coffee. | 雾香小姐在椅子上伸了个懒腰后，喝了一口泡好的咖啡。
+scn00_47_0055 | 霧香(Kirika) | 「……あら？」 | "...Oh?" | “……哎呀？”
+scn00_47_0056 | 光太郎(Kotaro) | 「どうかしました？」 | "What's the matter, Chief?" | “怎么了吗？”
+scn00_47_0057 | 霧香(Kirika) | 「この味…………ひなた？」 | "This tastes like... Hinata?" | “这个味道是……日向？”
+scn00_47_0058 | - | 霧香さんがくるっと振り返った。 | Kirika-san spins her chair around. | 雾香小姐嗖地一下回过了头。
+scn00_47_0059 | ひなた(Hinata) | 「来たよ、霧香さん」 | "I came to see you, Kirika-san." | “我来啦，雾香小姐”
+scn00_47_0060 | 霧香(Kirika) | 「ひなた～～～～～～～」 | "Hinataaaaaa!" | “日向～～～～～～～”

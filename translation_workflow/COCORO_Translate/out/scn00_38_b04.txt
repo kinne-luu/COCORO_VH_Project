@@ -1,0 +1,60 @@
+scn00_38_0181 | "...... Anh Hinata."
+scn00_38_0182 | "Chào buổi sáng nhé, Kosame."
+scn00_38_0183 | "Chuyện bé Coco bình an vô sự... có thật không anh......?"
+scn00_38_0184 | "Ừ, em ấy được sơ cứu xử lý khẩn cấp rồi nên đã khỏe lại rồi."
+scn00_38_0185 | "May quá rồi......"
+scn00_38_0186 | Dẫu chỉ là xử lý khẩn cấp chứ chưa thể coi là sửa chữa hoàn toàn, nhưng nếu không có đợt sơ cứu đó thì tổn hại trên thân thể Cocoro hẳn đã là chí mạng.
+scn00_38_0187 | Em ấy có thể bước đi bình thường lại như thế này, tất cả là nhờ có CCR-02.
+scn00_38_0188 | "......"
+scn00_38_0189 | Bé Kosame ngước mắt nhìn lên ô cửa sổ tầng hai của tiệm bánh ngọt Amai.
+scn00_38_0190 | Con bé hẳn là muốn nói lời xin lỗi để làm hòa với Cocoro. Thế nhưng Cocoro đang rầu rĩ giam mình trong phòng không chịu ra, khiến Kosame chẳng biết phải làm sao.
+scn00_38_0191 | "Lúc đó, em... em đã lỡ nghĩ rằng bé Coco thật đáng sợ. Chắc là em đã làm tổn thương bé Coco mất rồi......"
+scn00_38_0192 | "Tại sao em lại có thể nghĩ như thế được cơ chứ."
+scn00_38_0193 | "Bây giờ em vẫn còn nghĩ như thế à?"
+scn00_38_0194 | "Dạ không, em không nghĩ thế nữa đâu. Bởi vì bé Coco dịu dàng lắm, lại còn là ân nhân đã cứu mạng em nữa mà."
+scn00_38_0195 | "Vậy thì anh nghĩ sẽ ổn thôi."
+scn00_38_0196 | Con người khi tiếp xúc với những thứ khác biệt dị thường thường sẽ cảm thấy bỡ ngỡ hoang mang, thậm chí là sợ hãi.
+scn00_38_0197 | Nhưng đó chỉ là phản xạ tự nhiên của tâm lý trước sự xa lạ mà thôi.
+scn00_38_0198 | Có lẽ đó là cơ chế cảm xúc nhằm tự bảo vệ bản thân trước những hiểm nguy ngoài dự liệu khi thực tế khác biệt so với điều ta hằng tưởng tượng.
+scn00_38_0199 | Dùng lý trí để thấu hiểu bản chất của sự xa lạ ấy, rồi dần dà đón nhận nó, nỗi hoang mang sẽ tự khắc tan biến.
+scn00_38_0200 | Trái tim con người vốn dĩ chẳng đủ mềm mại để có thể chấp nhận ngay mọi điều một cách dễ dàng từ thuở ban đầu.
+scn00_38_0201 | "Em muốn làm hòa với Cocoro đúng không?"
+scn00_38_0202 | "...... Dạ."
+scn00_38_0203 | Con bé gật đầu với vẻ mặt như chực khóc. Bé Kosame đã hoàn toàn chấp nhận một Cocoro của hiện tại.
+scn00_38_0204 | "Nếu vậy thì nhất định sẽ ổn thôi. Anh nghĩ tấm lòng của em đã chạm tới cô ấy rồi đấy."
+scn00_38_0205 | "Ủa...... sao lại thế ạ?"
+scn00_38_0206 | "Bởi vì Cocoro là một cô bé có thể đọc được tâm tư của con người mà."
+scn00_38_0207 | Bé Kosame tuy lộ vẻ nửa tin nửa ngờ, nhưng tôi hoàn toàn có cơ sở để khẳng định điều đó.
+scn00_38_0208 | Là vì,
+scn00_38_0209 | từ nãy đến giờ, có một chiếc drone đang lượn lờ ngay trên đầu chúng tôi.
+scn00_38_0210 | Tôi không hề điều khiển nó, nên người đang vận hành nó chắc chắn chỉ có thể là Cocoro.
+scn00_38_0211 | Chắc chắn em ấy đang dõi theo tình hình của mọi người và lắng nghe những mẩu chuyện trò.
+scn00_38_0212 | Những lời vừa rồi của bé Kosame hẳn cũng đã tới tai em.
+scn00_38_0213 | Mong là điều này có thể giúp em ấy phần nào lấy lại tinh thần.
+scn00_38_0214 | Đúng lúc đó, một nhóm đàn ông trang bị vũ trang tận răng chen lấn đám đông cư dân bước tới.
+scn00_38_0215 | "Giao con robot đó cho chúng tao mau."
+scn00_38_0216 | "Lại thò mặt ra rồi đấy à! Đừng hòng tụi này để các người làm thế!"
+scn00_38_0217 | "Gâu! Gâu! Gâu! Gâu!"
+scn00_38_0218 | Kazane bước tới chắn ngang ngay trước mặt tên Đội trưởng Đội Tiêu Trừ.
+scn00_38_0219 | "Nếu dám cản trở người thi hành công vụ, ta buộc phải còng đầu nhóc lại đấy. Bọn ta cũng chẳng muốn xảy ra xích mích với cư dân địa phương làm gì đâu."
+scn00_38_0220 | "Cái mồm thối nhà mày mà cũng nói được câu đó à......"
+scn00_38_0221 | "Ngon thì nhào vô xem nào!"
+scn00_38_0222 | "Kazane ơi!"
+scn00_38_0223 | Thấy Kazane thật sự chực lao vào ăn thua đủ, tôi liền kéo cậu ấy lại.
+scn00_38_0224 | Cứ nhìn vào những hành tung từ trước đến giờ của Đội Tiêu Trừ thì chẳng ai dám chắc chúng sẽ liều lĩnh làm ra điều tồi tệ gì.
+scn00_38_0225 | Dẫu vậy, tôi dĩ nhiên đời nào chịu dâng Cocoro cho bọn chúng.
+scn00_38_0226 | Tôi bước lên thay chỗ Kazane, đứng chắn đường để thể hiện rõ thái độ phản đối.
+scn00_38_0227 | "Tôi tuyệt đối không giao Cocoro đâu."
+scn00_38_0228 | Ngay lập tức,
+scn00_38_0229 | "Không giao đâu ạ!"
+scn00_38_0230 | "Gâu!"
+scn00_38_0231 | "Đúng thế đấy!"
+scn00_38_0232 | Mọi người lần lượt bước lên dàn hàng ngang bên cạnh tôi, tạo thành một bức tường vững chãi.
+scn00_38_0233 | Thấy cảnh tượng đó, những người dân xung quanh cũng lục tục kéo nhau đến.
+scn00_38_0234 | Chẳng mấy chốc, một thế trận đối đầu nảy lửa giữa người dân thị trấn và Đội Tiêu Trừ đã hình thành.
+scn00_38_0235 | "Đã cố tình cản đường thì bọn ta buộc phải dùng vũ lực để dọn sạch thôi."
+scn00_38_0236 | "Xin hãy dừng tay lại!"
+scn00_38_0237 | Dì Kirika và chú Kotaro đã kịp thời chạy tới.
+scn00_38_0238 | "Quyền chỉ huy đội điều tra thuộc về tôi. Cocoro là nhân chứng trọng yếu, cần phải được bảo vệ cẩn trọng."
+scn00_38_0239 | "Nhân chứng á? Đừng có đối xử với lũ robot như thể con người, kinh tởm chết đi được!"
+scn00_38_0240 | "Các người định đưa con bé đi đâu và làm gì hả?"

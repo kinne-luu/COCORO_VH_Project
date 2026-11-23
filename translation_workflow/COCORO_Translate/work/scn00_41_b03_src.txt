@@ -1,0 +1,64 @@
+# scene=scn00_41 batch=3/5 dòng 121-180 / 314
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_41_0121 | 犬(Dog) | 「ワン！」 | "Woof!" | “汪！”
+scn00_41_0122 | 霧香(Kirika) | 「こんにちは。大勢でどうしたの？」 | "Hello. To what do I owe the pleasure?" | “你好，怎么来这么多人？”
+scn00_41_0123 | ココロ(Cocoro) | 「霧香に相談したい事があって来ました」 | "I'm in need of your expertise on something." | “我有事想和雾香商量一下”
+scn00_41_0124 | こさめ(Kosame) | 「マリッジブルーで夫婦の危機なんだって」 | "She's afraid that she's going to ruin her marriage before it even starts." | “婚前忧郁可是夫妇的危机啊”
+scn00_41_0125 | 霧香(Kirika) | 「それはのっぴきならないわね、聞こうじゃないの」 | "My, that's a big problem. Tell me about it." | “那我就没法不管了，说来听听吧”
+scn00_41_0126 | ココロ(Cocoro) | 「ワタシに実装予定の機能があります。それの追加を、今すぐどうにかできませんか」 | "There's a feature I'd like you to implement in me. If possible, I'd like it done right away." | “我有一个预计实装的机能，”
+scn00_41_0127 | 霧香(Kirika) | 「実装予定の機能？　何かしら……」 | "A new feature? What might that be?" | “预计实装的机能？　那是什么……”
+scn00_41_0128 | ココロ(Cocoro) | 「ワタシはそれについて詳しく知りません。一般的な知識はありますが、実態がまったく分からないのです」 | "I'm afraid I don't know the details. I only possess some general knowledge about it, but I don't know how it actually works." | “我对此知道的也并不多。我虽然拥有普通的知识，但却完全知道真实情况是什么样”
+scn00_41_0129 | ココロ(Cocoro) | 「なぜかと言いますと、ネットワーク上のその情報はフィルタリングがされており、閲覧制限されていたからです」 | "That's because the information available on the network was heavily restricted and filtered." | “要说原因的话，那就是网上的相关信息都被过滤掉了，设定了阅览限制”
+scn00_41_0130 | 霧香(Kirika) | 「フィルタリング？　閲覧制限？」 | "Restricted and filtered?" | “过滤？　阅览限制？”
+scn00_41_0131 | ココロ(Cocoro) | 「閲覧可能な情報もありましたが、ワタシは自主的に倫理観を働かせ、自ら制限をかけました。それが節度あるヒューマノイドの振る舞いと信じて……」 | "Some of it was available for public viewing, but I voluntarily placed my own restrictions on it because I believed that was in line with ethical humanoid behavior." | “倒是也有可以阅览的信息，但我自主激发了伦理观，对自己进行了限制，我相信这才是有分寸的仿生人该有的行为……”
+scn00_41_0132 | ココロ(Cocoro) | 「今思うと、なんと[おろ]愚かだったのでしょう……。こういう事になるなら、学習しておくべきでした。なんでも隠すのはヒトの悪いところです」 | "But now I realize how foolish I've been... If I'd known I would need it, I would have studied it more. Hiding things from others is one of humans' worst flaws." | “现在想想，这是多么愚蠢的行为啊……在知道会变成现在这样，我就应该去学习一下。什么都藏就是人类的坏毛病”
+scn00_41_0133 | 霧香(Kirika) | 「待って、何の話をしているの？」 | "Wait, what are you talking about?" | “慢着，你到底在说什么？”
+scn00_41_0134 | ココロ(Cocoro) | 「何？　ナニ……と聞かれましても、制限のある表現でお答えするのは難しいです」 | "What? Well... It's difficult for me to answer without using restricted language." | “什么？　……就算你问我是什么，我也很难用受限制的词语来回答”
+scn00_41_0135 | ココロ(Cocoro) | 「そうですね……オスとメス、[つがい]番による交配……」 | "I suppose I could say... It's about the mating rituals between males and females—" | “我想想……就是雄性和雌性，一对生物之间交配……”
+scn00_41_0136 | 霧香(Kirika) | 「ストーーーーップ！！！」 | "Stoooooop!!!" | “St————op！！！”
+scn00_41_0137 | ココロ(Cocoro) | 「？？」 | "Huh?" | “？？”
+scn00_41_0138 | 霧香(Kirika) | 「こさめちゃん」 | "Kosame-chan." | “小雨”
+scn00_41_0139 | こさめ(Kosame) | 「？」 | "What?" | “？”
+scn00_41_0140 | 霧香(Kirika) | 「その……なんて名前だったかしら、そこのワンちゃんと、外で遊んでくるといいわ」 | "Could you... Um, what was the dog's name again? Could you take him out for a walk for me?" | “那个……叫什么名字来着，就那个小狗，你带着它去玩吗玩会吧”
+scn00_41_0141 | こさめ(Kosame) | 「どうして？　私もココちゃんの力になってあげたい」 | "Why? I want to help Coco-chan with her problem, too." | “为什么？　我也想助心儿一臂之力”
+scn00_41_0142 | 犬(Dog) | 「ワン！」 | "Woof!" | “汪！”
+scn00_41_0143 | 霧香(Kirika) | 「うーん……フィルタリングが掛かった情報についてのお話だから」 | "Uhh... We need to talk about a topic that's... restricted." | “唔……因为我们要谈一些和被过滤掉的信息有关的事”
+scn00_41_0144 | こさめ(Kosame) | 「わかんなーーい」 | "I don't get it!" | “人家不懂啦”
+scn00_41_0145 | 犬(Dog) | 「ワンワン！！」 | "Woof woof!" | “汪汪！！”
+scn00_41_0146 | 霧香(Kirika) | 「オトナの機密事項よ。ココロ」 | "It's not suitable for children. Cocoro?" | “就是大人的机密事项哦，心”
+scn00_41_0147 | ココロ(Cocoro) | 「こさめ、ちょっと外に出ていましょうか。さ、行きますよ」 | "Kosame, could you come outside with me for a moment? Come on, let's go." | “小雨，去外面玩会吧，来吧，我们走吧”
+scn00_41_0148 | こさめ(Kosame) | 「ええっ、どうして～～？」 | "Huh? But whyyy?" | “哎，为什么～～？”
+scn00_41_0149 | ココロ(Cocoro) | 「こさめを隔離してきました、さあ、話の続きをしましょう」 | "I've successfully isolated Kosame. Let's continue." | “我将小雨隔离起来了，来吧，继续刚刚的话题吧”
+scn00_41_0150 | 霧香(Kirika) | 「……むぅ」 | "Mmh..." | “……呣”
+scn00_41_0151 | ココロ(Cocoro) | 「霧香？　顔が赤いですよ。仕事のしすぎで体調が悪いのでは」 | "Kirika? Your face is red. Are you feeling unwell from working too hard?" | “雾香？　你的脸好红，是工作太久导致身体不舒服了吗？”
+scn00_41_0152 | 霧香(Kirika) | 「な、なんでもないわ。それより、そんな機能の追加予定があったの？」 | "I-I'm fine. Anyway, was it planned for such a feature to be implemented in you?" | “没、没什么。话说，真的有追加那种机能的预定吗？”
+scn00_41_0153 | ココロ(Cocoro) | 「はい。資料を検索してください」 | "Affirmative. Please search the records." | “是的，请搜索资料看看”
+scn00_41_0154 | - | …………。 | ... | …………
+scn00_41_0155 | 霧香(Kirika) | 「……ほんとだわ、ちゃんと記載がある。けど、仕様もなにも決まっていないじゃない」 | "...Wow, you're right. It's all written here. But it looks like the specifications weren't decided on yet." | “……真的啊，还真有记录。但是，方法这些不是全都没决定好嘛”
+scn00_41_0156 | ココロ(Cocoro) | 「ですが、計画のうちに含まれています」 | "However, it was originally part of my design." | “但是，这都包含在计划中”
+scn00_41_0157 | 霧香(Kirika) | 「姉さんは、ロボットと人が結婚できる未来を創りたいって話してた……。当然、こういう事も考えてるわよね……」 | "My sister did tell me that she dreamed of a future where robots and humans could marry... It makes sense that she thought of ." | “姐姐说过，要创造一个机器人和人类可以结婚的未来……会考虑这种事也很正常啊……”
+scn00_41_0158 | ココロ(Cocoro) | 「この機能が実装されなければ、ワタシはひなたさんと初夜を[むか]迎えられません」 | "Without this feature, I won't be able to have my wedding night with Hinata-san." | “在这个机能实装之前，我就无法和日向先生圆房”
+scn00_41_0159 | ココロ(Cocoro) | 「そうすると、きっとひなたさんはワタシに愛想を[つ]尽かし、離婚の危機というわけです」 | "I'm afraid that he will be disappointed with me and suggest a divorce." | “这样一来，日向先生肯定会对我失去兴趣，也就是会面临离婚危机”
+scn00_41_0160 | 霧香(Kirika) | 「ぅぅ……そんな事言われたって、私じゃどうしようもないわよぉ」 | "Hmm... I understand, but this isn't something I can fix on my own..." | “呜呜……就算你和我说，我也没办法啊”
+scn00_41_0161 | ココロ(Cocoro) | 「そこをなんとか」 | "Please, I beg you." | “还请你想想办法”
+scn00_41_0162 | 霧香(Kirika) | 「機能の問題なのかしら……」 | "I wonder, will you really  that feature?" | “是机能上的问题吗……”
+scn00_41_0163 | ココロ(Cocoro) | 「ちがいますか？」 | "What do you mean?" | “不是吗？”
+scn00_41_0164 | 霧香(Kirika) | 「愛し合うと言っても、ほら……色々あるから」 | "There are... well, lots of ways to express your love." | “就算是互诉爱意……也是有其他方式的对吧”
+scn00_41_0165 | ココロ(Cocoro) | 「なるほど。ワタシには、そういった知識が不足しています。霧香はオトナの女性ですし経験も豊富で、きっとさぞや詳しいのでしょう」 | "I see. My knowledge on this topic is extremely limited. As a grown-up woman, you must have plenty of relevant experience, right?" | “原来如此，我这方面的知识很少。雾香是成年女性经验很丰富，肯定知道得比我更清楚吧”
+scn00_41_0166 | 霧香(Kirika) | 「うっ……べ、別に経験豊富とかそういうわけじゃ……だって高校生の頃には、姉さんみたいな研究者になるって目標があったし……」 | "Uhh... I-I wouldn't say so... When I was in high school, I was already aiming to become a researcher like my sister." | “呜……我、我也并没有经验丰富……毕竟我高中时期就是想成为像姐姐那样的研究者……”
+scn00_41_0167 | 霧香(Kirika) | 「これでも学生時代は結構モテてたのよ？　今も、たまに言い寄ってきてくれる男の人もいるし……」 | "Still, I was pretty popular in school, you know? Even now I occasionally have guys hitting on me." | “我学生时代可是挺受欢迎的哦？　现在也偶尔有些男人会来接近我……”
+scn00_41_0168 | 霧香(Kirika) | 「でもこんな事になっちゃって……そんな暇全然ないし……ないし……ぅぅ……」 | "But then all this happened, and... I didn't have time for stuff like that anymore... And... Uhh..." | “但这种事……我完全没有时间去做……呜呜……”
+scn00_41_0169 | ココロ(Cocoro) | 「霧香？　どうしましたか、目尻に涙が浮かんでいます」 | "Kirika? What's the matter? There are tears in your eyes." | “雾香？　怎么了，眼角溢出泪水了”
+scn00_41_0170 | 霧香(Kirika) | 「私だって、もっと恋愛とかしたかったわ！　でもさぁ、無理じゃない？　必死に勉強しなきゃいけなかったんだもん！」 | "I would've loved to get into the dating scene! But you know, it was impossible! I had to study so hard!" | “我也想多谈谈恋爱啊！　但这不是没办法吗？　毕竟不拼命学习就不行啊！”
+scn00_41_0171 | 霧香(Kirika) | 「就職してからだって勉強は続けてたし？　姉さんが死んじゃって、ひなたを引き取って、慣れないお母さん代理をやったりして？」 | "Even after I found a job, I kept studying... And after my sister died, I took in Hinata and became his foster mother..." | “工作了之后也还是在一直学这些？　姐姐死后，我还将日向接了过来，扮演着蹩脚的代理母亲？”
+scn00_41_0172 | 霧香(Kirika) | 「今は『厄災』の原因究明しなきゃだし！　モテる自信あったから、恋愛なんていつでもできるって思ってたら、この年よっ」 | "And now I've got to find the cause of the Calamity! I knew I was attractive, so I thought I could start dating whenever I wanted, but it just never happened and now I'm old!" | “现在又必须得探明‘灾厄’的原因！　就是因为相信自己很受欢迎，才会觉得恋爱什么时候谈都行，结果就到这把年纪了啊”
+scn00_41_0173 | ココロ(Cocoro) | 「落ち着いてください、どうしたんですか急に？」 | "Please calm down. This is all rather sudden. What's wrong?" | “冷静一点，突然之间这是怎么了？”
+scn00_41_0174 | ココロ(Cocoro) | 「……どうしましょう、霧香が壊れてしまいました。緊急メンテナンスを提案します」 | "What should I do? Kirika seems to be experiencing some sort of bug. I recommend emergency maintenance." | “……怎么办，雾香坏掉了，我提议进行紧急维护”
+scn00_41_0175 | 霧香(Kirika) | 「はぁ～～…………私、何やってんだろう」 | "Hahhh... What the heck is wrong with me?" | “哈～～………………我到底在干什么啊”
+scn00_41_0176 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_41_0177 | ココロ(Cocoro) | 「よしよし、あなたは大丈夫です霧香。立派な女性です。恋人を作る機会もきっとあります」 | "It's okay. You're okay, Kirika. You're an exemplary woman. I'm sure you will have the opportunity to find a partner." | “好啦好啦，雾香肯定没问题的，你是一名出色的女性，肯定还会有找到恋人的机会”
+scn00_41_0178 | 霧香(Kirika) | 「ココロぉぉ～～～～～～」 | "Cocoroooooo!" | “心～～～～～～”
+scn00_41_0179 | ココロ(Cocoro) | （はて？　どうしてワタシは霧香を慰めているのでしょう？　相談をしに来たはずなのに） | (What  this situation? Why am I comforting Kirika-san when the reason I came here was to ask her for advice?) | （怎么办？　为什么我会安慰起雾香来啊？　我明明是来找她咨询的）
+scn00_41_0180 | ココロ(Cocoro) | 「ミルクたっぷりのコーヒーを淹れてきてあげましたよ、これを飲んで落ち着いてください」 | "Here, I made you some coffee with plenty of milk. I hope it will help you relax." | “我泡了一杯放了很多牛奶的咖啡哦，喝下去冷静冷静吧”

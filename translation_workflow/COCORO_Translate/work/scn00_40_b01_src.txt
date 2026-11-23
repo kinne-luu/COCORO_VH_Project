@@ -1,0 +1,63 @@
+# scene=scn00_40 batch=1/7 dòng 1-59 / 394
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_40_0001 | - | 霧香さんのところを出た後、街に戻る前に植物園へ寄る事にした。 | After leaving Kirika-san to her work, we decide to stop by the botanical garden on our way back to town. | 我们在离开雾香小姐那里后，决定在回到街上之前先去植物园里转转。
+scn00_40_0002 | ココロ(Cocoro) | 「……ととっ」 | "Whoops!" | “……哦哦”
+scn00_40_0003 | - | ココロが何もないところで[つまず]躓いて転びそうになる。 | Cocoro suddenly trips over nothing. | 心差点在平地被绊倒了。
+scn00_40_0004 | - | 慌てて抱き留める。 | I reflexively catch her in my arms. | 我急忙抱住了她。
+scn00_40_0005 | ココロ(Cocoro) | 「すみません、目測を誤りました」 | "My apologies. I made an error in my spatial calculations." | “对不起，目测出错了”
+scn00_40_0006 | ひなた(Hinata) | 「大丈夫……？」 | "Are you okay...?" | “没事吧……？”
+scn00_40_0007 | ココロ(Cocoro) | 「何度か大きな衝撃を受けたせいで、アライメントに[ゆが]歪みが発生しています」 | "My alignment is distorted due to having been subjected to multiple high-impact shocks." | “由于多次受到剧烈冲击，我的中心轴出现了偏移”
+scn00_40_0008 | ココロ(Cocoro) | 「でも大丈夫、平衡感覚を補正すればなんともありません」 | "But please don't worry. I just need to compensate for the distortions by adjusting my balance." | “不过没关系，只要用平衡感进行补正就没问题了”
+scn00_40_0009 | - | ココロは笑顔で答えるけど、少し心配だった。 | Cocoro is smiling, but I can't help but worry a little. | 虽然心是笑着回答我的，但我还是有些担心。
+scn00_40_0010 | ひなた(Hinata) | 「手をつないでよう。ほら」 | "Let's hold hands. Here." | “我们牵着手走吧，来”
+scn00_40_0011 | ココロ(Cocoro) | 「ふたりで支え合うわけですね。夫婦っぽさがあっていいと判断します」 | "You're suggesting that we provide physical support to each other? That's very much something a married couple would do. I approve." | “是要两个人相互扶持着对吧，就像夫妻一样，我觉得很不错”
+scn00_40_0012 | - | 俺たちは手をつないで歩いた。 | Our hands come together, and we keep walking. | 我们牵着手走了起来。
+scn00_40_0013 | 光太郎(Kotaro) | 「よっ、少年たち」 | "Hey, kiddos." | “你们好啊，少年”
+scn00_40_0014 | ひなた(Hinata) | 「……先客がいた」 | "...I thought we were alone." | “……有人先来了”
+scn00_40_0015 | 光太郎(Kotaro) | 「なんだよ、お邪魔だったかい？」 | "What? Am I interrupting something?" | “怎么了嘛，是我打扰到你们了吗？”
+scn00_40_0016 | ひなた(Hinata) | 「いえ別に」 | "No, not in particular." | “没有”
+scn00_40_0017 | ココロ(Cocoro) | 「……むー」 | "Mrmmm..." | “……呣——”
+scn00_40_0018 | ひなた(Hinata) | 「顔に出てるよ、ココロ」 | "You're pouting, Cocoro." | “想法都写在表情上了哦，心”
+scn00_40_0019 | ココロ(Cocoro) | 「これは失礼しました。せっかくひなたさんとふたりきりで、手つなぎ植物園デートできるものと思っていましたのに」 | "I apologize for my rudeness, but I thought I would finally be able to enjoy a private date with Hinata-san at the garden." | “这还真是失礼了。我还想着难得能和日向先生两个人牵着手进行一次植物园约会呢”
+scn00_40_0020 | - | 声にも出してしまっていた。 | She sounds pretty peeved. | 想法也都从嘴里说出来了。
+scn00_40_0021 | 光太郎(Kotaro) | 「……しかし、信じられないな。この娘がロボットだなんて」 | "...I still find it hard to believe that you're actually a robot." | “……不过，真是难以置信啊，没想到这个姑娘居然是机器人”
+scn00_40_0022 | ココロ(Cocoro) | 「失礼ですよ、光太郎。あなたは『信じられない、こんな奴がヒトだなんて』と言われてどう思いますか？」 | "Now 're being rude, Kotaro. How would you feel if somebody said to you, 'I can't believe you're actually a human'?" | “很没礼貌哦，光太郎。如果有人对你说‘真是难以置信，没想到这种家伙居然是人类’你会怎么想？”
+scn00_40_0023 | 光太郎(Kotaro) | 「おっと……すまん。ヒューマノイドとのコミュニケーションに慣れていなくて」 | "Oh... My bad. I'm not used to talking with humanoids." | “哎呀……抱歉，我还不太习惯和仿生人交流”
+scn00_40_0024 | ひなた(Hinata) | 「何をしてるんですか、こんなところで」 | "What are you doing here?" | “你在这里做什么？”
+scn00_40_0025 | 光太郎(Kotaro) | 「駆除隊の任務から解放されたんでね、散歩がてらセントラルエリアの状態を見て回ってたんだ」 | "I was relieved of my extermination squad duties, so I'm out patrolling Central in the meantime." | “我已经从驱除队的任务中解放出来了，所以就在一边散步一边检查中心区的状态”
+scn00_40_0026 | ひなた(Hinata) | 「公安調査官……でしたっけ」 | "You're actually a... public security officer, was it?" | “公安调查官……来着”
+scn00_40_0027 | 光太郎(Kotaro) | 「その件は忘れてくれ。でないと俺が上から叱られる」 | "Forget I ever mentioned that, or else the bigwigs are gonna give me an earful." | “这件事你就忘掉吧，不然我要被上面骂了”
+scn00_40_0028 | - | 本来なら身分を隠したまま任務を遂行するはずだったんだろう。それができなくなったのは、ココロや俺たちを守るためだ。 | He must've been under orders to keep his identity a secret while he carried out his mission, but he was forced to reveal it to protect Cocoro and the rest of us. | 他原本应该是要隐瞒身份完成任务的吧，但却为了保护心和我们这些人而无法再继续隐瞒下去了。
+scn00_40_0029 | ひなた(Hinata) | 「駆除隊の目的は、『厄災』の証拠隠滅だって言ってましたけど、どういう事なんですか？」 | "You said the extermination squad was trying to erase evidence related to the Calamity. What did you mean by that?" | “你之前说驱除队的目的是消灭‘灾厄’的证据，这到底是怎么一回事？”
+scn00_40_0030 | - | なぜそんな事をする必要があるんだろう。 | Why would they need to do that? | 为什么要做这种事？
+scn00_40_0031 | 光太郎(Kotaro) | 「『厄災』の原因が明るみになると、困る人たちがいるんだよ。責任を取らされるからね。嫌だね、大人の世界は」 | "Some people wouldn't like it if the cause of the Calamity became known. They could be held responsible. Once you become an adult, the world gets terribly complicated." | “如果‘灾厄’的原因被探明了，那么某些人就有麻烦喽，毕竟得让他们负起责任来啊。大人的世界真肮脏啊”
+scn00_40_0032 | - | つまり、そのために駆除隊を使い、調査チームに同行させる事で、霧香さんが証拠に辿り着く前に証拠隠滅しようとしていたのか。 | So, by putting together an extermination squad to accompany the investigation team, they were planning to destroy the evidence before Kirika-san could find it? | 也就是说，那些人就是为此才会让驱除队和调查队同行，在雾香小姐找出证据前将证据消灭。
+scn00_40_0033 | ひなた(Hinata) | （駆除隊の不自然な行動に説明が付く） | (That would definitely explain their strange behavior.) | （这下驱除队那不正常的行动就能解释得通了）
+scn00_40_0034 | - | それを阻止するために、光太郎さんは潜入調査をしていたのか。危険な任務だ。 | Did Kotaro-san infiltrate them to stop them from achieving their goal? That sounds really dangerous. | 光太郎先生就是为了阻止他们才来潜入调查的么，这任务还真是危险。
+scn00_40_0035 | ひなた(Hinata) | （隊長は誰かに[やと]雇われてたって言ってたけど……） | (Didn't the squad leader mention they were hired by someone...?) | （队长倒是说过自己是被人雇来的……）
+scn00_40_0036 | - | 『厄災』の原因がセントラルで行われていた研究にあるとなれば、一企業の責任では済まないだろう。 | If the research being carried out in Central caused the Calamity, then the responsibility doesn't lie with a single organization. | 如果‘灾厄’的原因是中心区进行的研究，那就不单单是一个企业的责任了。
+scn00_40_0037 | - | そのためにココロを存在ごと消そうという人間がいるというのか。 | Is that why there are so many people who want to erase Cocoro from existence? | 所以才会有人想要让心消失啊。
+scn00_40_0038 | ひなた(Hinata) | 「霧香さんの身の安全を保証してくれますか」 | "Would you be able to ensure Kirika-san's safety?" | “能保证雾香小姐的人身安全吗”
+scn00_40_0039 | 光太郎(Kotaro) | 「もちろん。今の俺の任務は機月主任の護衛と、証拠であり未来への希望でもあるココロちゃんの保護だ」 | "Of course. My current mission is to guard Chief Kizuki and to protect Cocoro, who's both an important witness and our hope for the future." | “当然了，我现在的任务就是当机月主任的保镖，还有保护既是证据又是未来希望的心”
+scn00_40_0040 | 光太郎(Kotaro) | 「なんでまあ、ココロちゃんが俺と一緒に来てくれるとありがたいんだが」 | "That's why I'd really appreciate it if Cocoro-chan could come with me." | “所以呢，如果心能跟我走那是最好的”
+scn00_40_0041 | - | 光太郎さんが手を差し出す。 | Kotaro-san reaches out his hand. | 光太郎先生伸出了手。
+scn00_40_0042 | 光太郎(Kotaro) | 「ひなた少年は緊急時に設定された仮のマスターだったよな」 | "You acknowledged Hinata as your temporary master because the urgency of the situation at the time called for it, correct?" | “日向少年是紧急时期设定的代理主人对吧”
+scn00_40_0043 | ココロ(Cocoro) | 「はい」 | "Yes." | “是的”
+scn00_40_0044 | 光太郎(Kotaro) | 「俺は言わば、君の正式な所有者の代理人だ。わかるだろう？」 | "I'm your rightful owners' representative. Do you understand what that means?" | “我说起来应该算是你正式所有者的代理人，你明白吧？”
+scn00_40_0045 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_40_0046 | - | ココロが光太郎さんの手を取ろうとする。 | Cocoro's hand gravitates toward Kotaro-san's. | 心将手伸向了光太郎先生的手。
+scn00_40_0047 | - | ロボットは人の命令に逆らえない。それが、正当な権利者であればなおさら。 | A robot can't disobey a human's orders, especially if that human is their rightful owner. | 机器人无法违抗人类的命令，如果是有正当权利的人更是如此。
+scn00_40_0048 | - | パシッ。ココロがその手を払った。 | But then Cocoro slaps his hand away. | 心啪地一声，拍开了那只手。
+scn00_40_0049 | ココロ(Cocoro) | 「法的にはそうなのかもしれません。ワタシがただの物であるのなら」 | "Perhaps that's the case on paper, but that law only applies to inanimate objects." | “如果我只是一个物品，按照法律或许是这样没错”
+scn00_40_0050 | ココロ(Cocoro) | 「しかし、ワタシにはワタシの意志が存在します。それにひなたさんが気付かせてくれました」 | "I have my own free will, and Hinata-san allowed me to realize that." | “但是，我拥有自己的意志，是日向先生让我注意到了这一点”
+scn00_40_0051 | 光太郎(Kotaro) | 「自分の意志でルールを破り、正当な命令をはね[の]除ける……。君は人類の味方なのか、敵なのか」 | "And you'll follow your own will to break rules and ignore official orders...? What are you to humanity? Friend or foe?" | “以自己的意志打破规则，违抗正当的命令……你是人类的盟友，还是敌人”
+scn00_40_0052 | ココロ(Cocoro) | 「敵でも味方でもなく、友人になりたいです」 | "I'm neither at the moment, but I'd like to be a friend." | “我既不想当敌人也不想当盟友，而是想成为朋友”
+scn00_40_0053 | 光太郎(Kotaro) | 「……」 | "..." | “……”
+scn00_40_0054 | - | 光太郎さんが恐い顔でココロを睨んでいた。 | Kotaro-san stares Cocoro down with a scary face. | 光太郎先生用可怕的表情盯着心看。
+scn00_40_0055 | - | けど、すぐにまた笑みを浮かべる。 | But then, he immediately smiles again. | 但却又立刻换上了一副笑脸。
+scn00_40_0056 | 光太郎(Kotaro) | 「フッ……俺もそうできたらって思ってる。だから、機月主任の力になりたいんだ」 | "Heh... I should take a page out of your book. I want to be a friend and supporter to Chief Kizuki, too." | “呼……我也觉得如果能变成那样就好了，所以才会想要成为机月主任的助力”
+scn00_40_0057 | ひなた(Hinata) | 「霧香さんをお願いします」 | "She'll be in capable hands with you." | “雾香小姐就拜托你了”
+scn00_40_0058 | 光太郎(Kotaro) | 「そのためには主任ともっと親睦を深めねばならない。少年、何か有益な情報はないか」 | "I need to get to know her better before I can really help her, though. Hey kid, do you have any tips that might come in handy?" | “为此我需要和主任更加亲密才行，少年，你有什么对此有帮助的情报吗？”
+scn00_40_0059 | ひなた(Hinata) | 「有益な情報……」 | "Tips...?" | “有帮助的情报……”

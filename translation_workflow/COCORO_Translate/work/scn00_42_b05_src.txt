@@ -1,0 +1,64 @@
+# scene=scn00_42 batch=5/7 dòng 241-300 / 428
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_42_0241 | ココロ(Cocoro) | 「いえ、なんでもありません。時折、虚空を見つめる猫の真似をしただけです」 | "Oh, it's nothing. I was just trying to imitate the way cats seem to stare into nothingness sometimes." | “没什么，只是心血来潮模仿了一下凝视着虚空的猫而已”
+scn00_42_0242 | ひなた(Hinata) | 「なぜ今、猫の真似を……？」 | "Why would you do that...?" | “为什么现在要模仿猫……？”
+scn00_42_0243 | ココロ(Cocoro) | 「統計データによると、ヒトは猫が好きですので、真似をすると愛嬌を感じていただけるのではないかと思いましたニャン」 | "According to statistical data, the majority of humans like cats, so I thought that imitating cats would make me even more lovable, meow." | “根据统计数据，人类是喜欢猫的，所以我就在想如果模仿猫咪是不是就能让人觉得我很可爱喵”
+scn00_42_0244 | ひなた(Hinata) | 「っ……」 | "..." | “……”
+scn00_42_0245 | ココロ(Cocoro) | 「ニャ？」 | "Meow?" | “喵？”
+scn00_42_0246 | ひなた(Hinata) | 「カワイイの不意打ちだよ……」 | "You caught me off guard with your cuteness..." | “你这是在用可爱突然袭击我啊……”
+scn00_42_0247 | - | そんなこんなで、リハーサルも無事に終わった。 | And so, the rehearsal finished without any major problems. | 就这样，彩排也圆满结束了。
+scn00_42_0248 | - | 後は結婚式当日を待つだけだった。 | All that's left is to wait for the big day. | 之后就只剩下等待婚礼当天的到来了。
+scn00_42_0249 | ココロ(Cocoro) | 「えへへ……へへ……えへへへ…………」 | "Hehehe... Hehe... Hehehe..." | “哎嘿嘿……嘿嘿……哎嘿嘿嘿…………”
+scn00_42_0250 | - | 夕飯の後ココロは、トルソーに着せて飾ってあるウェディングドレスを眺めてニヤニヤしていた。 | That night after dinner, Cocoro is dreamily staring at the dress, which she put on display on a mannequin in a corner of the room. | 吃完晚饭后，心看着穿在人体模型身上装饰好的婚纱嘿嘿笑着。
+scn00_42_0251 | - | 心を自覚してからというもの、無自覚な表情が自然と浮かんでくるようになった。 | Ever since she became aware of her own soul, she's started showing her emotions unconsciously. | 自从她意识到自己拥有心灵后，表情就会在她无意识中自然地浮现在脸上。
+scn00_42_0252 | ココロ(Cocoro) | 「……早くこのドレスを着て、あの場所に立ちたいです」 | "...I can't wait to wear the dress and stand next to you at our wedding." | “……好想赶快穿上这件婚纱站在那个地方啊”
+scn00_42_0253 | - | 植物園で結婚式のリハーサルをして帰ってきてから、ずっとこの調子だ。 | She's been looking at the dress ever since we got back from the rehearsal at the botanical garden. | 从植物园的婚礼彩排回来后，她便一直是这个样子。
+scn00_42_0254 | ひなた(Hinata) | （まあ、俺も楽しみなんだけどね） | (Well, I'm looking forward to it, too.) | （不过，我也是很期待啊）
+scn00_42_0255 | - | リハーサルをした事で、ぐっと現実味を増したというか、イメージできるようになった。 | Doing the rehearsal allowed me to visualize how it's all going to go, which made it feel all the more real. | 彩排过后一下子就增加了现实感，或者说能想象出来了。
+scn00_42_0256 | - | ガラス越しに降り注ぐ陽射しを浴びながら、緑に囲まれた通路を歩く純白のドレスを[まと]纏ったココロ。さぞや綺麗だろう。 | Imagine Cocoro in her white dress walking down the aisle, surrounded by greenery and bathed in gentle sunlight shining down through the glass dome... It's going to be gorgeous. | 沐浴在透过玻璃照射下来的阳光下，走在绿意盎然的道路上，穿着洁白婚纱的心，一定很漂亮吧。
+scn00_42_0257 | ひなた(Hinata) | 「出しっぱなしにしてると、汚しちゃうよ」 | "The dress might get dirty if you don't put it away safely." | “你总拿出来小心弄脏了哦”
+scn00_42_0258 | ココロ(Cocoro) | 「それは大変危険です。汚れがないか、ワタシの高感度センサーで注意深く見守っておかないとですね」 | "Oh no, that would be a disaster. I'll have to keep a close eye on it using all my highly sensitive sensors." | “那还真是危险，看来必须要用我高灵敏度的传感器来仔细检查一下上面有没有污渍了呢”
+scn00_42_0259 | ひなた(Hinata) | 「いや、仕舞おうよ」 | "Why don't you just put it back in the bag?" | “别，你还是收起来吧”
+scn00_42_0260 | ココロ(Cocoro) | 「ええ～～」 | "Whaaa!?" | “哎哎～～”
+scn00_42_0261 | ココロ(Cocoro) | 「今夜一晩だけ、出しておいてはいけませんか？　絶対汚さないよう、ワタシの全スペックをもって対処いたしますので」 | "Can I leave it out here for just one night? I will use the full extent of my specifications to ensure that it won't get dirty." | “只在今晚拿出来不行吗？　我会动用所有功能，绝对不会弄脏的”
+scn00_42_0262 | ひなた(Hinata) | 「いいよ、好きにしな」 | "Fine, it's yours to do with what you like." | “可以啊，就按你的想法来吧”
+scn00_42_0263 | ココロ(Cocoro) | 「はい！」 | "Yeah!" | “好！”
+scn00_42_0264 | - | ちょっと心配ではあるのだけど、こんなに嬉しそうにしてるのを見せられると、ダメとも言い辛い。 | I'm a little worried, but it's hard to say no when she looks so happy. | 我虽然还是有点担心，但看到她这么开心，也很难把不行两个字说出口。
+scn00_42_0265 | ひなた(Hinata) | （ドレスも大切だけど、今ココロが感じている感情も大切にしてあげたい） | (Keeping the dress clean is important, but respecting Cocoro's feelings right now is just as important.) | （虽然婚纱很重要，但我也想让她好好珍惜一下现在感受到的感情）
+scn00_42_0266 | ココロ(Cocoro) | 「えへへ……へへへ……えへへへ……うふふ」 | "Hehehe... Hehehe... Ehehehe... Teehee..." | “哎嘿嘿……嘿嘿嘿……哎嘿嘿嘿……呵呵”
+scn00_42_0267 | - | ニヤニヤしているココロを横目に、俺は電話の受話器を手に取る。 | I keep an eye on Cocoro as I pick up the phone receiver. | 我用余光看着傻笑的心，拿起了电话听筒。
+scn00_42_0268 | ひなた(Hinata) | 「さてと……」 | "Let's see..." | “好了……”
+scn00_42_0269 | - | 通話記録のリストの中から、相手の名前を選ぶ。 | I scroll through the call history and find the name of the person I want to talk to. | 我从通话记录中选择了一个名字。
+scn00_42_0270 | - | そこをタップすれば電話を掛けられる。 | Only one tap of a button will make the call. | 只要点上去电话便会拨通。
+scn00_42_0271 | ひなた(Hinata) | 「……スゥ……ハァ……」 | "Hfff... Hahhh..." | “……嘶……哈……”
+scn00_42_0272 | - | 緊張をほぐすため、深呼吸をする。 | I take a deep breath in an attempt to calm my nerves. | 我为了缓解紧张的情绪，深呼吸了一口气。
+scn00_42_0273 | ひなた(Hinata) | 「……よし」 | "...All right." | “……ok”
+scn00_42_0274 | - | タップすると、受話器からコール音が聞こえてきた。 | I tap the button, and the ringing tone sounds. | 点上去后，话筒中便发出了呼叫音。
+scn00_42_0275 | - | ……。 | ... | ……
+scn00_42_0276 | - | …………。 | ...... | …………
+scn00_42_0277 | - | ………………。 | ......... | ………………
+scn00_42_0278 | - | 出ない。 | No answer. | 没人接。
+scn00_42_0279 | ひなた(Hinata) | 「……いないのかな」 | "Guess he's not home." | “……是不在吗”
+scn00_42_0280 | - | 通話を切断すると、コール音が鳴り止んだ。 | I hang up, and the ringing ends. | 挂断电话后，呼叫音也停了下来。
+scn00_42_0281 | - | つながらない事に安心してしまった自分に気付いて、少し落ち込んでしまった。 | When I realize that I breathed a sigh of relief, I get a little upset at myself. | 我在注意到自己因为电话没打通而松了一口气后，感到有些消沉。
+scn00_42_0282 | ココロ(Cocoro) | 「？」 | "Huh?" | “？”
+scn00_42_0283 | ひなた(Hinata) | 「ふぅ……」 | "Hahhh..." | “唉……”
+scn00_42_0284 | - | 無意識にため息をついている俺の手を、ココロがそっと握った。 | I must've been holding my breath unconsciously. Cocoro notices and softly grabs my hand. | 我无意中叹了一口气，心听到后轻轻握住了我的手。
+scn00_42_0285 | ココロ(Cocoro) | 「少し散歩でもしませんか？」 | "Can we go out for a walk?" | “去散散步吗？”
+scn00_42_0286 | ひなた(Hinata) | 「こんな時間から？」 | "At this time of night?" | “这个时间吗？”
+scn00_42_0287 | - | もう外は真っ暗だ。 | It's already dark outside. | 外面已经彻底黑了。
+scn00_42_0288 | - | どうせ、もう一度掛け直すのに時間をおかないといけない。だったら、ココロと散歩して時間を[つぶ]潰すのも悪くないか。 | But I'll need to wait a while before trying again. If that's the case, I might as well kill some time walking with Cocoro. | 反正也要隔段时间才好再打一次，既然如此，和心散个步打发一下时间也不是不行。
+scn00_42_0289 | ひなた(Hinata) | 「……うん、行こうか」 | "Sure, let's go." | “……嗯，走吧”
+scn00_42_0290 | ココロ(Cocoro) | 「はい」 | "Okay." | “好”
+scn00_42_0291 | 犬(Dog) | 「……ワゥ？　ワンワン！！」 | "Woo? Woof woof!!" | “……呜？　汪汪！！”
+scn00_42_0292 | - | ココロと連れだって外へ出ると、寝そべっていた犬が耳をピクンとさせて起き上がった。 | When I go outside with Cocoro, the dog, who had been sleeping just outside, twitches his ears and perks up. | 我和心刚一出门，躺在一边的狗耳朵一竖就站了起来。
+scn00_42_0293 | ココロ(Cocoro) | 「あなたも一緒に散歩しますか？」 | "Do you want to come for a walk, too?" | “你也要一起来散步吗？”
+scn00_42_0294 | 犬(Dog) | 「ワン！！」 | "Woof!!" | “汪！！”
+scn00_42_0295 | ココロ(Cocoro) | 「ひなたさん、この子も連れて行ってあげてよろしいでしょうか」 | "Hinata-san, can we bring the dog?" | “日向先生，可以把它也带上吗？”
+scn00_42_0296 | ひなた(Hinata) | 「いいよ」 | "Sure." | “可以啊”
+scn00_42_0297 | ココロ(Cocoro) | 「よかったですね、許可が出ましたよ」 | "You got permission to join us. Aren't you glad?" | “真好呢，你获得许可了哦”
+scn00_42_0298 | - | ココロはそう言って、犬の首輪に散歩用のヒモを付け替えてやる。 | Cocoro talks to the dog as she attaches the leash to his collar. | 心说着，将散步用的绳子系在了狗的项圈上。
+scn00_42_0299 | ココロ(Cocoro) | 「さ、参りましょう」 | "All right, let's go." | “来，咱们出发吧”
+scn00_42_0300 | - | こうして人間とヒューマノイドと犬という、よく考えたら不思議な組み合わせで夜の散歩に出かけていった。 | And so, our strange pack—human, humanoid, and dog—heads out for an evening stroll. | 这么一个由人类、仿生人和狗组成的神奇组合，在晚上出门散起了步。

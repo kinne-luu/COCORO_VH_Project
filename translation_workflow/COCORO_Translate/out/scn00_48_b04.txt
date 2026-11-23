@@ -1,0 +1,39 @@
+scn00_48_0185 | "Gâu..."
+scn00_48_0186 | Chú chó Natsu đảm nhận trọng trách thiêng liêng trao nhẫn cưới (ring dog) nay đã là một cụ chó già.
+scn00_48_0187 | Cụ ta bắt đầu có dấu hiệu lú lẫn và thường ngày chỉ nằm ngủ li bì suốt ngày, thế nhưng hễ nhìn thấy Cocoro là lại hăm hở quấn quýt như thuở nào rồi bị cô ấy xua đuổi phũ phàng.
+scn00_48_0188 | "Bộ váy cưới kịp hoàn thành trước hôn lễ may thật đấy nha~. Hợp với cậu cực kỳ luôn!"
+scn00_48_0189 | "Phải đấy, phải đấy, thực sự là hợp lắm cháu à~"
+scn00_48_0190 | Chiếc váy cưới của Cocoro là do chính tay bà Yoshino may tặng.
+scn00_48_0191 | Chiếc váy từng bị thiêu cháy và lấm lem bùn đất trong cuộc tập kích kinh hoàng ngày hôm đó, theo nguyện vọng tha thiết của Cocoro, bà cụ đã cất công tái tạo lại y như nguyên bản.
+scn00_48_0192 | Câu cửa miệng của bà Yoshino bao năm qua luôn là 'Trước khi may xong chiếc váy cưới cho bé Cocoro thì bà già này chưa thể chết được đâu'. Kịp hoàn thành thế này thật tốt biết bao.
+scn00_48_0193 | "Chà, công nhận là đẹp thật đấy. Trông khác hẳn làm chú suýt nữa thì không nhận ra luôn."
+scn00_48_0194 | "Cuối cùng thì hai đứa cũng có thể viết tiếp câu chuyện dang dở của ngày hôm đó rồi nhỉ..."
+scn00_48_0195 | Chú Kotaro thường xuyên viện đủ mọi lý do để lui tới công ty chúng tôi.
+scn00_48_0196 | Dù có mục đích cá nhân riêng, nhưng tôi đoán trong đó cũng có cả nhiệm vụ giám sát công ty chúng tôi nữa.
+scn00_48_0197 | Dù là một đối tượng không thể lơ là mất cảnh giác, nhưng chú ấy tuyệt đối không phải là kẻ xấu.
+scn00_48_0198 | Dì Kirika bảo rằng: 'Cứ để chú ấy nắm rõ mọi chuyện của chúng ta từ đầu đến cuối, như thế càng đỡ bị người ta dòm ngó nghi kỵ vô cớ'.
+scn00_48_0199 | Tôi cũng hoàn toàn đồng tình với ý kiến đó.
+scn00_48_0200 | "Có vẻ như mọi người đều đã bị những đường cong cơ thể đầy ma mị quyến rũ của tôi hớp hồn hết cả rồi nhỉ. Cũng phải thôi, dù sao tôi đây giờ cũng đã thành người lớn rồi mà lị."
+scn00_48_0201 | "Cocoro công nhận chẳng đổi khác gì cả. Cứ mãi mãi giữ được tâm hồn trẻ con như mày ghen tị thật đấy."
+scn00_48_0202 | "Cái đồ đàn ông thô thiển ngốc nghếch vô duyên. Biết thế tôi chẳng thèm mời cậu tới đây làm gì."
+scn00_48_0203 | "Ủa, tao vừa bị mắng đấy à?"
+scn00_48_0204 | "Anh hai thật là..."
+scn00_48_0205 | "Và sau đây, xin kính mời cô dâu và chú rể trao nhau nụ hôn thề nguyền."
+scn00_48_0206 | Toàn thể quan khách đồng thanh ồ lên những tiếng reo hò đầy mong đợi.
+scn00_48_0207 | "Cậu đẹp lắm, Cocoro."
+scn00_48_0208 | "Dù tôi đã nắm rõ đây là một sự thật khách quan hiển nhiên rồi... nhưng được xác nhận quan điểm chủ quan của cậu Hinata trùng khớp với sự thật ấy khiến tôi vui lắm, cậu Hinata."
+scn00_48_0209 | Trước sự chứng kiến của mọi người, tôi và Cocoro trao nhau nụ hôn nồng thắm.
+scn00_48_0210 | Kể từ khi Cocoro thức tỉnh vào sáng nay, đây là nụ hôn đầu tiên của chúng tôi.
+scn00_48_0211 | Dù trước đó có thừa cơ hội, nhưng cô ấy cứ một mực bảo 'Bờ môi mềm mại đáng tự hào này phải để dành tới tận lễ cưới cơ', nhất quyết không chịu cho tôi hôn.
+scn00_48_0212 | "Thế nào ạ, nụ hôn sau bao ngày xa cách cảm giác ra sao?"
+scn00_48_0213 | "Tuyệt vời nhất trần đời."
+scn00_48_0214 | "Chứ còn gì nữa."
+scn00_48_0215 | "Nhân tiện thì tôi cũng hoàn toàn đồng tình. Tuyệt nhất luôn."
+scn00_48_0216 | Hòa quyện vào nhau qua nụ hôn chính là tâm tư tình cảm của hai con người.
+scn00_48_0217 | Lúc này đây, tôi đang cảm nhận rõ rệt trái tim của Cocoro qua đôi bờ môi giao hòa gắn kết.
+scn00_48_0218 | Chặng đường tương lai phía trước chắc chắn sẽ không chỉ toàn những niềm vui ngập tràn. Những gian truân, trắc trở và muôn vàn nỗi buồn ắt hẳn cũng sẽ ập tới.
+scn00_48_0219 | Nhưng dù chuyện gì xảy ra đi chăng nữa, chúng tôi cũng sẽ không bao giờ buông xuôi bỏ cuộc, mà sẽ kiên cường đương đầu và cùng nhau vượt qua... hai chúng tôi.
+scn00_48_0220 | "Tôi xin thề nhất định sẽ tạo dựng nên một tương lai ngập tràn hạnh phúc, Cocoro."
+scn00_48_0221 | "Tôi xin thề trước mùa hoa vô giá này, nhất định sẽ mang lại hạnh phúc cho cậu Hinata trọn đời."
+scn00_48_0222 | \n\n\n\n\n\n\n\nThứ Bảy, ngày 24 tháng 8 năm 20XX.
+scn00_48_0223 | %n;Tôi đã kết hôn với một cô gái humanoid.

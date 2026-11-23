@@ -1,0 +1,64 @@
+# scene=scn00_28 batch=2/6 dòng 62-121 / 354
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_28_0062 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_28_0063 | ココロ(Cocoro) | 「どうかなさいましたか？」 | "Is something wrong?" | “发生什么事了吗？”
+scn00_28_0064 | ひなた(Hinata) | 「……（ふるふる）」 | "*shake* *shake*..." | “……（摇头）”
+scn00_28_0065 | - | 見上げると、天井が割れている。 | I look up at the broken ceiling. | 向上一看，发现屋顶已经破了。
+scn00_28_0066 | - | あの夜の事は、記憶がおぼろげだ。 | My memories of that night are hazy. | 那一夜的事我记不太清楚了。
+scn00_28_0067 | - | 外で、パニックになっている大人たちと、暴走する警備ロボットを見た。 | I remember how, when I left the building, I saw panicked adults outside being chased by malfunctioning security robots. | 看到外面陷入恐慌的大人们和暴走的安保机器人之后。
+scn00_28_0068 | - | 恐くなって植物園に逃げ戻り、ここに隠れていた。 | Scared, I ran back inside and hid myself here. | 我便因为恐惧而逃回了植物园，躲在了这里。
+scn00_28_0069 | - | すると、何かが衝突するすごい音がして、ガラスが割れて、音もなく額が裂けて噴き出した血が視界を真っ赤に染めて―― | Then I heard a loud crash, and glass rained down on me. A shard sliced my forehead open, and my field of vision went red... | 然后，有什么东西冲撞了过来发出了巨大的声响，玻璃也随之碎裂，额头悄然受伤喷出的血液将视野染成了红色——
+scn00_28_0070 | - | 次に気が付いた時、俺は病院のベッドにいた。 | The next thing I remember is waking up at a hospital. | 我再次恢复意识的时候，就已经躺在医院的床上了。
+scn00_28_0071 | - | 血が付いていたであろう服も着替えさせられていて、大切にしていた母の形見も失われていた。 | My blood-stained clothes had been exchanged for a clean robe, and the memento of my mom that I'd been holding on to so dearly was gone. | 沾血的衣服也被换掉了，我十分珍惜的母亲的遗物也不见了。
+scn00_28_0072 | - | 看護師さんに何度も確認したけど、病院に運ばれてきた時には、もうなくしていたらしい。 | I asked the nurses over and over again, but they told me that I didn't have anything with me when I arrived at the hospital. | 我找护士小姐进行了再三确认，但似乎是我在被送到医院的时候遗物就已经不见了。
+scn00_28_0073 | - | なら搬送中に落としたか、そうじゃなければ、ここにあるはず。 | So, either I dropped it while I was being transported, or it's still here at the garden. | 那么会是在搬运途中掉下去了吗，如果不是的话，就就应该还在这里。
+scn00_28_0074 | ひなた(Hinata) | （……ないな） | (I don't see it...) | （没有啊）
+scn00_28_0075 | - | 屋根は割れているが、周囲をガラスドームで守られていて、風もほとんど吹かない。 | The ceiling is broken, but enough glass remains to shield the inside of the dome from the wind. | 屋顶虽然坏掉了，但四周都被玻璃穹顶保护着，风也基本吹不进来。
+scn00_28_0076 | - | 人も出入りしていないだろうから、ここに落としたのなら見付かるかもと思ったが。 | And since nobody has been visiting, I thought that if I dropped it here, it should still be here. | 应该也没人进出过这里，所以我本来是觉得如果掉在这里了没准还能找回来。
+scn00_28_0077 | - | 『ここにおとしものをしたはずなんだ』 | I think I dropped something around here. | ‘我应该是有东西遗失在这里了’
+scn00_28_0078 | ココロ(Cocoro) | 「落とし物……？」 | "You dropped something?" | “遗失的东西……？”
+scn00_28_0079 | - | ココロだけが毎日のようにここに来て、植物の世話をしていた。 | Cocoro was the only one coming to the garden every day to tend to the plants. | 只有心基本每天都会来这里照顾植物。
+scn00_28_0080 | ココロ(Cocoro) | 「さあ、何も見ていません」 | "I don't see anything." | “我不太清楚，什么都没看到过”
+scn00_28_0081 | ひなた(Hinata) | （ココロはいつから目が見えていなかったんだろう） | (Of course she doesn't. But her vision hasn't always been this bad. When did she get this way?) | （心的眼睛是从什么时候开始看不见东西的呢）
+scn00_28_0082 | - | あの頃、俺とここで毎日会っていた頃は、目が見えていた。 | I'm sure she could see just fine when we were hanging out here together every day. | 那时，我每天和心见面的时候，她的眼睛还能看见。
+scn00_28_0083 | - | 俺のスケッチを熱心に見る横顔を、俺もまた熱っぽく見つめていたのでよく覚えている。 | I vividly remember the look on her face as she studied my sketches. I couldn't take my eyes off her. | 因为我也用火热的视线看过她专注观看着我素描的侧颜，所以记得很清楚。
+scn00_28_0084 | ココロ(Cocoro) | 「ひなたさん、ナツノシラユキの様子を確認したいので、ドローンをお借りしてもよろしいですか？」 | "Hinata-san, I'd like to check the condition of the summer snows, so may I please borrow your drone?" | “日向先生，我想确认一下夏之白雪的状况，可以借我用一下无人机吗？”
+scn00_28_0085 | - | 俺はリュックからドローンを出してやる。 | I take my drone out of my backpack. | 我从背包里取出无人机。
+scn00_28_0086 | - | 起動すると、あとはココロが自分で操縦できる。 | As long as it's turned on, Cocoro is able to operate it herself. | 将其启动后就交给心自己去操纵了。
+scn00_28_0087 | - | ドローンのカメラを使って、ココロはナツノシラユキの、ほころびかけの[つぼみ]蕾を観察する。 | Using the drone's camera, Cocoro observes the summer snow buds, which look like they could burst open any day now. | 心通过无人机的镜头观察着夏之白雪即将绽放的花蕾。
+scn00_28_0088 | ココロ(Cocoro) | 「今年の夏に咲く確率は９９％以上と判断します」 | "I estimate that the chance of them blooming this summer is at least 99\%." | “我判断它今年夏天开花的概率在99\%以上”
+scn00_28_0089 | ひなた(Hinata) | （もし咲いても、ココロは自分の目で見る事ができない） | (But if they bloom, Cocoro won't be able to see them with her own eyes.) | （即便开花了，心也没法用用自己的眼睛去看）
+scn00_28_0090 | - | 『ひとりでせわをしていたときは　どうしてたの』 | How did you manage to take care of them on your own? | ‘你一个人的时候　是怎么照顾它的’
+scn00_28_0091 | ココロ(Cocoro) | 「このくらいまで接近すれば、どうにか見る事が可能です」 | "If I bring my face close enough, I can see them." | “接近到这个距离的话，还是有办法看清的”
+scn00_28_0092 | - | ココロは鼻先が蕾に触れそうなくらい近づいて見る。 | Cocoro leans in toward the flower buds so close that they almost touch the tip of her nose. | 心的鼻尖几乎碰到了花蕾。
+scn00_28_0093 | - | ピントの調節機能が故障しているらしいので、見えないわけではないのか。 | Her eyes themselves aren't broken. It's just that they won't focus. | 似乎只是聚焦调节机能出现了故障，所以并不是完全看不见啊。
+scn00_28_0094 | ココロ(Cocoro) | 「それに、ワタシには他にもセンサーが備わっていますし、こうして触ってみれば、なんとなくわかります」 | "And I'm equipped with other sensors as well, so if I touch them, I can tell what they look like." | “而且，我还配备有其他的传感器，只要像这样摸一摸，就差不多能知道了”
+scn00_28_0095 | - | なるほど。そうして毎朝、ナツノシラユキの様子を確認していたのか。 | I see. So that's how she was checking on the summer snows every morning. | 原来如此，她每天早上就是这样确认夏之白雪情况的啊。
+scn00_28_0096 | - | 『ココロのめは　どうやったらなおしてあげられるの』 | Is there a way your eyes could be fixed? | ‘心的眼睛　要怎么才能修好’
+scn00_28_0097 | ココロ(Cocoro) | 「メンテナンス設備がセントラルエリアにあります。ですが、現在は稼動していません」 | "There's a maintenance facility in the Central Area. However, it's currently not functioning." | “中心区有维护设备，但现在已经停止运行了”
+scn00_28_0098 | - | 『なおせないってこと』 | So you can't be repaired? | ‘意思是修不好了吗’
+scn00_28_0099 | ココロ(Cocoro) | 「はい」 | "Correct." | “是的”
+scn00_28_0100 | - | ココロが断言する。 | A clear answer. | 心断言道。
+scn00_28_0101 | - | 『ココロにじぶんのめでナツノシラユキをみせてあげたい』 | I wish you could see the summer snows with your own eyes. | ‘我想让心用自己的眼睛去看夏之白雪’
+scn00_28_0102 | - | ココロが少し困った顔をする。 | She scrunches her eyebrows together. | 心看上去有些困扰。
+scn00_28_0103 | ココロ(Cocoro) | 「ひなたさんはワタシの正体を知っています。だから、正直に言います」 | "You know what I really am, so I can be honest with you." | “日向先生知道我的真实身份，所以，我就直说了”
+scn00_28_0104 | ココロ(Cocoro) | 「ワタシはナツノシラユキを見たくありません」 | "It's not like I  to see the summer snows bloom." | “我不想看夏之白雪”
+scn00_28_0105 | ひなた(Hinata) | （え……） | (Huh...?) | （哎……）
+scn00_28_0106 | - | ――どうせ、花の美しさなどわかりっこありませんので。 | "I won't be able to understand their beauty anyway." | ——反正我也无法理解花的美丽。
+scn00_28_0107 | - | ココロが以前言った言葉だ。 | That's what Cocoro told me before. | 心以前说过这么一句话。
+scn00_28_0108 | ココロ(Cocoro) | 「この花が咲けばフィアンセが来てくれます。そうすれば結婚できます」 | "But when they bloom, then my fiancé will come, and I can get married." | “只要这朵花绽放，我的未婚夫就会到来，然后我就能够结婚了”
+scn00_28_0109 | - | 『でもそれじゃ』 | Is that all? | ‘但这样的话’
+scn00_28_0110 | ココロ(Cocoro) | 「ええ。その時まで、ワタシがヒトであると[だま]騙せれば充分です」 | "Yes. As long as I can keep up the illusion that I'm human until that point, that's enough." | “是的，只要我在结婚之前能骗过他就足够了”
+scn00_28_0111 | ひなた(Hinata) | （騙すって……） | (The illusion...) | （骗……
+scn00_28_0112 | ひなた(Hinata) | 「……ぁぁ……ぅぅ……」 | "Ah... Uh..." | “……啊啊……呜呜……”
+scn00_28_0113 | - | 言いたい言葉がのどに詰まって出てこない。 | The words I want to say are stuck in my throat. | 想说的话卡在喉咙说不出来。
+scn00_28_0114 | ココロ(Cocoro) | 「なんでしょう？」 | "What did you say?" | “怎么了？”
+scn00_28_0115 | - | ココロは優しく尋ねて、手のひらを差し出す。 | Cocoro kindly offers me the palm of her hand. | 心温柔地问着我，并将手掌伸了出来。
+scn00_28_0116 | - | \n\n\n\n\n\n\n\n『しぬために』 | \n\n\n\n\n\n\n\nAnd then you'll die? | \n\n\n\n\n\n\n\n‘为了去死’
+scn00_28_0117 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_28_0118 | - | ココロが少し驚いた顔をする。 | For a split second, Cocoro looks surprised. | 心的表情显得有些吃惊。
+scn00_28_0119 | - | 俺には話してない事だ。 | She never told me about that, after all. | 这是她没对我说过的事。
+scn00_28_0120 | ココロ(Cocoro) | 「機能停止です。ですので、ワタシの目でナツノシラユキを見る必要はありません」 | "I will cease to operate. That's why there's no need for me to see the summer snows with my own eyes." | “是停止运行，因此，我没有必要用自己的眼睛去看夏之白雪”
+scn00_28_0121 | ココロ(Cocoro) | 「すぐに機能停止してしまうのに、修理するのは資源の無駄です」 | "It would be a waste of resources to repair a robot that's going to cease functioning soon." | “毕竟马上就要停止运行了，去修理也只是在浪费资源”

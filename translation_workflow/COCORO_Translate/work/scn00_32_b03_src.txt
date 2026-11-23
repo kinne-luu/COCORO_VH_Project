@@ -1,0 +1,59 @@
+# scene=scn00_32 batch=3/3 dòng 121-175 / 175
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_32_0121 | - | 父さんは何を言っている？ | What is he saying? | 父亲在说什么？
+scn00_32_0122 | ひなた(Hinata) | （母さんが死んで、俺が落ち込んで泣いていると、自分が辛いから。だから俺を鍛えようとした？） | (He didn't want to see me cry when my mom died because it would make  depressed?) | （母亲去世后，一看到我消沉哭泣的样子，自己就会感到很难受，所以才会去锻炼我？）
+scn00_32_0123 | - | 『父さんは、自分を守りたかった？』 | "So you just wanted to protect yourself?" | ‘父亲当时是想保护自己？’
+scn00_32_0124 | 父(Dad) | 『そうだ』 | <That's right.> | ‘是的’
+scn00_32_0125 | 父(Dad) | 『私は弱い人間だ……。その弱さの肩代わりを、ひなたに[し]強いた。最低の父親だ』 | <Like I said, I'm a weak man... I tried to force you to be strong in my stead. I'm a terrible father.> | ‘我是个软弱的人类……为了转移自己的软弱，便对日向很强硬。我真是个差劲的父亲’
+scn00_32_0126 | 父(Dad) | 『……すまなかった』 | <...I'm sorry.> | ‘……抱歉’
+scn00_32_0127 | - | 十数年思い続けてきた父親像が粉々に砕け散っていく。 | The image of my father that had lived in my mind for over a decade shatters to pieces. | 我心里维持了十几年的父亲形象在这一刻彻底粉碎了。
+scn00_32_0128 | - | 父は立派で、強いリーダーとして九十九市を発展させた。 | He was a respectable man—a strong leader who developed Tsukumo City. | 父亲作为一个出色且强大的领导者带领着九十九市向前发展。
+scn00_32_0129 | - | 『厄災』の責任を負い失脚はしたものの、そのリーダー像に大きなぶれはない。 | Despite his fall from grace following the Calamity, he never allowed his public image as a leader to falter. | 即便因为背负‘灾厄’的责任而垮台，也没能让他的领导者形象产生动摇。
+scn00_32_0130 | - | しかし、実像はまるで違った。 | But that was nothing more than a facade. | 可是，他的真实形象却完全相反。
+scn00_32_0131 | - | 弱い人間。ゆえに、その弱さを息子にまで負わせようとした。 | He was weak. And he passed that weakness on to his son. | 他是个软弱的人类，因此才会试图让他的儿子也背负起这份软弱。
+scn00_32_0132 | - | 母さんが亡くなった後、父なりに息子に向き合おうとしたんだろう。 | I guess Dad tried to talk to me in his own way after Mom died. | 母亲去世后，他作为父亲或许是想和儿子坦诚相待吧。
+scn00_32_0133 | - | しかし、溝は深く簡単にはいかなかった。 | But the rift between us was too deep to paper over with words. | 但是，父子之间的鸿沟并没有这么容易消除。
+scn00_32_0134 | - | きっかけが欲しくて容易した誕生日プレゼントも、渡せずにいた。 | He couldn't even give me the present that he'd bought for me as a token of goodwill. | 为了制造契机而准备的生日礼物也没能送出去。
+scn00_32_0135 | - | 今日こそ渡そうと、いつも持ち歩いていた。 | He carried it around with him the entire time so that he could give it to me as soon as an opportunity arose. | 想着今天一定要送出去而一直将礼物带在身上。
+scn00_32_0136 | - | なんて弱く、情けない父親……。 | What a weak, pathetic excuse of a father... | 怎么会有如此软弱丢人的父亲啊……
+scn00_32_0137 | 父(Dad) | 『今更やり直せると思ってない。ただ、父親として最低限の責任は果たしたい。おまえの生活の面倒くらいは見られる』 | <I know it's too late to start over now. But the least I could do is fulfill my responsibility as a father and take care of you.> | ‘事到如今我也不想着能和你搞好关系了，只是，我身为父亲还是想要履行最低限度的责任，我还是有能力照顾你的’
+scn00_32_0138 | 父(Dad) | 『それだけ伝えたかった』 | <That's what I wanted you to know.> | ‘我只是想告诉你这一点而已’
+scn00_32_0139 | - | …………。 | ... | …………
+scn00_32_0140 | - | 父は俺と向き合う気まずさに耐えきれず、通信を切ろうとしている。 | Dad sounds like he's trying to end the conversation. Maybe he can't bear this awkwardness any longer. | 父亲无法再忍耐面对我时的尴尬情绪，想要挂断电话。
+scn00_32_0141 | - | 俺もそう。こんな会話終わらせて、早く切りたい。 | The feeling's mutual. I just want to hang up the phone as soon as possible. | 我也是如此，想早点结束这次交谈，想早点挂断电话。
+scn00_32_0142 | - | でも、この通信を切ったら、か細い父との関係は完全に途切れてしまう気がした。 | But at the same time, I feel that the moment I end the call, the fragile bond between us will be severed for good. | 但是，我有预感，如果我挂断了这通电话，脆弱的父子关系就会完全破碎。
+scn00_32_0143 | ひなた(Hinata) | （いいじゃないか別に。それをずっと望んでいただろう） | (That's fine, isn't it? That's what I've always wanted.) | （那又怎么了，我不是一直期望变成这样吗）
+scn00_32_0144 | - | だがしかし、父の懺悔に共感ができないわけではなかった。 | It's not as if I can't muster any sympathy for the guilt my dad is trying to express. | 但是，我也不是没有对父亲的忏悔产生共鸣。
+scn00_32_0145 | - | 愛した女性を失う不安が[ふく]膨れあがっていく日々。 | I can imagine his anxiety growing day by day as he was about to lose the woman he loved. | 即将失去心爱女性的不安日渐膨胀。
+scn00_32_0146 | - | 仕事に打ち込み、俺に冷たく当たっていたのは、心を[こお]凍らせる事でいずれ訪れる悲劇に備えていたからだ。 | He devoted himself to his work and gave me the cold shoulder in order to freeze his heart and protect himself from the impending tragedy. | 一心扑在工作上，对我十分冷淡，则是为了冻结自己的内心，准备应对随时都会到来的悲剧。
+scn00_32_0147 | ひなた(Hinata) | （ここ数日の俺と同じだ） | (Just like I've been doing the past few days.) | （就和这几天的我一样）
+scn00_32_0148 | - | ココロのボディの不調を知り、機能停止を望む彼女の気持ちを変えさせる方法が見付からず苦悩した。 | After I found out how serious the damage to Cocoro's body was, I've been trying to find ways to change her mind about wanting to shut down. But I failed. | 因为知道心身体出现了问题，也找不到方法能让渴望停止运行的她改变想法而苦恼着。
+scn00_32_0149 | - | その結果、声を失った。 | And as a result, I lost my voice. | 结果就是我失声了。
+scn00_32_0150 | - | 俺と父さんの弱さは同じものだ。 | I'm weak in the same way that my father was. | 我和父亲有着相同的软弱。
+scn00_32_0151 | - | 父を[ゆる]赦す気にはなれない。 | I still can't forgive him. | 虽然没有产生原谅父亲的想法。
+scn00_32_0152 | - | でも、責める気にもなれなくなってしまった。 | But at the same time, I also can't blame him. | 但是，也没了责怪父亲的心情。
+scn00_32_0153 | 父(Dad) | 『私の連絡先は霧香さんが知っている。何かあれば、いつでも……』 | <Kirika-san knows my phone number. If you need anything, you can always—> | ‘雾香知道我的联系方式，有什么事就随时……’
+scn00_32_0154 | - | 『待って、父さん』 | "Wait, Dad." | ‘等一下，父亲’
+scn00_32_0155 | 父(Dad) | 『……？』 | <Hmm?> | ‘……？’
+scn00_32_0156 | - | 『父さんに聞きたい事がある』 | "There's something I want to ask you." | ‘我有事想问父亲’
+scn00_32_0157 | - | 『あの夜……『厄災』が起こった日の事を聞かせてほしい』 | "I want you to tell me what happened that night... The night of the Calamity." | ‘我想问那一夜……“灾厄”发生那天的事情’
+scn00_32_0158 | 父(Dad) | 『『厄災』の夜……？』 | <What do you want to know...?> | ‘‘灾厄’之夜……？’
+scn00_32_0159 | - | 『父さんは植物園にいたの？』 | "Were you at the garden when it happened?" | ‘那时父亲在植物园里吗？’
+scn00_32_0160 | - | でなければ、あそこの落とし物箱に入っていた理由が分からない。 | That's the only reason I can come up with for why his present would've been in the lost-and-found box there. | 如果不是这样，图鉴就没理由会在失物箱里了。
+scn00_32_0161 | 父(Dad) | 『……あの時は、まだ何が起こっているのか分からなかった。ただ、大変な事が起こっているとわかり、ひなたが心配で急いで家に帰った』 | <At the time, I didn't realize what was going on. All I knew was that there'd been some technical difficulties, so I hurried home. I was worried about you.> | ‘……那时，我还不知道发生了什么，只知道发生了不太妙的事，然后便因为担心日向而急忙回到了家里’
+scn00_32_0162 | 父(Dad) | 『しかし、おまえは帰宅していなかった。私はすぐに植物園へ向かった』 | <But you weren't there, so I headed to the garden.> | ‘但是，你却没有回家，我就马上又去了植物园’
+scn00_32_0163 | - | 父さんは、俺が植物園に入り浸っている事を知っていたんだ。 | Dad knew that I'd been going there every day. | 父亲原来知道我经常跑去植物园待着啊。
+scn00_32_0164 | - | その程度の事実でさえ、意外だった。 | That's already surprising enough. | 这种程度的事实都让我感到很意外。
+scn00_32_0165 | 父(Dad) | 『そこで額から血を流して倒れているひなたを見付けた』 | <When I got there, I found you lying on the floor, bleeding from your head.> | ‘在那里我发现了额头流着血倒在地上的你’
+scn00_32_0166 | - | 『父さんが俺を助けてくれたの？』 | "Did you save me?" | ‘是父亲救了我吗？’
+scn00_32_0167 | - | 考えた事もなかった。 | I'd never considered that possibility. | 我想都没想过。
+scn00_32_0168 | - | きっと植物園の職員か誰かが俺を見付けて、病院に運んでくれたんだと思っていた。 | I always assumed that one of the staff members found me and took me to the hospital. | 我还以为肯定是植物园的某个职员发现了我，然后将我带到了医院。
+scn00_32_0169 | - | もし、その事実を知っていたなら、それだけでこの４年の俺の日々は違ったものになっていたかもしれない。 | If I'd known the truth, the past four years might have panned out very differently. | 如果我当时知道了这个事实，也许就足以让我这4年的日子发生变化了。
+scn00_32_0170 | 父(Dad) | 『……いや、私が駆けつけた時、ひなたは応急処置を受けるところだった』 | <No... When I found you, someone else had already taken care of you.> | ‘……不，我赶到的时候，你正在接受应急处理了’
+scn00_32_0171 | - | 『他にも誰かいたの？』 | "Was there someone else there?" | ‘当时还有其他人在吗？’
+scn00_32_0172 | 父(Dad) | 『ああ、いた』 | <Yeah, there was.> | ‘嗯，有’
+scn00_32_0173 | 父(Dad) | 『でも、人じゃない』 | <But it wasn't a person.> | ‘但不是人类’
+scn00_32_0174 | - | 人じゃない……？ | Not a person...? | 不是人类……？
+scn00_32_0175 | 父(Dad) | 『いたのはロボット。ＣＣＲ－０１というヒューマノイドだ』 | <There was a robot. The humanoid known as CCR-01.> | ‘在那里的是机器人，是一个名为CCR-01的仿生人’

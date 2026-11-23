@@ -1,0 +1,60 @@
+scn00_38_0241 | "Còn phải hỏi, loại robot được trang bị trí tuệ nhân tạo giảo hoạt lươn lẹo như thế đều là đối tượng phải tiêu trừ."
+scn00_38_0242 | "Nếu vậy thì tôi không cho phép. Mời các người rút lui cho."
+scn00_38_0243 | "Này."
+scn00_38_0244 | Tên đội trưởng hất cằm một cái, đám lâu la liền hung hăng toan xông thẳng vào trong.
+scn00_38_0245 | "Mọi người ơi! Mau tiếp một tay với!!"
+scn00_38_0246 | Nghe tiếng gọi của Kazane, người dân lập tức hưởng ứng, bắt đầu xảy ra giằng co xô đẩy quyết liệt với Đội Tiêu Trừ.
+scn00_38_0247 | "Lũ chúng mày tính làm trò gì đấy hả? Bọn tao có vũ khí trong tay đấy nhé. Có muốn tao bắn vài đứa để giết gà dọa khỉ không hả!"
+scn00_38_0248 | "Các người mới là lũ tính làm trò gì thì có? Cái đám vô tích sự lúc nước sôi lửa bỏng chẳng giúp được tích sự gì, bớt vênh váo lên mặt ở thị trấn này đi nhé!"
+scn00_38_0249 | "Mày nói cái gì cơ......"
+scn00_38_0250 | Đêm qua, rốt cuộc Đội Tiêu Trừ cũng chỉ cầm chân được một nhúm Mutant Drone, ngoài ra chẳng làm nên trò trống gì.
+scn00_38_0251 | "Bé Cocoro giờ đã là người một nhà của thị trấn này rồi. Đừng hòng tụi này giao con bé cho cái loại như các người."
+scn00_38_0252 | "Đúng vậy đó!"
+scn00_38_0253 | "Cút xéo khỏi Thành phố Tsukumo mau!"
+scn00_38_0254 | "......"
+scn00_38_0255 | Tôi ngỡ gã đội trưởng sẽ lồng lộn nổi cơn tam bành khi bị phản kháng, nhưng nét mặt gã lại vô cùng bình thản.
+scn00_38_0256 | Có lẽ gã đã quá quen với những tình cảnh thế này rồi cũng nên.
+scn00_38_0257 | Và chính sự bình thản đến lạnh lùng ấy lại càng khiến người ta thấy rợn tóc gáy.
+scn00_38_0258 | Trên đời này quả thực tồn tại những kẻ có thể thản nhiên chà đạp người khác với tâm lý dửng dưng mà chẳng cần phải nổi cơn thịnh nộ.
+scn00_38_0259 | Đội Tiêu Trừ vốn là một cỗ máy bạo lực sở hữu những vũ khí có tính sát thương cực cao, còn nơi đây lại là Phân khu 99 bị phong tỏa biệt lập với thế giới bên ngoài.
+scn00_38_0260 | Dẫu có xảy ra biến cố chết chóc gì ở đây đi chăng nữa, rất có thể mọi chuyện cũng sẽ bị bưng bít như thể chưa từng có gì xảy ra.
+scn00_38_0261 | Người dân lúc này đang trong trạng thái sục sôi bởi sự phẫn uất và nỗi bất bình dồn nén bấy lâu, bầu không khí căng thẳng đến nghẹt thở như chực nổ tung.
+scn00_38_0262 | Tên đội trưởng giơ nòng súng lên.
+scn00_38_0263 | Đó là khẩu súng trường có sức công phá đủ sức đục thủng lớp giáp kiên cố của những con robot an ninh hộ vệ.
+scn00_38_0264 | Cư dân hoàn toàn không có vũ khí trong tay. Chỉ cần chọn ra một người để hạ sát răn đe, gã sẽ bịt miệng được tất cả những người còn lại.
+scn00_38_0265 | Và nạn nhân được nòng súng của gã nhắm thẳng vào chính là Kazane.
+scn00_38_0266 | "Dừng lại mau!"
+scn00_38_0267 | Tôi phản xạ tức thì, lao ra chắn ngay trước mặt Kazane.
+scn00_38_0268 | "Đổi thành mày thì tao cũng chẳng ngại đâu."
+scn00_38_0269 | Buông lời bằng giọng điệu băng giá, tên đội trưởng dứt khoát bóp cò.
+scn00_38_0270 | "Hự...!"
+scn00_38_0271 | Viên đạn đã rời nòng. Thế nhưng, cả tôi lẫn Kazane đều bình an vô sự.
+scn00_38_0272 | "...... Thằng ranh kia, mày làm cái trò gì đấy?"
+scn00_38_0273 | Chú Kotaro đã tóm chặt lấy nòng khẩu súng trường. Đường đạn bị hất thẳng lên trời cao.
+scn00_38_0274 | "Đội trưởng, dừng lại ở đó được rồi đấy."
+scn00_38_0275 | "Này, cái tay kia là thế nào hả? Không buông ra ngay tao sẽ chiếu theo quân kỷ mà xử phạt mày đấy."
+scn00_38_0276 | "Thế thì e là không được rồi."
+scn00_38_0277 | "Chú Kotaro!"
+scn00_38_0278 | "...... Chà chà, tôi vốn định giấu kín thân phận cho đến phút chót cơ, nhưng phen này đành chịu vì tình huống bất khả kháng rồi."
+scn00_38_0279 | Miệng lầm bầm một mình, chú Kotaro móc từ trong túi áo ra một chiếc thẻ ngành rồi giơ thẳng trước mặt tên đội trưởng.
+scn00_38_0280 | "Cái quái gì thế này......?"
+scn00_38_0281 | "Thứ lỗi vì đã giấu giếm bấy lâu nay nhé. Thực ra, tôi là điều tra viên ngầm được cài vào đây để bí mật thu thập chứng cứ về các người đấy."
+scn00_38_0282 | "Điều tra viên Công an Điều tra...... cái gì cơ?"
+scn00_38_0283 | Sắc mặt tên Đội trưởng Đội Tiêu Trừ đanh cứng lại.
+scn00_38_0284 | Công an Điều tra ư...? Hóa ra chú Kotaro không phải là thành viên thực sự của Đội Tiêu Trừ sao?
+scn00_38_0285 | "Chúng tôi nhận được thông tin có một thế lực đang mưu toan tiêu hủy bằng chứng liên quan đến 'Ách Tai', nên tôi đã tiến hành thâm nhập điều tra."
+scn00_38_0286 | "Cái...!"
+scn00_38_0287 | "Cậu Kotaro...... cậu là..."
+scn00_38_0288 | "Ai chà, vất vả ghê gớm nhưng rốt cuộc tôi cũng tóm được cái đuôi cáo của bọn họ rồi. Về phần bé Cocoro thì ngày hôm qua chúng ta cũng đã làm sáng tỏ được kha khá điều rồi nhỉ. Đúng không, Chủ nhiệm?"
+scn00_38_0289 | "À... ừ..."
+scn00_38_0290 | Dì Kirika lộ rõ vẻ ngượng ngùng bối rối.
+scn00_38_0291 | Có lẽ từ trước đến nay dì Kirika vẫn luôn miệt mài thu thập dữ liệu trên hệ thống máy tính của Phân khu Trung tâm sau khi hàng rào bảo mật bị dỡ bỏ.
+scn00_38_0292 | Trong lúc phụ giúp dì, hẳn chú Kotaro đã khéo léo khai thác được không ít thông tin từ dì.
+scn00_38_0293 | Thành ra trong lúc vô tình, dì Kirika đã trở thành người trợ giúp đắc lực cho cuộc điều tra của chú Kotaro mà chẳng hề hay biết.
+scn00_38_0294 | "Thằng chó này......"
+scn00_38_0295 | Tên đội trưởng toan chĩa nòng súng về phía chú Kotaro.
+scn00_38_0296 | "Ấy kìa, toàn bộ báo cáo đã được gửi đi hết rồi, thủ tiêu tôi bây giờ cũng muộn màng rồi nhé. Tầm này thì đám người đứng sau thuê Đội trưởng chắc cũng đang lần lượt bị tra tay vào còng số tám rồi đấy."
+scn00_38_0297 | "Hơn nữa, người thâm nhập vào đây không chỉ có một mình tôi đâu. Lúc này cũng đang có đồng nghiệp của tôi nấp ở một góc nào đó ghi hình lại toàn bộ cảnh này. Các người mà manh động là có bằng chứng rành rành đấy."
+scn00_38_0298 | "Con robot đó nhất định phải bị tiêu hủy! Giữ nó lại sẽ gây tổn hại nghiêm trọng đến lợi ích quốc gia của đất nước này đấy!"
+scn00_38_0299 | "Lợi ích quốc gia á? Việc tiêu hủy phi tang chứng cứ mà gọi là lợi ích quốc gia à? Đừng có ăn nói hàm hồ vớ vẩn."
+scn00_38_0300 | "Cô bé đó là manh mối then chốt để giải mã 'Ách Tai'. Và hơn thế nữa, em ấy là thực thể nắm giữ khả năng có thể chấm dứt hoàn toàn cơn 'Ách Tai'. Có đúng thế không, thưa Chủ nhiệm?"

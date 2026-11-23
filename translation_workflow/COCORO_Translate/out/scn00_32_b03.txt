@@ -1,0 +1,55 @@
+scn00_32_0121 | Bố đang nói cái gì vậy?
+scn00_32_0122 | Mẹ qua đời, nhìn thấy tôi suy sụp khóc lóc khiến bản thân ông đau đớn. Thế nên ông mới tìm cách rèn luyện tôi sao?
+scn00_32_0123 | <Bố... chỉ muốn bảo vệ bản thân mình thôi sao?>
+scn00_32_0124 | <Đúng vậy.>
+scn00_32_0125 | <Bố là một kẻ hèn yếu... Bố đã bắt Hinata phải gánh vác thay cho sự yếu đuối đó của mình. Bố đúng là một người cha tồi tệ.>
+scn00_32_0126 | <...Bố xin lỗi con.>
+scn00_32_0127 | Hình tượng người cha mà tôi ôm ấp suốt mười mấy năm qua bỗng chốc vỡ vụn thành từng mảnh.
+scn00_32_0128 | Bố từng là một con người xuất chúng, một nhà lãnh đạo mạnh mẽ đã đưa thành phố Tsukumo phát triển phồn vinh.
+scn00_32_0129 | Dù phải gánh vác trách nhiệm về thảm họa Ách Tai mà mất đi chức vụ, nhưng hình tượng người thủ lĩnh ấy chưa từng suy suyển trong mắt mọi người.
+scn00_32_0130 | Thế nhưng, chân tướng lại hoàn toàn trái ngược.
+scn00_32_0131 | Một kẻ hèn yếu. Và chính vì thế, ông ta đã trút sự yếu đuối ấy lên vai đứa con trai của mình.
+scn00_32_0132 | Sau khi mẹ mất, có lẽ theo cách riêng của mình, bố cũng đã cố gắng đối diện với tôi.
+scn00_32_0133 | Nhưng hố sâu ngăn cách quá lớn nên mọi chuyện chẳng hề dễ dàng.
+scn00_32_0134 | Muốn có một cái cớ để hàn gắn nên đã chuẩn bị quà sinh nhật, vậy mà cũng chẳng thể trao đi.
+scn00_32_0135 | Cứ tự nhủ hôm nay nhất định phải đưa cho con, nên ngày nào cũng mang theo bên người.
+scn00_32_0136 | Một người cha mới hèn yếu và đáng thương làm sao...
+scn00_32_0137 | <Bố không dám mong đến nước này có thể làm lại từ đầu. Chỉ là, bố muốn làm tròn trách nhiệm tối thiểu của một người cha. Bố vẫn đủ khả năng chăm lo cho cuộc sống của con.>
+scn00_32_0138 | <Bố chỉ muốn nói với con chừng ấy thôi.>
+scn00_32_0139 | ...
+scn00_32_0140 | Bố không chịu nổi sự gượng gạo khi đối diện với tôi nên đang muốn cúp máy.
+scn00_32_0141 | Tôi cũng vậy. Tôi muốn chấm dứt cuộc trò chuyện này và cúp máy cho rảnh nợ.
+scn00_32_0142 | Nhưng tôi có linh cảm rằng, nếu cắt đứt cuộc gọi này, sợi dây liên kết mong manh giữa tôi và bố sẽ vĩnh viễn đứt đoạn.
+scn00_32_0143 | Đứt thì có làm sao đâu. Chẳng phải mình vẫn luôn mong muốn điều đó hay sao.
+scn00_32_0144 | Thế nhưng, không hẳn là tôi hoàn toàn không thể đồng cảm với sự sám hối của bố.
+scn00_32_0145 | Những tháng ngày mà nỗi bất an sắp mất đi người phụ nữ mình yêu thương cứ ngày một lớn dần.
+scn00_32_0146 | Bố lao đầu vào công việc và đối xử lạnh nhạt với tôi, thực chất là để đóng băng trái tim mình nhằm chuẩn bị tâm thế đối mặt với bi kịch sớm muộn cũng sẽ xảy ra.
+scn00_32_0147 | Giống hệt như tôi trong suốt mấy ngày qua.
+scn00_32_0148 | Khi biết cơ thể của Cocoro gặp trục trặc, tôi đã quằn quại khổ sở vì không thể tìm ra cách lay chuyển ý định muốn ngừng hoạt động của cậu ấy.
+scn00_32_0149 | Và kết quả là tôi đã mất đi giọng nói.
+scn00_32_0150 | Sự yếu đuối của tôi và bố vốn cùng một bản chất.
+scn00_32_0151 | Tôi không hề có ý định tha thứ cho bố.
+scn00_32_0152 | Nhưng tôi cũng chẳng còn bụng dạ nào để oán trách ông ấy nữa.
+scn00_32_0153 | <Dì Kirika có số liên lạc của bố. Nếu có chuyện gì, con cứ bất cứ lúc nào...>
+scn00_32_0154 | <Khoan đã, bố.>
+scn00_32_0155 | <...?>
+scn00_32_0156 | <Con có chuyện muốn hỏi bố.>
+scn00_32_0157 | <Vào đêm hôm đó... con muốn bố kể về chuyện xảy ra vào ngày Ách Tai giáng xuống.>
+scn00_32_0158 | <Đêm xảy ra 'Ách Tai'... sao?>
+scn00_32_0159 | <Lúc đó bố có ở vườn bách thảo không?>
+scn00_32_0160 | Nếu không thì chẳng có lý do gì cuốn sách ấy lại nằm trong hòm đồ thất lạc ở đó.
+scn00_32_0161 | <...Lúc bấy giờ, bố vẫn chưa hiểu chuyện gì đang diễn ra. Chỉ biết là có biến cố khủng khiếp xảy đến, vì quá lo lắng cho Hinata nên bố đã tức tốc chạy về nhà.>
+scn00_32_0162 | <Thế nhưng con lại không có ở nhà. Bố lập tức lao đến vườn bách thảo.>
+scn00_32_0163 | Hóa ra bố biết tôi thường xuyên lui tới vườn bách thảo.
+scn00_32_0164 | Ngay cả một sự thật cỏn con như thế cũng khiến tôi kinh ngạc.
+scn00_32_0165 | <Tại đó, bố tìm thấy Hinata đang nằm bất tỉnh, máu chảy ròng ròng trên trán con.>
+scn00_32_0166 | <Là bố đã cứu con sao?>
+scn00_32_0167 | Tôi chưa từng nghĩ đến điều đó.
+scn00_32_0168 | Tôi cứ ngỡ là nhân viên vườn bách thảo hay ai đó đã tìm thấy tôi rồi đưa vào bệnh viện.
+scn00_32_0169 | Nếu biết được sự thật ấy, có lẽ chỉ riêng điều đó thôi cũng đủ khiến những chuỗi ngày suốt 4 năm qua của tôi rẽ sang một hướng khác.
+scn00_32_0170 | <...Không, khi bố chạy đến nơi, Hinata đã đang được sơ cứu rồi.>
+scn00_32_0171 | <Lúc ấy còn có người khác ở đó sao?>
+scn00_32_0172 | <Ừ, có.>
+scn00_32_0173 | <Nhưng không phải là con người.>
+scn00_32_0174 | Không phải con người...?
+scn00_32_0175 | <Đó là một robot. Một người máy mang mã hiệu CCR-01.>

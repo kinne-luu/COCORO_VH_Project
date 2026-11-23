@@ -1,0 +1,78 @@
+# scene=scn00_41 batch=5/5 dòng 241-314 / 314
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_41_0241 | - | 可哀想なので犬を撫でてあげる。 | The poor dog didn't do anything wrong, so I give him some more pets. | 我感觉狗有些可怜便摸了摸它。
+scn00_41_0242 | ひなた(Hinata) | 「こさめちゃんと遊んでたんだ」 | "You were out playing with Kosame-chan?" | “你是和小雨一起出去玩了吗？”
+scn00_41_0243 | ココロ(Cocoro) | 「はい。ついでに犬も遊ばせておきました。きっとワタシたちに感謝しているでしょう。ひなたさんは？」 | "I was. I also took the dog with us to play. He must be really grateful. How's your day going, Hinata-san?" | “是的，顺便也带着狗一起去玩了，它肯定十分感谢我们吧。日向先生呢？”
+scn00_41_0244 | ひなた(Hinata) | 「俺は街の復興の手伝いをしてた」 | "I've been helping out with the recovery efforts around town." | “我去帮忙重建街道了”
+scn00_41_0245 | - | 瓦礫の撤去には人手が必要だった。 | It requires a lot of manpower to remove so much debris. | 拆除瓦砾需要人手。
+scn00_41_0246 | ココロ(Cocoro) | 「なんと……それはワタシの得意分野です。なぜお声をかけてくださらなかったのでしょう」 | "Oh... But that's my specialty. Why did you not call me?" | “怎么会这样……这可是我擅长的领域，为什么没有叫上我呢”
+scn00_41_0247 | ひなた(Hinata) | 「いいんだよ。ココロはずっと人のために尽くそうとしてきたろう？　たまには自分のために時間を使いな」 | "You don't have to help. You've been doing that your entire life. You should take some time for yourself once in a while." | “没关系啦，心不是一直都在为人类效力吗？　偶尔为自己花点时间吧”
+scn00_41_0248 | ココロ(Cocoro) | 「自分のために……」 | "For myself..." | “为自己……”
+scn00_41_0249 | - | ココロのボディのダメージは深刻で、力仕事をさせられないので声を掛けなかったんだけど。 | Cocoro's body is severely damaged, so I don't want her to do any heavy lifting. That's mainly why I didn't call her, but... | 虽然其实是因为心身体的损伤十分严重，不能让她去做体力劳动所以才没去叫她。
+scn00_41_0250 | - | 自分の幸福のために時間を使ってほしいという気持ちも、嘘じゃない。 | I  want her to take some time for herself. That isn't a lie. | 但希望她能够花时间为自己谋取幸福的心情也并非谎言。
+scn00_41_0251 | ココロ(Cocoro) | 「難問ですね。自分のため……自分のため……」 | "That's a difficult order. Time for myself... For myself..." | “真是个难题啊，为了自己……为了自己……”
+scn00_41_0252 | ひなた(Hinata) | 「楽しいって感じる事をすればいいよ。人の迷惑にならない程度にだけどね」 | "Just do whatever you enjoy, as long as it doesn't cause trouble for others." | “去做能让自己感到开心的事就可以啦。不过前提是不要给其他人添麻烦”
+scn00_41_0253 | ココロ(Cocoro) | 「こさめと遊ぶのは楽しいです」 | "I enjoy playing with Kosame." | “和小雨一起玩就很开心”
+scn00_41_0254 | 大地(Daichi) | 「サンキュー、ココロ。おまえと友達になれてから、こさめも明るくなったぜ」 | "Thanks for always hanging out with her, Cocoro. She seems a lot more cheerful lately." | “谢啦，心。自从和你成为朋友后，小雨也变得开朗起来了”
+scn00_41_0255 | - | 俺と一緒に瓦礫の片付けを手伝っていた大地が横から言う。 | Daichi, who's been helping me clear debris, comments as he overhears our conversation. | 和我一起帮忙清扫瓦砾的大地插嘴道。
+scn00_41_0256 | 大地(Daichi) | 「遠慮しいな性格だからよ、事故で歩けなくなってから、友達と遊べなくなっちまってなぁ」 | "She's always been pretty shy, and after the Calamity left her unable to walk, she rarely ever went out with friends." | “毕竟她很顾忌他人的想法，在经历事故走不了路之后，便不再和朋友一起玩了啊”
+scn00_41_0257 | 大地(Daichi) | 「俺が言う事じゃないかもだが、友達になってくれて、ありがとうな」 | "Maybe it's not my place to say this, but thank you for being her friend." | “这话虽然不该由我来说，但真的谢谢你能成为她的朋友”
+scn00_41_0258 | ココロ(Cocoro) | 「……。お礼を言うのはワタシの方です。大地に言ってもしょうがないので、明日にでも本人にありがとうと伝えようと思います」 | "...I should be thanking her instead. There's no point in me saying it to you, so I'll say it to Kosame herself tomorrow." | “……要道谢的人是我才对。对大地说也没有意义，我会等明天或者什么时候对她本人说谢谢”
+scn00_41_0259 | 大地(Daichi) | 「ああ、そうしてやってくれ」 | "Sure, she'd appreciate that." | “嗯，就这样做吧”
+scn00_41_0260 | 犬(Dog) | 「ワン！！　ワンワン！！」 | "Woof! Woof woof!" | “汪！！　汪汪！！”
+scn00_41_0261 | - | 自分も！　と言わんばかりに犬がココロにじゃれつく。 | The dog nuzzles Cocoro's hand as if he's saying, "Don't forget about me!" | 狗也缠上了心就差把‘我也要！’说出来了。
+scn00_41_0262 | ココロ(Cocoro) | 「犬、おすわり」 | "Dog, sit!" | “狗，坐下”
+scn00_41_0263 | 犬(Dog) | 「ワン！」 | "Woof!" | “汪！”
+scn00_41_0264 | - | 犬がお行儀良くおすわりする。 | The dog politely sits down. | 狗端正地坐好了。
+scn00_41_0265 | ココロ(Cocoro) | 「犬と遊ぶのも楽しいですよ。動物にしては知能が高く、行動や仕草に愛嬌があります」 | "I enjoy playing with the dog, too. It's very intelligent for an animal, and its behavior is amusing." | “和狗一起玩也很开心哦，在动物中算是智力比较高的，行为和动作也都很讨喜”
+scn00_41_0266 | ココロ(Cocoro) | 「むー……」 | "Hmm..." | “呣——……”
+scn00_41_0267 | - | ココロが犬の顔を[にら]睨んで[うな]唸っている。 | Cocoro stares the dog in the face. | 心盯着狗的脸哼哼唧唧着。
+scn00_41_0268 | ひなた(Hinata) | 「どうしたの？」 | "What's wrong?" | “怎么了？”
+scn00_41_0269 | ココロ(Cocoro) | 「……いえ、ほんとうにもうここまで出かかってるんですが」 | "I almost came up with something, but it won't come out." | “……没什么，是真的已经到这里了”
+scn00_41_0270 | - | 喉元に手をやりながら言う。 | She puts her hand on her throat. | 心用手摸着喉咙说道。
+scn00_41_0271 | ココロ(Cocoro) | 「大切なもの……すきなもの……」 | "Something I care about... Something I like..." | “重要的东西……喜欢的东西”
+scn00_41_0272 | 住民Ａ(Resident A) | 「お、ココロちゃん、これよかったら」 | "Hey, Cocoro-chan. Would you like some of these?" | “噢，心，可以的话收下这个吧”
+scn00_41_0273 | - | 通りかかった人が、ココロに紙の包みを渡す。 | A passerby hands Cocoro a paper bag. | 路过的人给了心一个纸包。
+scn00_41_0274 | ココロ(Cocoro) | 「クンクン……この香りはメンチカツですね」 | "*sniff* *sniff*... This is the aroma of fried pork cutlets." | “嗅嗅……这个味道是炸肉饼对吧”
+scn00_41_0275 | 住民Ａ(Resident A) | 「ひなた君と食ってくれ。瓦礫の片付けを手伝ってくれた礼だ」 | "Share them with Hinata-kun, okay? It's a token of my appreciation for cleaning up the streets." | “和日向一起吃吧，这是帮忙收拾瓦砾的回礼”
+scn00_41_0276 | - | 以前からココロは、たびたび差し入れを[もら]貰ってくる事があった。 | Cocoro has brought gifts like this home more and more lately. | 从以前开始，心就时不时会收到别人送的东西。
+scn00_41_0277 | - | いつも元気に挨拶していたし、愛嬌があるせいだろう。街の人たちに知らず知らず愛されていた。 | Without realizing it, she's completely earned everyone's affection with her cheerful greetings and charming behavior. | 大概是因为她总是会很开朗地和人打招呼，又很讨人喜欢吧，街上的人们都在不知不觉中喜爱上了她。
+scn00_41_0278 | ひなた(Hinata) | 「ありがとうございます」 | "Thank you very much." | “谢谢”
+scn00_41_0279 | 住民Ａ(Resident A) | 「……あ、でも……そっか、食えねえのか」 | "Ah... But... Right, she can't eat, can she?" | “……啊，但是……也是啊，你吃不了啊”
+scn00_41_0280 | - | そこでココロがヒューマノイドである事を思いだしたのだろう、急に気まずい空気が流れる。 | Then, he seems to remember that Cocoro is a humanoid. He pauses awkwardly. | 是在这时候想到心是仿生人的事了吧，气氛突然就变得尴尬了起来。
+scn00_41_0281 | ひなた(Hinata) | 「いえ、ココロは……」 | "No, Cocoro can—" | “不，心她……”
+scn00_41_0282 | ココロ(Cocoro) | 「食べられますよ」 | "I can eat." | “我可以吃哦”
+scn00_41_0283 | - | ココロは紙の袋に入っていたメンチカツを一つ取りだしてかぶりつく。 | Cocoro takes one of the cutlets out of the paper bag and chomps down on it. | 心从纸袋中取出了一个炸肉饼然后一口咬了下去。
+scn00_41_0284 | ココロ(Cocoro) | 「はむ……もぐもぐ……もぐもぐ……」 | "Ahmm... Nom nom... Mmmm..." | “哈呣……嚼嚼……嚼嚼……”
+scn00_41_0285 | - | メンチカツを食べるヒューマノイドを、集まっていた人たちみんなで見守る。 | Some of the other people working nearby look on as she eagerly devours the treat. | 周围的人们都注视着吃着炸肉饼的仿生人。
+scn00_41_0286 | ココロ(Cocoro) | 「もぐもぐ……ゴクン。ジューシーでおいしー」 | "Nom nom... *gulp*... It's so juicy and tasty!" | “嚼嚼……咽。汁水饱满好好吃——”
+scn00_41_0287 | ココロ(Cocoro) | 「衣はサクッとしていて歯ごたえがよく、中身は肉汁をまとった挽肉と刻みタマネギの甘味が合わさって、旨味を引き出しています」 | "The fried batter is nice and crispy, and the filling inside is a perfect combination of juicy pork mince and sweet chopped onions." | “外皮酥脆口感很好，里面饱含肉汁的肉末和洋葱末的清甜相结合，激发出了鲜味”
+scn00_41_0288 | ココロ(Cocoro) | 「揚げてから時間は経っていますが、冷めても美味しいメンチカツであると判断できます。１００点」 | "Some time has passed since they were fried, but I can tell they were made to taste good even when eaten cold. A hundred points." | “虽然离炸好已经过了一段时间，但我认为就算冷掉了这也是个很美味的炸肉饼。100分”
+scn00_41_0289 | 住民Ａ(Resident A) | 「おお……分かってくれるかい！」 | "Ohh... You can tell!?" | “哦哦……你能吃出来啊！”
+scn00_41_0290 | - | ココロの食レポに、住人たちは感心している。 | The residents seem impressed by Cocoro's thorough review. | 心的食评让居民们十分佩服。
+scn00_41_0291 | 住民Ｂ(Resident B) | 「うちの煮物も持っていきな」 | "Here, try some of my stew as well." | “也带点我家的炖菜吧”
+scn00_41_0292 | - | 物を食べるヒューマノイドが珍しいのか、みんなで食べ物を持ち寄ってくる。 | Everyone starts sharing their food, perhaps because the sight of a humanoid eating is so unusual. | 或许是因为能吃东西的仿生人很少见，大家都把食物带了过来。
+scn00_41_0293 | ココロ(Cocoro) | 「こんなに沢山……いただきます」 | "There's so much food... Thank you!" | “这么多……我都收下了”
+scn00_41_0294 | - | ココロのおかげで、今夜どころか三日分くらいの食事に困らなさそうだった。 | Thanks to Cocoro, we're not going to have to worry about food for at least the next three days. | 多亏了心，不光今晚，甚至未来三天左右都不用为吃什么发愁了。
+scn00_41_0295 | ひなた(Hinata) | 「ごちそうさまでした。……げぷ、食べ過ぎた」 | "What a feast... Hic! I ate too much." | “多谢款待……嗝，吃太多了”
+scn00_41_0296 | ココロ(Cocoro) | 「ごちそうさまでした」 | "It was delicious." | “多谢款待”
+scn00_41_0297 | - | いただいた差し入れのおかげで、今夜の夕飯はとても豪勢な物となった。 | Thanks to all the gifts, our dinner tonight was a lot more luxurious than usual. | 人们送的食物让今晚的晚饭变得格外丰盛。
+scn00_41_0298 | ひなた(Hinata) | 「お腹いっぱいだ」 | "I'm stuffed." | “肚子好饱”
+scn00_41_0299 | ココロ(Cocoro) | 「はい、食べ過ぎました。消化に必要なエネルギーを確保するため、失礼してだらだらさせていただきます」 | "Yes, I ate too much, too. I'm afraid I'll need to conserve energy in order to digest it all." | “是的，吃太多了。为了留出消化所必需的能量，就请容我瘫一会儿吧”
+scn00_41_0300 | - | ココロはぐで～っと地べたに横たわる。 | Cocoro lazily plops down on the floor. | 心咣当一声躺到了地上。
+scn00_41_0301 | ひなた(Hinata) | 「いつもは少し味見するだけなのに、今夜は沢山食べちゃったね」 | "Normally you just take a few bites to taste, but you really ate a lot tonight." | “毕竟平时都只是稍微尝尝，今晚却吃了好多啊”
+scn00_41_0302 | ココロ(Cocoro) | 「美味しかったから、つい……。はしたないヒューマノイドでごめんなさい」 | "It was so good, I couldn't help myself... I'm sorry for being such a gluttonous humanoid." | “因为很美味，所以没忍住就……对不起，我是个不成体统的仿生人”
+scn00_41_0303 | ひなた(Hinata) | 「いいんだよ、どんどん食べな」 | "It's fine. Eat as much as you want." | “没关系啦，你就尽管吃吧”
+scn00_41_0304 | - | その分、バッテリー消費の心配をしなきゃいけないが。 | Though she has to be careful that she doesn't run out of battery. | 不过，还是得担心一下电量消耗啊。
+scn00_41_0305 | ココロ(Cocoro) | 「夕飯がとても美味しく感じました。味覚だけで判定すると、特別美味というわけではないはずなのに」 | "Tonight's dinner felt especially tasty, even though, judging by the flavors, most of the food wasn't anything special." | “我感觉晚饭非常美味，但明明仅凭味觉来判断，并算不上是特别美味”
+scn00_41_0306 | ココロ(Cocoro) | 「なぜでしょう……不思議です」 | "I wonder why... It's so mysterious." | “这是为什么呢……不可思议”
+scn00_41_0307 | ココロ(Cocoro) | 「……この謎を解明するため、明日もたらふく食べる必要がありますね」 | "I'll need to eat a lot more tomorrow in order to solve this mystery." | “……看来为了解开这个谜题，明天也有必要吃饱啊”
+scn00_41_0308 | ひなた(Hinata) | 「ふふ、そうだね」 | "Hehe, of course." | “嘿嘿，是啊”
+scn00_41_0309 | ココロ(Cocoro) | 「？　なんですか、その笑いは。まるで、自分は全部お見通しと言わんばかりと推測します」 | "Why are you laughing? I suppose it's because you already know what made the food so tasty?" | “？　你这笑是什么意思。据我推测，你这样就像是在说自己全都已经看透了一样”
+scn00_41_0310 | ひなた(Hinata) | 「そういうわけじゃないけど、もしかしたらって思って」 | "Not exactly, but I have a hunch." | “倒也没到这种程度，只是想过或许……”
+scn00_41_0311 | ココロ(Cocoro) | 「もしかしたら、なんですか？」 | "Then why?" | “或许，什么？”
+scn00_41_0312 | ひなた(Hinata) | 「自分で見付ける方がいいんじゃないかな。すぐに分かるよ、きっと」 | "I think it's better if you think about that yourself. I'm sure you'll figure it out soon enough." | “自己找出答案不是更好嘛，你肯定很快就能理解了”
+scn00_41_0313 | ココロ(Cocoro) | 「むぅ……」 | "Boo..." | “呣……”
+scn00_41_0314 | - | ココロがむくれながらゴロンと寝返りを打つのを見届けて、俺は洗い物に取りかかるのだった。 | Cocoro rolls over, turning her pouty face away from me as I go into the kitchen to do the dishes. | 我看着心鼓着腮帮子滚来滚去的样子，洗起了餐具。

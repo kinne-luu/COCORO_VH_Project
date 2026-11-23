@@ -1,0 +1,60 @@
+scn00_42_0301 | "Cậu Hinata, ban nãy cậu vừa gọi điện cho ai thế ạ?"
+scn00_42_0302 | "Ừ... Tôi định báo cho bố một tiếng về chuyện của hai đứa mình."
+scn00_42_0303 | "Ôi, bố cậu... Tức là người sau này sẽ trở thành bố chồng của tôi đúng không ạ?"
+scn00_42_0304 | "Cocoro đã từng gặp ông ấy rồi đúng không?"
+scn00_42_0305 | "Vâng. Vào đêm <Ách Tai> xảy ra. Ông ấy đã sơ cứu cho cậu Hinata lúc cậu bị chảy máu bất tỉnh rồi đưa cậu đến bệnh viện."
+scn00_42_0306 | "..."
+scn00_42_0307 | Cocoro chợt trầm ngâm suy nghĩ.
+scn00_42_0308 | "Khi ấy, tôi vẫn chưa học hỏi được nhiều về cảm xúc của con người."
+scn00_42_0309 | "Bởi thế, lúc đó tôi không thể nắm bắt được cảm xúc của bố cậu, nhưng giờ hồi tưởng lại bộ nhớ... thì thấy ông ấy đã vô cùng lo lắng đấy ạ."
+scn00_42_0310 | "Thế à."
+scn00_42_0311 | Tôi đã từng nghe bố kể về chuyện đêm đó. Dù vậy, tôi vẫn chưa thể tin nổi người đó lại thực sự lo lắng cho mình.
+scn00_42_0312 | Nhưng nếu đến cả Cocoro cũng nhìn thấy như vậy thì...
+scn00_42_0313 | Có lẽ bố đã thực sự lo lắng và hoảng hốt vì tôi đến nhường nào.
+scn00_42_0314 | "Bố cậu liệu có đến dự lễ cưới của chúng ta không nhỉ?"
+scn00_42_0315 | "Ai mà biết được chứ."
+scn00_42_0316 | Dù ông ấy có muốn đến chăng nữa, giờ báo có khi cũng chẳng kịp nữa rồi.
+scn00_42_0317 | Giá mà mình báo cho ông ấy sớm hơn.
+scn00_42_0318 | Không, không phải thế. Là do trong vô thức, tôi đã tự tạo ra tình thế để bố dễ dàng từ chối đấy chứ.
+scn00_42_0319 | Mình vẫn chưa thể đối mặt đàng hoàng với bố...
+scn00_42_0320 | "Nếu có dịp được gặp lại bố, tôi muốn nói lời cảm ơn ông ấy."
+scn00_42_0321 | "Cảm ơn chuyện gì cơ?"
+scn00_42_0322 | "Vì ông ấy đã cứu lấy cậu Hinata của tôi. Khi đó tôi không thể ra ngoài, nên thật sự biết ơn ông ấy vô cùng."
+scn00_42_0323 | "Ừ, đúng thế thật. Tôi cũng phải nói lời cảm ơn bố thật đàng hoàng mới được."
+scn00_42_0324 | "Đúng vậy ạ. Dù trong quá khứ có xảy ra chuyện gì đi nữa, thì riêng việc được cứu sống một mạng này cũng rất đáng để biết ơn rồi."
+scn00_42_0325 | "Nói chuyện với Cocoro xong, tôi thấy cái thói hay bận lòng dằn vặt của mình thật là ngớ ngẩn."
+scn00_42_0326 | Tôi bất giác bật cười thành tiếng.
+scn00_42_0327 | "Phải rồi ạ. Trái tim con người phức tạp lắm, vì thế đôi khi mới dễ bị lạc lối. Nhưng mỗi khi có điều phiền muộn, cậu cứ nghĩ thế này xem sao nhé."
+scn00_42_0328 | "Khi con người trăn trở, thực ra tận sâu bên trong đã có sẵn câu trả lời rồi. Việc còn lại chỉ là bắt tay vào thực hiện nó mà thôi."
+scn00_42_0329 | "...Cocoro giỏi thật đấy."
+scn00_42_0330 | "Đương nhiên rồi ạ. Dù sao thì ngày nào tôi cũng học hỏi không ngừng mà lị."
+scn00_42_0331 | Cocoro vừa mỉm cười rạng rỡ vừa dắt tay tôi bước đi.
+scn00_42_0332 | Chẳng ai bảo ai, cả hai chúng tôi cùng bước xuống bãi cát ven biển.
+scn00_42_0333 | Cocoro vừa tháo dây dắt ra, chú chó đã tung tăng chạy vút đi đầy phấn khích.
+scn00_42_0334 | Tôi cùng Cocoro ngồi sóng vai bên mép sóng vỗ.
+scn00_42_0335 | "Thật sự là so với hồi mới đến khu phố mua sắm, cậu đã thay đổi đến không nhận ra luôn đấy. Giờ nhớ lại, ngày ấy cậu còn vụng về gượng gạo biết bao nhiêu."
+scn00_42_0336 | "...Những cảm xúc mà mạch cảm xúc tạo ra, trước đây tôi đều phán đoán là lỗi hệ thống rồi phớt lờ đi."
+scn00_42_0337 | "Thế nhưng, khi tiếp xúc với cậu Hinata, bé Kosame và mọi người ở khu phố mua sắm, tôi đã dần học được cảm xúc con người vốn không thể rạch ròi chỉ bằng mỗi logic."
+scn00_42_0338 | "Không... nói vậy vẫn chưa đúng lắm."
+scn00_42_0339 | "Là vì cậu Hinata đã dành tình yêu thương cho tôi."
+scn00_42_0340 | "Cả mọi người trong thị trấn, cả dì Kirika và tất cả mọi người nữa."
+scn00_42_0341 | "Tôi nghĩ là trong lúc đón nhận tình yêu thương ấy, tôi cũng đã dần đem lòng yêu mến con người."
+scn00_42_0342 | Đem lòng yêu mến con người... chính nhờ vậy mà em mới có thể học hỏi và bộc lộ cảm xúc một cách tự nhiên đến thế sao.
+scn00_42_0343 | Hầu hết mọi biểu hiện cảm xúc đều là công cụ để giao tiếp, kết nối với người khác.
+scn00_42_0344 | Có lẽ chỉ khi có sự trao gửi cảm xúc yêu thương qua lại, năng lực ấy mới thực sự nảy nở và phát triển.
+scn00_42_0345 | "Cảm ơn cậu, cậu Hinata."
+scn00_42_0346 | Cocoro ngồi cạnh khẽ tựa đầu lên vai tôi.
+scn00_42_0347 | "Cảm ơn cậu vì đã là người đầu tiên trao trọn tình cảm cho tôi."
+scn00_42_0348 | "Tôi mới là người phải cảm ơn cậu. Cảm ơn vì đã để tôi được yêu thương cậu."
+scn00_42_0349 | Tôi chưa từng yêu ai sâu đậm đến nhường này, và tôi cảm thấy thật hạnh phúc vì đã có thể yêu em.
+scn00_42_0350 | Làn gió mơn man trên mặt biển thổi tới mang lại cảm giác thật dễ chịu.
+scn00_42_0351 | "Gió mát quá... Mùa hè sắp kết thúc rồi nhỉ."
+scn00_42_0352 | Trong từng cơn gió đã bắt đầu thoang thoảng hơi thở của mùa thu.
+scn00_42_0353 | "...Thời gian và các mùa cứ thế luân chuyển trôi qua, cậu nhỉ."
+scn00_42_0354 | "Bây giờ tôi mới thấu hiểu được. Tôi đã rất đỗi hạnh phúc."
+scn00_42_0355 | "Tôi đã có được một trái tim biết cảm nhận thế nào là hạnh phúc."
+scn00_42_0356 | "Chính vì thế mà mới thấy nhói lòng biết bao... khi mùa hè đang dần khép lại..."
+scn00_42_0357 | Từ đôi mắt Cocoro, một hàng nước mắt khẽ lăn dài trên má.
+scn00_42_0358 | "Ư ử..."
+scn00_42_0359 | Nhận ra điều đó, chú chó liền sà lại gần dụi đầu như muốn an ủi Cocoro.
+scn00_42_0360 | Cocoro âu yếm vuốt ve chú chó, như muốn bảo rằng mình không sao đâu.

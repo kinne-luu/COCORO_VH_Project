@@ -1,0 +1,60 @@
+scn00_47_0001 | Cuối tháng Chín.
+scn00_47_0002 | Kỳ nghỉ hè khép lại, tôi quay về ký túc xá và tiếp tục cuộc sống học sinh cấp ba bình dị thường nhật.
+scn00_47_0003 | Cùng với cái nóng oi ả dần dịu đi, mùa hè vô giá trải qua tại phố thương mại Tsukumo dường như cũng đang lùi xa dần vào quá khứ.
+scn00_47_0004 | Sống trong chuỗi ngày thường nhật êm đềm... thứ vô cùng quý giá ở thời đại này, tôi chợt thấy sợ hãi khi ngỡ như quyết tâm của mình đang dần phai nhạt.
+scn00_47_0005 | Rồi vào một ngày nọ, tôi nhận được tin nhắn từ dì Kirika.
+scn00_47_0006 | "Đã chuẩn bị xong xuôi để đánh thức Cocoro rồi."
+scn00_47_0007 | Tranh thủ kỳ nghỉ cuối tuần, tôi một lần nữa lên đường hướng về thành phố Tsukumo.
+scn00_47_0008 | "Gâu! Gâu gâu!!"
+scn00_47_0009 | "Kìa, vướng chân quá đấy Natsu."
+scn00_47_0010 | Vừa né chú chó, tôi vừa ôm từng thùng bìa carton từ thùng xe tải bê xuống.
+scn00_47_0011 | "Hàng hóa, thùng vừa rồi là thùng cuối cùng rồi phải không chú?"
+scn00_47_0012 | "Cảm ơn cháu nhé, cậu em."
+scn00_47_0013 | "Dạ không có gì đâu, cháu mới phải cảm ơn chú vì đã cho đi nhờ xe ạ."
+scn00_47_0014 | Tôi vẫy tay chào chiếc xe tải rồ máy rời đi sau khi đã dỡ hàng xong xuôi.
+scn00_47_0015 | "Được rồi."
+scn00_47_0016 | "Sao Hinata lại đi phụ dỡ hàng thế kia?"
+scn00_47_0017 | Chẳng biết từ lúc nào Kazane đã đứng ngay bên cạnh tôi.
+scn00_47_0018 | "Tại giữa đường được chú ấy cho đi nhờ xe, nên tớ giúp chút đỉnh coi như cảm ơn ấy mà."
+scn00_47_0019 | Để đến thành phố Tsukumo, tôi lại tiếp tục đạp chiếc xe đạp leo núi từ tối hôm qua.
+scn00_47_0020 | Sáng nay, một bác tài xế xe tải chạy ngang qua cất tiếng hỏi han và cho tôi gửi cả xe đạp lên thùng để đi cùng.
+scn00_47_0021 | Nhờ vậy mà tôi đã đến nơi sớm hơn nửa ngày so với dự kiến.
+scn00_47_0022 | "Chuỗi cung ứng vận chuyển hàng hóa bắt đầu hồi phục lại rồi nhỉ."
+scn00_47_0023 | "Ừ. Từng chút một đang dần phục hồi rồi. Cuối cùng ngày này cũng tới."
+scn00_47_0024 | Tôi cũng đã xem tin tức trên tivi, thấy đưa tin Phân khu 99 sau khi xác nhận độ an toàn đang bắt đầu được dỡ bỏ phong tỏa theo từng giai đoạn.
+scn00_47_0025 | "Ô, Hinata đấy à!"
+scn00_47_0026 | "Anh Hinata sao? Đúng thật rồi này!"
+scn00_47_0027 | Hai anh em nhà Amai thò đầu ra khỏi tiệm.
+scn00_47_0028 | "Tiệm mở cửa buôn bán lại rồi à."
+scn00_47_0029 | "Thực đơn vẫn chưa có nhiều món lắm đâu. Cậu có muốn nếm thử bánh crepe đặc chế không?"
+scn00_47_0030 | "Anh nhìn cái này đi, anh Hinata."
+scn00_47_0031 | Trên giấy gói bánh crepe có in một hình vẽ minh họa...
+scn00_47_0032 | "Đây là Cocoro sao?"
+scn00_47_0033 | "Kosame vẽ đấy. Đẹp đúng không? Dù là em gái mình nhưng tao cũng thấy nó có năng khiếu ghê gớm. Tương lai chắc chắn sẽ trở thành họa sĩ minh họa đắt khách cho coi."
+scn00_47_0034 | "Vì em muốn lưu giữ lại thật trọn vẹn rằng chị Coco đã từng hiện diện ở nơi đây."
+scn00_47_0035 | "Dù sao thì Kosame với nhỏ cũng là đôi bạn thân mà."
+scn00_47_0036 | "Daichi này, cho tôi xin phép ở nhờ lại một đêm nữa được không?"
+scn00_47_0037 | "Tất nhiên rồi. Muốn ở bao nhiêu ngày cũng được hết!"
+scn00_47_0038 | "Cơm nước thì cứ để tớ lo. Ở khu này có đầy người muốn mời cơm Hinata đấy nhé."
+scn00_47_0039 | "Cho chú một bánh crepe socola in hình bé Coco nào."
+scn00_47_0040 | "Có ngay đây, một cái in hình Coco-chan nhé!"
+scn00_47_0041 | "Chú Kotaro!"
+scn00_47_0042 | "? Cậu nhóc Hinata! Sao cháu lại ở đây thế?"
+scn00_47_0043 | "Dì Kirika liên lạc với cháu ạ. Tranh thủ ngày nghỉ nên cháu tới đây."
+scn00_47_0044 | "Thế à. Thế thì đúng lúc quá rồi."
+scn00_47_0045 | "?"
+scn00_47_0046 | "...À thì, tay nghề pha cà phê của chú chẳng làm Trưởng nhóm vừa ý nổi. Chú định bụng mua chút đồ ngọt thay thế nên mới ra đây mua này."
+scn00_47_0047 | "Cháu hiểu rồi. Chuyện đó cứ để cháu lo ạ."
+scn00_47_0048 | Có vẻ như hôm nay dì Kirika lại đang phải chiến đấu tại một nơi làm việc đầy áp lực. Mình phải đi tiếp sức chữa lành cho dì mới được.
+scn00_47_0049 | "...(lẩm bẩm)..."
+scn00_47_0050 | "...Hít hít...?"
+scn00_47_0051 | Dì Kirika đang dán mắt vào màn hình bỗng bị mùi hương cà phê lôi cuốn ngẩng mặt lên.
+scn00_47_0052 | "Mời Trưởng nhóm dùng cà phê. Tôi cũng mua cả bánh crepe về nữa đấy."
+scn00_47_0053 | "Cảm ơn cậu nhé, Kotaro. ...Tôi nghỉ tay một chút vậy."
+scn00_47_0054 | Dì Kirika vươn vai thư giãn trên ghế rồi nhấp một ngụm cà phê vừa mới pha.
+scn00_47_0055 | "...Ủa?"
+scn00_47_0056 | "Có chuyện gì sao Trưởng nhóm?"
+scn00_47_0057 | "Vị này... chẳng lẽ là Hinata?"
+scn00_47_0058 | Dì Kirika xoay phắt ghế quay lại phía sau.
+scn00_47_0059 | "Cháu tới rồi đây, dì Kirika."
+scn00_47_0060 | "Hinataaaaaa!"

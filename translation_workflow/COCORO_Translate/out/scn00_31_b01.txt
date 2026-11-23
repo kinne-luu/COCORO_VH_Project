@@ -1,0 +1,60 @@
+scn00_31_0001 | "Không ngờ Cocoro lại chẳng phải là con người..."
+scn00_31_0002 | "Mà chịu thật đấy, làm sao biết được chứ, đời nào có con robot ngô nghê đến thế cơ chứ."
+scn00_31_0003 | "..."
+scn00_31_0004 | "Cậu ấy thú vị phết còn gì! Toàn nói mấy câu kỳ quặc, đúng không Kazane?"
+scn00_31_0005 | "...Thực ra tớ biết chuyện đó rồi. Chuyện về Cocoro ấy."
+scn00_31_0006 | "Thế hả?"
+scn00_31_0007 | "Trước đây tớ tình cờ bắt gặp cậu ấy cạn pin không thể cử động được, thế nên..."
+scn00_31_0008 | "Nhưng Cocoro là một cô bé tốt, tớ đã nghĩ chúng mình có thể làm bạn. Kosame cũng hiểu mà, đúng không?"
+scn00_31_0009 | "...Em chẳng hiểu gì cả."
+scn00_31_0010 | "Lúc đó em thấy chị Coco thật đáng sợ... rồi chị ấy lại làm ra vẻ mặt buồn bã đến thế..."
+scn00_31_0011 | "Là robot cơ mà? Thế thì việc gì phải lo lắng. Chắc giờ này lại tỉnh bơ như mọi khi rồi ấy mà!"
+scn00_31_0012 | "...Biết sao được. Giá mà được vậy thì tốt quá."
+scn00_31_0013 | "..."
+scn00_31_0014 | "Này, phấn chấn lên xem nào. Chẳng phải bảo là hình như đã tìm ra nguyên nhân của 'Ách Tai' rồi sao, đám người bên đội điều tra cũng đang bận rộn túi bụi đấy thôi."
+scn00_31_0015 | "Phân khu 99 có khi sắp được giải phóng rồi đấy."
+scn00_31_0016 | "Ừ, đúng thế thật..."
+scn00_31_0017 | "...Thật tình, đứa nào đứa nấy mặt mũi cứ như đưa đám."
+scn00_31_0018 | "Kẻ suốt ngày ủ rũ là cậu thì có. Rõ ràng là nhờ có Hinata với Cocoro giúp đỡ chuyện quán xá cơ mà."
+scn00_31_0019 | "Hự... Tao xin lỗi được chưa. Mà tao cũng có phải không thấy buồn đâu chứ?"
+scn00_31_0020 | "Nhưng mà, chẳng phải chính hai đứa nó đã dạy rằng những lúc như thế càng phải cười lên hay sao."
+scn00_31_0021 | "..."
+scn00_31_0022 | "Hinata sao rồi?"
+scn00_31_0023 | "Vẫn nhốt mình trong phòng suốt. Mà kể cả có muốn ra ngoài thì cũng chẳng được."
+scn00_31_0024 | "...Bọn họ vẫn canh chừng cậu ấy suốt sao. Thế này chẳng khác nào bị quản thúc tại gia."
+scn00_31_0025 | "Dù sao nếu Cocoro có liên lạc thì chắc chắn là liên lạc cho nó rồi."
+scn00_31_0026 | "...Trước đây Hinata cũng từng có lần không nói được, cậu còn nhớ không?"
+scn00_31_0027 | "Ừ, đợt mẹ nó qua đời chứ gì."
+scn00_31_0028 | "Hồi đó ngày nào tớ cũng sang nhà, hết bắt chuyện lại cùng chơi những trò không cần nói để dỗ dành cho cậu ấy vui lên."
+scn00_31_0029 | "Tao biết chứ."
+scn00_31_0030 | "Nhưng chẳng ăn thua gì cả. Rồi Hinata còn nghỉ học luôn."
+scn00_31_0031 | "...Ừ."
+scn00_31_0032 | "Lúc ấy, người giúp Hinata vực dậy tinh thần chính là Cocoro đấy."
+scn00_31_0033 | "? Ơ, đấy là chuyện hồi tiểu học cơ mà?"
+scn00_31_0034 | "Hồi ấy Hinata từng gặp Cocoro một lần rồi."
+scn00_31_0035 | "Ngày nào Hinata cũng ra vườn bách thảo, và nghe nói khi ấy Cocoro đang làm việc ở đó."
+scn00_31_0036 | "Hinata thích Cocoro đến mức còn cầu hôn cậu ấy nữa cơ."
+scn00_31_0037 | "Thật á...? Hóa ra vì thế mà thằng nhóc mới tươi tỉnh trở lại à."
+scn00_31_0038 | "Bọn con trai các cậu đơn giản đến mức buồn cười thật đấy."
+scn00_31_0039 | "...Thế rồi, hai người họ ra sao ạ?"
+scn00_31_0040 | "Chị cũng không rõ chi tiết. Hình như Cocoro không thể đến vườn bách thảo được nữa, thế là chia tay nhau."
+scn00_31_0041 | "Ra là vậy..."
+scn00_31_0042 | "Nói cách khác, Cocoro chính là ân nhân đã cứu vớt Hinata."
+scn00_31_0043 | "Đối với tao thì cậu ấy còn là ân nhân cứu mạng bé Kosame nữa."
+scn00_31_0044 | "...Vâng."
+scn00_31_0045 | "Vì bọn nó thì tao sẵn sàng làm bất cứ điều gì. Miễn là có việc gì tao làm được..."
+scn00_31_0046 | Tôi lại giam mình trong phòng.
+scn00_31_0047 | Từ bên ngoài vọng vào tiếng trò chuyện của nhóm Kazane, nhưng không nghe rõ họ đang nói những gì.
+scn00_31_0048 | Cho dù có nghe rõ đi chăng nữa, có lẽ những lời ấy cũng chẳng thể lọt vào tâm trí tôi.
+scn00_31_0049 | Bởi vì trong đầu tôi lúc này, chỉ có một câu hỏi duy nhất cứ lặp đi lặp lại không ngừng.
+scn00_31_0050 | ...Tại sao những bông hoa lại đẹp đến thế?
+scn00_31_0051 | Một thắc mắc mà tôi vẫn luôn né tránh bấy lâu.
+scn00_31_0052 | Cứ ngỡ rằng một khi hoa Tuyết Trắng Mùa Hạ nở rộ, mọi chuyện sẽ được giải quyết ư?
+scn00_31_0053 | Rốt cuộc cũng chỉ khiến lời nói dối bị phơi bày mà thôi.
+scn00_31_0054 | Chỉ là chuyện đó đến sớm hơn một chút.
+scn00_31_0055 | Rõ ràng mình đã hứa sẽ biến Cocoro thành con người mà.
+scn00_31_0056 | Lời hứa chẳng hề có chút tính cưỡng chế nào.
+scn00_31_0057 | Chính vì thế, việc giữ được lời hứa mới mang lại ý nghĩa, và việc không thể giữ lời cũng để lại những hệ quả đau đớn.
+scn00_31_0058 | Tôi đã không thể giữ trọn lời hứa.
+scn00_31_0059 | Một làn gió ngột ngạt thổi qua khiến tôi đưa mắt nhìn về phía khung cửa sổ.
+scn00_31_0060 | Trên chậu hoa dạ yến thảo tôi trồng bên bậu cửa, một cánh bướm đang chập chờn bay tới.

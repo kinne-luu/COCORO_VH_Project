@@ -1,0 +1,60 @@
+scn00_38_0121 | "Vậy cậu nói thử xem nào."
+scn00_38_0122 | "Có quá nhiều chuyện xảy đến cùng lúc, cõi lòng ngập tràn bao cảm xúc, đến mức cậu chẳng thể nắm bắt nổi trạng thái tình cảm của mình lúc này ra sao nữa, đúng không?"
+scn00_38_0123 | "Chính xác rồi ạ."
+scn00_38_0124 | "Cảm giác mạch cảm xúc của tôi đang rất bất ổn, không tài nào kiểm soát tốt được. Liệu có phải tôi đã bị hỏng rồi không......"
+scn00_38_0125 | "Không đâu, điều đó ở con người cũng thường xuyên xảy ra mà."
+scn00_38_0126 | "Khi nào tâm trạng lắng dịu lại, chúng ta hãy kể chuyện lần này cho dì Kirika nghe nhé."
+scn00_38_0127 | Trong đó hẳn cũng có những ký ức đau buồn. Nếu Cocoro không muốn kể, em hoàn toàn không cần phải nói.
+scn00_38_0128 | Cocoro đã có một trái tim, và quyền riêng tư của em cần được tôn trọng.
+scn00_38_0129 | "Vâng ạ."
+scn00_38_0130 | "Nào, chúng ta về thôi."
+scn00_38_0131 | Nhìn bàn tay tôi đưa ra, Cocoro thoáng vẻ bối rối một chốc, rồi rụt rè nắm lấy.
+scn00_38_0132 | Chúng tôi nắm tay nhau, sánh bước cùng nhau trở về.
+scn00_38_0133 | "Đâu đâu cũng thấy đổ nát thiệt hại. Nhưng may mà không có ai bị thương."
+scn00_38_0134 | "Ừ, đúng thế thật."
+scn00_38_0135 | "Tất cả là nhờ công của mày đấy."
+scn00_38_0136 | "Ừ......"
+scn00_38_0137 | "Sao thế hả, mặt mày ủ rũ thế kia."
+scn00_38_0138 | "Nhưng mà, bọn Hinata vẫn chưa..."
+scn00_38_0139 | "Gâu? Gâu gâu gâu gâu!!"
+scn00_38_0140 | "?"
+scn00_38_0141 | "Hinata kìa!"
+scn00_38_0142 | "Có cả Cocoro nữa kìa."
+scn00_38_0143 | "A..."
+scn00_38_0144 | Vừa thấy bóng nhóm Kazane, Cocoro liền khẽ nép mình trốn sau lưng tôi.
+scn00_38_0145 | "Mọi người bình an vô sự rồi! Cơ mà, bé Cocoro sao thế kia?"
+scn00_38_0146 | "À không, chắc là em ấy đang thấy ngượng ngùng e dè đấy."
+scn00_38_0147 | "E dè ngượng ngùng ư? Với ai cơ chứ?"
+scn00_38_0148 | "Nhiều chuyện xảy ra lắm. Tụi tớ về rồi đây."
+scn00_38_0149 | "Ừ, mừng cậu về nhà."
+scn00_38_0150 | "? Giọng... giọng mày......"
+scn00_38_0151 | "À, chuyện này cũng dài dòng nhiều điều lắm."
+scn00_38_0152 | Sau khi tảng đá đè nặng trong lòng được gỡ bỏ, tôi lại có thể cất tiếng nói chuyện tự nhiên như trước.
+scn00_38_0153 | "...... Hóa ra mặt của Kazane trông như vậy. Đúng hệt như tôi từng tưởng tượng. Còn Daichi thì hơi... kia hơn tôi nghĩ một chút. Chú chó thì lông lá xù xì đáng yêu thật."
+scn00_38_0154 | "Gì thế, lầm bầm cái gì đấy hả?"
+scn00_38_0155 | "Không biết có phải em ấy đang sợ bọn mình không...... Dù sao cũng vừa xảy ra chuyện như vậy."
+scn00_38_0156 | "Mọi người đều ổn cả chứ?"
+scn00_38_0157 | "Không có ai bị thương cả. Nhưng nếu đám robot đó không nửa chừng quay đầu rút đi, thì chắc nguy to rồi."
+scn00_38_0158 | "Phù......"
+scn00_38_0159 | Tôi có thể cảm nhận được Cocoro ở sau lưng mình vừa thở phào nhẹ nhõm.
+scn00_38_0160 | "Cơ mà, thị trấn lại thành ra nông nỗi này. Lại phải đi sửa sang gia cố các thứ rồi."
+scn00_38_0161 | "Thị trấn thì xây sửa lại bao nhiêu lần chả được. Miễn là mọi người đều bình an vô sự như thế này!"
+scn00_38_0162 | "Chuẩn luôn!"
+scn00_38_0163 | "Sức sống của mọi người thật đáng nể phục."
+scn00_38_0164 | "Nếu không có tinh thần thép cỡ này thì sao sống nổi ở nơi đây chứ."
+scn00_38_0165 | Thật may mắn khi không có tổn thất nào quá nặng nề về người.
+scn00_38_0166 | "Vừa trút được gánh nặng trong lòng là cơn mệt mỏi ập tới luôn...... Chúng ta về thôi nào, Cocoro."
+scn00_38_0167 | "Vâng ạ."
+scn00_38_0168 | Tôi cùng Cocoro rảo bước trở về căn phòng của mình.
+scn00_38_0169 | Ngay trong đêm, cơn cuồng nộ bạo loạn của bầy robot đã hoàn toàn lắng xuống. Khi những tia nắng ban mai hé rạng, người dân trong thị trấn mới rụt rè bước ra ngoài.
+scn00_38_0170 | Dưới ánh mặt trời, họ vừa kiểm tra mức độ hư hại của khu phố, vừa rôm rả bàn tính kế hoạch tái thiết.
+scn00_38_0171 | "Có lúc tôi cứ ngỡ phen này toi mạng hết rồi cơ đấy...... Mọi người bình an vô sự là tốt lắm rồi."
+scn00_38_0172 | "Cỡ này thì tụi mình vẫn xoay xở tốt thôi bác ạ."
+scn00_38_0173 | Quả đúng là những con người sống tại Phân khu 99, kiên cường và bền bỉ phi thường.
+scn00_38_0174 | Tôi vừa quan sát khung cảnh đó, vừa cho chú chó ăn.
+scn00_38_0175 | "Gâu! Gâu!"
+scn00_38_0176 | "Không phải Cocoro đến cho mày ăn, thứ lỗi nhé. Hình như bây giờ cô ấy không muốn ra khỏi phòng."
+scn00_38_0177 | Trong thâm tâm Cocoro chắc chắn có một trái tim.
+scn00_38_0178 | Khi tự nhận thức được điều đó, em chẳng thể nào tiếp tục phớt lờ vô vàn những cung bậc cảm xúc nữa.
+scn00_38_0179 | Cảnh tượng đổ nát của thị trấn này, dường như Cocoro cũng tự dằn vặt và cảm thấy tội lỗi vì nghĩ đó là do mình gây ra.
+scn00_38_0180 | Dù rõ ràng Cocoro chỉ đang cố gắng tự bảo vệ bản thân mình mà thôi......

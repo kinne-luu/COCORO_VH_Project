@@ -1,0 +1,35 @@
+scn00_40_0360 | "Này này này, chẳng phải ở đây cũng có một người sờ sờ ra đó sao?"
+scn00_40_0361 | "Cả Kazane cũng thừa nhận chúng tôi sao?"
+scn00_40_0362 | "Chứ sao nữa. Bé Cocoro vốn đã là bạn của tôi rồi mà."
+scn00_40_0363 | "Kazane... thương nhắm."
+scn00_40_0364 | "Ừng ực đáng yêu quá đi mất thôi. Ngoan ngoan, tôi cũng thương cậu nhắm cơ―"
+scn00_40_0365 | "Cơ mà này, lễ cưới thì định tính sao đây?"
+scn00_40_0366 | "Chỉ cần váy cưới sửa xong là tôi muốn tổ chức ngay lập tức ạ."
+scn00_40_0367 | Xem chừng cậu ấy ưng ý bộ váy cưới đó đến phát cuồng rồi.
+scn00_40_0368 | "Còn Hinata thì xem nào... Kỳ nghỉ hè của cậu cũng sắp kết thúc rồi còn gì?"
+scn00_40_0369 | "Chắc tôi sẽ phải quay lại trường một thời gian. Trong lúc đó tôi tính gửi gắm Cocoro cho ai đó trông nom giúp."
+scn00_40_0370 | "Tôi phải chia xa cậu Hinata sao...?"
+scn00_40_0371 | "Có thể sẽ khiến cậu phải buồn một dạo, nhưng ở đây cậu cũng có bạn bè rồi mà đúng không?"
+scn00_40_0372 | "...Xỉu ngang."
+scn00_40_0373 | Cocoro xìu mặt xuống buồn thiu thấy rõ.
+scn00_40_0374 | "Bởi thế tôi mới mong có thể làm lễ cưới trước khi tôi đi."
+scn00_40_0375 | Dù gọi là lễ cưới nhưng tôi cũng chẳng tính làm điều gì rình rang to tát cả.
+scn00_40_0376 | Có thể trông sẽ giống trò chơi đồ hàng của lũ trẻ con, nhưng chỉ cần là nghi thức để tôi và Cocoro cùng thề nguyện yêu thương nhau là quá đủ rồi.
+scn00_40_0377 | "Nhưng ngặt nỗi chẳng biết đào đâu ra nơi làm lễ đường được cơ chứ."
+scn00_40_0378 | Thành phố Tsukumo vốn từng là một đô thị sầm uất nên không thiếu lễ đường hay giáo đường, nhưng sau biến cố Ách Tai tất cả đều đã thành phế tích tan hoang.
+scn00_40_0379 | "Hay là mình tổ chức ở vườn bách thảo nhỉ?"
+scn00_40_0380 | "Vườn bách thảo á? Chỗ bên Khu Trung Tâm ấy hả?"
+scn00_40_0381 | "Vì đó là nơi tôi và Cocoro lần đầu gặp gỡ mà."
+scn00_40_0382 | "Công nhận ở đó có khi lại đẹp thật đấy. Mái vòm kính đón ánh sáng chan hòa... Nhưng liệu tụi mình có được tự tiện dùng không nhỉ?"
+scn00_40_0383 | Dù đang bị bỏ hoang chẳng khác nào phế tích, nhưng tự ý dùng bừa bãi e là không ổn.
+scn00_40_0384 | "Nếu vậy thì chỉ cần xin phép là được chứ gì ạ."
+scn00_40_0385 | "Xin ai mới được cơ chứ?"
+scn00_40_0386 | "...A, đúng nhỉ."
+scn00_40_0387 | "Đúng vậy ạ. Hiện tại Kirika đang tạm quyền quản lý Khu Trung Tâm. Quyền cấp phép cỡ chừng đó thì chắc hẳn Kirika có thể giải quyết được."
+scn00_40_0388 | "Được rồi, để tôi thử hỏi dì ấy xem sao."
+scn00_40_0389 | "Được đấy được đấy, nghe có vẻ thú vị rồi đây! Tôi cũng sẽ phụ một tay chuẩn bị!"
+scn00_40_0390 | "Thật vậy à?"
+scn00_40_0391 | "Chuyện đương nhiên rồi! Cứ giao hết cho tôi! Nếu đã vậy thì phải bắt tay vào việc ngay mới được... Thôi chào nhé, mai gặp lại!"
+scn00_40_0392 | Ryuzaki thoăn thoắt chạy bay biến ra về.
+scn00_40_0393 | "Đúng là một đứa lúc nào cũng bận rộn tíu tít..."
+scn00_40_0394 | "Cậu ấy thật là một người đáng tin cậy."

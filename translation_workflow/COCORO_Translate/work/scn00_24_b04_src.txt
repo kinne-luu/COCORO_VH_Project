@@ -1,0 +1,45 @@
+# scene=scn00_24 batch=4/5 dòng 178-218 / 259
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_24_0178 | - | そんな事ない！ | That's not true! | 没有这回事！
+scn00_24_0179 | - | と、いくら言葉で言ってもココロは受け入れないだろう。 | But Cocoro won't take my word for it, no matter how much I try to reassure her. | 但即便说再说这种话，心也不会接受吧。
+scn00_24_0180 | - | その言葉は、あまりに現実と剥離している。 | That's because my words differ from the reality that she's seen. | 这种话太脱离现实了。
+scn00_24_0181 | ココロ(Cocoro) | 「お願いします。ナツノシラユキが咲くまで、廃棄を待ってください」 | "Please, I ask that you don't dispose of me. At least, not until after the summer snows bloom." | “拜托了，在夏之白雪开花之前，请不要废弃掉我”
+scn00_24_0182 | ココロ(Cocoro) | 「そうすれば、フィアンセが来てくれます。ワタシは結婚をし、セカイに祝福された存在になれます」 | "When they bloom, my fiancé will come and marry me, and I'll receive the world's blessing." | “到那时，我的未婚夫就会到来，我就会结婚，然后成为被世界祝福的存在”
+scn00_24_0183 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_24_0184 | - | フィアンセをまるで救世主のように話している。 | She talks about her fiancé like he's some kind of messiah. | 说得好像未婚夫是救世主一样。
+scn00_24_0185 | - | その祝福はニセモノなのに。 | But the blessing she seeks is nothing but a sham. | 明明那个祝福也是虚假的。
+scn00_24_0186 | ひなた(Hinata) | 「……目が見えていないのに？」 | "...Even when you can't see?" | “……即便你的眼睛看不见？”
+scn00_24_0187 | ココロ(Cocoro) | 「？」 | "Huh?" | “？”
+scn00_24_0188 | ひなた(Hinata) | 「ナツノシラユキを見たら、どうして美しいか理解できる。それが祝福になるんだろう？　でも君は、目が見えていない」 | "When the summer snows bloom, you'll be able to understand why they're so beautiful, and that'll be your blessing, right? But for that, you'll have to  them." | “看到夏之白雪之后就能理解花为什么美丽了，这应该就算是祝福吧？　但你的眼睛什么的看不见”
+scn00_24_0189 | ひなた(Hinata) | 「咲いた花をどうやって見るの？」 | "How are you planning to look at the flowers?" | “你要怎么去看盛开的花呢？”
+scn00_24_0190 | ココロ(Cocoro) | 「見えなくていいです」 | "I don't need to see them." | “看不见也没关系”
+scn00_24_0191 | ココロ(Cocoro) | 「どうせ、花の美しさなどわかりっこありませんので」 | "I won't be able to understand their beauty anyway." | “反正我也不会知道花为什么美丽”
+scn00_24_0192 | ひなた(Hinata) | 「え……？」 | "What...?" | “哎……？”
+scn00_24_0193 | ココロ(Cocoro) | 「ワタシはヒトになるために製造されたわけではありません。ヒトがヒトのようだと感じるロボットになるために、生み出されたのです」 | "I wasn't created to become human. I was created to become a robot that humans would see as one of them." | “我并不是为了成为人类而被制造出来的，而是为了成为能让人类认作人类的机器人而诞生的”
+scn00_24_0194 | ココロ(Cocoro) | 「チューリングテストとは言わば、ヒトをいかにだませるかというテストでしかありません」 | "The Turing test merely determines how well a robot is able to deceive humans." | “图灵测试其实就是到底能欺骗人类到什么程度”
+scn00_24_0195 | ひなた(Hinata) | 「それは……」 | "That's..." | “这……”
+scn00_24_0196 | - | あんまりだよ――そう言おうとして、言葉を呑み込む。 | "That's a load of crap," is what I want to say, but I swallow my words. | 太过分了——我虽然想这么说，但还是忍住了。
+scn00_24_0197 | - | ココロはそのために生まれ、テストを[か]課された。ココロには何の罪もない。造られた理由に準じているに過ぎない。 | That's the purpose for which Cocoro was created, and what she was being tested for. She didn't do anything wrong—she's merely trying to carry out her directive. | 心就是为此而生，然后被赋予了测试。心没有任何过错，她只是在遵循被制造出来的理由罢了。
+scn00_24_0198 | - | ココロにとって、今までの全てはテストをクリアするため。 | For Cocoro, everything she's done until now has been a means to that end. | 对心来说，迄今为止的一切全都是为了通过测试。
+scn00_24_0199 | - | フィアンセに焦がれるのも、結婚によってセカイからの承認を得るため。 | The only reason she yearns to marry her fiancé is to gain acknowledgment from the world. | 一心等待着未婚夫也是为了通过结婚得到世界的认同。
+scn00_24_0200 | - | あの日、無言で花のスケッチをする子どもに声をかけたのも、訪れる者のいなくなった植物園を守り続けたのも。 | That's also why she approached me as a child when I was sketching flowers that day, and why she's continued to watch over the abandoned garden. | 那一日她向默默素描着花的孩子搭话也好，一直守护着无人来访的植物园也好。
+scn00_24_0201 | - | 俺と出会って過ごした日々も、全部。 | Every single thing that's happened since I met her was to bring her closer to her goal. | 和我相遇和我度过的每一天，全都是这样。
+scn00_24_0202 | ひなた(Hinata) | 「……ココロにとって生きる事は、ただただ苦しいだけだったんだね」 | "...So for you, living your life has been nothing but suffering, has it?" | “……对心来说活着只是在一味地受苦啊”
+scn00_24_0203 | - | だから早く終わらせたがっている。 | She wants it to end as soon as possible. | 所以才会想早点结束。
+scn00_24_0204 | ココロ(Cocoro) | 「ワタシは生きていません。ワタシはロボットです」 | "I'm not living. I'm a robot." | “我并没有活着，我是机器人”
+scn00_24_0205 | ひなた(Hinata) | 「そう……だったね」 | "Right... That's true." | “确实……是这样啊”
+scn00_24_0206 | ココロ(Cocoro) | 「ひなたさん？　声に元気がありませんが。寝不足のせいでしょうか？」 | "Hinata-san? Your voice sounds rather weak. Maybe you haven't gotten enough sleep?" | “日向先生？　声音听起来有些没精神，是因为睡眠不足吗？”
+scn00_24_0207 | ココロ(Cocoro) | 「ヒトは適切な睡眠を取る事で、元気になれます。すぐに実行に移すべきです」 | "Humans can be recharged simply by getting proper sleep. You must do that immediately." | “人类通过适当的睡眠就能精神起来，应该立刻就去实行”
+scn00_24_0208 | ひなた(Hinata) | 「そうかも……」 | "Maybe you're right..." | “或许吧……”
+scn00_24_0209 | - | 弱々しく笑いかけるが、どの道、ココロに俺の表情は見えていない。 | I flash her a weak smile, even though I know that she can't see my expression. | 我有气无力地笑了起来，反正，心也看不见我的表情。
+scn00_24_0210 | ココロ(Cocoro) | 「そして、元気になったらデートの続きをしましょう」 | "Once you've recharged, let's continue our date." | “然后，精神起来之后我们就继续约会吧”
+scn00_24_0211 | ひなた(Hinata) | 「デート？　あぁ……」 | "Date? Oh..." | “约会？　啊……”
+scn00_24_0212 | - | そういえば、俺がココロにデートを申し込み、待ち合わせをすっぽかしたせいでこうなったんだった。 | I'd almost forgotten. I asked Cocoro out on a date, and I ended up standing her up and making her wait all day at our meeting spot. That's how we got into this mess in the first place. | 说起来，变成现在这样都是因为我对心提出了约会后自己却爽约了。
+scn00_24_0213 | ココロ(Cocoro) | 「ワタシ、ひなたさんを元気にしたいです。そこで、提案があります」 | "I want to energize you, Hinata-san. So, I have an idea." | “我想让日向先生打起精神来，所以我有一个提议”
+scn00_24_0214 | ひなた(Hinata) | 「なに？」 | "Huh?" | “什么？”
+scn00_24_0215 | ココロ(Cocoro) | 「ひなたさんはワタシをデートに誘いました。それはすなわち、ワタシに恋心を持っているという証左です。間違っていますか？」 | "You invited me out on a date. That's evidence that you have romantic feelings for me, correct?" | “日向先生邀请我去约会了，也就证明您对我有好感，没说错吧？”
+scn00_24_0216 | ひなた(Hinata) | 「……ううん、間違ってないよ」 | "...Yeah, you're not wrong there." | “……没有，没说错啊”
+scn00_24_0217 | - | 弱々しく俺は認める。こんな形で気持ちを白状させられると思ってなかった。 | I meekly admit it. I'd imagined countless scenarios of how I'd end up confessing to her, but this definitely wasn't one of them. | 我有气无力地承认道，没想到会以这种形式表达出自己的心意。
+scn00_24_0218 | ココロ(Cocoro) | 「よかった。では提案です。ワタシがひなたさんの恋人になって差し上げます」 | "I'm glad to hear that. In that case, here's my idea: I will become your girlfriend." | “太好了，那么我有一个提议，请让我成为日向先生的恋人吧”

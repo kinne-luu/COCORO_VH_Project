@@ -1,0 +1,60 @@
+scn00_33_0185 | Mình cũng không thể cứ trở thành gánh nặng mãi cho dì Kirika được.
+scn00_33_0186 | "Hinata ơi, có trong đó không~?"
+scn00_33_0187 | Kazane bước vào phòng.
+scn00_33_0188 | Những lúc thế này, sự vô tư không kiêng dè ấy của cậu ấy lại khiến tôi thấy nhẹ lòng.
+scn00_33_0189 | "Dậy rồi đấy à. Nè, ăn cơm đi. Có thực mới vực được đạo chứ."
+scn00_33_0190 | <Cảm ơn cậu.>
+scn00_33_0191 | Tôi dùng bàn phím để trả lời. Chiếc bàn phím có gắn sẵn loa ngoài nên dù không kết nối với điện thoại, giọng đọc máy móc vẫn có thể phát ra tiếng, thật tiện lợi.
+scn00_33_0192 | Tôi ngồi dậy, quyết định ăn phần thức ăn tiếp tế.
+scn00_33_0193 | <Món này là...>
+scn00_33_0194 | "Bánh crepe đấy. Daichi bảo còn thừa một ít nguyên liệu của hôm trước nên làm."
+scn00_33_0195 | Chiếc bánh crepe không có hoa quả, chỉ có lớp vỏ bánh và kem tươi. Dẫu vậy ở nơi này, thế cũng đã là một món xa xỉ phẩm rồi. Tôi thầm cảm ơn rồi thưởng thức.
+scn00_33_0196 | "Tớ đi pha cà phê nhé~"
+scn00_33_0197 | Kazane đi vào bếp để pha cà phê.
+scn00_33_0198 | <Mọi người đang thế nào rồi?>
+scn00_33_0199 | "Ừm, rầu rĩ lắm. Mọi người có vẻ sốc nặng khi biết Cocoro thực ra là robot."
+scn00_33_0200 | "Dù sao cậu ấy giờ cũng đã là gương mặt đại diện của khu phố mua sắm rồi mà."
+scn00_33_0201 | <Vậy à.>
+scn00_33_0202 | Những người sống ở đây đều là những người đã sống sót qua thảm họa Ách Tai. Cảm xúc của họ đối với robot chắc chắn rất phức tạp.
+scn00_33_0203 | Có cảm thấy như mình bị lừa gạt thì cũng chẳng có gì lạ.
+scn00_33_0204 | Mà quả thực là chúng tôi đã lừa dối họ còn gì.
+scn00_33_0205 | Dẫu không hề có ác ý, nhưng việc lừa dối đôi khi tự thân nó đã là một tội lỗi.
+scn00_33_0206 | Cũng giống hệt như những gì tôi đã làm với Cocoro...
+scn00_33_0207 | Dù là người mà Cocoro hằng mong mỏi chờ đợi, tôi lại giấu nhẹm thân phận thật của mình.
+scn00_33_0208 | "Cà phê đây. Nếu dở thì cho tớ xin lỗi nhé."
+scn00_33_0209 | <Tớ... sẽ quay về sống với bố.>
+scn00_33_0210 | "Thật á? Thế còn Cocoro thì sao?"
+scn00_33_0211 | <Cậu hỏi thế thì tớ biết làm sao được, tớ đâu thể làm gì hơn.>
+scn00_33_0212 | Cậu ấy đã bị Jabberwock mang đi, có lẽ giờ đang ở đâu đó trong Phân khu Trung tâm.
+scn00_33_0213 | Một kẻ người trần mắt thịt như tôi chẳng có cách nào đến được đó, mà có đến nơi cũng chẳng giải quyết được gì.
+scn00_33_0214 | Cơ thể của Cocoro đã chạm tới giới hạn, có lẽ đã hoàn toàn vô phương cứu chữa.
+scn00_33_0215 | <Bản thân Cocoro cũng mong muốn được ngừng hoạt động.>
+scn00_33_0216 | Đối với Cocoro, việc tiếp tục tồn tại trên thế giới này chẳng khác nào một sự đày đọa.
+scn00_33_0217 | Con người sống bằng cách pha loãng và lấp liếm những mâu thuẫn chồng chất, tựa như việc thêm sữa vào cà phê để dễ uống hơn.
+scn00_33_0218 | Nhưng là một người máy hình người, Cocoro không thể làm được điều đó.
+scn00_33_0219 | Việc tiếp tục vận hành trong khi mang theo một lỗi không thể xử lý, cũng tương tự như một người phải sống mà không thể trốn tránh, buộc phải đối diện trần trụi với từng mâu thuẫn một.
+scn00_33_0220 | Dẫu không có trái tim để cảm nhận nỗi đau thể xác, gánh nặng đè lên tiến trình tư duy của cậu ấy chắc chắn cũng sẽ ngày càng nặng nề.
+scn00_33_0221 | Vậy thì, sớm ngừng hoạt động có lẽ mới là điều tốt nhất cho cô ấy.
+scn00_33_0222 | <Mong muốn Cocoro tiếp tục sống chỉ là nguyện vọng ích kỷ của riêng tớ mà thôi.>
+scn00_33_0223 | <Bắt ép một Cocoro vốn cả đời chỉ biết tuân theo yêu cầu của con người phải gánh thêm nguyện vọng đó nữa, tớ thấy tàn nhẫn quá.>
+scn00_33_0224 | "Hừm."
+scn00_33_0225 | Kazane tỏ vẻ không bằng lòng.
+scn00_33_0226 | "Tớ lại nghĩ đấy mới chính là điều không phải do cậu quyết định đâu."
+scn00_33_0227 | <Đúng vậy, tớ đang nói đó không phải điều tớ có thể quyết định mà.>
+scn00_33_0228 | "Tự ý quyết định rồi buông xuôi bỏ cuộc thế này mà bảo không à? Ý tớ là hãy để cho Cocoro tự mình quyết định cơ mà."
+scn00_33_0229 | <Cocoro là người máy đấy. Nếu được yêu cầu, cậu ấy sẽ chỉ biết làm theo thôi.>
+scn00_33_0230 | "Hứ... Tớ không nghĩ vậy đâu nhé. Những chuyện Cocoro không thích thì cậu ấy đều thẳng thắn bảo không thích cơ mà. Dù tớ cũng chả rành lắm!"
+scn00_33_0231 | <Nếu Cocoro có một trái tim thực sự, thì đúng là như thế.>
+scn00_33_0232 | "Cậu nghĩ là cậu ấy không có tim sao?"
+scn00_33_0233 | ...
+scn00_33_0234 | <Tớ không biết nữa.>
+scn00_33_0235 | Không có bất kỳ phương pháp nào để chứng minh sự tồn tại của trái tim.
+scn00_33_0236 | <Vả lại, dẫu có muốn đến chỗ Cocoro thì chúng ta cũng đâu có cách nào đi được.>
+scn00_33_0237 | "Cái đó... thì đúng rồi..."
+scn00_33_0238 | Kazane vừa nói vừa liếc mắt nhìn ra ngoài cửa sổ.
+scn00_33_0239 | Có thể thấy rõ các đội viên Đội Tiêu Trừ vẫn đang túc trực canh chừng.
+scn00_33_0240 | "Lũ người đó chỉ toàn ngáng đường..."
+scn00_33_0241 | Đội Tiêu Trừ đang rắp tâm tiêu diệt Cocoro bằng mọi giá.
+scn00_33_0242 | Tại sao bọn họ lại cố chấp với việc tiêu trừ đến mức đó? Rõ ràng dì Kirika, chủ nhiệm nhóm nghiên cứu, đâu hề ban hành mệnh lệnh như vậy.
+scn00_33_0243 | "Nghe đâu bọn chúng còn cấu kết ngầm với đám thầu đất. Ngay từ đầu tớ đã thấy lũ này mờ ám rồi."
+scn00_33_0244 | "Ới Kazane ơi! Bác trưởng khu phố đang gọi kìa!"

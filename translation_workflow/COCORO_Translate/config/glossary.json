@@ -1,0 +1,175 @@
+{
+  "_ghi_chu": "Tên riêng và thuật ngữ đã chốt. Agent không được tự đổi. Mục 'cho_ban_chot' là chỗ guide còn để ngỏ.",
+  "characters": [
+    {
+      "jp": "三峯 ひなた",
+      "vi": "Mitsumine Hinata",
+      "note": "nam chính"
+    },
+    {
+      "jp": "ココロ",
+      "vi": "Cocoro",
+      "note": "nữ chính, mã hiệu CCR-01"
+    },
+    {
+      "jp": "竜崎 風音",
+      "vi": "Ryuzaki Kazane"
+    },
+    {
+      "jp": "天衣 大地",
+      "vi": "Amai Daichi"
+    },
+    {
+      "jp": "天衣 こさめ",
+      "vi": "Amai Kosame"
+    },
+    {
+      "jp": "機月 霧香",
+      "vi": "Kizuki Kirika",
+      "note": "dì ruột của Hinata"
+    },
+    {
+      "jp": "叢雲 光太郎",
+      "vi": "Murakumo Kotaro"
+    },
+    {
+      "jp": "竜崎 雷太",
+      "vi": "Ryuzaki Raita",
+      "note": "ông nội Kazane"
+    }
+  ],
+  "terms": [
+    {
+      "jp": "厄災",
+      "vi": "Tai ương",
+      "note": "Thảm họa AI/robot nổi loạn toàn cầu"
+    },
+    {
+      "jp": "九十九市",
+      "vi": "thành phố Tsukumo"
+    },
+    {
+      "jp": "植物園",
+      "vi": "vườn bách thảo"
+    },
+    {
+      "jp": "ナツノシラユキ",
+      "vi": "Hạ Tuyết Thảo",
+      "note": "loài hoa hiếm (Natsu no Shirayuki)"
+    },
+    {
+      "jp": "『厄災』調査チーム",
+      "vi": "Đội điều tra Tai ương"
+    },
+    {
+      "jp": "駆除隊",
+      "vi": "Đội thanh trừng"
+    },
+    {
+      "jp": "駆除隊の隊長",
+      "vi": "Đội trưởng Đội thanh trừng"
+    },
+    {
+      "jp": "主任",
+      "vi": "Trưởng nhóm"
+    },
+    {
+      "jp": "ヒューマノイド",
+      "vi": "người máy hình người"
+    },
+    {
+      "jp": "CCR-01",
+      "vi": "CCR-01",
+      "note": "giữ nguyên"
+    },
+    {
+      "jp": "チューリングテスト",
+      "vi": "Phép thử Turing"
+    },
+    {
+      "jp": "アレロパシー",
+      "vi": "Allelopathy",
+      "note": "guide gợi ý 'Cảm nhiễm dị loài (Allelopathy)'"
+    },
+    {
+      "jp": "ワタシ",
+      "vi": "tôi",
+      "note": "đại từ tự xưng của Cocoro, giữ sắc thái lịch sự máy móc"
+    },
+    {
+      "jp": "AFTER",
+      "vi": "AFTER",
+      "note": "phần sau cốt truyện chính, giữ nguyên"
+    }
+  ],
+  "speakers": {
+    "_ghi_chu": "Nhãn Speaker (JP) trong file → tên hiển thị tiếng Việt. TẤT CẢ là đề xuất, bạn chốt/sửa. Dòng không có speaker là lời dẫn/độc thoại.",
+    "map": {
+      "ひなた": "Hinata",
+      "ココロ": "Cocoro",
+      "霧香": "Kirika",
+      "風音": "Kazane",
+      "大地": "Daichi",
+      "こさめ": "Kosame",
+      "光太郎": "Kotaro",
+      "不思議な少女": "Cô gái bí ẩn",
+      "父": "Bố",
+      "母": "Mẹ",
+      "駆除隊隊長": "Đội trưởng Đội thanh trừng",
+      "駆除隊": "Thành viên Đội thanh trừng",
+      "犬": "Con chó",
+      "ＣＣＲ－０１": "CCR-01",
+      "ＣＣＲ－０２": "CCR-02",
+      "ジャバウォック": "Jabberwock",
+      "シラユキ": "Shirayuki",
+      "ナツ": "Natsu",
+      "町内会長": "Hội trưởng khu phố",
+      "地上げ屋": "Tên đầu cơ đất",
+      "子ども": "Đứa trẻ",
+      "小さい子": "Đứa trẻ",
+      "憧れのお姉さん": "Chị gái đáng ngưỡng mộ",
+      "綺麗なお姉さん": "Chị gái xinh đẹp",
+      "田中": "Tanaka",
+      "吉野": "Yoshino",
+      "三峯陽子博士": "Tiến sĩ Mitsumine Yoko",
+      "自動運転ナビ": "Hệ thống dẫn đường tự động",
+      "住民": "Cư dân",
+      "住民Ａ": "Cư dân A",
+      "住民Ｂ": "Cư dân B",
+      "住民Ｃ": "Cư dân C",
+      "住民Ｄ": "Cư dân D",
+      "研究者": "Nhà nghiên cứu",
+      "研究者Ｂ": "Nhà nghiên cứu B",
+      "研究者Ｃ": "Nhà nghiên cứu C",
+      "少女": "Cô bé",
+      "少女の声": "Giọng cô bé",
+      "車椅子の少女": "Cô bé ngồi xe lăn",
+      "通行人": "Người qua đường",
+      "通行人のお婆さん": "Bà cụ qua đường",
+      "声": "Giọng nói",
+      "誰かの声": "Giọng nói ai đó",
+      "何者かの声": "Giọng nói không rõ ai",
+      "司会者": "Người chủ lễ",
+      "モップ女": "Cô gái cầm cây lau",
+      "手下": "Tay sai",
+      "巨大な影": "Bóng đen khổng lồ",
+      "警備ロボット": "Robot bảo vệ",
+      "公安調査官": "Điều tra viên công an",
+      "トラックの運転手": "Tài xế xe tải",
+      "ひなた・ココロ": "Hinata & Cocoro"
+    }
+  },
+  "da_chot_mac_dinh": {
+    "_ghi_chu": "Người dùng chọn bám theo guide, sẽ tự đọc và sửa khi chơi game. Agent dùng đúng các mặc định này, không tự đổi.",
+    "Cocoro → Hinata đầu game": "tôi – cậu (lịch sự, hơi máy móc)",
+    "Daichi → Hinata": "tao – mày khi gay gắt; tôi – cậu khi lạnh nhạt/dịu dần",
+    "Kazane → Hinata": "tôi – cậu",
+    "Hinata tự xưng trong độc thoại (JP: 俺)": "tôi",
+    "不思議な少女": "Cô gái bí ẩn (giữ nguyên nhãn, không tự đổi thành Cocoro nếu bản gốc chưa gọi tên)",
+    "ＣＣＲ－０２ / ジャバウォック": "giữ nguyên theo nhãn trong dữ liệu (CCR-02 / Jabberwock)",
+    "三峯陽子博士": "Tiến sĩ Mitsumine Yoko (không suy đoán quan hệ với Hinata)",
+    "シラユキ": "Shirayuki (giữ nguyên)",
+    "Natsu no Shirayuki": "Hạ Tuyết Thảo",
+    "Allelopathy": "giữ nguyên"
+  }
+}

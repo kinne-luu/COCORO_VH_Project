@@ -1,0 +1,74 @@
+scn00_41_0241 | Thấy tội nghiệp, tôi cúi xuống vuốt ve chú cún.
+scn00_41_0242 | "Cậu vừa đi chơi cùng bé Kosame về đấy à."
+scn00_41_0243 | "Vâng ạ. Nhân tiện tôi cũng cho cả Chó đi chơi cùng luôn. Chắc hẳn nó đang biết ơn chúng tôi nhiều lắm. Còn cậu Hinata thì sao?"
+scn00_41_0244 | "Tôi phụ giúp mọi người tái thiết khu phố."
+scn00_41_0245 | Việc dọn dẹp đống gạch đá đổ nát cần rất nhiều nhân lực.
+scn00_41_0246 | "Trời đất... đó vốn là sở trường của tôi mà. Sao cậu lại không gọi tôi một tiếng chứ."
+scn00_41_0247 | "Không sao đâu mà. Bấy lâu nay Cocoro đã luôn dốc lòng vì người khác rồi đúng không? Thỉnh thoảng cậu cũng nên dành thời gian cho riêng bản thân mình đi chứ."
+scn00_41_0248 | "Cho riêng bản thân tôi ư..."
+scn00_41_0249 | Cơ thể Cocoro chịu hư hại khá nghiêm trọng nên tôi không thể để cậu ấy làm việc nặng nhọc, đó là lý do chính tôi không gọi cậu ấy đi cùng.
+scn00_41_0250 | Nhưng mong muốn cậu ấy dành thời gian cho hạnh phúc của riêng mình cũng hoàn toàn là thật lòng.
+scn00_41_0251 | "Đúng là một bài toán khó. Cho riêng bản thân... cho riêng bản thân..."
+scn00_41_0252 | "Cậu cứ làm những việc khiến bản thân cảm thấy vui vẻ là được. Miễn là đừng gây phiền toái cho người khác quá nhé."
+scn00_41_0253 | "Chơi đùa cùng Kosame vui lắm ạ."
+scn00_41_0254 | "Cảm ơn mày nhé, Cocoro. Từ hồi làm bạn với mày, con bé Kosame nhà tao cũng tươi tỉnh, rạng rỡ hẳn lên."
+scn00_41_0255 | Daichi, người vừa cùng tôi dọn dẹp đống đổ nát, từ bên cạnh lên tiếng xen vào.
+scn00_41_0256 | "Tính con bé vốn hay e dè, từ sau vụ tai nạn bị liệt chân chẳng đi lại được thì nó cũng không còn chơi đùa với bạn bè cùng trang lứa nữa."
+scn00_41_0257 | "Chắc tao chẳng có tư cách nói câu này, nhưng thật lòng cảm ơn mày vì đã chịu làm bạn với con bé nhé."
+scn00_41_0258 | "...Tôi mới là người cần phải nói lời cảm ơn. Nói với Daichi thì chẳng có ý nghĩa gì, nên ngày mai tôi sẽ trực tiếp nói lời cảm ơn tới em ấy."
+scn00_41_0259 | "Ừ, mày cứ làm thế đi."
+scn00_41_0260 | "Gâu!! Gâu gâu!!"
+scn00_41_0261 | Chú cún quấn quýt bên chân Cocoro như muốn nói: 'Cả tao nữa này!'
+scn00_41_0262 | "Chó, ngồi xuống."
+scn00_41_0263 | "Gâu!"
+scn00_41_0264 | Chú cún ngoan ngoãn ngồi thụp xuống đất.
+scn00_41_0265 | "Chơi với Chó cũng vui lắm đấy. Đối với một loài động vật thì trí thông minh của nó khá cao, hành vi cử chỉ cũng rất đáng yêu."
+scn00_41_0266 | "Hừm..."
+scn00_41_0267 | Cocoro trừng trừng nhìn vào mặt chú cún rồi gầm gừ suy tư.
+scn00_41_0268 | "Sao thế cậu?"
+scn00_41_0269 | "...Dạ không, thật sự là cái tên đã sắp bật ra tới tận đây rồi mà."
+scn00_41_0270 | Cậu ấy đưa tay sờ lên cổ họng mình mà than thở.
+scn00_41_0271 | "Thứ quý giá... thứ mình yêu thích..."
+scn00_41_0272 | "Ồ, bé Cocoro này, nếu không chê thì nhận lấy món này nhé."
+scn00_41_0273 | Một người dân đi ngang qua dúi vào tay Cocoro một bọc giấy gói.
+scn00_41_0274 | "Hít hít... mùi thơm này đích thị là món thịt băm tẩm bột chiên giòn rồi."
+scn00_41_0275 | "Hai đứa đem về ăn chung với cháu Hinata nhé. Coi như là chút quà cảm ơn vì đã phụ giúp dọn đống đổ nát."
+scn00_41_0276 | Từ trước tới nay, Cocoro thỉnh thoảng vẫn hay được người ta cho quà bánh đem về như thế.
+scn00_41_0277 | Có lẽ vì lúc nào cậu ấy cũng chào hỏi rạng rỡ lại đáng yêu dễ mến, nên tự lúc nào đã chiếm trọn cảm tình của người dân thị trấn.
+scn00_41_0278 | "Cháu xin cảm ơn bác ạ."
+scn00_41_0279 | "...A, nhưng mà... ừ nhỉ, con bé đâu có ăn được."
+scn00_41_0280 | Hẳn là lúc này bác ấy mới sực nhớ ra Cocoro là người máy hình người, khiến bầu không khí bỗng chốc trở nên gượng gạo.
+scn00_41_0281 | "Dạ không, Cocoro thì..."
+scn00_41_0282 | "Cháu ăn được mà bác."
+scn00_41_0283 | Cocoro rút một miếng thịt chiên giòn từ trong túi giấy ra rồi ngoạm một miếng thật to.
+scn00_41_0284 | "Ngoạm... nhai nhai... nhóp nhép..."
+scn00_41_0285 | Mọi người xung quanh đều dán mắt chăm chú nhìn người máy hình người say sưa thưởng thức miếng thịt chiên.
+scn00_41_0286 | "Nhai nhai... ực. Đậm đà mọng nước ngon tuyệt cú mèo―"
+scn00_41_0287 | "Lớp vỏ ngoài giòn rụm nhai rất đã miệng, còn nhân bên trong là sự hòa quyện tuyệt vời giữa thịt băm ngập tràn nước thịt và vị ngọt dịu của hành tây băm nhỏ, tạo nên hương vị đậm đà khó cưỡng."
+scn00_41_0288 | "Tuy đã rán xong từ lâu nhưng miếng thịt này dù để nguội vẫn ngon chuẩn vị. Tôi đánh giá 100 điểm tuyệt đối."
+scn00_41_0289 | "Ôi chao... con bé này sành ăn thật đấy!"
+scn00_41_0290 | Màn bình phẩm ẩm thực chuẩn chỉnh của Cocoro khiến ai nấy đều không khỏi trầm trồ thán phục.
+scn00_41_0291 | "Cầm cả đĩa đồ kho nhà bác về ăn nữa này."
+scn00_41_0292 | Có lẽ vì hiếm khi được thấy một người máy hình người biết ăn đồ ăn, mọi người thi nhau mang đủ thứ thức ăn đến biếu.
+scn00_41_0293 | "Nhiều thế này... cháu xin phép nhận hết ạ."
+scn00_41_0294 | Nhờ có Cocoro, chẳng những tối nay mà khéo đến ba ngày tới chúng tôi cũng chẳng phải lo chuyện cơm nước.
+scn00_41_0295 | "Cảm ơn vì bữa ăn. ...Ợ, no căng cả bụng rồi."
+scn00_41_0296 | "Cảm ơn vì bữa ăn ngon lành ạ."
+scn00_41_0297 | Nhờ có những món quà mọi người gửi tặng, bữa tối nay của hai đứa thịnh soạn hơn hẳn ngày thường.
+scn00_41_0298 | "No đẫy cả bụng rồi."
+scn00_41_0299 | "Vâng, tôi cũng lỡ ăn nhiều quá rồi. Để bảo toàn năng lượng cần thiết cho quá trình tiêu hóa, xin phép cho tôi được lười biếng nằm ườn ra một chút."
+scn00_41_0300 | Cocoro nằm bẹp dí uể oải ngay trên sàn nhà.
+scn00_41_0301 | "Mọi khi cậu chỉ nếm chút đỉnh cho biết vị thôi, thế mà tối nay lại ăn nhiều đến thế."
+scn00_41_0302 | "Tại đồ ăn ngon quá nên tôi lỡ miệng... Xin lỗi cậu vì tôi là một người máy hình người kém duyên dáng nhé."
+scn00_41_0303 | "Có sao đâu nào, cứ ăn thỏa thích đi."
+scn00_41_0304 | Dù đổi lại tôi sẽ phải lo lắng việc cậu ấy tiêu hao pin nhiều hơn.
+scn00_41_0305 | "Bữa tối nay tôi cảm thấy ngon miệng một cách kỳ lạ. Dù nếu chỉ dựa vào cảm biến vị giác đơn thuần thì nó đâu phải là sơn hào hải vị tuyệt đỉnh."
+scn00_41_0306 | "Tại sao lại thế nhỉ... Thật là huyền bí."
+scn00_41_0307 | "...Để giải mã bí ẩn này, ngày mai tôi bắt buộc phải ăn thật no nê thêm lần nữa mới được."
+scn00_41_0308 | "Ha ha, đúng thế rồi."
+scn00_41_0309 | "? Cậu cười cái gì thế hả? Tôi suy đoán nụ cười ấy như thể đang bảo rằng bản thân đã nhìn thấu tất cả mọi chuyện rồi vậy."
+scn00_41_0310 | "Cũng không hẳn là vậy, chỉ là tôi nghĩ mình đoán được phần nào thôi."
+scn00_41_0311 | "Đoán được cái gì cơ chứ?"
+scn00_41_0312 | "Tự cậu tìm ra đáp án chẳng phải sẽ hay hơn sao. Nhất định cậu sẽ sớm hiểu ra thôi mà."
+scn00_41_0313 | "Hừm..."
+scn00_41_0314 | Nhìn Cocoro phụng phịu hờn dỗi lăn đùng một vòng sang bên, tôi mỉm cười rồi bắt tay vào rửa đống bát đĩa.

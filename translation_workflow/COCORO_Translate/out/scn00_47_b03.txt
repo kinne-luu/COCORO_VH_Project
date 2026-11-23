@@ -1,0 +1,59 @@
+scn00_47_0121 | "Hiện tại bé Cocoro đang ở đâu thế ạ?"
+scn00_47_0122 | "Con bé đang ở trong một không gian ảo được tạo ra bên trong máy tính."
+scn00_47_0123 | "Cocoro hiện tại vẫn đang trong quá trình khôi phục mà."
+scn00_47_0124 | <Có vẻ là như vậy ạ. Cơ thể của tôi đã bị hỏng hóc nên không thể cử động được.>
+scn00_47_0125 | <Nói đúng hơn, dường như toàn bộ bộ nhớ của tôi cũng từng bị mất sạch một lần. Làm thế nào mà mọi người có thể khôi phục lại được vậy ạ?>
+scn00_47_0126 | "Nhờ có nhóc này cả đấy."
+scn00_47_0127 | <Chị ơi.>
+scn00_47_0128 | <? Ai thế ạ, đứa bé này tôi không quen biết.>
+scn00_47_0129 | <...Hức... chị ơi...>
+scn00_47_0130 | "Đừng có làm con bé khóc chứ, cậu biết thừa là ai rồi còn gì?"
+scn00_47_0131 | <...Shirayuki. Là em đấy à. Trông em nhỏ nhắn đi nhiều quá nhỉ.>
+scn00_47_0132 | <Đúng rồi đó chị ơi!>
+scn00_47_0133 | "Ủa con cún con tí hon này là sao thế?"
+scn00_47_0134 | "Là em gái của Cocoro đấy."
+scn00_47_0135 | <Vâng. Đây là em gái Shirayuki mới được sinh ra từ lúc nào chẳng hay của tôi đấy ạ.>
+scn00_47_0136 | <Rất vui được làm quen với mọi người, em là Shirayuki, em gái của chị Cocoro. Cúi chào ạ.>
+scn00_47_0137 | "Mới một thời gian không gặp mà em đã nói chuyện trôi chảy thế này rồi à."
+scn00_47_0138 | "Có vẻ như sau khi tự ý thức được bản thân mình là ai và tách biệt khỏi ký ức của Cocoro, mạch tư duy của con bé đã bắt đầu vận hành bình thường."
+scn00_47_0139 | "Chắc chắn là nhờ được Cocoro đặt cho cái tên rồi."
+scn00_47_0140 | "Shirayuki... Tên hay thật đấy."
+scn00_47_0141 | <Tất nhiên rồi ạ. Bản thân tôi cũng thấy gu đặt tên của mình tuyệt vời xuất sắc.>
+scn00_47_0142 | Đâu phải cứ ai đặt tên cho cũng được. Phải chính là Cocoro thì mới có ý nghĩa.
+scn00_47_0143 | "Cơ thể của Cocoro đã chịu những tổn hại không thể phục hồi ngay lập tức, và vào lúc đó khối bộ nhớ cũng bị hỏng luôn."
+scn00_47_0144 | <Xem ra tôi đã từng hoàn toàn chết đi một lần rồi nhỉ.>
+scn00_47_0145 | "Đối với Cocoro thì việc mất đi ký ức cũng đồng nghĩa với cái chết. Thế nhưng toàn bộ ký ức đó đã được đứa bé này sao lưu lại giùm đấy."
+scn00_47_0146 | <...Dạ vâng, hihi.>
+scn00_47_0147 | <Nhìn thì có vẻ làm bộ đáng yêu vậy thôi, chứ hành vi của đứa bé này thực chất là bám đuôi theo dõi đấy ạ.>
+scn00_47_0148 | <Vì quá khao khát muốn trở thành tôi, con bé đã tự ý nhìn trộm vào nội tâm của tôi rồi đánh cắp ký ức.>
+scn00_47_0149 | "Nhưng nhờ thế mà ký ức của Cocoro mới được phục hồi, thế chẳng phải tốt quá rồi sao."
+scn00_47_0150 | <Quả đúng như vậy. Làm tốt lắm Shirayuki.>
+scn00_47_0151 | <Hihihi, được chị khen rồi thích quá.>
+scn00_47_0152 | "Nhưng mà nè, thân thể vẫn đang sửa chữa, vậy sao bé Cocoro lại có thể nói chuyện từ trong máy tính được thế ạ?"
+scn00_47_0153 | "Dì đã kết nối mạch cảm xúc vào máy chủ, kết hợp với các dữ liệu ký ức trục vớt được từ Shirayuki để mô phỏng lại trái tim của Cocoro đấy."
+scn00_47_0154 | Nói cách khác, hiện tại nhân cách của Cocoro đang được tái hiện lại dưới dạng mô phỏng.
+scn00_47_0155 | Cocoro dùng chiếc camera và micro gắn với máy tính thay cho mắt và tai để giao tiếp cùng chúng tôi.
+scn00_47_0156 | "Có bị thiếu hụt đoạn ký ức nào không cháu?"
+scn00_47_0157 | <Có thể là có. Nhưng không thành vấn đề đâu ạ. Con người còn hay quên hơn nhiều cơ.>
+scn00_47_0158 | "Cháu có cảm thấy điều gì bất thường khác nữa không?"
+scn00_47_0159 | <Có ạ, nhưng vẫn nằm trong phạm vi cho phép. Dần dần rồi tôi sẽ thích nghi thôi.>
+scn00_47_0160 | "Thích nghi quá rồi đừng có lười đến mức không chịu chui ra khỏi đó đấy nhé."
+scn00_47_0161 | Dạng tồn tại hiện tại chỉ là tạm thời, cốt để thử nghiệm xem việc phục hồi bộ nhớ của Cocoro có diễn ra suôn sẻ hay không.
+scn00_47_0162 | "Vậy sau này bé Cocoro sẽ ra sao ạ?"
+scn00_47_0163 | "...Những robot tự trị từ trước thảm họa 'Ách Tai' thì..."
+scn00_47_0164 | "Chuyện đó thì các cháu không cần phải lo đâu. Đúng không chú Kotaro?"
+scn00_47_0165 | "Bé Cocoro... à không, mẫu CCR-01 đã bị xử lý tiêu hủy rồi. Trên giấy tờ sổ sách cũng ghi nhận như thế."
+scn00_47_0166 | "Thế nghĩa là sao chú?"
+scn00_47_0167 | "Bị cựu đội trưởng Đội Tiêu Trừ tập kích, thân thể vỡ nát hoàn toàn, bộ nhớ mất sạch không còn gì."
+scn00_47_0168 | "...Tai nạn ấy âu cũng là điều may mắn. Bằng không dì đã buộc lòng phải bàn giao Cocoro cho cấp trên rồi."
+scn00_47_0169 | Dù có quả quyết rằng Cocoro mang một trái tim, lệnh xử lý tiêu hủy cũng tuyệt đối không có ngoại lệ.
+scn00_47_0170 | Không, thậm chí người ta sẽ càng coi con bé là mối hiểm họa khôn lường hơn.
+scn00_47_0171 | Trên giấy tờ được coi như đã tiêu hủy hoàn toàn, chính điều đó sẽ bảo đảm an toàn tính mạng cho Cocoro được phục sinh tại nơi này.
+scn00_47_0172 | "Dĩ nhiên là bọn chú nắm rõ hết mọi chuyện. Cả những gì đã diễn ra ở đây, lẫn việc bé Cocoro là một cô bé vô cùng ngoan ngoãn."
+scn00_47_0173 | "Chú Kotaro..."
+scn00_47_0174 | <Kotaro... Quả là có mắt nhìn người đấy nhé. Tôi khen chú một câu.>
+scn00_47_0175 | "...Dì sẽ tiếp quản công trình nghiên cứu của chị gái. Để không bao giờ tái diễn những tai nạn đau buồn như 'Ách Tai' nữa. Cocoro, cháu sẽ giúp dì chứ?"
+scn00_47_0176 | <Vâng, dĩ nhiên rồi ạ.>
+scn00_47_0177 | "Người ta tính thế rồi đấy, còn cậu thì định tính sao đây?"
+scn00_47_0178 | "Ơ, tớ á?"
+scn00_47_0179 | <...>

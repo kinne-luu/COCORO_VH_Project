@@ -1,0 +1,60 @@
+scn00_29_0001 | ..................
+scn00_29_0002 | ............
+scn00_29_0003 | "............"
+scn00_29_0004 | "Đã thoát khỏi trạng thái ngủ đông."
+scn00_29_0005 | "Mức sạc: 100%. Tối ưu hóa bộ nhớ thất bại. Phát hiện bất thường tại các khớp và các bộ phận trên cơ thể do hao mòn theo thời gian. Khuyến nghị bảo trì khẩn cấp."
+scn00_29_0006 | "...Không, không cần bảo trì."
+scn00_29_0007 | "Bởi vì phán quyết tiêu hủy của tôi đã được ấn định. Sửa chữa rồi lại đem đi phá hủy là điều hoàn toàn phi logic."
+scn00_29_0008 | "Xin nhắc lại. Yêu cầu tiến hành bảo trì khẩn cấp."
+scn00_29_0009 | "Không cần. Nhận định việc đó là lãng phí."
+scn00_29_0010 | "Phát hiện lỗi trong chu trình tư duy. Nhằm tránh tình trạng đóng băng hệ thống, tạm dừng tiến trình suy nghĩ."
+scn00_29_0011 | "............"
+scn00_29_0012 | "Kiểm tra tình trạng của cậu Hinata. Vẫn đang ngủ say. Dường như đêm qua cậu ấy đã thức rất muộn mới chợp mắt được."
+scn00_29_0013 | "Chuẩn bị bữa sáng mà không làm đánh thức cậu Hinata."
+scn00_29_0014 | "Đây sẽ là lần cuối cùng tôi nấu bữa ăn cho cậu ấy."
+scn00_29_0015 | "Tôi sẽ dốc hết toàn lực để tạo ra món ăn đạt chuẩn 'ngon'."
+scn00_29_0016 | "Bắt đầu bắt tay vào nấu bữa sáng thôi nào."
+scn00_29_0017 | "Ư... ưm............"
+scn00_29_0018 | ...Chói mắt quá...
+scn00_29_0019 | Những tia nắng rọi qua khung cửa sổ xuyên thẳng vào mi mắt kéo tôi tỉnh giấc.
+scn00_29_0020 | Đêm qua tôi trằn trọc mãi chẳng thể vào giấc, nhưng xem ra cuối cùng cũng đã ngủ thiếp đi từ lúc nào không hay.
+scn00_29_0021 | Chắc vì thiếu ngủ nên đầu óc tôi nặng trịch, các khớp xương trên cơ thể rệu rã kêu cót két như một cỗ máy hoen gỉ.
+scn00_29_0022 | ...Cocoro?
+scn00_29_0023 | Chẳng thấy bóng dáng Cocoro đâu.
+scn00_29_0024 | Trong bếp cũng không có.
+scn00_29_0025 | Cậu ấy đi đâu rồi nhỉ?
+scn00_29_0026 | Dù Cocoro không có mặt, nhưng trên bàn đã dọn sẵn bữa sáng.
+scn00_29_0027 | Hôm qua sau khi trở về tôi chưa ăn gì vào bụng, nên lúc này bụng dạ đang đói cồn cào.
+scn00_29_0028 | Tôi gấp gọn đệm lại rồi ngồi vào bàn ăn sáng.
+scn00_29_0029 | Tôi xin phép dùng bữa.
+scn00_29_0030 | Bánh mì nướng, trứng cuộn trông như trứng bác, cùng một bát canh miso. Vẫn là thực đơn quen thuộc mọi khi.
+scn00_29_0031 | ...Vẫn là hương vị như mọi ngày.
+scn00_29_0032 | Chưa bàn đến chuyện ngon hay dở, sự cân bằng gia vị dở tệ khiến món ăn mang một mùi vị kỳ cục.
+scn00_29_0033 | Bên trong còn lẫn cả vụn vỏ trứng, chốc chốc cắn phải lại nghe lạo xạo dưới chân răng.
+scn00_29_0034 | Có lẽ là do mắt cậu ấy nhìn không rõ. Lúc đập trứng, cậu ấy chẳng thể nhận biết được những mảnh vỏ vụn li ti rơi vào bên trong.
+scn00_29_0035 | Dù sao đi nữa, sáng sớm tinh mơ thế này Cocoro đã đi đâu được cơ chứ.
+scn00_29_0036 | Đến vườn bách thảo... để ngắm hoa Tuyết Trắng Mùa Hạ chăng?
+scn00_29_0037 | Chiếc flycam vẫn nằm nguyên trong ba lô của tôi.
+scn00_29_0038 | Nếu là Cocoro thì việc cậu ấy một mình đến vườn bách thảo cũng chẳng có gì lạ, nhưng mà...
+scn00_29_0039 | <Nếu vậy thì tôi sẽ biến mất với tư cách là một sản phẩm thất bại. Đó không phải cái chết, mà chỉ là quá trình gỡ lỗi - Debug. Đơn thuần là loại bỏ một lỗi sai khỏi thế giới này.>
+scn00_29_0040 | <Tôi nhận định rằng việc đôi mắt này không còn nhìn thấy nữa lại là điều tốt.>
+scn00_29_0041 | <Bởi nếu đóa Tuyết Trắng Mùa Hạ này nở rộ, mà khi nhìn thấy nó tôi vẫn xác nhận không có gì lay động, thì điều đó chẳng khác nào chứng minh rằng tôi chính là một lỗi sai.>
+scn00_29_0042 | <Cậu bảo tôi... phải tự tay chứng minh bản thân là một sự tồn tại sinh ra do sai lầm sao?>
+scn00_29_0043 | <Chuyện đó... quá tàn nhẫn rồi...>
+scn00_29_0044 | Một Cocoro đã nói những lời ấy trong nước mắt, tôi không tài nào tin được rằng cậu ấy lại không có trái tim.
+scn00_29_0045 | Dù chính bản thân Cocoro từng bảo đó chỉ là sự cố dung dịch tẩy rửa mắt...
+scn00_29_0046 | Nhưng làm thế nào tôi mới có thể tìm lại trái tim giúp cậu ấy được đây?
+scn00_29_0047 | "..."
+scn00_29_0048 | <Tôi cũng muốn cùng cậu Hinata ngắm nhìn chung một bầu trời đầy sao!>
+scn00_29_0049 | Nhớ lại hành động bộc phát đầy bất ngờ của Cocoro, mặt tôi bỗng nóng ran lên.
+scn00_29_0050 | Nếu là con người, đó chắc chắn là hành động theo xung động khi không kìm nén nổi cảm xúc.
+scn00_29_0051 | Thế nhưng với một người nhân tạo như Cocoro thì chuyện đó là thế nào?
+scn00_29_0052 | Biết đâu cậu ấy chỉ nhận định rằng làm như thế là phương án tối ưu để khiến mình vui lòng...
+scn00_29_0053 | Hành động kỳ lạ bất thường ấy rất có thể cũng chịu ảnh hưởng từ các lỗi hệ thống như chính miệng Cocoro từng giải thích, không thể gạt bỏ khả năng đó được.
+scn00_29_0054 | Vừa mải mê suy nghĩ, tôi vừa nhấp một ngụm cà phê.
+scn00_29_0055 | ".... ............?"
+scn00_29_0056 | Tôi nghiêng đầu thắc mắc rồi uống thêm một ngụm nữa.
+scn00_29_0057 | Ngon thật đấy...
+scn00_29_0058 | Dù đã pha từ lâu và giờ đã nguội bớt, nhưng ngược lại tôi lại cảm thấy vị cà phê trở nên êm dịu, tròn vị hơn hẳn.
+scn00_29_0059 | Vị đậm đà và hậu vị ngọt thanh phảng phất được tôn lên nhờ vị đắng đặc trưng của cà phê.
+scn00_29_0060 | Tôi lại nhấp thêm một ngụm nữa.

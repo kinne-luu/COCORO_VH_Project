@@ -1,0 +1,63 @@
+# scene=scn00_24 batch=1/5 dòng 1-59 / 259
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_24_0001 | - | ココロは霧香さんのベッドで眠っていた。 | Cocoro is sleeping in Kirika-san's bed. | 心睡在雾香小姐的床上。
+scn00_24_0002 | - | あれから、目を覚ましていない。 | She still hasn't woken up. | 自那之后，她便再也没有睁开眼。
+scn00_24_0003 | - | ジャバウォックの追跡から戻ってきた霧香さんが、付きっきりで[み]診てくれている。 | Kirika-san has been tending to her ever since she got back from the Jabberwock chase. | 从追踪贾巴沃克行动中归来的雾香小姐，一直在为她做检查。
+scn00_24_0004 | ひなた(Hinata) | 「ココロの様子はどう？」 | "How is Cocoro doing?" | “心的情况怎么样了？”
+scn00_24_0005 | 霧香(Kirika) | 「……断言はできないけれど、恐らくリミッターを解除して急激にパワーを放出した事で、バッテリー切れを起こしてるんだと思う」 | "I can't say for certain, but I suspect that the sudden release of power she experienced when she disabled her limiter has drained her battery." | “……虽然无法断言，但我认为这恐怕是因为在解除限制后瞬间释放出了大量能量，导致电量耗尽了”
+scn00_24_0006 | ひなた(Hinata) | 「じゃあ、充電できたら目覚めるんだね。……よかった」 | "In that case, she should wake up once we recharge her. That's a relief..." | “那只要充电就能让她醒过来了对吧……太好了”
+scn00_24_0007 | - | だが、霧香さんの表情は厳しいままだ。 | However, Kirika-san's expression remains severe. | 但是，雾香小姐表情却十分严峻。
+scn00_24_0008 | 霧香(Kirika) | 「ココロのボディには、想像していた以上にダメージが蓄積されている」 | "Her body has sustained much more damage than I'd imagined." | “心的身体里积攒了超乎想象的伤害”
+scn00_24_0009 | ひなた(Hinata) | 「え……」 | "Huh?" | “哎……”
+scn00_24_0010 | 霧香(Kirika) | 「メンテナンスなしで稼動し続けたんだもの、無理もないわ」 | "She's been operating all this time without any maintenance. It's no wonder." | “毕竟一直在没有维护的情况下运转着，倒也正常”
+scn00_24_0011 | - | 『厄災』の後、セントラルにいたロボット研究者たちは職を追われ、おそらくココロの開発プロジェクトも解体された。 | After the Calamity, all the robotics experts at Central were forced out of their jobs. The whole project that Cocoro's development was part of was likely discontinued. | ‘灾厄’之后，中心区的机器人研究者们都被开除了，心的开发计划恐怕也遭到瓦解了吧。
+scn00_24_0012 | - | ココロはあの島に、何年も取り残されていた。 | Cocoro remained on that island for . | 心被留在那座岛上好多年了。
+scn00_24_0013 | 霧香(Kirika) | 「動物があたりまえに持っていて、ロボットにはまだ実装できていない身体機能がある。なんだかわかる？」 | "There's one bodily function that all animals have in common, but has yet to be developed in robots. Can you guess what it is?" | “动物天生就有，但机器人却还没能实装的身体机能，你知道是什么吗？”
+scn00_24_0014 | - | 沢山ありそうだが、けど実現しようとすれば理論上、だいたいの機能は実装できそうな気もする。 | I can think of a few things, but I feel that most bodily functions could theoretically be implemented in robots if someone tried. | 虽然感觉有很多，但如果真想去实现，理论上来说大部分机能应该都能够进行实装。
+scn00_24_0015 | ひなた(Hinata) | 「なんだろう……わからない」 | "I'm not sure... What is it?" | “是什么……我不知道”
+scn00_24_0016 | 霧香(Kirika) | 「新陳代謝よ。私たちは、古くなったり傷を負った細胞を体外へ排出し、新しい細胞を作る。１０年もすれば、体中全ての細胞が入れ替わってる」 | "Metabolism. Humans and animals shed old and damaged cells and produce new ones. Within ten years, every cell in your body has been replaced." | “是新陈代谢，我们会将老化受伤的细胞排出体外，制造出新的细胞，10年就能将体内所有的细胞全部替换掉”
+scn00_24_0017 | 霧香(Kirika) | 「つまり生物は、食事などから栄養を得る事で、自力でメンテナンスできるの」 | "In other words, a living organism is able to carry out maintenance on itself by absorbing nutrients from food and other sources." | “也就是说，生物通过进食获得营养，从而让自己能够进行自主维护”
+scn00_24_0018 | 霧香(Kirika) | 「でもロボットは、どんなに精巧に造られていたとしても、新陳代謝はできない。少なくとも現在の技術ではね。そこが最も大きな違い」 | "But not even the most refined robot is able to metabolize—at least, not with the technology available today. That's the biggest difference." | “但是机器人无论被制造得多么精巧，也无法进行新陈代谢，起码现在的技术是做不到的，这就是两者之间最大的区别”
+scn00_24_0019 | - | 新陳代謝をするロボットを生み出そうと思ったら、現在のロボット工学とは根本から異なる技術を使う必要があるだろう。 | The technology for something like that would have to be fundamentally different from what's been used up to this point. | 如果想要制造出能够进行新陈代谢的机器人，就必须要使用和现在机器人工学本质上完全不同的技术。
+scn00_24_0020 | - | それはたぶん、人や生物のクローンのようなものになるんじゃないだろうか。 | And at that point, it would probably just be easier to call it cloning. | 那种技术，应该就和对人和生物进行克隆差不多了吧。
+scn00_24_0021 | 霧香(Kirika) | 「でも、それが必ずしもネガティブな事とは限らない。私たちと違ってロボットは、壊れたパーツを取り替えるだけで修理ができてしまう」 | "It's not necessarily a downside. Unlike us humans, robots can be repaired by simply replacing any broken parts." | “不过，这也不能完全说是坏事，毕竟机器人和我们不同，只需要替换掉损坏的零件就能被修好”
+scn00_24_0022 | - | その方がいい。人体もそれができればどれだけ便利かというのは、再生医療の必要性によって証明されている。 | That's a great advantage, actually. The high demand for regenerative medicine proves just how useful it would be if we could replace human body parts. | 这样才更好，如果人体也能做到这一点都不知道会有多方便，再生医学的必要性已经证明了这一点。
+scn00_24_0023 | 霧香(Kirika) | 「ココロはプロトタイプだから、長期間の運用は想定されていない」 | "However, Cocoro was built as a prototype, which means that she wasn't designed for long-term operation." | “心毕竟只是原型机，所以并没有长期运行的计划”
+scn00_24_0024 | 霧香(Kirika) | 「ううん……自律行動するココロが、開発者の手を離れて行動し続けられないよう、あえてボディに耐久性を持たせていないはず」 | "Hmm... In fact, it would be troublesome if an independently moving robot like Cocoro could continue operating forever without any intervention. They may have made her less durable on purpose for that reason." | “不……应该说为了让自律行动的心在脱离开发者控制后无法继续行动，而特意降低了其耐久”
+scn00_24_0025 | ひなた(Hinata) | 「そんな……。ココロは心を持ったロボットを生み出すために開発されたんでしょ？　なのに……ひどいよ」 | "What...? Wasn't Cocoro developed to be a robot with a soul? How could they do that to her? That's awful..." | “这么会这样……心不是为了让拥有人心的机器人诞生才被开发出来的吗？　但却又……好过分啊”
+scn00_24_0026 | - | 開発者の意図を超えて活動をしてしまった場合、何が起こるか分からない。 | If a robot remains operational for longer than intended by its developer, there's no telling what it might do. | 机器人行动出乎开发者意料之外时，不知道会做出什么行为。
+scn00_24_0027 | - | そのためのセキュリティとして、寿命を短く設定されているのか。 | So she was intentionally designed to have a short lifespan. | 为了保险，就将寿命设定得比较短了吗。
+scn00_24_0028 | - | そして、今がまさに、その想定外の状況だった。 | And right now, she has already been operational for longer than intended. | 然后，现在正是意料之外的情况。
+scn00_24_0029 | 霧香(Kirika) | 「……ココロは人じゃない。人の役に立つ道具として生み出されたの」 | "Cocoro's not human. She was built to be a tool to assist humans." | “……心不是人类，她是为了成为帮助人们的道具而诞生的”
+scn00_24_0030 | - | 俺も道具を自分の都合のいいように使っている。壊れたら捨てる。だから文句を言う資格はないのかもしれない。 | I use tools for convenience, too. When they break, I throw them away. Perhaps I don't have any right to complain. | 我对道具也是需要的时候就用，坏了就扔，所以或许也没资格对此指手画脚。
+scn00_24_0031 | - | でも、だったら心なんて与えなければいい。 | But if that's all we wanted out of a tool, we never should have given them emotions. | 但是，既然如此不给予她人心不就好了。
+scn00_24_0032 | ひなた(Hinata) | 「ココロは目が見えてないみたいだった」 | "It seems that Cocoro can't see very well." | “心的眼睛似乎看不见东西”
+scn00_24_0033 | 霧香(Kirika) | 「目が？」 | "She can't see?" | “眼睛？”
+scn00_24_0034 | ひなた(Hinata) | 「ドローンでココロの視覚をジャックした時、分かったんだ。ぼんやりとしてほとんど何も見えてない」 | "I noticed when I hijacked her optical sensors via my drone. Her vision is so blurry that she can barely make anything out." | “我用无人机查看心的视角时才知道的，一片模糊基本什么都看不见”
+scn00_24_0035 | - | 霧香さんが、ココロの目にペンライトの光を当てる。 | Kirika-san shines a light into one of Cocoro's eyes. | 雾香小姐用笔形手电照了照心的眼睛。
+scn00_24_0036 | 霧香(Kirika) | 「眼球に[くも]曇りがあるわね……。でもこのくらいじゃ見えなくなるほどじゃない。ピントの調節機能が故障しているのかも……」 | "The lens looks a little cloudy... But that shouldn't affect her vision  much. Maybe the focus motor is malfunctioning..." | “眼球里有阴影啊……但这种程度也不至于看不见，或许是调节焦距的机能出现故障了……”
+scn00_24_0037 | 霧香(Kirika) | 「目が見えてなくても行動できたのは、他にもセンサーを備えているからね」 | "It seems like she was able to operate normally thanks to all the other sensors she has." | “眼睛看不见也能正常行动，是因为还有其他的传感器”
+scn00_24_0038 | - | 自然界にも、視力が退化してしまった動物がいる。彼らは目とは異なるセンサーを使って生活している。 | In the natural world, certain species of animals have low vision, too. They rely on their other senses to survive. | 自然界中也有视力退化了的动物，它们是在使用眼睛之外的传感器生活着。
+scn00_24_0039 | - | ココロは耳がよかった。それに、サーモセンサーもあるようで、温度変化を敏感に捉えていた。 | Cocoro's ears are really sharp, and given how sensitive she is to changes in temperature, she must have thermal sensors, too. | 心的耳朵很灵敏，而且应该也有热传感器，能够捕捉到细微的温度变化。
+scn00_24_0040 | - | 振り返ってみると、思い当たる節はいくつもある。 | Thinking back, there were plenty of hints. | 现在回想一下，从不少地方都能看出来。
+scn00_24_0041 | - | 周囲の人を観察する時、目で見るより声や音に耳を傾けていた。前方から来る人にぶつかったり、看板に頭をぶつけたりも。 | When observing people, she would focus on their voices rather than following them with her eyes, and sometimes she'd even bump into people or objects that were right in front of her. | 她在观察周围人的时候，不是用眼睛看而是会侧耳倾听，不仅会撞到正面走来的人，还会被看板撞到头。
+scn00_24_0042 | - | 火事の時だってそうだ。ドローンの誘導がなくなったとたん、方向を見失ってしまった。 | And when she went into the burning school building, she got disoriented the moment my drone couldn't guide her anymore. | 火灾的时候也是一样，一旦失去了无人机的带领，她就无法辨别方向。
+scn00_24_0043 | - | あれは火事によって校舎内の温度が上がり、気流も発生して、聴覚もサーモセンサーも役に立たなくなっていたんだ。 | Due to the fire, the temperatures inside the building had risen to abnormal levels, rendering her auditory and thermal sensors useless. | 那是因为火灾让教学楼内温度升高产生了气流，导致听觉和热传感器派不上用场。
+scn00_24_0044 | - | そして何より、 | And, most of all... | 更重要的是。
+scn00_24_0045 | ひなた(Hinata) | （待ち望んでいたフィアンセが目の前にいるって気付かなかったのは、目が見えてなかったからだったんだ……） | (She didn't realize that the fiancé she'd been waiting for all these years was right in front of her. But that was simply because she couldn't see my face...) | （等待已久的未婚夫就在面前她却认不出来，也是因为眼睛看不见啊……）
+scn00_24_0046 | - | お別れしてから数年で、俺の身長も体格も変化した。声も、声変わりで低くなった。 | Since she last saw me, my height and build have changed, and my voice has become lower. | 自分别后已经过了数年，我的身高和体型都发生了变化，声音也在经历了变声期后变得低沉了。
+scn00_24_0047 | - | 目の見えないココロに、俺が誰かを判別する方法はなかったんだ。 | Without her vision, Cocoro didn't have the means to identify me. | 眼睛看不见东西的心，没有办法可以辨认出我。
+scn00_24_0048 | ひなた(Hinata) | （なのに俺は、気付いてもらえないからって、一人で[す]拗ねてた） | (And here I was getting all sulky because I thought she didn't remember me.) | （但我却因为她没认出我，而一个人闹起了别扭）
+scn00_24_0049 | - | 自分がいかに子どもっぽいか思い知らされて嫌になる。 | I can't believe how childish I've been acting. I'm such a terrible person. | 在知道自己到底有多幼稚后我便对自己产生了厌恶感。
+scn00_24_0050 | ひなた(Hinata) | 「ココロはどうなっちゃうの？」 | "What's going to happen to Cocoro now?" | “心会怎么样？”
+scn00_24_0051 | 霧香(Kirika) | 「充電が終われば目を覚ますはず。でも、このまま稼動し続けたら……いずれ限界がくる」 | "She should wake up once she's fully charged. But if she keeps operating like this... She'll reach her limits." | “充完电应该就会醒过来，但是，再继续这样运行下去……总有一天会到达极限”
+scn00_24_0052 | 霧香(Kirika) | 「正直、メンテナンスでどうにかなる状態は、とっくに超えているかもしれない」 | "To be honest, she's far beyond the point where basic maintenance could fix her." | “说实话，她现在的情况已经远远不是维护能解决的了”
+scn00_24_0053 | ひなた(Hinata) | 「でもパーツを取り替えたら直せるんだよね？」 | "But she can be fixed if we just replace the parts, right?" | “但是更换零件就能修好吧？”
+scn00_24_0054 | - | それがロボットのいいところだと、霧香さんが言った事だ。 | That's the main advantage of a robot—Kirika-san just said so moments ago. | 雾香小姐说过，这就是机器人的优点。
+scn00_24_0055 | 霧香(Kirika) | 「それができるならね」 | "Theoretically, yes." | “前提是能这么做啊”
+scn00_24_0056 | 霧香(Kirika) | 「ココロはプロトタイプだから、交換用のパーツのストックがあるかどうか」 | "However, Cocoro is a prototype, so I'm not sure if we can find any spare parts." | “因为心是原型机，所以不知道有没有能用来更换的零件”
+scn00_24_0057 | 霧香(Kirika) | 「あったとして、メンテできる施設が国内に現存しているかどうかも怪しい」 | "And if we do, it's doubtful there are facilities in this country where the necessary maintenance could be carried out." | “就算是有，也很难说国内现在是否还存在能够进行维护的设施”
+scn00_24_0058 | - | 高度な技術を要する工場や研究施設のほとんどが、『厄災』によって崩壊した。 | Most of the research facilities and factories where advanced technologies were being developed and manufactured were destroyed in the Calamity. | 需要高级技术的工厂和研究设施基本都被‘灾厄’摧毁了。
+scn00_24_0059 | - | 被害が少なかった工場も、ロボットを製造していたというだけで、人々の攻撃対象となった。 | Even the ones that escaped relatively unscathed initially have become the target of vandals, simply because they made robots. | 受灾情况较轻的工厂也只是因为制造过机器人而成为了人们的攻击对象。

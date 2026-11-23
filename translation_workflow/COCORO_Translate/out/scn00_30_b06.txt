@@ -1,0 +1,42 @@
+scn00_30_0301 | Chuyển động của Jabberwock quá nhanh khiến Đội Tiêu Trừ không tài nào bắt kịp.
+scn00_30_0302 | "Khốn khiếp... Nhân lúc này..."
+scn00_30_0303 | Tên đội trưởng rút súng chĩa thẳng về phía Cocoro.
+scn00_30_0304 | Dừng lại mau!
+scn00_30_0305 | Tôi lập tức chắn trước mặt Cocoro rồi dang rộng hai tay.
+scn00_30_0306 | Mặc kệ điều đó, tên đội trưởng vẫn siết cò.
+scn00_30_0307 | Jabberwock liền đáp xuống trước mặt chúng tôi, đem cả thân mình che chắn loạt đạn.
+scn00_30_0308 | <Gừ gừ gừ gừ......>
+scn00_30_0309 | "Mày đang bảo vệ nó sao... Quả nhiên là cùng một giuộc. Được lắm, xử lý luôn cả hai... Á hực!!?"
+scn00_30_0310 | Cocoro đã túm lấy cổ áo tên đội trưởng rồi nhấc bổng hắn lên không trung.
+scn00_30_0311 | "Hự... Thả tao ra, con ranh này... buông ra...!"
+scn00_30_0312 | Hắn vùng vẫy hòng hất tay Cocoro ra, nhưng cánh tay ấy chẳng mảy may lay chuyển.
+scn00_30_0313 | "...Tôi đã... đưa ra cảnh báo. Nếu các người còn tiếp tục... làm tổn thương chúng tôi... tôi sẽ... tiến hành... phản công."
+scn00_30_0314 | "Ai đó... bắn... ả này đi..."
+scn00_30_0315 | <GÀOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!>
+scn00_30_0316 | Tiếng gầm thét của Jabberwock vang lên át đi tiếng mệnh lệnh của tên đội trưởng.
+scn00_30_0317 | Không được đâu Cocoro, dừng lại đi!!
+scn00_30_0318 | Một robot làm hại con người sẽ bị tiêu trừ. Dù cho nó không phải là Mutant Drone đi chăng nữa.
+scn00_30_0319 | Cocoro sẽ vĩnh viễn không bao giờ được xã hội loài người dung thứ nữa.
+scn00_30_0320 | "...Ư... a... ư..."
+scn00_30_0321 | Cocoro nhìn tôi, người chỉ biết thốt ra những tiếng rên rỉ nghẹn ngào trong cổ họng.
+scn00_30_0322 | "...Tôi hiểu rồi."
+scn00_30_0323 | Cocoro buông tay thả tên đội trưởng ra.
+scn00_30_0324 | "Khụ, khục khục... Con robot khốn kiếp này!!! Tao sẽ phế mày thành đống sắt vụn ngay bây giờ!!!!!"
+scn00_30_0325 | Tôi nắm lấy tay Cocoro.
+scn00_30_0326 | 'Chạy thôi'
+scn00_30_0327 | Không thể ở lại đây được.
+scn00_30_0328 | Lúc này có Jabberwock làm lá chắn cho chúng tôi.
+scn00_30_0329 | "Chạy trốn? Tại sao chứ? Tôi đâu có làm điều gì sai. Tôi chỉ tự vệ mà thôi."
+scn00_30_0330 | Dù vậy chăng nữa! Dù vậy... thì chỉ riêng việc cậu là một robot thôi cũng đủ để...
+scn00_30_0331 | 'Bị tiêu trừ'
+scn00_30_0332 | Cocoro dường như hiểu ra vấn đề liền gật đầu, rồi gạt tay tôi ra.
+scn00_30_0333 | "Tôi mong muốn bản thân bị tiêu hủy."
+scn00_30_0334 | "Ban đầu tôi dự định nhờ cô Kirika bí mật xử lý mình, nhưng giờ làm vậy cũng chẳng còn ý nghĩa gì nữa."
+scn00_30_0335 | "Bởi vì tất cả mọi người ở đây đều đã nhận ra tôi không phải là con người."
+scn00_30_0336 | Bằng đôi mắt không nhìn thấy ánh sáng, Cocoro đưa mắt nhìn quanh.
+scn00_30_0337 | Bắt gặp ánh mắt ấy, mọi người chung quanh bối rối lảng tránh nhìn đi chỗ khác.
+scn00_30_0338 | "..."
+scn00_30_0339 | "..."
+scn00_30_0340 | "...Chị Coco."
+scn00_30_0341 | "Sự tồn tại của một lỗi như tôi đang gây phiền phức cho thế giới này."
+scn00_30_0342 | "Thưa đội trưởng."

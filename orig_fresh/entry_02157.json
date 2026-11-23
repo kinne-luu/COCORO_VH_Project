@@ -1,0 +1,883 @@
+{
+  "evals": {
+    "names": [
+      [
+        "call",
+        "uiloadSysSE",
+        "quickmenu"
+      ]
+    ]
+  },
+  "holdimage": [
+    "game_side__pack"
+  ],
+  "imports": null,
+  "names": [
+    "hide",
+    "save",
+    "load",
+    "qsave",
+    "qload",
+    "xprev",
+    "next",
+    "auto",
+    "skip",
+    "log",
+    "option",
+    "manual",
+    "title",
+    "pos_m",
+    "pos_t",
+    "vreplay",
+    "base"
+  ],
+  "order": null,
+  "result": {
+    "auto": {
+      "class": "toggle",
+      "exp": "SystemAction.auto()",
+      "height": 59,
+      "name": "auto",
+      "nostable": "true",
+      "uiname": "auto",
+      "uistates": {
+        "hotspot": {
+          "h": 14,
+          "opacity": 0,
+          "ox": 192,
+          "oy": 41,
+          "storage": "",
+          "w": 13
+        },
+        "normal": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 0,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "normal_on": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 343,
+          "cy": 0,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "on": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 59,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "over": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 343,
+          "cy": 0,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "over_on": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 59,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        }
+      },
+      "width": 343,
+      "x": 1615,
+      "y": 543
+    },
+    "base": {
+      "class": "base",
+      "height": 1134,
+      "name": "base",
+      "storage": "game_side__bg0",
+      "storagex": 0,
+      "storagey": 0,
+      "uiname": "base",
+      "uistates": {},
+      "width": 348,
+      "x": 1599,
+      "y": -27
+    },
+    "hide": {
+      "class": "button",
+      "exp": "SystemAction.hide()",
+      "height": 54,
+      "name": "hide",
+      "uiname": "hide",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 41,
+          "oy": 41,
+          "storage": "",
+          "w": 13
+        },
+        "normal": {
+          "ch": 53,
+          "cw": 54,
+          "cx": 686,
+          "cy": 531,
+          "h": 53,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 54
+        },
+        "on": {
+          "ch": 53,
+          "cw": 54,
+          "cx": 740,
+          "cy": 531,
+          "h": 53,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 54
+        },
+        "over": {
+          "ch": 53,
+          "cw": 54,
+          "cx": 794,
+          "cy": 531,
+          "h": 53,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 54
+        }
+      },
+      "width": 54,
+      "x": 1851,
+      "y": 17
+    },
+    "load": {
+      "class": "button",
+      "exp": "SystemAction.load()",
+      "height": 59,
+      "name": "load",
+      "uiname": "load",
+      "uistates": {
+        "hotspot": {
+          "h": 14,
+          "opacity": 0,
+          "ox": 190,
+          "oy": 44,
+          "storage": "",
+          "w": 14
+        },
+        "normal": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 177,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "on": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 343,
+          "cy": 177,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "over": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 236,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        }
+      },
+      "width": 343,
+      "x": 1615,
+      "y": 168
+    },
+    "log": {
+      "class": "button",
+      "exp": "SystemAction.log()",
+      "height": 59,
+      "name": "log",
+      "uiname": "log",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 158,
+          "oy": 43,
+          "storage": "",
+          "w": 13
+        },
+        "normal": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 343,
+          "cy": 236,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "on": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 343,
+          "cy": 118,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "over": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 343,
+          "cy": 295,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        }
+      },
+      "width": 343,
+      "x": 1615,
+      "y": 693
+    },
+    "manual": {
+      "class": "button",
+      "exp": "SystemAction.manual()",
+      "height": 59,
+      "name": "manual",
+      "uiname": "manual",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 235,
+          "oy": 43,
+          "storage": "",
+          "w": 14
+        },
+        "normal": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 354,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "on": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 343,
+          "cy": 354,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "over": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 413,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        }
+      },
+      "width": 343,
+      "x": 1615,
+      "y": 840
+    },
+    "next": {
+      "class": "button",
+      "exp": "SystemAction.qmnext()",
+      "height": 59,
+      "name": "next",
+      "uiname": "next",
+      "uistates": {
+        "hotspot": {
+          "h": 14,
+          "opacity": 0,
+          "ox": 184,
+          "oy": 41,
+          "storage": "",
+          "w": 14
+        },
+        "normal": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 472,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "on": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 531,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "over": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 590,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        }
+      },
+      "width": 343,
+      "x": 1615,
+      "y": 468
+    },
+    "option": {
+      "class": "button",
+      "exp": "SystemAction.option()",
+      "height": 59,
+      "name": "option",
+      "uiname": "option",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 220,
+          "oy": 43,
+          "storage": "",
+          "w": 14
+        },
+        "normal": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 649,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "on": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 708,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "over": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 767,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        }
+      },
+      "width": 343,
+      "x": 1615,
+      "y": 768
+    },
+    "pos_m": {
+      "class": "area",
+      "height": 59,
+      "name": "pos_m",
+      "uiname": "pos_m",
+      "uistates": {},
+      "width": 343,
+      "x": 1615,
+      "y": 94
+    },
+    "pos_t": {
+      "class": "area",
+      "height": 59,
+      "name": "pos_t",
+      "uiname": "pos_t",
+      "uistates": {},
+      "width": 343,
+      "x": 1615,
+      "y": 168
+    },
+    "qload": {
+      "class": "button",
+      "exp": "SystemAction.qload()",
+      "height": 59,
+      "name": "qload",
+      "onenter": "popQLoad(true)",
+      "onleave": "popQLoad(false)",
+      "uiname": "qload",
+      "uistates": {
+        "disable": {
+          "ch": 59,
+          "color": 4194304,
+          "cw": 343,
+          "cx": 0,
+          "cy": 826,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "hotspot": {
+          "h": 14,
+          "opacity": 0,
+          "ox": 217,
+          "oy": 41,
+          "storage": "",
+          "w": 14
+        },
+        "normal": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 826,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "on": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 885,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "over": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 343,
+          "cy": 413,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        }
+      },
+      "width": 343,
+      "x": 1615,
+      "y": 318
+    },
+    "qsave": {
+      "class": "button",
+      "exp": "SystemAction.qsave()",
+      "height": 59,
+      "name": "qsave",
+      "uiname": "qsave",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 219,
+          "oy": 43,
+          "storage": "",
+          "w": 13
+        },
+        "normal": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 343,
+          "cy": 472,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "on": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 343,
+          "cy": 531,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "over": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 343,
+          "cy": 590,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        }
+      },
+      "width": 343,
+      "x": 1615,
+      "y": 243
+    },
+    "save": {
+      "class": "button",
+      "exp": "SystemAction.save()",
+      "height": 59,
+      "name": "save",
+      "uiname": "save",
+      "uistates": {
+        "hotspot": {
+          "h": 14,
+          "opacity": 0,
+          "ox": 181,
+          "oy": 43,
+          "storage": "",
+          "w": 14
+        },
+        "normal": {
+          "ch": 343,
+          "cr": 1,
+          "cw": 59,
+          "cx": 343,
+          "cy": 649,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "on": {
+          "ch": 343,
+          "cr": 1,
+          "cw": 59,
+          "cx": 402,
+          "cy": 649,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "over": {
+          "ch": 343,
+          "cr": 1,
+          "cw": 59,
+          "cx": 461,
+          "cy": 649,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        }
+      },
+      "width": 343,
+      "x": 1615,
+      "y": 94
+    },
+    "skip": {
+      "class": "toggle",
+      "exp": "SystemAction.skip()",
+      "height": 59,
+      "name": "skip",
+      "nostable": "true",
+      "uiname": "skip",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 169,
+          "oy": 43,
+          "storage": "",
+          "w": 14
+        },
+        "normal": {
+          "ch": 343,
+          "cr": 1,
+          "cw": 59,
+          "cx": 520,
+          "cy": 649,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "normal_on": {
+          "ch": 343,
+          "cr": 1,
+          "cw": 59,
+          "cx": 579,
+          "cy": 649,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "on": {
+          "ch": 343,
+          "cr": 1,
+          "cw": 59,
+          "cx": 638,
+          "cy": 649,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "over": {
+          "ch": 343,
+          "cr": 1,
+          "cw": 59,
+          "cx": 579,
+          "cy": 649,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "over_on": {
+          "ch": 343,
+          "cr": 1,
+          "cw": 59,
+          "cx": 638,
+          "cy": 649,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        }
+      },
+      "width": 343,
+      "x": 1615,
+      "y": 618
+    },
+    "title": {
+      "class": "button",
+      "exp": "SystemAction.title()",
+      "height": 59,
+      "name": "title",
+      "uiname": "title",
+      "uistates": {
+        "hotspot": {
+          "h": 13,
+          "opacity": 0,
+          "ox": 193,
+          "oy": 41,
+          "storage": "",
+          "w": 14
+        },
+        "normal": {
+          "ch": 343,
+          "cr": 1,
+          "cw": 59,
+          "cx": 697,
+          "cy": 649,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "on": {
+          "ch": 343,
+          "cr": 1,
+          "cw": 59,
+          "cx": 756,
+          "cy": 649,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "over": {
+          "ch": 343,
+          "cr": 1,
+          "cw": 59,
+          "cx": 815,
+          "cy": 649,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        }
+      },
+      "width": 343,
+      "x": 1615,
+      "y": 915
+    },
+    "vreplay": {
+      "class": "button",
+      "exp": "SystemAction.vreplay()",
+      "height": 59,
+      "name": "vreplay",
+      "sename": "noclick",
+      "uiname": "vreplay",
+      "uistates": {
+        "normal": {
+          "ch": 59,
+          "cw": 59,
+          "cx": 804,
+          "cy": 590,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 59
+        },
+        "on": {
+          "ch": 59,
+          "cw": 59,
+          "cx": 686,
+          "cy": 590,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 59
+        },
+        "over": {
+          "ch": 59,
+          "cw": 59,
+          "cx": 745,
+          "cy": 590,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 59
+        }
+      },
+      "width": 59,
+      "x": 1761,
+      "y": 15
+    },
+    "vsave": {
+      "class": "",
+      "exp": "SystemAction.vsave()",
+      "name": "vsave",
+      "uiname": "vsave",
+      "uistates": {}
+    },
+    "xprev": {
+      "class": "button",
+      "exp": "SystemAction.qmprev()",
+      "height": 59,
+      "name": "xprev",
+      "uiname": "xprev",
+      "uistates": {
+        "hotspot": {
+          "h": 14,
+          "opacity": 0,
+          "ox": 183,
+          "oy": 41,
+          "storage": "",
+          "w": 13
+        },
+        "normal": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 118,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "on": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 0,
+          "cy": 295,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        },
+        "over": {
+          "ch": 59,
+          "cw": 343,
+          "cx": 343,
+          "cy": 59,
+          "h": 59,
+          "ox": 0,
+          "oy": 0,
+          "storage": "game_side__pack",
+          "w": 343
+        }
+      },
+      "width": 343,
+      "x": 1615,
+      "y": 393
+    }
+  }
+}

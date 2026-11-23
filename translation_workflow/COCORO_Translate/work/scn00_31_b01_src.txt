@@ -1,0 +1,64 @@
+# scene=scn00_31 batch=1/4 dòng 1-60 / 205
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_31_0001 | 大地(Daichi) | 「ココロが人間じゃなかったなんてなぁ……」 | "You're telling me Cocoro wasn't human all along?" | “没想到心居然不是人类啊……”
+scn00_31_0002 | 大地(Daichi) | 「いや分からんて、あんなとぼけたロボットいないだろ」 | "I had no idea! I've never seen a robot that clumsy, at least." | “不对这不好说啊，怎么可能会有那么傻的机器人啊”
+scn00_31_0003 | こさめ(Kosame) | 「……」 | "..." | “……”
+scn00_31_0004 | 大地(Daichi) | 「おもしろいヤツだったよな！　変な事ばっか言ってよぉ、なぁ風音」 | "She was a funny one, wasn't she? She just kept saying weird stuff, right, Kazane?" | “她可是个很有意思的家伙啊！　总会说些奇怪的话，你说是吧风音”
+scn00_31_0005 | 風音(Kazane) | 「……あたし知ってたんだ。ココロちゃんの事」 | "...I actually knew about Cocoro-chan." | “……我知道心的事”
+scn00_31_0006 | 大地(Daichi) | 「そうなのか？」 | "You did?" | “是吗？”
+scn00_31_0007 | 風音(Kazane) | 「前にバッテリー切れで動けなくなってるところに偶然出くわしちゃって、それで……」 | "I happened to see her run out of battery before, so that's why..." | “之前她没电动不了的时候被我偶然碰到了，所以……”
+scn00_31_0008 | 風音(Kazane) | 「でも、ココロちゃんはいい娘だったし、友達になれると思ってた。こさめなら分かるよね？」 | "But she was such a nice girl. I felt that we could be friends. You get what I mean, don't you, Kosame?" | “但是，心是个好姑娘，我也觉得能和她成为朋友，小雨应该懂吧？”
+scn00_31_0009 | こさめ(Kosame) | 「……わかんないよ」 | "...I don't." | “……我不懂啊”
+scn00_31_0010 | こさめ(Kosame) | 「私、ココちゃんの事、恐いって思って……そしたらココちゃん、すごく悲しそうな顔をして……」 | "I was scared of Coco-chan... And then she gave me this really sad look..." | “我当时感觉，心很可怕……然后心的表情看上去变得十分悲伤……”
+scn00_31_0011 | 大地(Daichi) | 「ロボットなんだろ？　だったら心配するこたないって。今頃、いつもみたいにけろっとしてるさ！」 | "But if she's a robot, there's no need to worry about her, is there? I bet she's fully recovered by now." | “她不是机器人吗？　那就没什么可担心的啦，她现在肯定也什么事都没有！”
+scn00_31_0012 | 風音(Kazane) | 「……さぁ、どうだろうね。それならいいんだけど」 | "...I'm not so sure. I hope so, though..." | “……谁知道呢，真是这样就好了”
+scn00_31_0013 | こさめ(Kosame) | 「……」 | "..." | “……”
+scn00_31_0014 | 大地(Daichi) | 「おい、しっかりしろよ。なんかあれだろ？　『厄災』の原因が分かったかもとかで、調査チームの連中も忙しそうにしてた」 | "C'mon, let's cheer up. The investigation team said they might've uncovered the cause of the Calamity, right? They've been real busy lately." | “喂，振作起来啊，他们不是说了吗？　好像是已经知道‘灾厄’的原因了啥的，所以调查队的那些人也忙得不行”
+scn00_31_0015 | 大地(Daichi) | 「エリア９９が解放されるかもしれないんだぞ」 | "That means Area 99 could be fully reopened soon!" | “99区说不定会获得解放哦”
+scn00_31_0016 | 風音(Kazane) | 「うん、そうだね……」 | "Yeah, you're right..." | “嗯，是啊……”
+scn00_31_0017 | 大地(Daichi) | 「……ったく、どいつもこいつもしけた顔しやがって」 | "...Sheesh, you're acting so gloomy." | “……真是的，一个两个都愁眉苦脸的”
+scn00_31_0018 | 風音(Kazane) | 「ずっとしけた顔してたのは、あんただろ。ひなたとココロちゃんに助けてもらったくせに」 | "You're the one looking the most gloomy of all. Remember how Hinata and Cocoro-chan helped you with your business?" | “一直愁眉苦脸的人不是你吗，明明都被日向和心帮助过了”
+scn00_31_0019 | 大地(Daichi) | 「うっ……悪かったよ。別に俺だって落ち込んでないわけじゃないぜ？」 | "Ugh... Fine, sorry. I'm upset by all this too, okay?" | “呜……那还真是抱歉啊，我也并不是一点都不难过啊？”
+scn00_31_0020 | 大地(Daichi) | 「でもよ、そういう時ほど笑ってた方がいいって、あいつらが教えてくれたんじゃねーか」 | "But didn't they teach us that it's better to keep laughing when times get tough?" | “但是，这种时候才应该笑起来，这不就是那家伙教我们的吗”
+scn00_31_0021 | こさめ(Kosame) | 「……」 | "..." | “……”
+scn00_31_0022 | 風音(Kazane) | 「ひなたはどうしてる？」 | "What's Hinata been up to?" | “日向怎么样了？”
+scn00_31_0023 | 大地(Daichi) | 「ずっと部屋に閉じこもってる。まあ、出たくても出られないんだけどな」 | "He hasn't left his room. Well, he probably couldn't leave even if he wanted to." | “一直把自己关在房间里，不过，他就算想出去也出不去啊”
+scn00_31_0024 | 風音(Kazane) | 「……あいつら、ずっとひなたを見張ってんのか。これじゃ軟禁じゃん」 | "...Those guys are still keeping watch? It's like Hinata's on house arrest." | “……那些家伙们一直在看着日向啊，这不就是软禁吗”
+scn00_31_0025 | 大地(Daichi) | 「ココロが連絡とかしてくるとしたら、あいつのところだろうしな」 | "I mean, if Cocoro's going to contact anyone, it'd probably be him." | “毕竟心要联系也只会联系他啊”
+scn00_31_0026 | 風音(Kazane) | 「……前にもさ、ひなたがしゃべれなくなった時あったじゃん？」 | "...Do you remember the last time Hinata lost his voice?" | “……之前，日向不是有段时间说不了话吗？”
+scn00_31_0027 | 大地(Daichi) | 「ああ、お母さんを亡くした時だったな」 | "Yeah, that was after his mom died, wasn't it?" | “嗯，他母亲去世的时候吧”
+scn00_31_0028 | 風音(Kazane) | 「あたしさ、毎日家に通って、話しかけたり、しゃべらなくてもできる遊びを一緒にやったりして元気付けようとしたんだ」 | "I'd go to his house every day to see him. Even if he couldn't talk, there were still games we could play together, and I really wanted to cheer him up." | “我每天都去他家里和他聊天，和他玩一些不用说话也能玩的游戏，希望能让他打起精神来”
+scn00_31_0029 | 大地(Daichi) | 「知ってるよ」 | "I remember that." | “我知道啊”
+scn00_31_0030 | 風音(Kazane) | 「でも、全然ダメで。ひなたは学校にもこなくなっちゃって」 | "But it wasn't any use. He even stopped coming to school." | “但是，没有任何作用，最后日向连学校都不来了”
+scn00_31_0031 | 大地(Daichi) | 「……ああ」 | "...Yeah." | “……嗯”
+scn00_31_0032 | 風音(Kazane) | 「あの時、ひなたを立ち直らせてくれたの、ココロちゃんなんだ」 | "Did you know that it was Cocoro-chan who helped him recover back then?" | “当时，让日向振作起来的就是心”
+scn00_31_0033 | 大地(Daichi) | 「？　あれ、小学校の時の話だろ？」 | "Huh? We're talking about back in elementary school, right?" | “？　咦，那不是小学时候的事了吗？”
+scn00_31_0034 | 風音(Kazane) | 「その頃に一度、ひなたはココロちゃんに出逢ってたんだ」 | "Yeah, that's when Hinata and Cocoro-chan first met." | “当时日向就已经和心遇见过了”
+scn00_31_0035 | 風音(Kazane) | 「ひなたは毎日、植物園に通ってて、当時そこでココロちゃんが働いてたんだって」 | "Hinata used to go to the botanical garden every day, and Cocoro-chan was working there at the time." | “日向每天都会去植物园，据说当时心就在那里工作”
+scn00_31_0036 | 風音(Kazane) | 「ひなたはココロちゃんを好きになって、プロポーズしたらしい」 | "Apparently he liked her so much that he even proposed to her." | “日向貌似喜欢上了心，还求婚了”
+scn00_31_0037 | 大地(Daichi) | 「マジかよ……。それであいつ、元気になっちまったってわけか」 | "Seriously...? Wow, that explains why he suddenly got better." | “真的假的啊……所以那家伙才又打起精神来了啊”
+scn00_31_0038 | 風音(Kazane) | 「男の子って単純すぎて笑っちゃうよな」 | "It's funny how simple boys can be, isn't it?" | “男生真是单纯得让人想笑啊”
+scn00_31_0039 | こさめ(Kosame) | 「……それで、ふたりはどうなったの？」 | "...So what happened to them back then?" | “……然后他们两个后来怎么样了？”
+scn00_31_0040 | 風音(Kazane) | 「詳しい事は知らない。なんかココロちゃんが植物園にこられなくなって、お別れしちゃったみたい」 | "I don't know the details, but Cocoro-chan stopped coming to the garden for some reason, and that was the end of it." | “具体情况我也不太清楚，好像是心来不了植物园了，两个人就道别了”
+scn00_31_0041 | こさめ(Kosame) | 「そうなんだ……」 | "I see..." | “这样啊……”
+scn00_31_0042 | 風音(Kazane) | 「ココロちゃんはひなたを救ってくれた恩人ってわけ」 | "So, we owe Cocoro-chan for saving Hinata back then." | “所以心就是拯救了日向的恩人”
+scn00_31_0043 | 大地(Daichi) | 「俺にとっちゃ、こさめの命を救ってくれた恩人でもある」 | "I owe them for saving Kosame's life, too." | “对我来说，她也是救了小雨命的恩人”
+scn00_31_0044 | こさめ(Kosame) | 「……うん」 | "...Yeah." | “……嗯”
+scn00_31_0045 | 大地(Daichi) | 「あいつらのためなら、なんだってするぜ。できる事があるんなら、だけどな……」 | "I'll do anything for them—anything within my means, at least..." | “为了他们我什么都能做，但前提是得有我能做到的事啊……”
+scn00_31_0046 | - | 俺はまた、部屋に閉じこもっていた。 | I'm holed up in my room yet again. | 我再次将自己关在了房间里。
+scn00_31_0047 | - | 外から、風音たちのしゃべり声がするが、何を話しているかまでは届かない。 | I can hear Kazane and the others talking outside, but I can't hear what they're saying. | 能听到外面风音他们的说话声，但却听不清他们具体说了些什么。
+scn00_31_0048 | - | 届いていたとしても、俺の意識にまでは登ってこないだろう。 | Even if I could hear their words, they probably wouldn't register with me. | 就算听清了，大概也传达不到我的脑海中吧。
+scn00_31_0049 | - | 頭の中は、一つの問いが無限にループし続けていたから。 | My thoughts keep going back to one single question. | 因为我脑子里一直在无限循环着同一个问题。
+scn00_31_0050 | - | ――花はどうして美しいのですか？ | "Why are flowers so beautiful?" | ——花为什么美丽？
+scn00_31_0051 | - | ずっと棚上げにしてきた疑問。 | I'd put it on the back burner for a while. | 这是一直没有解决的疑问。
+scn00_31_0052 | - | ナツノシラユキが咲けば、解決されると思っていた？ | Did I think that everything would be resolved once the summer snows bloomed? | 是觉得只要夏之白雪开花了就能解决了？
+scn00_31_0053 | - | ウソがばれるだけ。 | She was going to find out about my lie either way. | 那也只会让谎言被揭穿罢了。
+scn00_31_0054 | - | それが少し早まっただけだ。 | It just happened sooner than I expected. | 现在只是提前了一点而已。
+scn00_31_0055 | ひなた(Hinata) | （ココロをヒトにしてあげるって、約束したのに） | (I promised to make her human, but I couldn't do it.) | （明明约好了要让心变成人类）
+scn00_31_0056 | - | 約束はなんの強制力もない。 | Promises aren't legally binding. | 约定没有强制力。
+scn00_31_0057 | - | だからこそ、守られる事に意味があるし、守られない事にも意味が生まれてしまう。 | But that's exactly why it means so much to keep them, or to  keep them. | 正因如此，遵守约定才有意义，而没有遵守约定也会产生意义。
+scn00_31_0058 | - | 俺は約束を守れなかった。 | I couldn't keep my promise. | 我没能遵守约定。
+scn00_31_0059 | - | 生温かい風が吹いてきて、俺は視線を窓辺にやる。 | A lukewarm breeze hits me from the window. I look over at the windowsill. | 暖风缓缓吹来，我望向了窗边。
+scn00_31_0060 | - | 鉢植えで育てていたペチュニアの花に、蝶が飛んできていた。 | There's a butterfly fluttering around the petunias I've been growing in a pot. | 种植在盆栽里的矮牵牛花引来了蝴蝶。

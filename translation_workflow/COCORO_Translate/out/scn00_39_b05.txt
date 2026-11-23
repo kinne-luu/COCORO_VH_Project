@@ -1,0 +1,40 @@
+scn00_39_0241 | "Trong suốt thời gian chìm trong giấc ngủ, tôi cứ ngỡ rằng mình chỉ đang đếm từng ngày chờ đợi cái 'chết' mà thôi......"
+scn00_39_0242 | Chắc hẳn đã chẳng có một ai nói cho Cocoro hay rằng kế hoạch đã có sự thay đổi.
+scn00_39_0243 | Có lẽ là vì Cocoro vốn là cỗ máy thử nghiệm, nên họ e ngại việc tiết lộ sự thật sẽ làm sai lệch kết quả kiểm tra.
+scn00_39_0244 | Hay là vì chẳng một ai thèm bận tâm đến cảm xúc của Cocoro... xem em chỉ như một cỗ máy vô tri vô giác không hơn không kém?
+scn00_39_0245 | Dù vì lý do gì đi nữa, cái giá phải trả cho sự vô tâm ấy đã trở nên không tài nào cứu vãn được.
+scn00_39_0246 | Nỗi sợ hãi tột cùng cùng cảm xúc tiêu cực "Tôi không muốn chết" không ngừng dồn nén, phình to trong lồng ngực Cocoro, đã bất hạnh trở thành ngòi nổ châm ngòi cho cơn 'Ách Tai'.
+scn00_39_0247 | "Dì đã từng hiểu lầm. Dì ngỡ chính Cocoro là kẻ đã châm ngòi cho 'Ách Tai'."
+scn00_39_0248 | "Đúng vậy ạ, tất cả là do lỗi của tôi."
+scn00_39_0249 | Dì Kirika khẽ lắc đầu.
+scn00_39_0250 | "Không phải như thế đâu."
+scn00_39_0251 | "Ý dì là sao ạ?"
+scn00_39_0252 | "Kẻ phát tán hiện tượng Allelopathy chính là Jabberwock... là CCR-02 đấy."
+scn00_39_0253 | "Không hiểu vì cớ gì, dường như CCR-02 đã luôn luôn giám sát và đồng bộ trạng thái nội tâm của Cocoro suốt bấy lâu."
+scn00_39_0254 | "Vâng ạ. Vì em gái là kẻ bám đuôi tôi mà. Con bé dường như đã lén nhìn trộm vào cả bộ nhớ ký ức của tôi."
+scn00_39_0255 | "...... Nhắc mới nhớ, CCR-02 cũng từng gọi cháu là 'cậu Hinata'. Giống hệt như Cocoro vậy."
+scn00_39_0256 | "Hình dáng ban đầu của CCR-02 dường như trông như thế này đây."
+scn00_39_0257 | Hình ảnh hiện lên trên màn hình là một chú robot có hình dáng của một chú cún con.
+scn00_39_0258 | "Ô kìa, đáng yêu quá."
+scn00_39_0259 | "Hóa ra con bé vốn là robot hình chú chó sao."
+scn00_39_0260 | "Để tạo ra một cỗ máy robot có cảm xúc không phải con người nhưng vẫn có thể hòa nhập tự nhiên vào xã hội loài người, hình tượng loài chó đã được chọn lựa."
+scn00_39_0261 | "Thế nhưng, CCR-02 lại mắc phải một khiếm khuyết chết người. Do sự hình thành 'trái tim' còn non nớt chưa hoàn thiện, nên ranh giới giữa bản thân và tha nhân ở con bé rất mơ hồ."
+scn00_39_0262 | "Ranh giới tha nhân là gì vậy ạ?"
+scn00_39_0263 | "Có lẽ là khả năng nhận thức rõ ràng rằng mình là mình, người khác là người khác, mỗi bên là một thực thể độc lập riêng biệt chăng."
+scn00_39_0264 | Dì Kirika khẽ gật đầu.
+scn00_39_0265 | "Việc phân định rõ ràng giữa bản thân và người khác lại khó khăn đến thế sao ạ?"
+scn00_39_0266 | "Một robot như cháu mà có thể thốt ra được câu đó thì quả thực là điều phi thường lắm đấy."
+scn00_39_0267 | Con người có thể dễ dàng xác định khối cơ thể được bao bọc bởi da thịt chính là bản thân mình. Nhưng robot thì hoàn toàn không như vậy.
+scn00_39_0268 | Robot có thể gắn thêm bộ nhớ, kết nối điều khiển các máy tính khác, hoặc ngược lại bị thiết bị khác chiếm quyền điều khiển, thậm chí một thân xác có thể gắn nhiều bộ vi xử lý CPU khác nhau.
+scn00_39_0269 | Vậy thì từ đâu đến đâu mới thực sự là ranh giới của "chính mình"?
+scn00_39_0270 | Việc một cỗ máy robot có thể tự ý thức được ranh giới bản ngã đó chính là minh chứng cho thấy nó sở hữu trí tuệ và cảm thức ở tầm mức vô cùng cao siêu.
+scn00_39_0271 | "Cocoro có thể tự do điều khiển chiếc drone, thu nhận thông tin thị giác thông qua ống kính camera của nó đúng không."
+scn00_39_0272 | "Vâng ạ."
+scn00_39_0273 | Trong lúc bảo dưỡng, em cũng mượn loa của màn hình máy tính để cất tiếng trò chuyện.
+scn00_39_0274 | "Thế nhưng, cậu đâu có nhận thức chiếc drone đó là một phần cơ thể của mình đâu nhỉ?"
+scn00_39_0275 | "? Đương nhiên rồi ạ. Chẳng lẽ cậu Hinata lại coi chiếc drone đó là một phần cơ thể của cậu sao?"
+scn00_39_0276 | Tôi cũng sử dụng tay cầm điều khiển drone và đeo kính thực tế ảo để quan sát hình ảnh từ camera.
+scn00_39_0277 | Nhưng tôi hoàn toàn nhận thức rõ ràng đó không phải là một phần của bản thân.
+scn00_39_0278 | Sở dĩ làm được điều đó là vì linh hồn tôi ngụ trong một khối thân xác hoàn toàn độc lập.
+scn00_39_0279 | Nếu thân xác tiêu biến, chỉ còn lại tâm thức tồn tại, thì tôi sẽ nhận thức về bản thân ra sao, điều đó thật khó mà hình dung nổi.
+scn00_39_0280 | "Khả năng tự ý thức vượt bậc đó chính là lý do Cocoro không bị ảnh hưởng bởi sóng Allelopathy. Thế nhưng CCR-02 thì lại khác."

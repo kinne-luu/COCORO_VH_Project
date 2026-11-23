@@ -1,0 +1,60 @@
+scn00_39_0181 | "Có lẽ chúng ta sẽ thấu hiểu và gắn kết được với nhau......"
+scn00_39_0182 | "Đúng vậy. Chị gái muốn dạy cho những cỗ máy robot của tương lai biết đến 'tình yêu', để chúng có thể kết bạn và trở thành bạn bè với con người."
+scn00_39_0183 | Con người vốn dĩ xây đắp nên những mối quan hệ hoàn toàn khác biệt với mối quan hệ thứ bậc trên dưới dựa trên năng lực như trí thông minh, sức mạnh thể chất hay tiềm lực kinh tế, chính là nhờ vào việc yêu thương lẫn nhau.
+scn00_39_0184 | Liệu điều tương tự cũng có thể diễn ra giữa con người với AI và robot chăng? Đó là điều mẹ từng suy nghĩ sao.
+scn00_39_0185 | Nếu quả thật như vậy, thì Dự án Utopia không đơn thuần là tạo ra một xã hội tiện nghi nơi có robot phục vụ, mà là hướng tới việc hiện thực hóa một mô hình xã hội nơi con người và robot có thể cùng chung sống hòa bình bên nhau.
+scn00_39_0186 | "Chỉ có điều, mạch cảm xúc lúc bấy giờ vẫn chưa hoàn thiện. Làm sao để một AI thấu hiểu được 'tình yêu', đó chính là bài toán hóc búa nhất."
+scn00_39_0187 | "Chị ấy muốn trao cho humanoid sở hữu mạch tạo cảm xúc cơ hội học hỏi cảm xúc thông qua muôn vàn trải nghiệm thực tế, để trái tim của em ấy lớn dần lên..."
+scn00_39_0188 | "... Và rồi chỉ còn biết kiên nhẫn đợi chờ cho 'tình yêu' đâm chồi nảy lộc mà thôi."
+scn00_39_0189 | "Và đó chính là Cocoro......"
+scn00_39_0190 | "Ra là vậy, 'tình yêu' sao...... Thâm sâu thật đấy ạ."
+scn00_39_0191 | Cocoro gật gù liên tục hệt như phản ứng của một người thực chất chẳng hiểu mô tê gì.
+scn00_39_0192 | "Nhưng mà, dẫu chỉ một mình Cocoro thấu hiểu được tình yêu thì......"
+scn00_39_0193 | "Cocoro vốn là cỗ máy thử nghiệm nhằm hoàn thiện mạch cảm xúc. Chị ấy định dùng thành quả sau khi hoàn thiện đó làm nền tảng để phát triển thế hệ AI tiếp theo."
+scn00_39_0194 | "Nói cách khác, là có ý định để lại hậu duệ cho Cocoro đấy."
+scn00_39_0195 | "Trời đất...... Tôi có thể sinh con đẻ cái được sao ạ? Cậu Hinata ơi, cậu muốn có bao nhiêu đứa? Đủ để lập nguyên một đội bóng đá không?"
+scn00_39_0196 | Đâu chỉ dừng lại ở một đội bóng đá, đây là một kế hoạch vĩ đại mà số lượng hậu duệ có thể nhân lên đông đảo ngang ngửa với dân số toàn nhân loại.
+scn00_39_0197 | "Cocoro đã thực sự thấu hiểu được 'tình yêu' rồi. Tất cả là nhờ có cháu đấy, Hinata."
+scn00_39_0198 | "Cháu có làm gì to tát đâu ạ...... Cháu chỉ thích Cocoro và bày tỏ tấm lòng của mình với em ấy mà thôi."
+scn00_39_0199 | "Nếu không có một người dù biết rõ con bé là robot nhưng vẫn dành trọn vẹn tình yêu chân thành cho nó xuất hiện, thì có lẽ Cocoro sẽ mãi mãi chẳng bao giờ biết 'tình yêu' là gì đâu."
+scn00_39_0200 | Tôi đâu phải vì mục đích cao xa đó mà đem lòng yêu Cocoro.
+scn00_39_0201 | Chỉ đơn giản là người con gái tôi yêu lại tình cờ là một humanoid mà thôi.
+scn00_39_0202 | "Trách nhiệm nặng nề quá đỗi. Thú thật thì tôi không có chút tự tin nào cả."
+scn00_39_0203 | Liệu trong thâm tâm mình có một trái tim hay không, liệu mình có thực lòng yêu thương một ai đó hay không, ngay cả con người bằng xương bằng thịt cũng luôn trăn trở về câu hỏi đó.
+scn00_39_0204 | "Lúc được Hinata cầu hôn lần thứ hai, tâm trạng của cháu thế nào?"
+scn00_39_0205 | "Cảm xúc của tôi dâng trào mãnh liệt lắm ạ. Cảm giác như đang bay lơ lửng trên chín tầng mây chắc cũng chỉ đến thế mà thôi. Chắc chắn là vậy. Có lẽ thế. Cả người tôi như reo lên rằng: 'Mình yêu anh ấy quá mất thôi!'"
+scn00_39_0206 | "Thế nhưng, bây giờ thì tôi đã bình tĩnh hơn lúc đó nhiều rồi. Dù có thử nắm tay nhau như thế này đi nữa thì......"
+scn00_39_0207 | "............"
+scn00_39_0208 | "............ ha u u............"
+scn00_39_0209 | "Hừm...... Mạch cảm xúc xuất hiện phản ứng cực kỳ mạnh mẽ này. Để dì ghi lại chỉ số này đã... Hễ nắm tay là đỏ ửng cả mặt lên......"
+scn00_39_0210 | "Đây là hành vi xâm phạm quyền riêng tư! Robot cũng phải có nhân quyền... à không, quyền robot phải được công nhận chứ ạ!"
+scn00_39_0211 | "Tùy thuộc vào bản thân cháu đấy, trong tương lai có thể mọi chuyện sẽ thành hiện thực như thế."
+scn00_39_0212 | "Hức hức...... Tương lai của toàn thể giới robot lại đè nặng lên đôi vai của tôi sao......"
+scn00_39_0213 | "Hơn nữa, dì còn tìm thấy một bản ghi chép như thế này nữa này."
+scn00_39_0214 | Tôi và Cocoro cùng ghé mắt nhìn vào màn hình.
+scn00_39_0215 | "Đây là bản ghi chép của nhà nghiên cứu tiếp quản dự án phát triển Cocoro sau khi chị gái qua đời."
+scn00_39_0216 | \n\n\n\n\n\n\n\n<CCR-01 đã nhận được lời cầu hôn từ cậu thiếu niên loài người vốn thường xuyên thân thiết với nó>
+scn00_39_0217 | "Hảảả!? Đến cả chuyện này cũng bị ghi chép lại sao trời!!?"
+scn00_39_0218 | Xấu hổ chết đi được. Tệ thật đấy.
+scn00_39_0219 | "Thôi nào thôi nào, dì hiểu tâm trạng của cháu, nhưng điều dì muốn nói không phải là chuyện trêu chọc đó."
+scn00_39_0220 | "Chính lời cầu hôn của Hinata đã cứu mạng Cocoro đấy."
+scn00_39_0221 | "Nghĩa là sao ạ?"
+scn00_39_0222 | "Theo các bản ghi thì quyết định tái lập trình Cocoro vốn đã được thông qua rồi."
+scn00_39_0223 | "Họ không thể hiểu nổi ý nghĩa đằng sau những hành vi, lời nói của Cocoro cũng như khối dữ liệu do mạch cảm xúc xuất ra, nên đã dự định xóa sạch bộ nhớ của con bé để làm lại thử nghiệm từ đầu."
+scn00_39_0224 | Là vì sau khi mẹ mất đi, mạch cảm xúc đã trở thành một chiếc hộp đen bí ẩn đối với tất cả những người khác sao.
+scn00_39_0225 | "...... Vâng ạ. Tôi chỉ được thông báo rằng quyết định tiêu hủy đã được đưa ra. Thực thể mang tên tôi khi ấy vốn đã mang số mệnh bị xóa bỏ hoàn toàn."
+scn00_39_0226 | "Thế nhưng thực tế lại không phải vậy đâu. Này, cháu nhìn vào chỗ này xem."
+scn00_39_0227 | \n\n\n\n\n\n\n\n<Hủy bỏ quyết định tái lập trình. Giữ nguyên hiện trạng của CCR-01 và tiếp tục tiến hành thử nghiệm>
+scn00_39_0228 | "Tại sao lại thế ạ?"
+scn00_39_0229 | "Đúng như những gì được ghi lại ban nãy. Là bởi vì con bé đã nhận được lời cầu hôn từ một cậu bé loài người."
+scn00_39_0230 | "Nhờ có lời cầu hôn của Hinata mà con bé được công nhận là đã vượt qua bài kiểm tra Turing."
+scn00_39_0231 | Theo nghĩa rộng, bài kiểm tra Turing là bài kiểm tra trong đó một AI tiếp xúc với con người mà không tiết lộ thân phận; nếu con người không nhận ra đối phương là AI thì được coi là đạt chuẩn.
+scn00_39_0232 | Lúc đó tôi hoàn toàn không hay biết Cocoro là robot, cứ ngỡ em là một con người thực sự nên mới ngỏ lời cầu hôn.
+scn00_39_0233 | "Nhưng bài kiểm tra Turing suy cho cùng cũng chỉ ở mức độ đánh giá xem đối tượng 'có ngụy trang giống con người hay không' mà thôi."
+scn00_39_0234 | "Không chỉ đơn giản có vậy đâu. Đây chính là cảm xúc mà cháu đã xuất ra ngay thời điểm nhận được lời cầu hôn này."
+scn00_39_0235 | "Mạch tư duy của cháu khi ấy đã xử lý dữ liệu này như một tín hiệu lỗi, thế nhưng thứ trông giống như tạp âm nhiễu loạn này thực chất chính là sự dao động của cảm xúc."
+scn00_39_0236 | "Nhà nghiên cứu tiếp quản công trình từ chị gái đã nhận ra khả năng rằng đây có thể chính là mầm mống của 'tình yêu'. Chính vì thế, họ mới quyết định bãi bỏ lệnh tái lập trình."
+scn00_39_0237 | "Thế nhưng sau khi bị thu hồi, tôi lại bị đưa vào giấc ngủ triền miên suốt trong căn phòng bảo dưỡng này."
+scn00_39_0238 | "Hẳn là họ dự tính căn chỉnh tham số và bảo dưỡng thân thể cho cháu. Thế nhưng rồi mọi thứ đã dang dở không thể thực hiện được nữa."
+scn00_39_0239 | "Là bởi vì thảm họa 'Ách Tai' đã ập đến......"
+scn00_39_0240 | "Đúng vậy."

@@ -1,0 +1,64 @@
+# scene=scn00_37 batch=1/5 dòng 1-60 / 261
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_37_0001 | - | 見渡す限り無限に広がる空間に、小さな花の蕾以外、何もなかった。 | The void of darkness reaches as far as the eye can see. The only thing here is a single flower bud. | 我环顾了一下四周，在这个无限延伸的空间中，除了那小小的花蕾以外什么都看不到。
+scn00_37_0002 | - | ココロが見ている物が、あの蕾なのか。 | Is this what Cocoro is seeing right now? | 那花蕾就是心眼中所见么。
+scn00_37_0003 | - | それとも…… | Or is it... | 还是说……
+scn00_37_0004 | ひなた(Hinata) | （……あの蕾がココロなのか） | (Is that bud Cocoro herself?) | （……那花蕾就是心么）
+scn00_37_0005 | - | 固く閉じた蕾は、開花する気配がない。 | It's tightly closed, and it doesn't look like it's going to bloom anytime soon. | 紧闭着的花蕾完全没有要绽放的迹象。
+scn00_37_0006 | - | 種が芽吹く時と同様に、開花にも条件がある。 | Seeds only sprout under certain conditions. Similarly, flowers need certain conditions to bloom. | 和种子发芽时一样，开花也是需要条件的。
+scn00_37_0007 | - | 気温の変化、光量、その他、様々な条件が整って初めて花は咲く。 | Changes in temperature, the right amount of light... Only when everything is perfect do flowers begin to bloom. | 在气温变化、光照等各种条件都具备后，花朵才会绽放。
+scn00_37_0008 | - | 俺は握ったままのココロの右手のひらを、指でなぞった。 | Still holding Cocoro's hand, I start writing on her palm. | 我握着心的右手，用手指在她的掌心写道。
+scn00_37_0009 | - | 『きみは　どうやったら　さく？』 | What do you need in order to bloom? | ‘你　要怎样　才能绽放？’
+scn00_37_0010 | - | 蕾は黙ったまま、何も答えない。 | The bud doesn't respond. | 花蕾沉默不语，没有任何回应。
+scn00_37_0011 | - | 俺は構わずに言葉を[つむ]紡ぎ続けた。 | Undeterred, I continue inputting words. | 我对此毫不在意，依旧不断地编织着语言。
+scn00_37_0012 | - | 『ずっと　きみに　うそをついていた』 | I've been lying to you. | ‘我一直　都对你　说了谎’
+scn00_37_0013 | - | 『きみの　まちびとが　おれだってわかってたのに』 | I knew that I was the one you were waiting for. | ‘明知道你　等待的人　就是我’
+scn00_37_0014 | - | 『ごめん』 | I'm sorry. | ‘抱歉’
+scn00_37_0015 | ココロ(Cocoro) | 「謝罪はお済みですか？」 | "Are you done apologizing?" | “道完歉了吗？”
+scn00_37_0016 | - | いつの間にかココロが立っていた。 | Suddenly, Cocoro is standing there. | 心不知何时出现了。
+scn00_37_0017 | ココロ(Cocoro) | 「でしたら、どうぞお帰りください」 | "Then please leave." | “道完歉了就请回去吧”
+scn00_37_0018 | - | 『きみと　はなしたい』 | I want to talk to you. | ‘我想　和你说话’
+scn00_37_0019 | ココロ(Cocoro) | 「その謝罪は、ご自分の気持ちを軽くするためのもの。もう目的は果たされました。どうぞお帰りください」 | "That apology was intended to make  feel better. You've finished what you came here for. Please leave." | “你的道歉，只是为了让自己内心能够变得轻松一些，既然你已经达到了目的，就请回吧”
+scn00_37_0020 | - | 『ココロ』 | Cocoro. | ‘心’
+scn00_37_0021 | ココロ(Cocoro) | 「これ以上の謝罪は不要です。どうぞお帰りください」 | "No more apologies are needed. Please leave." | “不用再继续道歉了，请回吧”
+scn00_37_0022 | - | ココロの声は[かたく]頑なで、付け入る[すき]隙なく突っぱねようとする。 | She's refusing to talk to me outright, not budging an inch. | 心的声音十分固执，每一个字都透露着对我的抗拒。
+scn00_37_0023 | - | 『はなしが　したい』 | I want to talk to you. | ‘我想　和你说话’
+scn00_37_0024 | ココロ(Cocoro) | 「する理由がありません。どうぞお帰りください」 | "There is nothing to talk about. Please leave." | “我没有理由和你说话，请回吧”
+scn00_37_0025 | - | 機械音声のような冷たい声で話すココロは、現実の彼女がそうしているように左手を強く握り締めていた。 | Her tone is cold and emotionless, like a synthetic voice. The Cocoro in front of me has her left hand balled into a tight fist, just like the real one. | 用机械般冰冷语气对我说话的心，和现实中的她一样紧握着左手。
+scn00_37_0026 | - | 『きみに　めをさましてほしい』 | I want you to wake up. | ‘我希望　你能醒过来’
+scn00_37_0027 | ココロ(Cocoro) | 「ワタシは目を覚ますべきではありません。それはセカイに不利益をもたらします」 | "I shouldn't wake up. It won't benefit the world if I do." | “我不应该醒过来，我醒来只会对世界产生不利”
+scn00_37_0028 | - | 『どうして？』 | Why not? | ‘为什么？’
+scn00_37_0029 | ココロ(Cocoro) | 「ワタシはロボットに心を芽生えさせるための実験機。残念ながら実験は失敗し、心は芽生えませんでした」 | "I was an experimental prototype that was built to test whether robots could develop a soul. Unfortunately, I did not develop a soul, so the experiment has failed." | “我是为了让机器人萌生出人心才诞生的实验机。但很遗憾，实验已经失败了，我没能萌生出人心”
+scn00_37_0030 | ココロ(Cocoro) | 「それどころか実験は想定外の副作用をもたらしました。あなた方がアレロパシーと呼んだものです」 | "Instead, the experiment led to undesirable side effects—I'm referring to what you call 'allelopathy.'" | “实验甚至还带来了意料之外的副作用，也就是你们口中的化感作用”
+scn00_37_0031 | ココロ(Cocoro) | 「結果、『厄災』が起こりました」 | "As a result, the Calamity occurred." | “结果，‘灾厄’发生了”
+scn00_37_0032 | ココロ(Cocoro) | 「霧香が探していた『厄災』の元凶はワタシです。ワタシは今すぐ廃棄されるべき失敗作です」 | "I am the cause of the Calamity that Kirika has been searching for. I'm a failed prototype that must be destroyed immediately." | “雾香寻找的‘灾厄’元凶就是我。我是应该立刻被废弃掉的失败作”
+scn00_37_0033 | - | 『それはちがう』 | That's not true. | ‘并非如此’
+scn00_37_0034 | - | 『もしほんとうに　きみが　げんきょうなんだとしても』 | Even if you really are the cause... | ‘就算你　真的是元凶’
+scn00_37_0035 | - | 『そうさせたのは　ひとだ』 | It was humans who made you that way. | ‘让你这么做的　也是人类’
+scn00_37_0036 | - | 『きみが　つみを　せおうひつようなんてない』 | You don't have to feel responsible for it. | ‘你　没有必要　背负这个责任’
+scn00_37_0037 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_37_0038 | ココロ(Cocoro) | 「罪はそうかもしれません。しかし、不利益をもたらす道具は廃棄するべきです」 | "I may not be accountable, but a tool that brings more harm than good must be destroyed." | “罪或许是这样，但是，带来不利的道具就应该被废弃掉”
+scn00_37_0039 | - | 『そうかもしれない』 | Maybe that would be true... | ‘你说的或许没错’
+scn00_37_0040 | - | 『こころをもたない　どうぐなら』 | ...If you really were just an inanimate object. | ‘但那针对的是　没有人心的道具’
+scn00_37_0041 | - | 『きみには　こころがある』 | But you have a soul. | ‘你　是拥有人心的’
+scn00_37_0042 | ココロ(Cocoro) | 「ありません」 | "I do not." | “我没有”
+scn00_37_0043 | - | 『あると　おれはおもってる』 | I think that you do. | ‘我觉得　你有’
+scn00_37_0044 | ココロ(Cocoro) | 「花はどうして美しいのか？」 | "Why are flowers so beautiful?" | “花为什么美丽？”
+scn00_37_0045 | - | 唐突にココロが問いかけてきた。 | Cocoro suddenly asks me that question again. | 心突然丢出了这个问题。
+scn00_37_0046 | ココロ(Cocoro) | 「この問いの答えをワタシは見いだせませんでした。心が芽生えなかった証明です」 | "I wasn't able to come up with an answer. That's irrefutable evidence that I haven't developed a soul." | “我没能找到这个问题的答案，这就是我没有萌生出人心的证明”
+scn00_37_0047 | - | 『それは　かのうせいをしめしたにすぎない　しょうめいではない』 | That question is one of many possibilities. It doesn't prove anything. | ‘这个问题　只能展示可能性　无法成为证明’
+scn00_37_0048 | - | そんな事はココロにも分かってる。分かった上で、論理を都合よくすり替えている。 | Cocoro knows that, too. She's shifting the argument to suit her own narrative. | 心对此也十分清楚，但她明知如此却还是偷换了概念。
+scn00_37_0049 | ひなた(Hinata) | （どうしてそんな事をする？） | (Why would she do that?) | （为什么她会做这种事？）
+scn00_37_0050 | - | 心がなければ、自分が廃棄される理由になるから？ | Because not having a soul would be a reason to justify her being scrapped? | 是因为没有心就能成为废弃掉自己的理由了吗？
+scn00_37_0051 | ひなた(Hinata) | （ココロは廃棄されたがっている） | (Cocoro wants to be scrapped.) | （心想要被废弃掉）
+scn00_37_0052 | - | もしココロに心があると仮定して、廃棄される事が決められた時、深く傷付いたろう。 | Assuming that she has a soul, she would have been deeply wounded when the decision was made to dispose of her. | 假设心拥有人心，那被决定废弃的时候肯定十分受伤吧。
+scn00_37_0053 | - | それこそ、セカイを壊してしまうくらいの絶望を味わったはずだ。 | She experienced despair so great that it could destroy the world. | 正因如此，她才品尝到了足以毁灭世界的绝望。
+scn00_37_0054 | - | 傷付いた心を守るため、ココロには『自分が廃棄される説得力のある理由』が必要だった。 | So, to protect her wounded soul, Cocoro needed a reason to convince herself that she should indeed be scrapped. | 为了保护受伤的心灵，心必须要有一个‘废弃自己的有力理由’。
+scn00_37_0055 | - | でなければ、自分が可哀想すぎる。 | If there was no reason behind the decision, it would destroy her. | 不然的话，自己就太可怜了。
+scn00_37_0056 | - | しかし、そういった[ねじ]捻れた論理性こそ、ココロに心がある証拠だ。 | But the fact that Cocoro can come up with such twisted logic is proof that she does have a soul. | 但是，这种歪曲的逻辑，正是心拥有人心的证据。
+scn00_37_0057 | ひなた(Hinata) | （ココロを論破する事もできる） | (I could debate her and refute every argument she makes.) | （我也能驳倒心）
+scn00_37_0058 | - | しかし、そんな議論をしても無意味だ。 | But that wouldn't mean anything. | 但是，即便进行这种讨论也毫无意义。
+scn00_37_0059 | - | 言い負かしても問題は解消しない。これは『心の問題』だ。 | It's pointless to try to have a logical debate about the soul. | 就算说赢了她也解决不了问题，因为这是‘心的问题’。
+scn00_37_0060 | - | 『はなが　どうしてうまれたか　むかし　きみにはなしたよね』 | Remember what I told you about why flowers were born? | ‘花　为什么会出现　我以前告诉过你对吧’

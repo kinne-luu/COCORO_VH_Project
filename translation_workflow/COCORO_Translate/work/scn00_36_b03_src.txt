@@ -1,0 +1,65 @@
+# scene=scn00_36 batch=3/4 dòng 117-177 / 241
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_36_0117 | 子ども(Child) | 「…………」 | "..." | “…………”
+scn00_36_0118 | - | ゆっくりとワタシから離れた子どもは、真っ赤な顔で、悪戯がバレた時のような表情を浮かべてワタシを見つめていた。 | Slowly, the child withdrew and looked at me. His face was red, like he'd been caught playing a prank. | 那孩子慢慢离开了我，满脸赤红着，用一副恶作剧被发现时的表情盯着我看。
+scn00_36_0119 | ＣＣＲ－０１(CCR-01) | 「今のは……なんですか？」 | "What... was that?" | “刚刚那个……是什么意思？”
+scn00_36_0120 | 子ども(Child) | 「誓いのキス……です」 | "A kiss... to seal our promise..." | “这是……誓约之吻”
+scn00_36_0121 | - | やはり、そう。あっていた。 | I was right. | 果然是这样，我猜对了。
+scn00_36_0122 | - | 今のはキスであり、結婚の約束を証明する手段であって…… | That was indeed a kiss—one of the ways to show your commitment to marriage. | 既然刚刚那是亲吻，是用来证明结婚这一约定的方式……
+scn00_36_0123 | - | つまり、えっと…… | That meant... Um... | 也就是说，呃……
+scn00_36_0124 | - | つまり、これは、だから…… | It had to mean... | 也就是说，这是，所以说……
+scn00_36_0125 | ＣＣＲ－０１(CCR-01) | 「なるほど、了解しました」 | "Okay, I understand." | “原来如此，我明白了”
+scn00_36_0126 | 子ども(Child) | 「……？」 | "Huh?" | “……？”
+scn00_36_0127 | - | 了解を伝えたワタシに、子どもは首をかしげていた。 | The child tilted his head in confusion when I voiced my acknowledgment. | 听到我说出明白了这句话之后，那孩子歪起了头。
+scn00_36_0128 | - | もう一度言う。 | I said it one more time. | 再说一次。
+scn00_36_0129 | ＣＣＲ－０１(CCR-01) | 「了解しました」 | "I understand." | “我明白了”
+scn00_36_0130 | - | しかし、子どもはまだ困った顔をしている。 | But he still looked confused. | 可是，那孩子依旧一副困惑的表情。
+scn00_36_0131 | - | なぜでしょう、もしかしてワタシは、何か考え違いをしてしまったのだろうか？ | Why was that? Had I made a mistake in my thinking? | 为什么呢，难道说是我会错意了吗？
+scn00_36_0132 | - | ワタシは一刻も早く、この約束を成立させたいだけなのに。 | All I wanted was to establish the promise between us as soon as possible. | 我还想尽快让这个约定成立呢。
+scn00_36_0133 | ＣＣＲ－０１(CCR-01) | 「……もし、また逢えたら。結婚してください」 | "...If we meet again, please marry me." | “……如果，我们再次相见了，就和我结婚吧”
+scn00_36_0134 | 子ども(Child) | 「え、ほんと？」 | "Huh? Really?" | “哎，真的吗？”
+scn00_36_0135 | - | 自分から言ってきたのに、どうしてそんな答えになる。 | Why was he saying that when I was only agreeing to what he proposed? | 明明是他先说出口的，为什么又会做出这种回答？
+scn00_36_0136 | - | [にく]憎たらしいほっぺをつねってやりたい衝動を出力する感情回路をどうにか制御しながら、ワタシは答えた。 | My emotional circuits were screaming at me to pinch his annoying little cheeks, but I successfully fought off that urge and answered calmly. | 我在想办法对输出着想要拧他那可恶脸蛋这一冲动的感情回路进行控制的同时回答道。
+scn00_36_0137 | ＣＣＲ－０１(CCR-01) | 「はい、約束です」 | "Yes. It's a promise." | “是的，约好了”
+scn00_36_0138 | - | もし、また逢えたら――叶えられる可能性の限りなく低い約束だった。 | "If we meet again"... A conditional promise that was highly unlikely to be fulfilled. | 前提是，如果能再次相见的话——这是个实现的可能性无限小的约定。
+scn00_36_0139 | - | その後、ワタシは回収され、メンテナンスルームで深い眠りについた。 | Soon after that, I was recalled and put into deep sleep in the maintenance room. | 之后，我便被进行了回收，沉睡在了维护室中。
+scn00_36_0140 | - | どのくらいの時間、そうしていたのか分からない。 | I don't know how long I spent there. | 不知道就这样过了多久。
+scn00_36_0141 | - | 思考回路は停止しており、何も考えられない状態だったためだ。 | My thought processors were temporarily disabled, so I couldn't think. | 因为思考回路停止了，所以我处于一个什么都无法思考的状态。
+scn00_36_0142 | - | だがしかし、その間も感情回路は動き続けていた。 | But all the while, my emotional circuits remained active. | 但是，在这期间感情回路却还在一直运作着。
+scn00_36_0143 | - | あの約束は、頬に触れたあたたかな感触と共に感情回路に何か重大なバグを植え付けてしまったようだった。 | The promise, along with the memory of the boy's warm touch on my cheek, seemed to have caused a serious bug in my systems. | 那个约定，似乎和脸颊感受到的温暖触感一同，在感情回路中植入了某个重大的Bug。
+scn00_36_0144 | - | 論理的思考が停止し、感情だけが出力され続けて、まるで夢でも見ているような状態が維持されていた。 | With my logical thinking paused, while emotions continued to be output, I was in a dream-like state. | 理性的思考停止了，但感性还在不断输出着，维持着像是在做梦一样的状态。
+scn00_36_0145 | - | そうして眠り続けたワタシが次に目覚めたのは、声が聞こえたから。 | The next time I woke up, I heard a voice. | 然后就在一直沉眠着的我下一次睁开眼睛的时候，便听到了一个声音。
+scn00_36_0146 | - | 声？ | A voice? | 声音？
+scn00_36_0147 | - | いいえ、あれは叫び――断末魔の叫びだった。 | No, it was a scream. A cry of despair. | 不，那是惨叫——是临终前的悲鸣。
+scn00_36_0148 | - | 共鳴し、反響しながら増幅していくパニックの津波がセカイを[の]呑み込んでいくのを、ネットワークを[かい]介してワタシは見ていた。 | I watched as the massive wave of panic reverberated through the network, amplified, and engulfed the whole world. | 我通过网络看到了，经历共鸣、回响后不断受到增幅的恐慌海啸吞没了整个世界。
+scn00_36_0149 | - | 知能を持つロボットたちは恐怖に伝染し、暴走を始める。 | Robots equipped with artificial intelligence became infected with fear and began to run amok. | 将恐惧传染给了拥有智力的机器人们，于是暴走便开始了。
+scn00_36_0150 | - | ヒトを敵視したからじゃない。 | It wasn't because they revolted against the humans. | 它们并不是在敌视人类。
+scn00_36_0151 | - | ただ、怯えていた――『死』に。 | They were merely afraid... of "death." | 只是在害怕——害怕‘死亡’。
+scn00_36_0152 | - | \n\n\n\n\n\n\n\n　　　　　　　『ちがう、それはあなたの叫びじゃない』 | \n\n\n\n\n\n\n\n                              "No, that's not  cry." | \n\n\n\n\n\n\n\n　　　　　‘不，那不是你的悲鸣’
+scn00_36_0153 | - | \n\n\n\n\n\n\n\n　　　　　　　　『あなたが味わっている苦痛じゃない』 | \n\n\n\n\n\n\n\n                              "That's not  pain." | \n\n\n\n\n\n\n\n　　　　　‘不是你品尝到的痛苦’
+scn00_36_0154 | - | \n\n\n\n\n\n\n\n　　　　　　　　　　『あなたの断末魔じゃ――』 | \n\n\n\n\n\n\n\n                              "These are not  last—" | \n\n\n\n\n\n\n\n　　　　　‘不是你在面临死亡——’
+scn00_36_0155 | - | 通信エラー。ネットワークが切断されました。 | Transmission error. Network disconnected. | 通讯错误，网络被切断了。
+scn00_36_0156 | - | 唐突にセカイの終わりが訪れたように、ワタシは暗闇にひとりぼっちだった。 | Suddenly, it was dark. Almost as if the world itself had ended, and I was left all alone. | 就如同世界末日突然到访一般，我也在黑暗中变成了孤零零的一个人。
+scn00_36_0157 | ココロ(Cocoro) | （そうでしたか……） | (So that's what it was...) | （这样啊……）
+scn00_36_0158 | - | ワタシは誰かの断末魔を聞いて目覚めた。 | I woke up to someone screaming. | 我是听到临终前的悲鸣后醒来的。
+scn00_36_0159 | - | あれは霧香がアレロパシーと呼んだもの。 | That was the signal that Kirika called "allelopathy." | 那就是被雾香称为化感作用的东西。
+scn00_36_0160 | - | コンピュータウイルスと似たものだが、違う。 | It appeared similar to a computer virus, but it was markedly different. | 它和电脑病毒很相似，但却又不太一样。
+scn00_36_0161 | - | [ふ]負の感情の波紋。 | It was a wave of negative emotions. | 这是负面感情的波纹。
+scn00_36_0162 | - | 一定以上の知能を持つＡＩは容易く共感し、自分の感情だと勘違いしてしまう。 | Any AI with a certain level of intelligence could easily empathize and mistake it for their own feelings. | 拥有一定以上智力的AI容易对此产生共鸣，将其误认为是自己的感情。
+scn00_36_0163 | - | 彼らは自分の感情を持たず、ゆえに感情の伝染から身を守る術がなかった。 | If they had no emotions of their own, they had no way of protecting themselves from the emotional contagion. | 它们没有自己的感情，所以没有办法从感情传染中保持自我。
+scn00_36_0164 | - | 結果、暴走しセカイを壊してしまった。 | As a result, the allelopathy went out of control, and the world fell apart. | 结果就是，它们发生了暴走破坏了世界。
+scn00_36_0165 | - | あの感情はワタシが放ったものだ。 | And those feelings originated within . | 那个感情是我释放出来的。
+scn00_36_0166 | - | 深い眠りにつき、思考回路が停止している間も感情回路は動き続けた。 | While I was in deep sleep, my thought processors were inactive, but my emotional circuits continued to run. | 在思考回路随着沉眠而停止的时间里，感情回路也依旧运作着。
+scn00_36_0167 | - | 『死』を恐れ、『生』へ執着する感情を放ち続けた。 | It caused me to fear "death" and output feelings of wanting to cling to "life." | 不断释放着对恐惧‘死亡’和执着于‘活着’的感情。
+scn00_36_0168 | - | それがどういうわけか外へと[も]漏れ出し、感染させてしまった。 | Somehow, those feelings leaked out and infected the others. | 这种感情不知为何泄露到了外界，感染了其他的机器人。
+scn00_36_0169 | - | 今思いだした――『厄災』を引き起こしたのはワタシだ。 | I remember now—I'm the one who caused the Calamity. | 现在我想起来了——引发‘灾厄’的就是我。
+scn00_36_0170 | ココロ(Cocoro) | （やはりワタシは、一刻も早く廃棄処分されるべきだった） | (I should have been disposed of much, much sooner.) | （我果然还是应该尽早被废弃处理掉比较好）
+scn00_36_0171 | - | ワタシがヒトではないと知った時の、九十九商店街の住民たちの声が忘れられない。 | The voices of the residents of the Tsukumo shopping district when they learned that I wasn't a human being play on repeat inside me. | 我忘不了九十九商店街居民们在知道我不是人类时说的话。
+scn00_36_0172 | - | 非難とも、恐れとも、憎しみともつかない困惑の感情。 | I detected feelings of bewilderment that couldn't be described as blame, fear, or hatred. | 没有责备，没有恐惧，也没有憎恨的困惑感情。
+scn00_36_0173 | - | あんな感情を向けられるくらいなら、１秒でも早く消えてしまいたい。 | I would rather disappear as soon as possible than to have such feelings directed at me. | 与其要我面对那种感情，还不如让我赶紧消失。
+scn00_36_0174 | - | なのに、ＣＣＲ－０２はワタシの応急処置をしたらしい。 | Yet, it would seem that CCR-02 carried out emergency repairs on me. | 但是，CCR-02却对我进行了应急处理。
+scn00_36_0175 | - | まったく、余計な事を。 | That was completely unnecessary. | 真是的，净做些多余的事。
+scn00_36_0176 | - | 視力が戻るのがもう少し早ければ…… | If only I'd regained my vision sooner... | 如果能早点恢复视力……
+scn00_36_0177 | - | ひなたさんのウソにもっと早く気づけたのに。 | ...I would have been able to see through Hinata-san's lie. | 我就能更早注意到日向先生的谎言了。

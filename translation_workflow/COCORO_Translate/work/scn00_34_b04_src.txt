@@ -1,0 +1,64 @@
+# scene=scn00_34 batch=4/5 dòng 182-241 / 284
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_34_0182 | ジャバウォック(Jabberwock) | 『ココロ……アル……カ？』 | "She has... a soul?" | ‘她……拥有……人心吗？’
+scn00_34_0183 | - | 俺は頷いた。 | I nod. | 我点了点头。
+scn00_34_0184 | - | 『ココロは死にたいんじゃない。生きたいって願ってる』 | "She doesn't really want to die. She wishes to live." | ‘心并不想死，而是在期盼着活下去’
+scn00_34_0185 | ジャバウォック(Jabberwock) | 『ネガい……なんテ……な……イ』 | "She wishes... for nothing..." | ‘她没有……这种……期……盼’
+scn00_34_0186 | - | 『生きたいのに、生きられないから絶望してるんだ』 | "She's in despair because she wants to live but can't." | ‘她是因为想活着却无法活下去才会感到绝望’
+scn00_34_0187 | - | 希望がないなら、絶望もしない。 | There is no despair without hope. | 如果没有希望就不会绝望。
+scn00_34_0188 | - | 心がないなら、悲しんだりしない。 | Someone without soul wouldn't be sad. | 如果没有心就不会感到悲伤。
+scn00_34_0189 | - | ジャバウォックは、俺の深層心理を覗き見ようとするように、顔を近づけてきた。 | The Jabberwock brings its face close to mine, as if it's trying to peek deep into my soul. | 贾巴沃克就像是要窥视我内心想法一般，将脸靠了过来。
+scn00_34_0190 | - | スクラップを寄せ集めたキメラのような獣の顔が間近に迫る。 | Its face, a cobbled-together mess of bits of scrap metal, is right in front of me. | 由破烂组合而成像奇美拉一般的兽脸近在咫尺。
+scn00_34_0191 | - | 俺の言葉を信じるか、さもなくば殺すか、吟味しているようにも見える。 | It looks as if it's trying to decide whether to believe my words or kill me. | 看上去就像是在斟酌，到底是要相信我的话，还是要杀了我。
+scn00_34_0192 | - | その口が開かれた。 | Then, its mouth opens. | 它张开了嘴。
+scn00_34_0193 | ひなた(Hinata) | （殺されるっ！！？） | (Is it going to kill me!?) | （要被杀了！！？）
+scn00_34_0194 | - | 恐怖に固く閉ざしたまぶたの向こうから、声が響いた。 | I squeeze my eyes tightly shut, cowering in fear, when it speaks again. | 一道声音隔着我那因恐怖而紧闭起来的眼皮传了过来。
+scn00_34_0195 | ジャバウォック(Jabberwock) | 『ひな……た……さん』 | "Hina...ta-...san." | ‘日……向……先生’
+scn00_34_0196 | ひなた(Hinata) | （え――！！？） | (Huh!?) | （哎——！！？）
+scn00_34_0197 | - | 今、ジャバウォックが俺の名前を呼んだ？ | Did the Jabberwock just say my name? | 刚刚，贾巴沃克叫了我的名字？
+scn00_34_0198 | - | 俺は恐る恐るまぶたを開いて、獣のようなロボットの目を見た。 | I nervously open my eyes again and look into the beastly robot's face. | 我小心翼翼地睁开眼睛，便看到了兽型机器人的眼睛。
+scn00_34_0199 | ジャバウォック(Jabberwock) | 『ひ……な……た……サん』 | "Hi...na...ta-...san." | ‘日……向……先生’
+scn00_34_0200 | - | 感触を確かめるように、もう一度呼んだ。 | It says my name again, as if it's practicing the sounds. | 它就像是在确认感觉一般，又叫了一次我的名字。
+scn00_34_0201 | ひなた(Hinata) | 「……ぁぅぁぅ……」 | "Ah, uh..." | “……啊呜啊呜……”
+scn00_34_0202 | - | 返事をしようと、のどから音を絞り出す。 | I have to try my hardest to wring out a sound by way of reply. | 我试图回应，却只能从喉咙挤出一点声音。
+scn00_34_0203 | ジャバウォック(Jabberwock) | 『おネエ……ちゃん……ヲ……た……スケ……て』 | "Please... save... my... sister." | ‘请你……救……救……姐姐……吧’
+scn00_34_0204 | - | ――お姉ちゃんを助けて。 | Please save my sister? | ——请你救救姐姐吧。
+scn00_34_0205 | - | そう言ったのか？ | Is that what it said? | 它是在说这句话吗？
+scn00_34_0206 | - | 『お姉ちゃん？』 | "Sister?" | ‘姐姐？’
+scn00_34_0207 | ジャバウォック(Jabberwock) | 『ワタ……シ……は……ＣＣＲ－０２。……ココ……ロお……ネエちゃん……のいも……うと』 | "I... am... CCR-02... Coco...ro's... younger... sister." | ‘我……是……CCR-02。……心……姐姐……的……妹妹’
+scn00_34_0208 | ひなた(Hinata) | （ＣＣＲ－０２……ココロの後継機がすでに造られていたのか！？） | (CCR-02? They already built Cocoro's successor!?) | （CCR-02……心的后代机已经被制造出来了吗！？）
+scn00_34_0209 | - | しかし、なぜこんな姿に……。 | But why does she look like this...? | 可是，为什么是这副模样……
+scn00_34_0210 | ＣＣＲ－０２(Jabberwock) | 『……ココロ……おネエ……ちゃん……スキ』 | "I... love... my... sister." | ‘我……喜欢……心……姐姐’
+scn00_34_0211 | ＣＣＲ－０２(Jabberwock) | 『タス……ケテ……くださ……イ』 | "Pl...ease... save... her." | ‘请……救救……她’
+scn00_34_0212 | 霧香(Kirika) | 「ミュータントドローンが活性化してる……急いで、光太郎君」 | "The mutant drones are becoming more active... Hurry, Kotaro-kun." | “变异无人机正在恢复活性……快一点，光太郎”
+scn00_34_0213 | 光太郎(Kotaro) | 「やってますって！」 | "I  hurrying!" | “已经是最快了！”
+scn00_34_0214 | 駆除隊(Extermination Squad Member) | 「そこの車、止まれ！」 | "Hey, pull over!" | “那辆车，给我停下来！”
+scn00_34_0215 | 駆除隊(Extermination Squad Member) | 「どこへ行くつもりだ」 | "Where are you going?" | “你想去哪里”
+scn00_34_0216 | 光太郎(Kotaro) | 「主任をセントラルエリアまで送っていく。俺は隊長から主任の護衛を任されている」 | "I'm taking the chief over to the Central Area. The leader assigned me to guard her." | “我要将主任送到中心区里去，是队长让我保护主任的”
+scn00_34_0217 | 駆除隊(Extermination Squad Member) | 「主任？　……宿舎から出すなと命令されている。すぐに戻れ」 | "The chief? He ordered her to stay in the lodge. Take her back right now." | “主任？　……我收到了不能让你们离开宿舍的命令，马上给我回去”
+scn00_34_0218 | 霧香(Kirika) | 「責任者は私よ。誰の命令も受けないわ」 | "I'm in charge here. I'm not taking anyone's orders." | “我才是负责人，谁的命令都不会听”
+scn00_34_0219 | 駆除隊(Extermination Squad Member) | 「ダメだ、戻れ」 | "You're not getting past here." | “不行，快回去”
+scn00_34_0220 | 光太郎(Kotaro) | 「どうします、主任」 | "What now, Chief?" | “怎么办，主任”
+scn00_34_0221 | 霧香(Kirika) | 「……」 | "..." | “……”
+scn00_34_0222 | 光太郎(Kotaro) | 「ん？　なんだあれ。車が走ってくるぞ」 | "Huh? What's that? There's another car coming this way." | “嗯？　那是什么情况，有辆车开过来了啊”
+scn00_34_0223 | 大地(Daichi) | 「どけどけどけどけーーーーーーーーっ！！！？？」 | "Get outta the waaaaay!!!" | “让开让开让开让开————————！！！？？”
+scn00_34_0224 | 光太郎(Kotaro) | 「後ろから追ってきてるのは……ミュータントドローンだ！！」 | "Look! It's being chased... by mutant drones!!" | “追在后面的是……变异无人机！！”
+scn00_34_0225 | 駆除隊(Extermination Squad Member) | 「すぐに迎撃しろ！」 | "Shoot them!" | “立刻迎击！”
+scn00_34_0226 | 大地(Daichi) | 「ふぅ、助かったぜ。あいつらも、たまには役に立つな」 | "Phew, I made it. Even those guys can be helpful sometimes." | “呼，得救了啊，那些家伙们偶尔还是有点作用嘛”
+scn00_34_0227 | 光太郎(Kotaro) | 「おーい、おまえひなた少年の友達の子だろ」 | "Hey, you're Hinata's friend, aren't you?" | “喂——，你是日向少年的朋友吧”
+scn00_34_0228 | 大地(Daichi) | 「あんたは駆除隊のくせに海岸清掃を手伝ってくれてた……。それと、ひなたの叔母さん」 | "Oh, you're that guy from the extermination squad who helped with the beach cleanup... And... Hinata's aunt?" | “你是驱除队队员却来帮忙打扫海岸的那个……还有日向的姨妈”
+scn00_34_0229 | 霧香(Kirika) | 「どうして追われていたの？」 | "Why were they chasing you?" | “你为什么会被它们追？”
+scn00_34_0230 | 大地(Daichi) | 「うっ……それは」 | "Uh... Well..." | “唔……这是因为……”
+scn00_34_0231 | 光太郎(Kotaro) | 「なんだ、やましい事でもあるのか」 | "What? Do you have something to hide?" | “怎么，是有什么亏心事吗”
+scn00_34_0232 | 大地(Daichi) | 「いや、実はひなたを送った後、ミュータントドローンを引きつけるための[おとり]囮役をやってたんだ」 | "No... I dropped off Hinata and lured the mutant drones away from him." | “没，其实就是将日向送过去之后，作为诱饵引走了变异无人机而已”
+scn00_34_0233 | 霧香(Kirika) | 「なんですって？　ひなたは今どこに？」 | "What did you say? Where is Hinata right now?" | “你说什么？　日向现在在哪里？”
+scn00_34_0234 | 大地(Daichi) | 「……上手くいってるなら、セントラルに侵入してるはずです。ココロに逢いに行くって」 | "If everything went well, he should be in Central right now. He's going to talk to Cocoro." | “……顺利的话，应该已经进入中心区了。他说要去见心”
+scn00_34_0235 | 光太郎(Kotaro) | 「バカ野郎！　あそこはミュータントドローンの巣窟だぞ！？」 | "You idiot! That place is a hive of mutant drones!" | “蠢货！　那里可是变异无人机的老巢啊！？”
+scn00_34_0236 | 光太郎(Kotaro) | 「どうしますか主任」 | "What should we do, Chief?" | “怎么办主任”
+scn00_34_0237 | 霧香(Kirika) | 「……私たちも行きましょう」 | "...We should go, too." | “……我们也过去吧”
+scn00_34_0238 | 霧香(Kirika) | 「この混乱を治めるには、アレロパシーの元凶を止めなければならない。ココロに会わないといけないの」 | "The only way to fix this mess is to find the source of the allelopathy and stop it. We have to find Cocoro, too." | “想要结束这混乱的局面，就必须要阻止化感作用的元凶，必须要去见心”
+scn00_34_0239 | 光太郎(Kotaro) | 「そこまでは……いくらなんでも危険すぎます」 | "But that's... way too dangerous." | “做到这种程度……怎么说也太危险了”
+scn00_34_0240 | 霧香(Kirika) | 「でも、誰かがやらないといけない。じゃないと被害は拡大する一方よ」 | "Somebody's got to do it. Otherwise, the devastation will only spread." | “但是，必须要有人去做，不然灾害只会一味扩大”
+scn00_34_0241 | 霧香(Kirika) | 「……それに、ひなたを放っておけない」 | "And I can't just leave Hinata on his own." | “……而且，我也没法不管日向”

@@ -1,0 +1,60 @@
+scn00_30_0121 | "Gâu gâu gâu gâu!!!"
+scn00_30_0122 | Chú chó bỗng sủa lên inh ỏi dữ dội.
+scn00_30_0123 | Cocoro nhận biết được rằng đây là tiếng sủa nhằm cảnh báo hiểm nguy cho người chủ của nó.
+scn00_30_0124 | Cô cũng đã sớm phát hiện ra nguyên nhân của lời cảnh báo ấy.
+scn00_30_0125 | Thế nhưng, chu trình tư duy của cô đang rơi vào trạng thái vòng lặp nghiêm trọng dẫn tới đóng băng toàn bộ hệ thống. Cô hoàn toàn không ở trong tình trạng có thể ứng phó được.
+scn00_30_0126 | "Chủ nhiệm, nguy hiểm quá!!"
+scn00_30_0127 | Kotaro vội vàng chộp lấy tay Kirika kéo giật lùi lại.
+scn00_30_0128 | Kosame vẫn chưa kịp nhận ra mối hiểm họa, nhưng cự ly giữa cô bé và hiện trường còn khá xa nên không đáng ngại.
+scn00_30_0129 | Dù có chút lo lắng cho chú chó, nhưng nhờ Kosame vẫn nắm chắc dây xích nên xem chừng vẫn trong gang tấc an toàn.
+scn00_30_0130 | Kẻ gặp nguy hiểm duy nhất chỉ có mình tôi. Tôi nhận định như vậy sẽ không có vấn đề gì...
+scn00_30_0131 | Một chiếc xe tải lao vun vút với vận tốc vượt xa tốc độ giới hạn cho phép bất ngờ chệch hướng khỏi lòng đường, đâm thẳng trực diện vào Cocoro.
+scn00_30_0132 | Kèm theo một cú va chạm kinh hoàng, toàn bộ cơ thể Cocoro bị hất văng bổng lên không trung.
+scn00_30_0133 | Thân hình cô đập mạnh vào bức tường rồi dội ngược lại, lăn lông lốc xuống mặt đường.
+scn00_30_0134 | "Chị Coco!!?"
+scn00_30_0135 | Kosame thất thanh gào thét.
+scn00_30_0136 | "Có người bị xe cán rồi kìa!!"
+scn00_30_0137 | Những người qua đường nhận ra sự việc cũng bắt đầu hoảng loạn xôn xao.
+scn00_30_0138 | "Cocoro............ Cocoro!!!!?"
+scn00_30_0139 | Tiếng của gã tài xế xe tải vang lên đầy run rẩy.
+scn00_30_0140 | "Hà, hà, hà... T-Tôi... tôi đâu có định... giết người..."
+scn00_30_0141 | "Không sao đâu, anh chưa giết bất kỳ ai cả."
+scn00_30_0142 | "Hả... V-Vẫn còn sống ư..."
+scn00_30_0143 | "Vâng, dẫu cho cơ thể tôi vừa chịu tổn hại vô cùng nghiêm trọng."
+scn00_30_0144 | "Mày... rốt cuộc mày là thứ quái quỷ gì vậy... Chẳng lẽ, đúng thật là..."
+scn00_30_0145 | <Tao đã bảo rồi mà, con đó không phải là con người đâu.>
+scn00_30_0146 | "..."
+scn00_30_0147 | <Này, nó vẫn còn cử động được kìa. Mau ra tay kết liễu dứt điểm đi!>
+scn00_30_0148 | "Nhưng mà... thế này thì..."
+scn00_30_0149 | <Mau làm ngay đi!!!>
+scn00_30_0150 | "V-Vângggg!!!!"
+scn00_30_0151 | Chiếc xe tải một lần nữa rồ ga lao thẳng tới, và Cocoro lặng lẽ đón nhận nó.
+scn00_30_0152 | Lại thêm một tiếng va chạm kinh thiên động địa vang dội, khiến cả tòa nhà lắc lư rung chuyển.
+scn00_30_0153 | "Hà... hà... hà..."
+scn00_30_0154 | Cú chấn động tựa như tín hiệu hóa giải cơn mê man, kéo hơi thở của tôi dần trở lại bình thường.
+scn00_30_0155 | Chuyện quái gì đang diễn ra thế này...!?
+scn00_30_0156 | Tôi lảo đảo gượng dậy, vội vã lao thục mạng xuống cầu thang rồi chạy vụt ra ngoài đường.
+scn00_30_0157 | Cảnh tượng này là...
+scn00_30_0158 | Chiếc xe tải đâm sầm vào bức tường rồi chết đứng tại chỗ.
+scn00_30_0159 | Đám đông người dân tụ tập đứng từ xa bàng hoàng dõi theo.
+scn00_30_0160 | Trong số đó, có cả bé Kosame và nhóm dì Kirika.
+scn00_30_0161 | "Chị Coco... chị Coco ơi..."
+scn00_30_0162 | Khuôn mặt cắt không còn giọt máu, bé Kosame không ngừng nức nở gọi tên Cocoro.
+scn00_30_0163 | "Cocoro..."
+scn00_30_0164 | Dì Kirika cũng chết sững người vì bàng hoàng.
+scn00_30_0165 | Mọi ánh mắt đều đổ dồn vào khoảng trống giữa đầu xe tải và bức tường bê tông.
+scn00_30_0166 | Lại gần hơn, tôi trông thấy Cocoro đang ở đó.
+scn00_30_0167 | Bị kẹp chặt cứng ở giữa bức tường và thân xe tải.
+scn00_30_0168 | Cocoro...
+scn00_30_0169 | "Gì thế gì thế này, rốt cuộc đã xảy ra chuyện gì vậy hả!?"
+scn00_30_0170 | Gạt phăng đám đông sang hai bên, Kazane với sắc mặt tái mét hớt hải chạy ùa tới.
+scn00_30_0171 | "Chị Kazane ơi, chị Coco..."
+scn00_30_0172 | "Chẳng lẽ... em Cocoro bị xe đâm trúng sao...!?"
+scn00_30_0173 | Cocoro vốn đang rũ rượi gục đầu bỗng nhiên ngước phắt mặt lên.
+scn00_30_0174 | "Quá đáng thật đấy nhé. Hành vi vừa rồi cấu thành tội lái xe nguy hiểm theo Luật Giao Thông Đường Bộ đấy ạ."
+scn00_30_0175 | "Híiii, sao nó vẫn còn sống nhăn răng thế kia!!?"
+scn00_30_0176 | Từ ghế lái chiếc xe tải, một gã đàn ông có bộ mặt quen thuộc lăn lông lốc ngã nhào xuống đất.
+scn00_30_0177 | Tên đó là gã đầu cơ đất đai sao? Tại sao hắn lại ở đây...?
+scn00_30_0178 | Tôi nghe nói hắn ta đã bị tống giam rồi cơ mà.
+scn00_30_0179 | "Cocoro ơi, em có sao không thế hả!!"
+scn00_30_0180 | "Dạ vâng, ít nhiều thì vẫn ổn ạ. Dô-ta-nào..."

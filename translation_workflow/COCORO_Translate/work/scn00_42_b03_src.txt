@@ -1,0 +1,64 @@
+# scene=scn00_42 batch=3/7 dòng 121-180 / 428
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_42_0121 | ひなた(Hinata) | 「みなさん、結婚式に是非来てください！　どなたでも列席していただけ構いませんので」 | "Hello, everyone! You're all invited to our wedding! Anyone is welcome to attend." | “各位，请务必来参加我们的婚礼！　我们欢迎任何人前来出席”
+scn00_42_0122 | - | 俺が呼びかけると、風音と大地が後に続いてくれる。 | I address the crowd, and Kazane and Daichi are right behind me to back me up. | 在我喊出这句话过后，风音和大地也紧跟着喊了起来。
+scn00_42_0123 | 風音(Kazane) | 「セントラルの植物園でやりますんでー。みんなでふたりの門出を祝福してあげてくださーい」 | "The ceremony will take place at the botanical garden in Central. Please join us to celebrate the bride and groom's new beginning together!" | “举办地点在中心区的植物园——，请各位都来对他们二位的新生活献上祝福吧——”
+scn00_42_0124 | 大地(Daichi) | 「披露宴も誰でも参加してくれて構わないぜ！」 | "Everyone's welcome to join us at the reception afterward, too." | “婚宴也是任何人都可以来参加！”
+scn00_42_0125 | こさめ(Kosame) | 「これ、招待状でーーす」 | "Here's your invitations!" | “请来这边拿邀请函——”
+scn00_42_0126 | - | こさめちゃんがすかさず当日の日程などが書かれた用紙を配る。 | Kosame-chan starts handing out cards that have the date, time, and other details written on them. | 小雨立刻分发起了写着当天日程安排的邀请函。
+scn00_42_0127 | 住民Ｃ(Resident C) | 「植物園ってあそこか……」 | "The botanical garden?" | “植物园是在那边吧……”
+scn00_42_0128 | 住民Ｄ(Resident D) | 「誰でも参加していいなら、行ってみようかな……」 | "If anyone's welcome, maybe I'll go..." | “既然任何人都能参加，那就去看看吧……”
+scn00_42_0129 | - | 偏見というのは、ちょっとしたきっかけで変えられる事がある。 | It only takes a small push to change people's prejudice. | 偏见这东西，只需要一个契机就能发生转变。
+scn00_42_0130 | - | ココロのドレス姿を見て、それがあまりにもよく似合ってた事によって、偏見など最初からなかったように消えていく。 | The sight of Cocoro in that perfect wedding dress seems to melt away any biases that people might've had against her. | 人们只要看到心身着婚纱的样子，觉得她穿在身上十分合适，偏见就会消失得无影无踪，仿佛一开始就不存在一般。
+scn00_42_0131 | ひなた(Hinata) | 「[にぎ]賑やかな式にできそうだね」 | "I feel like it's going to be a lively wedding." | “看来会变成一场热闹的婚礼呢”
+scn00_42_0132 | ココロ(Cocoro) | 「……はい」 | "...Yeah." | “……是啊”
+scn00_42_0133 | - | 結婚式の準備で進んでいるのはココロのドレスだけじゃない。 | Other than the dress, there are some other things that need to be prepared, too. | 除了心的婚纱，婚礼的其他准备也都在稳步进行中。
+scn00_42_0134 | 風音(Kazane) | 「列席者には通路の脇に並んでもらって、その間を新郎新婦が歩くという流れで。植物を踏まないように注意してねー」 | "We'll have the guests stand on both sides of the aisle when you make your entry, so you'll be walking between them. Oh, careful you don't step on the plants!" | “就按照出席者们在过道两边站成一排，新郎新娘从中间走过去这个流程，注意点别踩到植物了啊——”
+scn00_42_0135 | 風音(Kazane) | 「ふたりとも、はいどーぞ！」 | "Ready? Come in!" | “两位准备好，开始吧！”
+scn00_42_0136 | - | 風音の合図で、まずは俺が。後からココロが歩いてくる。 | At Kazane's cue, I enter first, and Cocoro follows after me. | 听到风音的信号后，我先迈出了脚步，心则走在我的身后。
+scn00_42_0137 | ココロ(Cocoro) | 「お客様に手を振った方がいいでしょうか」 | "Should I wave my hand to the guests?" | “是不是对客人们挥挥手比较好呢”
+scn00_42_0138 | 風音(Kazane) | 「そういうアピールはいらないから」 | "I don't think that's necessary—this isn't a red-carpet event." | “不需要这样表现自己”
+scn00_42_0139 | - | 今やっているのは、結婚式のリハーサルだった。 | We're in the middle of a rehearsal for the ceremony. | 现在正在做的是婚礼的彩排。
+scn00_42_0140 | - | すでに飾り付けなども準備していて、今はプログラム通りに式を進行できるかの確認をしているのだ。 | The decorations are already in place, and now we're checking if everything can proceed as we originally planned. | 装饰之类的已经都准备好了，现在正按照流程确认仪式能否顺利进行。
+scn00_42_0141 | こさめ(Kosame) | 「んしょ……んしょ……」 | "Hfff... Hfff..." | “嘿咻……嘿咻……”
+scn00_42_0142 | - | ココロの後ろからこさめちゃんが付いてくる。 | Kosame-chan comes in after Cocoro. | 心身后则跟着小雨。
+scn00_42_0143 | - | ベールガールというドレスのベールを持ってあげる役目らしい。 | She has the honor of carrying the bride's veil so it doesn't drag on the ground. | 她担任的似乎是一个为新娘提婚纱裙摆的花童角色。
+scn00_42_0144 | 風音(Kazane) | 「ここは親族とか一部の招待客だけだねぇ」 | "This area's for relatives and close friends, right?" | “这里只有亲人之类一部分受邀请的客人能进来对吧”
+scn00_42_0145 | - | 植物を踏み荒らすわけにはいかないので、人が立ち入れるスペースが少ない。 | There's not a lot of space in the greenhouse to accommodate guests. We don't want to trample the plants. | 毕竟不能把植物踩坏，所以里面能站人的空间并不多。
+scn00_42_0146 | 大地(Daichi) | 「あんまり多いようなら、植物園の外で見守ってもらうしかないんじゃないか」 | "If more people show up than we anticipated, we'll have to ask them to wait outside." | “如果人太多了，他们不就只能在植物园外面眺望里面了吗”
+scn00_42_0147 | 風音(Kazane) | 「そうなっちゃうねぇ。結構来てくれそうだし。申し訳ないけど、その分、披露宴を楽しんでもらうって感じかな」 | "I'm afraid so... I'm pretty sure lots of people will come. We'll have to make sure they can enjoy the reception to the fullest instead." | “是会变成这样啊，感觉来的人可能会挺多的。虽然有点对不起他们，但作为补偿就让他们在婚宴里好好享受一下吧……”
+scn00_42_0148 | 霧香(Kirika) | 「なんだか自分の事みたいにそわそわしてきたわ……」 | "It's not even  wedding, but I'm getting so nervous..." | “就像是在准备自己的事一样坐立不安啊……”
+scn00_42_0149 | 光太郎(Kotaro) | 「他人の結婚式なんざ興味なかったけど、ひなた少年とココロちゃんならそうも言ってられないな」 | "I've never really cared much for other people's weddings, but I wouldn't miss Hinata and Cocoro-chan's for anything." | “虽然对其他人的婚礼没什么兴趣，但如果主角是日向少年和心就另当别论了”
+scn00_42_0150 | - | みんなが打ち合わせをしてるのを横目に、俺とココロは手持ち無沙汰でぽつんと立っているしかない。 | While everyone is discussing the details, Cocoro and I just stand there, not sure what to do. | 我和心只能在旁边看着大家商量，无所事事地站在那里。
+scn00_42_0151 | 風音(Kazane) | 「えー、新郎新婦が入場したら、親族からの言葉」 | "Umm, so after the bride and groom enter, there'll be a speech by a family representative." | “啊——，新郎新娘入场后，就轮到亲人发言了”
+scn00_42_0152 | 光太郎(Kotaro) | 「主任、出番ですよ」 | "Chief, you're up." | “主任，到你出场了”
+scn00_42_0153 | 霧香(Kirika) | 「えっ、あ、そうだったわね。えー……ひなたがうちに来たのは４年前の……」 | "Huh? Oh, right, yes... Umm... Hinata came to live with me four years ago—" | “哎，啊，是有这回事来着。呃……日向是4年前来到我家的……”
+scn00_42_0154 | 風音(Kazane) | 「あ、今は結構です。本番まで取っといてください」 | "Oh, you don't have to do it now. Please save it for the actual wedding." | “啊，现在先不用了，请留到婚礼现场再说吧”
+scn00_42_0155 | 霧香(Kirika) | 「……ごめんなさい」 | "...Sorry." | “……对不起”
+scn00_42_0156 | 風音(Kazane) | 「で、それが終わったら、新郎新婦から誓いの言葉」 | "And when that's done, the bride and groom say their vows." | “然后，这一项结束后，就是新郎新娘相互誓约”
+scn00_42_0157 | ココロ(Cocoro) | 「ワタシたちは誰に[ちか]誓うのでしょう」 | "Who will witness our vows?" | “那我们要向谁起誓呢”
+scn00_42_0158 | ひなた(Hinata) | 「集まってくれた人たち、みんなにだよ」 | "All of our guests will." | “是要向来参加婚礼的各位起誓哦”
+scn00_42_0159 | - | この結婚式は人前式だ。 | The wedding will be a public ceremony. | 这只是场非常小的婚礼。
+scn00_42_0160 | - | チャペルでやるような式と進行は似てるけど、違うのは植物園でやるという事と、神様に誓いを立てるわけじゃないというところ。 | It's similar to the kind of ceremony held in a chapel. The only differences are that we're in the garden instead, and we're not making our vows before God. | 虽然和在教堂举行的仪式很相似，但不同的地方是我们的仪式是在植物园举行，和不向神明宣誓这两点。
+scn00_42_0161 | - | 俺たちの結婚を見守ってくれた人たちに、誓いを立てる。みなさんには、その証人になってもらう。 | We'll say our vows before everyone in attendance. They'll all be our witnesses. | 我们会向前来见证我们结婚的人们宣誓，让大家都成为见证人。
+scn00_42_0162 | ひなた(Hinata) | 「誓いの言葉、今言った方がいい？」 | "Should we practice saying our vows, too?" | “誓词是要现在说一下吗？”
+scn00_42_0163 | 風音(Kazane) | 「それは本番のお楽しみ。えー、誓いの言葉が終わったら指輪の交換ね。リングドッグ、カモーン！」 | "Let's save that for the actual wedding, too. Umm, after the vows, you'll be exchanging rings. Ring bearer, please come forward!" | “这也留到婚礼上吧。呃，誓约过后就是交换戒指了，婚戒犬，come　on！”
+scn00_42_0164 | 犬(Dog) | 「ワン！」 | "Woof!" | “汪！”
+scn00_42_0165 | - | 首から何かぶらさげて、犬が入ってきた。 | The dog comes in with something tied around his neck. | 狗脖子上吊着个什么东西就进来了。
+scn00_42_0166 | - | 犬は俺とココロの前まで来て、お行儀良く座る。 | He walks straight to Cocoro and me and politely sits down in front of us. | 狗来到了我和心的面前，端正地坐了下来。
+scn00_42_0167 | ココロ(Cocoro) | 「よし、いい子です」 | "There's a good boy." | “真棒，真是个乖孩子”
+scn00_42_0168 | 犬(Dog) | 「ワゥ」 | "Woof!" | “呜”
+scn00_42_0169 | - | 首に提げた入れ物に、結婚指輪が入っていた。 | The box dangling from his neck contains our wedding rings. | 放在它脖子上挂着的容器里的东西是婚戒。
+scn00_42_0170 | - | ココロのための指輪は、以前あげたもの。母の形見の婚約指輪だ。 | Cocoro's is the ring I gave her before—my mom's engagement ring. | 给心准备的戒指是以前给她的那枚。是母亲遗留下来的订婚戒指。
+scn00_42_0171 | - | ココロが、指輪はそれ一つでいいと言うので。 | She said that ring was more than enough. | 因为心说，戒指只要那一个就够了。
+scn00_42_0172 | - | 俺の分は街の人が用意してくれた。シンプルなシルバーのリングだった。 | One of the townspeople got one for me—a simple silver band. | 我的那枚戒指是街上的人们为我准备的，是一枚朴素的银戒指。
+scn00_42_0173 | - | 今日はリハーサルなので、指輪の交換はしないでおく。 | Since today's just a rehearsal, we don't actually put the rings on now. | 今天只是彩排，所以就先不交换戒指了。
+scn00_42_0174 | ココロ(Cocoro) | 「またひなたさんに指輪を付けてもらえるのですね。楽しみです」 | "So you'll be putting the ring on my finger again... I can't wait!" | “又能让日向先生为我戴一次戒指了呢，我好期待”
+scn00_42_0175 | - | ココロは嬉しそうに言う。 | Cocoro sounds happy. | 心开心地说道。
+scn00_42_0176 | 風音(Kazane) | 「で、次は…………あー、まあ、ここも飛ばして」 | "Then, next... Ahh, well, let's skip that part for now." | “接下来是…………啊，算了，这部分也跳过吧”
+scn00_42_0177 | ココロ(Cocoro) | 「誓いのキッスですね」 | "A kiss to seal our vows, right?" | “是誓约之吻对吧”
+scn00_42_0178 | ココロ(Cocoro) | 「ちゅっ」 | "Mwah!" | “啾”
+scn00_42_0179 | - | ココロが俺の首に腕を回して、背伸びしながらキスをした。 | Cocoro wraps her arms around my neck and stands on her tiptoes to kiss me. | 心用手环住我的脖子，踮起脚尖亲了我一口。
+scn00_42_0180 | 霧香(Kirika) | 「まぁ～♪」 | "Oh, my. %f$記号$;♪%fuser;" | “哎呀～♪”

@@ -1,0 +1,64 @@
+# scene=scn00_42 batch=1/7 dòng 1-60 / 428
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_42_0001 | - | それから数日は、めまぐるしく過ぎた。 | The next couple days pass by in a whirlwind. | 后面这几天都很忙碌。
+scn00_42_0002 | - | 風音が仕切ってくれるおかげで、結婚式の準備がどんどん進んでいったためだ。 | Thanks to Kazane's organizational skills, the wedding preparations are now in full swing. | 在风音的主导下，婚礼的准备马不停蹄地进行着。
+scn00_42_0003 | こさめ(Kosame) | 「バーン」 | "Bang!" | “砰——”
+scn00_42_0004 | 犬(Dog) | 「ワゥゥ～～」 | "Awoo..." | “呜呜呜～～～”
+scn00_42_0005 | - | ぽてっ。倒れる犬。 | The dog collapses limply to the ground. | 狗啪嗒一声倒在了地上。
+scn00_42_0006 | こさめ(Kosame) | 「わー、できたよひなたさん」 | "Wow! He did it, Hinata-san." | “哇——，成功了耶日向先生”
+scn00_42_0007 | ひなた(Hinata) | 「撫でてあげて」 | "Give him some pets and praise him." | “摸摸它吧”
+scn00_42_0008 | こさめ(Kosame) | 「えらいね、ワン太郎（仮）」 | "You're such a smart boy, Wantaro*! (*Name not final.)" | “很棒哦，汪太郎（暂定）”
+scn00_42_0009 | - | いつまでもココロが命名してくれないから、（仮）が付いている。 | Cocoro still hasn't given the dog a name, so Kosame came up with a placeholder. | 因为心一直都没给它命名，所以就给它起了一个（暂定）名字。
+scn00_42_0010 | 犬(Dog) | 「ワン！！」 | "Woof!" | “汪！”
+scn00_42_0011 | - | 今のは、人差し指を向けて『バーン』と言うと、犬が撃たれたみたいなリアクションをして倒れるという芸だ。 | He's doing a trick where he pretends to be shot when someone points their index finger at him. | 刚刚那个是用食指指着狗说‘砰’，它就会像是被击中了一样倒下去的表演。
+scn00_42_0012 | - | 教えたのはココロだ。 | Cocoro taught him the trick. | 是心教它的。
+scn00_42_0013 | - | ヒューマノイドが犬に芸を教えたというのは、ロボットの歴史に刻まれるべき小さな1ページじゃないだろうか。 | Perhaps the day a humanoid taught a dog a trick will go down in a small corner of a page in history. | 仿生人教狗表演这件事，不正是应该镌刻在机器人历史上的1小页吗。
+scn00_42_0014 | 霧香(Kirika) | 「ひぃぃぃなぁぁぁぁたぁぁぁぁぁ～～～～～～～～～」 | "Hiiinaaaataaaaaaa!!!" | “日——向——～～～～～～～～～”
+scn00_42_0015 | ひなた(Hinata) | 「うわっ」 | "Whoa!" | “呜哇”
+scn00_42_0016 | - | 霧香さんの声がしたと思ったら、いきなり抱きつかれた。 | I don't have time to react to Kirika-san's voice before she pulls me into a crushing hug. | 我正想着是不是雾香小姐的声音，随后就突然被抱住了。
+scn00_42_0017 | ひなた(Hinata) | 「ど、どうしたの霧香さんっ」 | "Wh-What's wrong, Kirika-san!?" | “怎、怎么了雾香小姐”
+scn00_42_0018 | 霧香(Kirika) | 「ぐすんっ、どうもしないわ！」 | "*sniffle*... Nothing!" | “呜呜，没怎么啦！”
+scn00_42_0019 | 光太郎(Kotaro) | 「根を詰めて仕事をしすぎて、極度のストレスでメンタルブレイクしたらしい」 | "I think she got stuck on something at work and had a mental breakdown." | “好像是因为拼命工作太久了，极度的压力导致她精神崩溃了”
+scn00_42_0020 | - | ここまで車で連れてきてくれたらしい光太郎さんが、後ろから説明を[そ]添えてくれた。 | Kotaro-san, who must've driven them here, gives a brief explanation from behind. | 用车将她带到这里来的光太郎先生从身后解释道。
+scn00_42_0021 | ひなた(Hinata) | 「よしよし、大丈夫だよ霧香さん」 | "Come on. It'll be okay, Kirika-san." | “好啦好啦，没事啦雾香小姐”
+scn00_42_0022 | 霧香(Kirika) | 「可愛い[おい]甥っ子成分を補充しないと、もう無理！」 | "I need to absorb some of my little nephew's cuteness right now, or else it will  be okay!" | “我必须得补充可爱外甥元素，已经忍不了了！”
+scn00_42_0023 | 霧香(Kirika) | 「スゥゥゥゥゥゥーーーーーーーー……………ハァァァ」 | "Hfffff... Hahhhhhhh..." | “嘶——————…………哈——”
+scn00_42_0024 | ひなた(Hinata) | 「ちょっ、匂い嗅がないでよ」 | "Hey, stop sniffing me." | “等——，你别闻味道啊”
+scn00_42_0025 | 霧香(Kirika) | 「いいからジッとしてて。スゥゥゥゥ…………おちつく」 | "Just don't move... Hffff... Ahh, this is so relaxing." | “好了老实待着，嘶…………真让人放松”
+scn00_42_0026 | - | 霧香さんは、今回の事件の報告書をまとめると共に、『厄災』の真相を突き止めたいという個人の目的のために多忙を極めている。 | Kirika-san is writing up a report about the recent incident, and she's still researching the truth behind the cause of the Calamity as well out of personal interest. | 雾香小姐在将这次的事件整理成报告的同时，还有查明‘灾厄’真相这个个人目的，所以非常忙碌。
+scn00_42_0027 | - | 俺の存在が霧香さんの癒しになるというなら、いくらでも協力しよう。 | If my mere presence can soothe her, I'm happy to help. | 如果我的存在能让雾香小姐得到治愈，那我就会尽可能去配合她。
+scn00_42_0028 | - | だからって、匂いを嗅ぐのはやめてほしいが。 | Still, I'd rather she didn't sniff me like that. | 但即便如此，我也希望她别再闻我的气味了。
+scn00_42_0029 | 光太郎(Kotaro) | 「こんなところで犬と遊んでるとは、君も今忙しいんじゃないかと思ってたんだが」 | "I can't believe we found you out here playing with the dog. I thought you'd be busier right now." | “没想到你居然在这里和狗玩，我还以为你现在正忙着呢”
+scn00_42_0030 | 霧香(Kirika) | 「ほんとに結婚しちゃうの……？」 | "Are you really getting married...?" | “你真的要结婚了吗……？”
+scn00_42_0031 | - | 幼女化した霧香さんが、上目遣いに瞳をうるうるさせる。 | The blubbering blob that is Kirika-san looks up at me with teary eyes. | 幼女化的雾香小姐眼泪汪汪地抬头看着我。
+scn00_42_0032 | ひなた(Hinata) | 「応援してくれるんじゃなかったの？」 | "I thought you supported me." | “你不是说会支持我们吗？”
+scn00_42_0033 | 霧香(Kirika) | 「するわ。するけど……ひなたが他の人のものになるのなんて無理ぃ」 | "I do! I do, but... I can't bear the thought of you becoming someone else's..." | “我会啊，会是会……可我不要日向会变成其他人的东西啦”
+scn00_42_0034 | ひなた(Hinata) | （ここまで駄々をこねるとは、よっぽど仕事がキツいんだな） | (Her job must be  tough right now if she's this far gone.) | （她居然会胡搅蛮缠到这种程度，看来工作方面是真的很辛苦啊）
+scn00_42_0035 | ひなた(Hinata) | 「結婚しても、霧香さんの甥っ子なのには変わりないから」 | "I'll still be your nephew when I get married, you know?" | “我就算结婚了，也还是雾香小姐的外甥啦”
+scn00_42_0036 | - | むしろ、お世話になる機会は増えるだろう。ココロの事で何かあったら、相談できるのは霧香さんだけだ。 | In fact, there will be even  opportunities for her to take care of me. Kirika-san is the only one I could talk to if anything happens to Cocoro. | 不如说反倒会增加去麻烦她的次数吧。毕竟如果心发生了什么事，我也只能去找雾香小姐商量。
+scn00_42_0037 | 光太郎(Kotaro) | 「ところで、君の婚約者はどうしたんだい？　いつも一緒にいるイメージだったが」 | "Where  that fiancée of yours? I thought you two were always together." | “话说回来，你的未婚妻呢？　我还以为你们两个总会黏在一起呢”
+scn00_42_0038 | - | 光太郎さんがキョロキョロと探す。 | Kotaro-san keeps looking around. | 光太郎先生东张西望地寻找着。
+scn00_42_0039 | - | たんなる世間話だが、光太郎さんにはココロを監視する目的もあるだろう。 | He makes it sound like small talk, but he's probably still trying to keep tabs on her. | 虽然只是闲聊，但光太郎先生也有监视心的目的吧。
+scn00_42_0040 | こさめ(Kosame) | 「ココちゃんなら今……」 | "Oh, Coco-chan is just—" | “心儿的话现在……”
+scn00_42_0041 | - | こさめちゃんが答えようとしたところで、２階の窓から声がした。 | When Kosame-chan tries to answer, a loud voice from the second-floor window drowns her out. | 正当小雨要回答的时候，2楼的窗户传来了一声招呼。
+scn00_42_0042 | 風音(Kazane) | 「できたよー」 | "We're done!" | “好了哦——”
+scn00_42_0043 | 霧香(Kirika) | 「？　何ができたの？」 | "Huh? What's done?" | “？　什么好了？”
+scn00_42_0044 | ひなた(Hinata) | 「ちょうどよかったよ、霧香さんも見ていって」 | "Great timing. Come have a look, Kirika-san." | “你来得正好，雾香小姐也看看吧”
+scn00_42_0045 | - | 俺は霧香さんを連れて部屋へと戻る。 | I bring Kirika-san up to the apartment. | 我将雾香小姐带回了房间里。
+scn00_42_0046 | 霧香(Kirika) | 「いったいなんなの……？」 | "What's going on...?" | “到底是怎么回事……？”
+scn00_42_0047 | ひなた(Hinata) | 「いいからいいから」 | "Just wait." | “好啦好啦”
+scn00_42_0048 | ココロ(Cocoro) | 「あ、ひなたさん……」 | "Ah, Hinata-san..." | “啊，日向先生……”
+scn00_42_0049 | - | 部屋の戸を開けると、そこに純白のドレスを[まと]纏った花嫁がいた。 | When I open the door, we're greeted by the bride in her pure-white dress. | 打开房门，便看到了一位身着洁白婚纱的新娘。
+scn00_42_0050 | ココロ(Cocoro) | 「はぅぅ……」 | "Ohh..." | “哈呜……”
+scn00_42_0051 | ひなた(Hinata) | 「――――」 | "..." | “————”
+scn00_42_0052 | - | 何が待っているか知っていて部屋に入ったはずなのに、まったく未知の何かと遭遇したように、俺は言葉を失って固まってしまった。 | I knew what was going on behind this door before I opened it, but my jaw still drops. | 我是明明知道等待我的是什么才打开的房门，但现在又像是遭遇了什么未知事物一般被钉在了原地，甚至忘记了说话。
+scn00_42_0053 | ひなた(Hinata) | （いや、未知だよ……こんなの……） | (I never... would have expected this...) | （不，这确实是未知啊……这种……）
+scn00_42_0054 | - | こんな感情と遭遇するのは初めてだ。 | I've never felt this way before. | 这种感情我还是第一次感受到。
+scn00_42_0055 | - | ふんわりと広がったドレスは、まるで開花したての白い花のようで、恥じらうように俯くココロは花の精に見えた。 | The poofy skirt of Cocoro's dress cascades around her like flower petals, and the way she bashfully averts her blushing face makes her look like a real flower fairy. | 蓬松修长的婚纱就如同刚刚绽放的洁白花朵，而羞涩地低下了头的心看上去就像是一位花之妖精。
+scn00_42_0056 | ココロ(Cocoro) | 「どう……でしょうか……ひなたさん」 | "What... do you think... Hinata-san?" | “你觉得……怎么样……日向先生”
+scn00_42_0057 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_42_0058 | ココロ(Cocoro) | 「ひなたさん……？」 | "Hinata-san?" | “日向先生……？”
+scn00_42_0059 | ひなた(Hinata) | 「あ……あぁ……うん……」 | "Ah... Ahh... Wow..." | “啊……啊……嗯……”
+scn00_42_0060 | ひなた(Hinata) | 「綺麗だよ、ココロ。とっても似合ってる」 | "It's beautiful, Cocoro. That dress is perfect for you." | “很漂亮哦，心，你穿着非常好看”

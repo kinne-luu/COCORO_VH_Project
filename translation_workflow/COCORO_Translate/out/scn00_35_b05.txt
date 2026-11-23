@@ -1,0 +1,38 @@
+scn00_35_0239 | \n\n\n\n\n\n\n\n<Chắc chắn những tâm tư thực sự muốn truyền tải sẽ mãi mãi héo tàn mà chẳng thể thốt nên lời>
+scn00_35_0240 | Cậu bé đặt cây bút chì xuống rồi thút thít khóc.
+scn00_35_0241 | Không thể thấu hiểu... Không thể thấu hiểu... Không thể thấu hiểu...
+scn00_35_0242 | Mạch tư duy kêu gào thảm thiết. Nếu còn tiếp tục cố gắng giải quyết bài toán này, nguy cơ sẽ xảy ra hiện tượng tràn bộ nhớ. Cần phải xử lý nó như một lỗi phát sinh.
+scn00_35_0243 | Ngay khoảnh khắc nghĩ như vậy, một công tắc bỗng "tách" lên chuyển mạch.
+scn00_35_0244 | Đôi tay tôi đã viết ra thành từng chữ những lời được xuất ra từ mạch cảm xúc.
+scn00_35_0245 | \n\n\n\n\n\n\n\n%R<Tôi rất muốn ngắm nhìn xem cậu sẽ nở ra bông hoa như thế nào>
+scn00_35_0246 | "...?"
+scn00_35_0247 | \n\n\n\n\n\n\n\n%R<Biết đâu chừng, tôi sẽ có thể hiểu được tại sao những bông hoa lại đẹp>
+scn00_35_0248 | %n;<Bông hoa của cậu. Làm thế nào để nó có thể nở rộ được?>
+scn00_35_0249 | Cho dù cố gắng hiểu bằng mạch tư duy cũng không thể nào hiểu được.
+scn00_35_0250 | Đó là những lời thốt ra từ cảm xúc "muốn ngắm nhìn" vô cùng thuần khiết.
+scn00_35_0251 | Cậu bé trông có vẻ ngỡ ngàng trước lời tôi nói, em nín khóc rồi rụt rè hướng đầu về phía tôi.
+scn00_35_0252 | \n\n\n\n\n\n\n\n<Chỉ một chút thôi cũng được, cậu có thể xoa đầu tớ được không?>
+scn00_35_0253 | Tại sao chứ?
+scn00_35_0254 | Không thể thấu hiểu... Không thể thấu hiểu... Không thể thấu hiểu...
+scn00_35_0255 | Chẳng có lý do gì để từ chối thỉnh cầu ấy.
+scn00_35_0256 | Thế nhưng, tôi cảm thấy nếu chỉ mù quáng làm theo vì được nhờ vả, thì sẽ không thể đáp ứng được ước nguyện của cậu bé theo đúng nghĩa thực sự.
+scn00_35_0257 | Không phải dựa vào việc nên làm gì, mà phải quyết định hành động dựa trên việc mình muốn làm gì.
+scn00_35_0258 | Không thể thấu hiểu vì sao mình lại nghĩ như thế...
+scn00_35_0259 | Mạch cảm xúc tựa như một chiếc hộp đen bí ẩn, việc chẳng thể tìm thấy tính logic nào liên kết giữa dữ liệu đầu vào và câu trả lời đầu ra là chuyện hết sức bình thường.
+scn00_35_0260 | Dẫu vậy, tôi nên thuận theo nó. Bởi lẽ chính mạch cảm xúc này là đặc điểm khác biệt lớn nhất giữa tôi và những robot khác.
+scn00_35_0261 | Tôi ôm ghì lấy...
+scn00_35_0262 | Tôi ôm lấy đầu cậu bé vào lòng, rồi dùng cử chỉ dịu dàng nhất có thể để vuốt ve mái tóc em.
+scn00_35_0263 | Rõ ràng là tự mình thỉnh cầu, vậy mà cậu bé lại kinh ngạc đến mức cứng đờ người lại.
+scn00_35_0264 | "Tôi từng nghe nói nếu được dịu dàng xoa đầu, một bông hoa to lớn và tuyệt đẹp sẽ nở rộ đấy."
+scn00_35_0265 | Tôi buông một câu nghe như lời chống chế.
+scn00_35_0266 | Đây cũng là những lời do mạch cảm xúc dẫn lối đưa đường.
+scn00_35_0267 | Tôi tự ý thức được hành động của mình đã vượt quá giới hạn và thật kỳ cục. Cậu bé chỉ xin được xoa đầu, chứ đâu hề bảo muốn được ôm.
+scn00_35_0268 | "...Hức..."
+scn00_35_0269 | Chẳng mấy chốc cậu bé đã thả lỏng, tựa trọn thân mình vào lòng tôi.
+scn00_35_0270 | May quá. Có vẻ như hành động của mình không hề sai lầm.
+scn00_35_0271 | Và rồi...
+scn00_35_0272 | "...A... u a... Cảm... ơ............ n..."
+scn00_35_0273 | Cậu bé cố rặn ra từng chữ, cất lên giọng nói khản đặc trong tuyệt vọng.
+scn00_35_0274 | Giọng nói ấy được các cảm biến thính giác của tôi ghi nhận, truyền thẳng vào mạch cảm xúc,
+scn00_35_0275 | ...Là sự an tâm sao? Hay là niềm vui...?
+scn00_35_0276 | Để rồi xuất ra một thứ cảm xúc khó lòng gọi tên.

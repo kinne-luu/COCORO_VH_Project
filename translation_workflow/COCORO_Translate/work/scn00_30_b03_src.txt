@@ -1,0 +1,64 @@
+# scene=scn00_30 batch=3/7 dòng 121-180 / 384
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_30_0121 | 犬(Dog) | 「ワンワンワンワン！！！」 | "Woof woof woof woof!!!" | “汪汪汪汪！！！”
+scn00_30_0122 | - | 犬が[ほ]吠えたてていた。 | The dog suddenly barks loudly. | 狗狂吠了起来。
+scn00_30_0123 | - | これは主人に警告を発しているのだと、ココロには分かった。 | Cocoro recognizes this bark as the one he uses to alert his owner. | 心知道这是在对主人发出警报。
+scn00_30_0124 | - | 警告の理由もすでに察知していた。 | She detects what it's a warning for, too. | 也已经察觉到发出警报的原因了。
+scn00_30_0125 | - | けれど、思考ルーチンがひどいループ状態に[おちい]陥り、フリーズしている。対処できる状態ではない。 | However, her thoughts are still stuck in a loop, causing her to freeze. She isn't in any state to react. | 但是，她现在思考模式陷入了循环状态，正处于死机状态，所以无法进行处理。
+scn00_30_0126 | 光太郎(Kotaro) | 「主任、あぶない！！」 | "Chief, watch out!!" | “主任，危险！！”
+scn00_30_0127 | - | 光太郎が霧香の手を引いた。 | Kotaro reaches for Kirika's hand and pulls her back. | 光太郎拉住了雾香的手。
+scn00_30_0128 | - | こさめは危険にまだ気付いていないが、距離が離れているから大丈夫。 | Kosame hasn't noticed the danger yet, but she's a safe distance away. | 小雨虽然没注意到危险，但她离这里还很远所以没关系。
+scn00_30_0129 | - | 犬が心配だったが、こさめがリードを持っているためギリギリ大丈夫そうだ。 | The dog is in danger of approaching the threat, but Kosame is holding his leash, so he will probably be okay. | 虽然还有些担心狗，但小雨手里牵着绳子所以应该勉强没问题。
+scn00_30_0130 | ココロ(Cocoro) | （危険なのはワタシだけ。問題ないと判断しま――） | (I'm the only one currently in range of the danger, so there is no problem—) | （危险的只有我。我认为不会有什么问题——）
+scn00_30_0131 | - | 制限速度を遙かに超えて走行してきたトラックが、道を[そ]逸れてココロめがけて突っ込んだ。 | A truck, going way over the speed limit, veers off the road and smashes into Cocoro. | 远超限速行驶的卡车偏离了道路朝着心冲了过来。
+scn00_30_0132 | - | 激しい衝撃と共に、ココロの身体が吹っ飛んだ。 | The momentum of the impact sends her flying into the air. | 心的身体被剧烈的冲击撞飞了出去。
+scn00_30_0133 | - | 壁に激突し、[は]跳ね返って道路に転がる。 | She bounces off a wall and rolls onto the road. | 撞到墙壁后又被弹回来倒在了道路上。
+scn00_30_0134 | こさめ(Kosame) | 「ココちゃん！！？」 | "Coco-chan!!?" | “心儿！！？”
+scn00_30_0135 | - | こさめが悲鳴をあげた。 | Kosame screams. | 小雨发出了尖叫。
+scn00_30_0136 | 通行人(Passerby) | 「誰かがひかれたぞ！！」 | "That truck just hit someone!" | “有人被撞了！！”
+scn00_30_0137 | - | 通行人も事態に気が付いてざわつきだす。 | Passersby start shouting when they realize what has happened. | 路人注意到事故后也吵嚷了起来。
+scn00_30_0138 | 霧香(Kirika) | 「ココロ…………ココロッッ！！！！？」 | "Cocoro... Cocoro...!!?" | “心…………心！！！！？”
+scn00_30_0139 | - | トラックの運転手の声が聞こえる。 | The truck's driver is breathing heavily. | 能听到卡车司机的声音。
+scn00_30_0140 | 地上げ屋(Hustler) | 「ハァ、ハァ、ハァ……お……俺は……殺しまでは……」 | "Hahh, hahh, hahh... I... I didn't mean to... kill..." | “哈，哈，哈……我……我并没有……想杀人……”
+scn00_30_0141 | ココロ(Cocoro) | 「大丈夫です、あなたは誰も殺していません」 | "Don't worry. You haven't killed anybody." | “没关系，你谁都没有杀”
+scn00_30_0142 | 地上げ屋(Hustler) | 「え……生きて……」 | "Huh...? You're alive...?" | “哎……还活着……”
+scn00_30_0143 | ココロ(Cocoro) | 「はい、ボディに深刻なダメージを受けましたが」 | "Yes, although my body is severely damaged." | “是的，不过身体还是受到了很严重的损伤”
+scn00_30_0144 | 地上げ屋(Hustler) | 「おまえ……いったい何者なんだ……まさか、本当に……」 | "You... What the hell are you...? Are you ...?" | “你……到底是什么东西……难道，真的是……”
+scn00_30_0145 | 駆除隊隊長(Extermination Squad Leader) | 『言っただろう、そいつは人間じゃない』 | <I told you. That thing's not human.> | ‘我不是说过了吗，那家伙不是人类’
+scn00_30_0146 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_30_0147 | 駆除隊隊長(Extermination Squad Leader) | 『おい、まだ動くぞ。しっかりとどめをさせ』 | <Look, it's still moving. Finish the job.> | ‘喂，她还在动啊，赶紧去了结掉’
+scn00_30_0148 | 地上げ屋(Hustler) | 「いや、しかし……」 | "No, but..." | “呃，可是……”
+scn00_30_0149 | 駆除隊隊長(Extermination Squad Leader) | 『さっさとやれ！！！』 | <Do it! Now!> | ‘赶紧去！！！’
+scn00_30_0150 | 地上げ屋(Hustler) | 「は、はいぃぃぃぃ！！！！」 | "Y-Yessir!!!" | “是！！！！！！”
+scn00_30_0151 | - | 再び突っ込んできたトラックを、ココロは受け入れた。 | The truck accelerates into Cocoro again. | 冲过来卡车再次撞上了心。
+scn00_30_0152 | - | もう一度、大きな衝突音がして、建物がぐらりと揺れた。 | A loud crash reverberates through the street again, causing the buildings to shake on their foundations. | 巨大的冲击声再次传来，建筑物也摇晃了起来。
+scn00_30_0153 | ひなた(Hinata) | 「はぁ……はぁ……はぁぁ……」 | "Hahh, hahh, hahh..." | “哈……哈……哈……”
+scn00_30_0154 | - | 衝撃が催眠術を解く合図だったように、呼吸が戻ってきた。 | Suddenly, I'm able to breathe again, as if the shockwave brought me back to my senses. | 冲击就像是解除催眠术的信号一般，让我恢复了呼吸。
+scn00_30_0155 | ひなた(Hinata) | （何が起こってるんだ……！？） | (What's going on!?) | （发生了什么……！？）
+scn00_30_0156 | - | 俺はよろけながら起き上がり、階段を駆け降りて外へ出た。 | I unsteadily stand up, rush down the stairs, and go outside. | 我踉跄着爬了起来，跑下楼梯出了门。
+scn00_30_0157 | ひなた(Hinata) | （これは……） | (What the...) | （这是……）
+scn00_30_0158 | - | トラックが壁に激突して止まっていた。 | There's a truck crashed into one of the buildings. | 卡车撞到了墙上。
+scn00_30_0159 | - | それを遠巻きに見守る人々。 | A crowd has gathered around it. | 人们远远地注视着这一切。
+scn00_30_0160 | - | その中に、こさめちゃんや霧香さんたちがいた。 | I spot Kosame-chan and Kirika-san among them. | 小雨和雾香小姐她们也在人群当中。
+scn00_30_0161 | こさめ(Kosame) | 「ココちゃん……ココちゃんっ」 | "Coco-chan... Coco-chan!" | “心儿……心儿”
+scn00_30_0162 | - | 青ざめた表情でこさめちゃんがココロを呼んでいた。 | Kosame looks incredibly pale as she calls Cocoro's name. | 脸色发青的小雨呼唤着心。
+scn00_30_0163 | 霧香(Kirika) | 「ココロ……」 | "Cocoro..." | “心……”
+scn00_30_0164 | - | 霧香さんも、呆然としている。 | Kirika-san looks like she's in shock, too. | 雾香小姐也呆住了。
+scn00_30_0165 | - | 皆の視線はトラックと壁の間に向けられていた。 | All eyes are focused on the space between the truck and the wall. | 所有人的视线都看向了卡车和墙壁之间。
+scn00_30_0166 | - | 近づくと、そこにココロがいた。 | I go to have a look, and there she is—Cocoro. | 走进之后，发现心就在这里。
+scn00_30_0167 | - | 壁とトラックの間に挟まれて。 | She's trapped between the truck and the wall. | 被墙壁和卡车夹在了中间。
+scn00_30_0168 | ひなた(Hinata) | （ココロ……） | (Cocoro...) | （心……）
+scn00_30_0169 | 風音(Kazane) | 「なになにっ、どうしたのこれ！？」 | "Hey, what the heck happened here!?" | “怎么了怎么了，这是什么情况！？”
+scn00_30_0170 | - | 群衆を掻き分け、風音が血相を変えて走ってきた。 | The crowd parts for Kazane, who's frantically running toward us. | 风音分开人群后脸色大变着跑了过来。
+scn00_30_0171 | こさめ(Kosame) | 「風音ちゃん、ココちゃんが……」 | "Kazane-chan, it's Coco-chan..." | “风音，心儿她……”
+scn00_30_0172 | 風音(Kazane) | 「まさか、ココロちゃんが[ひ]轢かれたの……？」 | "What? Cocoro-chan got hit...?" | “难道说，心被车轧了吗……？”
+scn00_30_0173 | - | がっくりと項垂れていたココロが、急に顔をあげた。 | Cocoro's head had been hanging limply, but she suddenly perks up. | 无力垂下头的心突然抬起了头。
+scn00_30_0174 | ココロ(Cocoro) | 「ひどいじゃないですか。今のは道路交通法の危険運転に該当します」 | "That was awful! What you just did constitutes dangerous driving under the Road Traffic Act." | “真是过分啊，刚刚的行为符合道路交通法中的危险驾驶罪”
+scn00_30_0175 | 地上げ屋(Hustler) | 「ひぃっ、なんで生きてる！！？」 | "Eeep! How is she still alive!!?" | “咿，为什么还活着！！？”
+scn00_30_0176 | - | トラックの運転席から、見覚えのある男が転がり降りてきた。 | A familiar man emerges from the driver's seat. | 一个似曾相识的男子从卡车驾驶室里滚了下来。
+scn00_30_0177 | ひなた(Hinata) | （あいつは地上げ屋？　どうしてここに……） | (The hustler? What's he doing here?) | （那家伙是地皮商？　他为什么会在这里……）
+scn00_30_0178 | - | 捕まったと聞いていたが。 | I heard he'd gotten arrested. | 我听说他已经被抓了啊。
+scn00_30_0179 | 風音(Kazane) | 「ココロちゃんっ、無事なの！！」 | "Cocoro-chan! Are you okay!?" | “心，你没事吗！！”
+scn00_30_0180 | ココロ(Cocoro) | 「はい、なんとか。よっこらしょっと」 | "Yes, sort of. Let me get out." | “是的，算是没事，嘿咻”

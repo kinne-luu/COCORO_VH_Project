@@ -1,0 +1,64 @@
+# scene=scn00_33 batch=5/7 dòng 245-304 / 428
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_33_0245 | 風音(Kazane) | 「今いくー。じゃーね、早く復活しなよ」 | "Coming! See you. Feel better soon, okay?" | “马上就来——。拜了，你早点复活啊”
+scn00_33_0246 | - | 乱暴に俺の背中を叩いて、風音は下の階へ降りていった。 | She gives me a hard slap on my back before heading downstairs. | 风音胡乱拍了拍我的后背，之后便下了楼。
+scn00_33_0247 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_33_0248 | - | ココロに心があるというなら、ココロ自身にどうしたいか尋ねればいい。 | If Cocoro really has feelings, then I should ask her what she wants to do. | 如果心拥有人心，那只要问心自己想怎么做就行了。
+scn00_33_0249 | - | ココロに心がないのなら？ | But what if she doesn't? | 那如果心没有人心呢？
+scn00_33_0250 | - | 何をしたって、どうなったって何も感じないのだから、俺の好きにするといい。 | If she feels nothing regardless, I should just do what I want. | 不管做什么，变成什么样她都没有任何感觉，那么我只要按照我的想法来做就行了。
+scn00_33_0251 | ひなた(Hinata) | （単純な事なのに、上手く割り切れないのはなんでだろう） | (It sounds so simple... But why is it so hard to decide?) | （明明是很简单明了的事，但我为什么怎么样都难以释怀呢）
+scn00_33_0252 | - | それはココロじゃなく、俺自身に問題があるせいだ。 | I'm sure the problem doesn't lie with Cocoro, but with me. | 因为问题不在心身上，而是出在了我身上。
+scn00_33_0253 | - | ココロに生きてほしいという願望と、彼女の死を見たくないという臆病さがそうさせている。 | In the end, it boils down to my own weakness. I want Cocoro to live because I'm too much of a coward to watch her die. | 希望心活下去的愿望，和不想看到心死去的怯懦导致我变成了这样。
+scn00_33_0254 | ひなた(Hinata) | （あ、そうか……そうだったんだ） | (Ahh, right... That's right.) | （啊，这样啊……原来如此）
+scn00_33_0255 | - | 急に[ふ]腑に落ちた。 | Suddenly, it hits me. | 我突然理解了。
+scn00_33_0256 | - | 母さんに冷たかった父の態度には、理由があった。 | That's the reason Dad acted so cold toward Mom. | 父亲对母亲冷淡的态度，是有原因的。
+scn00_33_0257 | - | 決して、愛情がなかったわけじゃなく、むしろその逆。 | It wasn't because he didn't love her. In fact, that couldn't have been any further from the truth. | 绝不是因为对母亲已经没有爱情了，不如说是恰好相反。
+scn00_33_0258 | - | 愛情があるからこそ、避けられない決別が日々近づく事に耐えられなくなって、父さんは母さん自身から目を[そ]逸らすようになった。 | He loved her so much that he couldn't bear to think of their farewell that was creeping closer with every passing day. That's why he began to act distant. | 正因为还爱着母亲，父亲才会无法忍受不可避免的诀别之日逐渐逼近，才会将目光从母亲身上移开。
+scn00_33_0259 | - | 母さんはその事を知っていた。 | And Mom must have realized. | 母亲也十分清楚这一点。
+scn00_33_0260 | - | その冷たい態度が、自分への深い愛情の裏返しなのだと理解していた。 | She understood that Dad's cold attitude came from a place of love. | 她知道父亲冷淡的态度是源自于对自己深沉的爱情。
+scn00_33_0261 | ひなた(Hinata) | （だから、あんな話を俺にしたんだ……） | (That's why she said those things to me...) | （所以，才会对我说那种话啊……）
+scn00_33_0262 | 母(Mom) | 「ひなたはお父さんの事が恐い？」 | "Hinata, are you scared of your dad?" | “日向很害怕父亲吗？”
+scn00_33_0263 | ひなた(Hinata) | 「……（コクン）」 | "*nod*..." | “……（点头）”
+scn00_33_0264 | 母(Mom) | 「そうね、いつもむっつりしてるものね。でも、ほんとは優しい人なのよ？」 | "Yeah, he can be pretty intimidating sometimes. But you know, deep down, he's actually really kind." | “也是啊，毕竟他总是板着脸呢。但是，他其实是个很温柔的人哦？”
+scn00_33_0265 | ひなた(Hinata) | 「……（ふるふる）」 | "*shake* *shake*..." | “……（摇头）”
+scn00_33_0266 | 母(Mom) | 「優しくない？」 | "You don't think so?" | “不温柔？”
+scn00_33_0267 | ひなた(Hinata) | 「……（コクン）」 | "*shake* *shake*..." | “……（点头）”
+scn00_33_0268 | - | 幼い頃の俺は、父の気持ちが理解できず、まるで怪物と一緒に暮らしているような気持ちでいた。 | When I was a kid, I couldn't understand what my dad was thinking. To me, it was like living in the same house as a scary monster. | 小时候的我不理解父亲的心情，感觉自己像是和怪物生活在一起一样。
+scn00_33_0269 | - | 母は[だま]騙されているのではないか、早く助けてあげないといけないくらいに思っていた。 | Sometimes, I even wondered if he was tricking Mom somehow and whether I should try to save her. | 甚至觉得母亲是不是被骗了，想着我得赶紧把她救出来才行。
+scn00_33_0270 | - | でも母は父を憎むどころか、深い愛情を抱いている。 | But Mom didn't bear any hatred toward him. She loved him from the bottom of her heart. | 但母亲别说憎恨父亲了，甚至深深地爱着他。
+scn00_33_0271 | - | もやもやとした気分が俺の胸を[おお]覆っていた。 | My mind was clouded with thoughts, and my chest tightened. | 焦躁感笼罩在我的心头。
+scn00_33_0272 | ひなた(Hinata) | 「……人の心が目に見えたらいいのに」 | "...I wish we could see into people's minds." | “……人心如果能用肉眼看到就好了”
+scn00_33_0273 | - | そうしたら、父の優しさとやらが理解できる。 | Then I might've been able to understand my dad's kindness. | 这样一来，我就能理解父亲的温柔了
+scn00_33_0274 | - | あるいは、母にあの怪物の本性を見せつけられるのに。 | Either that, or my mom might've learned the true nature of that "monster." | 或者，就能让母亲看到那个怪物的本性了。
+scn00_33_0275 | 母(Mom) | 「あら、心は目に見えるのよ？」 | "Oh, but we ." | “哎呀，人心是可以用肉眼看到的哦？”
+scn00_33_0276 | - | 母は事もなげに言った。 | My mom said this as if it was common sense. | 母亲若无其事地说道。
+scn00_33_0277 | ひなた(Hinata) | 「？　見えないよ」 | "Huh? No we can't." | “？　看不到啊”
+scn00_33_0278 | - | そんなの聞いた事がない。 | I'd never heard of anything like that. | 我从来没听说过这种事。
+scn00_33_0279 | - | それとも母は超能力の持ち主？ | Was my mom secretly a psychic? | 还是说其实母亲有超能力？
+scn00_33_0280 | ひなた(Hinata) | （母さんならありえる……） | (I'd believe it if she was...) | （妈妈确实可能会有……）
+scn00_33_0281 | - | どこか浮き世離れした人だったから、そんな風に思った。 | She always had this ethereal aura about her. | 因为我感觉她就像是脱离凡尘的人。
+scn00_33_0282 | 母(Mom) | 「ねえ、あそこにボスがいるよ」 | "Look, there's Boss." | “你看，Boss在那里哦”
+scn00_33_0283 | - | 草むらの陰から尻尾がぴょこぴょこと揺れていた。 | A long tail was sticking up from a patch of tall grass, its curved tip wagging back and forth. | 草丛里有根尾巴在乱晃。
+scn00_33_0284 | - | うちの庭によく遊びにくる、野良猫だった。 | I recognized it as belonging to one of the stray cats who'd often come to our garden. | 是一只经常来我家院子里玩的野猫。
+scn00_33_0285 | - | 俺と母さんはそいつの事を『ボス』と呼んでいた。 | That particular one was the biggest of all, so Mom and I called him "Boss." | 我和妈妈叫它‘Boss’。
+scn00_33_0286 | 母(Mom) | 「ボス、おいで」 | "Boss, come here." | “Boss，过来”
+scn00_33_0287 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_33_0288 | - | ボスは身体が大きくて無愛想。撫でようとすると低くのどを鳴らして威嚇してくるので、俺は苦手だった。 | The cat we called Boss was chunky and unsociable. He would hiss at me whenever I tried to pet him, so I didn't like him very much. | Boss体型很大性格冷淡。我一伸手去摸，它就会发出咕噜噜噜噜的低吼声恐吓我，所以我不太擅长应付它。
+scn00_33_0289 | 母(Mom) | 「あら、行っちゃった」 | "Oh, there he goes." | “哎呀，走掉了”
+scn00_33_0290 | - | ボスの尻尾が[やぶ]藪の中へ消えていくのを見て、俺はホッとした。 | I breathed a sigh of relief when the cat tail disappeared off into some bushes. | 看到Boss的尾巴消失在了灌木丛中后，我便松了口气。
+scn00_33_0291 | 母(Mom) | 「ねえひなた。今、私もひなたも、ボスを見たわよね」 | "Hinata, you and I both saw Boss just now, didn't we?" | “日向你说，刚刚我和日向看到Boss了对吧”
+scn00_33_0292 | ひなた(Hinata) | 「？　うん見たよ」 | "Huh? Yeah, we did." | “？　嗯看到了啊”
+scn00_33_0293 | 母(Mom) | 「尻尾しか見えなかったのに？」 | "Even though we could only see his tail?" | “不是只看到尾巴了吗？”
+scn00_33_0294 | ひなた(Hinata) | 「でも、あの尻尾はボスのだよ」 | "But that was Boss's tail." | “但是，那个尾巴就是Boss的尾巴啊”
+scn00_33_0295 | 母(Mom) | 「似たようなネコがたまたまいただけかもしれないわよ。それどころか、ネコじゃなかったかもしれない」 | "There could be other cats out there who look just like him, and we don't know them yet. It's possible that it wasn't even a cat." | “可能只是碰巧有一只和它很像的猫啊。甚至，有可能都不是猫”
+scn00_33_0296 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_33_0297 | - | そう言われたら否定できない。 | When she put it like that, I couldn't refute it. | 她这么说我也没法否定。
+scn00_33_0298 | - | でも、あれはボスの尻尾だし、俺も母さんもボスを見た。 | But I  that was Boss's tail, and Mom and I both saw it. | 但是，那就是Boss的尾巴，我和妈妈都看到了Boss。
+scn00_33_0299 | 母(Mom) | 「物は、一部を見ただけでも、『見た』事になる。尻尾しか見えてなくても、ボスを見た事になったのと同じで」 | "You only need to see  of something be able to say that you've 'seen it.' Even if you only saw the tail, you can say that you've seen Boss." | “即便只看到事物的一部分，也算是‘看到’了。我们虽然只看到尾巴，但和看到了Boss是一样的”
+scn00_33_0300 | 母(Mom) | 「じゃあ、心はどうかしら」 | "So, how about his mind?" | “那么，人心又是如何呢”
+scn00_33_0301 | - | 話している母さんの足元に、図体の大きなネコがすり寄ってきた。 | A large cat snuggled up to Mom's feet as she was talking. | 母亲正说着话，一只体型硕大的猫来到了她的脚下。
+scn00_33_0302 | - | ボスが気まぐれで戻ってきたらしい。 | It seemed that Boss had come back on a whim. | Boss似乎是一时兴起又回来了。
+scn00_33_0303 | 母(Mom) | 「あら、お帰りなさい。ひなた、撫でてあげたら？」 | "Hey, welcome back. Hinata, why don't you give him some pets?" | “哎呀，欢迎回来。日向，你要摸摸吗？”
+scn00_33_0304 | ひなた(Hinata) | 「え……うん」 | "Huh? Okay..." | “哎……嗯”

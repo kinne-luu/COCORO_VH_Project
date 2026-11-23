@@ -1,0 +1,64 @@
+# scene=scn00_45 batch=1/2 dòng 1-60 / 114
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_45_0001 | 風音(Kazane) | 「ひなたー、いるー？　入るよー？」 | "Hinata? Are you there? I'm coming in, okay?" | “日向——，你在吗——？　我进来了啊——？”
+scn00_45_0002 | 風音(Kazane) | 「いんじゃん、ってまだ寝てたのか？　そろそろ起きないと、もやしになるぞ」 | "You should've said something if you were here! Why are you still sleeping? If you don't get up soon, you're gonna fuse to your futon!" | “这不是在嘛，啊你怎么还在睡啊？　再不起床太阳就晒屁股了哦”
+scn00_45_0003 | - | 風音がずかずかと部屋に踏み込んできて、勝手に窓を開ける。 | Kazane barges into my room and throws the window open. | 风音大摇大摆地走进了房间，擅自打开了窗户。
+scn00_45_0004 | - | 生ぬるく停滞していた部屋の空気に、新鮮な風が吹き込んでくる。 | A fresh sea breeze blows into the stuffy room. | 房间里沉闷的空气被新鲜的风吹散了。
+scn00_45_0005 | 風音(Kazane) | 「ほら、ひなた」 | "Come on, Hinata." | “好啦，日向”
+scn00_45_0006 | ひなた(Hinata) | 「…………」 | "..." | “…………”
+scn00_45_0007 | 風音(Kazane) | 「……」 | "..." | “……”
+scn00_45_0008 | 風音(Kazane) | 「ココロちゃんの事はさ、あんたのせいじゃないよ。しょうがなかったんだって思った方がいい」 | "What happened to Cocoro-chan's not your fault. It'd be easier if you thought of it as a freak accident." | “我觉得心那件事不是你的错，你就当这是没办法的事吧”
+scn00_45_0009 | ひなた(Hinata) | 「……しょうがなかった？　そんなどうしようもない事で、ココロが死んだのか？」 | "...An accident? That Cocoro died because of something like that?" | “……没办法？　因为这种无可奈何的事，心就必须要死吗？”
+scn00_45_0010 | 風音(Kazane) | 「気持ちは分かるよ」 | "I get how you feel." | “我明白你的心情”
+scn00_45_0011 | ひなた(Hinata) | 「分かってたまるか」 | "No, you don't." | “你又明白什么”
+scn00_45_0012 | 風音(Kazane) | 「……『厄災』で九十九市でも沢山の人が死んだり、怪我をしたよ。あたしの身内にもいた。だから、気持ちは分かる」 | "...So many people in Tsukumo City were injured or killed during the Calamity, including friends and relatives of mine. So yes, I do understand." | “……九十九市也因为‘灾厄’而有许多的人死伤，其中也有我的家人，所以我能明白你的心情”
+scn00_45_0013 | 風音(Kazane) | 「もし『厄災』がどうしようもない事じゃなかったっていうなら、誰のせいなんだ？」 | "If the Calamity wasn't an accident, then whose fault do you think it was?" | “如果‘灾厄’不是无可奈何的事，那又是谁的错？”
+scn00_45_0014 | ひなた(Hinata) | 「……わかんないよ、そんなの」 | "...I don't know." | “……我怎么知道啊”
+scn00_45_0015 | 風音(Kazane) | 「ココロちゃんの事は、治せるって霧香さんが言ってくれたんだろう？」 | "Didn't Kirika-san say that she could fix Cocoro-chan?" | “雾香小姐不是说心能被修好吗？”
+scn00_45_0016 | ひなた(Hinata) | 「……うん」 | "...Yeah." | “……嗯”
+scn00_45_0017 | 風音(Kazane) | 「だから元気出せとは言わないけど……。ずっとそこでそうしてると、病気になるよ。メシくらい食いな」 | "I won't tell you to 'cheer up,' but... You're going to make yourself ill if you keep shutting yourself in. At least eat something." | “我倒也不会因此就说让你打起精神来……但你一直这样窝在这里可是会生病的哦，起码吃个饭吧”
+scn00_45_0018 | - | 風音が持ってきてくれた食べ物を、そこに置く。 | There are some containers of food on the table that Kazane must have brought. | 雾香把带来的食物放到了一边。
+scn00_45_0019 | ひなた(Hinata) | 「……ありがとう」 | "...Thanks." | “……谢谢”
+scn00_45_0020 | 風音(Kazane) | 「うん」 | "Anytime." | “嗯”
+scn00_45_0021 | - | 風音は帰っていった。 | Kazane leaves me be. | 风音走了。
+scn00_45_0022 | - | あの日から、毎日、こうして様子を見に来てくれている。 | She's come to check on me every day since then. | 从那天起，她每天都会这样来看我的情况。
+scn00_45_0023 | - | 感謝したい気持ちがあるのだが、どうしようもない悲しみと苛立ちが、それを押し流してしまう。 | While I appreciate it, my gratitude is overshadowed by my overwhelming sadness and frustration. | 虽然我也很感激她，但这份感情却被我内心无可奈何的悲伤和焦躁冲走了。
+scn00_45_0024 | ひなた(Hinata) | 「……起きないと」 | "I need to get up." | “……得起床了”
+scn00_45_0025 | - | 風音の言う通り、病気になってしまう。 | Kazane is right. I  going to make myself ill this way. | 不然就像风音说的一样会生病。
+scn00_45_0026 | - | いっそ、病気でもなんでもなって、死んでしまえたら…… | Maybe I should just let it happen and die... | 干脆得个病什么的直接死掉算了……
+scn00_45_0027 | ひなた(Hinata) | 「……母さんは生きたかったろうな」 | "...I'm sure Mom wanted to live." | “……妈妈是想活下去的吧”
+scn00_45_0028 | - | まだ若く、志半ばで死ぬ事が運命付けられていた。 | She was still young, and she died before she could see her aspirations come true. | 她还很年轻，却被赋予了壮志未酬身先死的命运。
+scn00_45_0029 | - | 俺の寿命を分けてあげられたらよかったのに。 | I wish I could have taken some years off my lifespan and given them to her. | 如果能把我的寿命分给她就好了。
+scn00_45_0030 | - | ココロは修復できると、霧香さんは言ってくれた―― | Kirika-san said that Cocoro can be repaired... | 雾香小姐说心能被修复好——
+scn00_45_0031 | 霧香(Kirika) | 「ココロのボディは修復できるわ」 | "It should be possible to repair Cocoro's body." | “心的身体是能修复的”
+scn00_45_0032 | - | 痛ましい姿となって動かなくなったココロを前に、霧香さんは言った。 | It was heart-wrenching just to see what had become of Cocoro, but Kirika-san sounded confident. | 雾香小姐在保持着痛苦姿势不动了的心面前对我说道。
+scn00_45_0033 | ひなた(Hinata) | 「ほんと？」 | "Really?" | “真的吗？”
+scn00_45_0034 | 霧香(Kirika) | 「……時間はかかるでしょうけれど、いつか元通りにできる」 | "It's going to take a while, but I'll put her back together exactly the way she was." | “……虽然会花费一段时间，但肯定是能够复原的”
+scn00_45_0035 | ひなた(Hinata) | 「よかった……」 | "That's good..." | “太好了……”
+scn00_45_0036 | - | 憔悴しきっていた俺は、安堵で[ひざ]膝から崩れ落ちた。 | Exhausted by everything that had taken place, I collapsed to my knees in relief. | 憔悴不堪的我放下心来后便瘫在了地上。
+scn00_45_0037 | 霧香(Kirika) | 「でも、一つだけ元には戻せないパーツがある」 | "But there's one part I won't be able to restore." | “但是，有一个零件是无法恢复的”
+scn00_45_0038 | ひなた(Hinata) | 「え……？　それは……何？」 | "Huh? What do you mean?" | “哎……？　那是……什么？”
+scn00_45_0039 | 霧香(Kirika) | 「記憶よ。強い電撃を受けて、メモリーユニットに深刻なダメージがある」 | "Her memory. She received a powerful electric shock, which severely damaged her memory unit." | “记忆，受到强烈的电击后，记忆芯片上出现了很严重的损伤”
+scn00_45_0040 | - | 隊長が最後に使ったのは、対ロボット用の強力なスタンガンだった。 | The extermination squad leader dealt his final blow with a powerful anti-robot stun gun. | 队长最后用的那个是对机器人专用的大功率电击枪。
+scn00_45_0041 | ひなた(Hinata) | 「記憶が全部消えちゃったの……？」 | "Did all of her memories get erased...?" | “记忆全都会消失吗……？”
+scn00_45_0042 | 霧香(Kirika) | 「ええ」 | "I'm afraid so." | “嗯”
+scn00_45_0043 | 霧香(Kirika) | 「恐らく……一欠片も再現はできない」 | "I don't think I could recover even a fragment of them." | “恐怕……一点都无法恢复了”
+scn00_45_0044 | - | 隊長は怪我をしていて病院へ搬送されたらしいが、治療を受ければまた元通りの暮らしに戻っていける。 | I heard that the squad leader was hurt and had to be taken to the hospital, but he didn't sustain any life-changing injuries. | 队长虽然也受伤被送进了医院，但只要接受治疗就能像往常一样生活。
+scn00_45_0045 | - | けどココロは……。 | But Cocoro... | 可心却……
+scn00_45_0046 | ひなた(Hinata) | 「……ボディを復元できても、記憶は戻らない」 | "...Her body can be restored, but her memories won't come back." | “……即便身体能够复原，记忆也回不来了”
+scn00_45_0047 | ひなた(Hinata) | 「それはココロと呼べるのか……？」 | "Could I still call her 'Cocoro' that way...?" | “那还是心吗……”
+scn00_45_0048 | - | ――我々ヒューマノイドにとって、ボディは交換可能なパーツです。人格のベースとなるプログラムも、復元可能です。 | "Yes. For us humanoids, our body is entirely replaceable. And the program that serves as the baseline of our personality can be recreated, too." | ——对于我们仿生人来说，身体是可以更换的零件，人格的基础程序也能够复原。
+scn00_45_0049 | - | ――ならワタシがワタシと呼べるものは何か……それは記憶です。 | "So, the part of me that I recognize as 'me'... is my memory." | ——那么能让我称为自己的东西又是什么呢……那就是记忆。
+scn00_45_0050 | - | ――ひなたさん、ワタシは幸せです。 | "Hinata-san, I'm happy." | ——日向先生，我很幸福。
+scn00_45_0051 | - | ――かけがえのない季節が、たとえ終わろうとも。想い出が残る限り、ワタシが今感じている感情は消えません。 | "Even if this precious season comes to an end, these feelings won't disappear as long as I have my memories." | ——即便这独一无二的季节结束了，只要回忆还在，我内心现在感受到的感情便不会消失。
+scn00_45_0052 | - | ボディを修復され、記憶が真っさらになったＣＣＲ－０１は、ココロではない。新しく生まれた別のヒューマノイド。 | If CCR-01's body is repaired and its memory formatted, she won't be "Cocoro" anymore. She'll be a new, different humanoid. | 身体获得了修复记忆却变成一片空白的CCR-01根本不是心，而是另一个新生的仿生人。
+scn00_45_0053 | - | そうでなくては、ココロがあまりに可哀想だ。 | It would be too cruel to Cocoro if I didn't think of it that way. | 不然的话，心就太可怜了。
+scn00_45_0054 | ひなた(Hinata) | 「……俺はほんとに、ココロを幸せにしてあげられてたのかなぁ」 | "I wonder if I really made Cocoro happy." | “……我真的让心获得幸福了吗”
+scn00_45_0055 | - | 何もせずにいると、ふいに涙がこぼれる。 | As I sit here in silence, a tear runs down my cheek. | 什么事都不做的话，就会突然落泪。
+scn00_45_0056 | - | あの日からずっとこうだ。情緒が壊れてしまった。 | I've felt like this ever since that day—broken. | 自那天起，我的情绪就一直这样崩坏着。
+scn00_45_0057 | - | 風音が持ってきてくれた食べ物を無理にでも食べようとするが、 | I try to force myself to eat some of the food Kazane brought me, but... | 我试图强行吃下风音带来的食物。
+scn00_45_0058 | ひなた(Hinata) | 「……ゴホッ、ゲホッ、ゴホッ」 | "*cough* *cough* *cough*...!" | “……咳咳，咳咳，咳咳”
+scn00_45_0059 | - | 口にどうにか詰め込んでも、吐き出してしまう。 | I can't get it down my throat. | 但即便想办法将它们塞进嘴里，最后也会吐出来。
+scn00_45_0060 | ひなた(Hinata) | 「食べ物の味が……分からない。気持ち悪い……」 | "I can't even tell what it tastes like... I hate it..." | “吃不出食物的味道……感觉好恶心……”

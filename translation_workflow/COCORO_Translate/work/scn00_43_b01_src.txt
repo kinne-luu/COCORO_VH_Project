@@ -1,0 +1,64 @@
+# scene=scn00_43 batch=1/4 dòng 1-60 / 224
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_43_0001 | - | 夜の散歩から帰ってきたところで、電話が鳴っていた。 | Shortly after we get back from our evening walk, the phone rings. | 我们从夜里的散步回来时，正巧听到电话响了。
+scn00_43_0002 | ココロ(Cocoro) | 「はいもしもし」 | "Hello?" | “来啦，你好”
+scn00_43_0003 | ココロ(Cocoro) | 「ひなたさんがお掛けになったものだと推測できます。すぐに代わりますので、しばしお待ちください」 | "Yes, I believe that Hinata-san was the one who called you. I'll hand the phone to him. Just a moment, please." | “我推测这通电话是打给日向先生的，我马上就将电话交给他，请稍等一下”
+scn00_43_0004 | - | ココロが俺に電話を差し出す。 | Cocoro gives me the receiver. | 心将电话递给了我。
+scn00_43_0005 | ココロ(Cocoro) | 「声紋と用件から推測して、お義父様とおぼしき方からです」 | "Based on his voiceprint and the nature of his inquiry, I'm guessing that it's your father." | “根据声纹和意图推测，我认为应该是父亲大人打来的”
+scn00_43_0006 | ひなた(Hinata) | 「……。ありがとう」 | "...Thanks." | “……谢谢你”
+scn00_43_0007 | - | 電話を受け取ると、一呼吸おいてから電話に出た。 | I accept the receiver and take a deep breath before speaking into it. | 接过电话后，我等了一下才说起了话。
+scn00_43_0008 | ひなた(Hinata) | 「……もしもし、父さん？」 | "Hello? Dad?" | “……喂喂，爸爸吗？”
+scn00_43_0009 | 父(Dad) | 『ひなた……声が戻ったのか』 | <Hinata... You can talk again?> | ‘日向……你又能说话了啊’
+scn00_43_0010 | - | そういえば、前に通話した時は、俺は声が出せなくなっていた。 | Oh, that's right. Last time he called, I couldn't use my voice. | 说起来，上次和他打电话的时候我正处于说不了话的状态。
+scn00_43_0011 | ひなた(Hinata) | 「うん」 | "Yeah." | “嗯”
+scn00_43_0012 | 父(Dad) | 『そうか、よかった』 | <I'm glad to hear that.> | ‘是么，太好了’
+scn00_43_0013 | 父(Dad) | 『それで、何の用だ？』 | <So, what did you want to talk about?> | ‘所以有什么事？’
+scn00_43_0014 | ひなた(Hinata) | 「いくつか報告する事があって」 | "There's a couple of things I wanted you to know." | “我有几件事想向你汇报一下”
+scn00_43_0015 | ひなた(Hinata) | 「父さん、俺、結婚することにした」 | "Dad, I'm getting married soon." | “爸爸，我要结婚了”
+scn00_43_0016 | 父(Dad) | 『結婚？』 | <Married?> | ‘结婚？’
+scn00_43_0017 | - | さすがの父も驚いたようだ。 | Even Dad can't hide his surprise. | 就算是父亲听到这件事后也显得十分吃惊。
+scn00_43_0018 | 父(Dad) | 『お相手は……？』 | <Who is she...?> | ‘对方是……？’
+scn00_43_0019 | ひなた(Hinata) | 「父さんも知ってる相手だよ」 | "You know her, actually." | “是爸爸认识的人”
+scn00_43_0020 | - | 受話器の向こうでしばらく考える気配があった後、『あっ』と小さく声が聞こえた。 | I can practically hear Dad thinking on the other side of the receiver, until he lets out a soft "Oh." | 话筒另一边似乎思考了一会儿，然后我便听到了小小的一声‘啊’。
+scn00_43_0021 | 父(Dad) | 『さっきの声は……あの時の』 | <The one who answered the phone... I remember her.> | ‘刚刚的声音……是那时那个……’
+scn00_43_0022 | ひなた(Hinata) | 「うん。ヒューマノイドのココロっていうんだ」 | "Yeah. Her name's Cocoro. She's a humanoid." | “嗯，是一个叫心的仿生人”
+scn00_43_0023 | 父(Dad) | 『……そうか』 | <I see.> | ‘……这样啊’
+scn00_43_0024 | - | 父さんは[か]噛み締めるように、一言だけを返した。 | Dad gives a curt response. It seems like it hasn't fully sunk in yet. | 父亲只回了我这么一个词，似乎还在咀嚼着这句话。
+scn00_43_0025 | ひなた(Hinata) | 「急だけど、父さんにも式に来てほしい」 | "I realize this is sudden, but I'd like you to come to the wedding." | “虽然有点突然，但我希望爸爸也能来参加我的婚礼”
+scn00_43_0026 | 父(Dad) | 『いいのか、私が出席しても』 | <Are you sure you want me to be there?> | ‘我来出席真的可以吗？’
+scn00_43_0027 | - | いいのか？ | Am I sure? | 可以吗？
+scn00_43_0028 | - | 何度も自問自答した。 | I've had to ask myself that same question several times. | 这个问题我已经自问自答过很多次了。
+scn00_43_0029 | - | 父さんを許せたわけでもなければ、久しぶりに会って打ち解けられる自信もない。 | I still haven't forgiven my dad, and I'm not confident I'll be able to open up to him after not seeing him for so long. | 我既没有原谅父亲，也没有能在许久未见后和他相处融洽的自信。
+scn00_43_0030 | - | けど、母さんを失ってしまう未来から心を守ろうとした父さんの気持ちは、痛いほど分かってしまうから。 | But I understand painfully well how he felt when he was trying to shield himself from the grief of losing Mom. | 但是，我也深切领悟到了父亲想要从失去母亲的未来保护住自己内心的心情。
+scn00_43_0031 | - | 人の心は弱く、[もろ]脆く、不完全だというのを、ココロと過ごす日々の中で気付かされていった。 | My days with Cocoro have taught me that the human soul is weak, fragile, and anything but perfect. | 人心脆弱且不完美，我在和心相处的日子里注意到了这一点。
+scn00_43_0032 | ひなた(Hinata) | （俺が前を向いて生きていくためには、父さんとの過去を受け入れなきゃいけない） | (If I want to have a positive outlook on the future, I'll need to make peace with the past my dad and I share.) | （为了让自己面向未来，就必须要接受和父亲之前的过去）
+scn00_43_0033 | - | その結果、和解するのか決別するのか、はたまたもっと違った道を[たど]辿るのかは、また別の話だ。 | Whether doing so will result in reconciliation, separation—or perhaps even a different path—will be something else to consider. | 不管其结果是和解还是诀别，亦或者走上另外的道路，这些都不重要。
+scn00_43_0034 | - | トントン。後ろから肩をつつかれた。 | I feel a tap on my shoulder. | 有人从后面敲了敲我的肩膀。
+scn00_43_0035 | ひなた(Hinata) | 「？」 | "Huh?" | “？”
+scn00_43_0036 | - | ココロが手を差し出していた。 | Cocoro is holding her hand up to me. | 心将手伸了过来。
+scn00_43_0037 | ひなた(Hinata) | 「ごめん、ココロが父さんと話したいみたい。代わるね」 | "Sorry, it seems Cocoro wants to talk to you, Dad. I'll give her the phone." | “不好意思，心好像想和爸爸说话，我把电话给她了啊”
+scn00_43_0038 | 父(Dad) | 『あ、ああ』 | <O-Okay.> | ‘啊，嗯’
+scn00_43_0039 | ココロ(Cocoro) | 「お久しぶりです、ひなたさんのお父様」 | "It's been a long time, Mr. Hinata-san's Father." | “许久不见了，日向先生的父亲大人”
+scn00_43_0040 | 父(Dad) | 『……あの時は息子を助けてくれてありがとう。ココロさん……でいいのかね？』 | <...Thank you so much for saving my son that day, umm... Cocoro-san? Can I call you that?> | ‘……谢谢你那时救了我的儿子。你是……叫心对吧？’
+scn00_43_0041 | ココロ(Cocoro) | 「はい、ココロです。正式名称はＣＣＲ－０１ですが、それではあまりに親しみがないと、ひなたさんが名付けてくれました。気に入ってます」 | "Yes, I'm Cocoro. My official name is CCR-01, but Hinata-san named me Cocoro because he thought my official name was too impersonal. I quite like it." | “是的，我是心。正式名称为CCR-01，但这个名字太生硬了，所以日向先生便给我取了个名字，我也很中意这个名字”
+scn00_43_0042 | 父(Dad) | 『うん、いい名だ』 | <Yeah, it's a nice name.> | ‘嗯，是个好名字’
+scn00_43_0043 | ココロ(Cocoro) | 「……さすがはひなたさんのお父様。ワタシの名を気に入るとは、いいセンスをしていらっしゃいます」 | "...You must have good taste if you feel that way. Like son, like father." | “……不愧是日向先生的父亲大人。会中意我的名字说明品味不错”
+scn00_43_0044 | - | ココロの独特な言い回しに、父さんは笑っていいのか困ってるようだ。 | Dad doesn't seem sure if he should laugh at Cocoro's unique spin on the saying. | 听到心独特的说话方式后，父亲似乎在犹豫该不该笑。
+scn00_43_0045 | ココロ(Cocoro) | 「ワタシはひなたさんと結婚します。これは新しい歴史の1ページになるかもしれません」 | "Hinata-san and I will be getting married soon. This could be a completely new page in history." | “我会和日向先生结婚，这或许会是历史上崭新的一页”
+scn00_43_0046 | ココロ(Cocoro) | 「ですが、反対するヒトもいます。それもまた仕方がない事なのです」 | "However, not everyone approves of our marriage, and that's only to be expected." | “但是，也有人类反对。不过这也是没办法的事”
+scn00_43_0047 | 父(Dad) | 『……ああ』 | <...Yeah.> | ‘……嗯’
+scn00_43_0048 | - | ユートピア構想を[お]推し進めていた父は、ロボットやＡＩを排除しようとする勢力とも[ねば]粘り強く話し合ってきた。 | Since he spearheaded the Utopia Initiative, Dad spent much of his career trying to persuade those who were against the spread of robots and AI. | 推进乌托邦构想的父亲，曾不断地和想要消灭机器人和AI的势力进行过对话。
+scn00_43_0049 | - | ココロと気持ちを通じ合わせ、愛し合う事ができた俺からすれば悲しい考えだが、否定されるべきものではない。 | It's a sad thought for me as someone who built a relationship based on mutual love with Cocoro, but I do think the opposition's opinions and concerns are valid. | 虽然在做到了和心心意相通并相爱的我看来他们的想法很悲哀，但也并不应该遭到否定。
+scn00_43_0050 | - | 争い、否定し合うのではなく、解り合える未来を目指す。 | We should aim for a future where we can talk and understand each other, rather than denying each other's views outright. | 我们应该放弃斗争和相互否定，创造一个相互理解的未来。
+scn00_43_0051 | - | 俺たちには心があり、理性がある。いつか通じ合えるかもしれないのだから。 | We all have souls and rational minds, so it has to be possible to reach an understanding someday. | 我们拥有心灵，拥有理性，有朝一日肯定能够相互理解。
+scn00_43_0052 | ココロ(Cocoro) | 「ひなたさんのためにも、式に出席してあげてくださいませんか。お父様に承認される事が、ひなたさんの祝福だからです」 | "I kindly request that you attend the ceremony, also for Hinata-san's sake. It would be a blessing for him to get married with his father's approval." | “为了日向先生，您可以出席我们的婚礼吗？　被父亲大人认同对日向先生来说也是一种祝福”
+scn00_43_0053 | 父(Dad) | 『……私にそれができるのなら』 | <...That's the least I could do.> | ‘……我会尽量’
+scn00_43_0054 | ココロ(Cocoro) | 「ありがとうございます」 | "Thank you, sir." | “谢谢您”
+scn00_43_0055 | - | ココロが俺に電話を返してきた。 | Cocoro hands the receiver back to me. | 心将电话还给了我。
+scn00_43_0056 | ひなた(Hinata) | 「ありがとう、父さん」 | "Thanks, Dad." | “谢谢你，爸爸”
+scn00_43_0057 | 父(Dad) | 『いや、私の方こそ、ありがとう』 | <No, thank  for inviting me.> | ‘不，我才应该说谢谢’
+scn00_43_0058 | - | なんともむずむずするが、ココロのおかげで父と少しだけ解り合えたかもしれない。 | I still feel a bit awkward, but thanks to Cocoro, I've learned to understand my dad just a little more. | 虽然感觉很不自在，但多亏了心，我或许能够和父亲稍微相互理解一下了。
+scn00_43_0059 | ひなた(Hinata) | 「それと、もう一つ、父さんにお願いがあるんだ」 | "There's one more thing I wanted to ask." | “我还有一件事想拜托父亲”
+scn00_43_0060 | 父(Dad) | 『なんだ？』 | <What is it?> | ‘什么事？’

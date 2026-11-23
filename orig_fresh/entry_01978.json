@@ -1,0 +1,3583 @@
+{
+  "evals": {
+    "base": [
+      [
+        "call",
+        "global.UiloadExtraGridChain.setup"
+      ]
+    ],
+    "bgm_slider": [
+      [
+        "call",
+        "SetupSliderCenter",
+        "&SystemConfig.defaultVolumes.bgm"
+      ]
+    ],
+    "down_slider": [
+      [
+        "call",
+        "SetupSliderCenter",
+        "&SystemConfig.defaultVolumes.down"
+      ]
+    ],
+    "movie_slider": [
+      [
+        "call",
+        "SetupSliderCenter",
+        "&SystemConfig.defaultVolumes.movie"
+      ]
+    ],
+    "names": [],
+    "se_slider": [
+      [
+        "call",
+        "SetupSliderCenter",
+        "&SystemConfig.defaultVolumes.se"
+      ]
+    ],
+    "sysvo_slider": [
+      [
+        "call",
+        "SetupSliderCenter",
+        "&SystemConfig.defaultVolumes.sysvo"
+      ]
+    ],
+    "voice_slider": [
+      [
+        "call",
+        "SetupSliderCenter",
+        "&SystemConfig.defaultVolumes.voice"
+      ]
+    ],
+    "wave_slider": [
+      [
+        "call",
+        "SetupSliderCenter",
+        "&SystemConfig.defaultVolumes.wave"
+      ]
+    ]
+  },
+  "holdimage": [
+    "config_page3_en__pack",
+    "config_page3__pack",
+    "config_base__pack"
+  ],
+  "imports": [
+    "config_base_en"
+  ],
+  "names": [
+    "pos_top",
+    "pos_next",
+    "scroll_term",
+    "wavevolume",
+    "wave_slider",
+    "wave_line",
+    "wave_base",
+    "bgmvolume",
+    "bgm_slider",
+    "bgm_line",
+    "bgm_base",
+    "downvolume",
+    "down_slider",
+    "down_line",
+    "down_base",
+    "sevolume",
+    "se_slider",
+    "se_line",
+    "se_base",
+    "movievolume",
+    "movie_slider",
+    "movie_line",
+    "movie_base",
+    "voicevolume",
+    "voice_slider",
+    "voice_line",
+    "voice_base",
+    "pos0",
+    "pos1",
+    "pos2",
+    "pos3",
+    "pos4",
+    "base",
+    "voicecut_on",
+    "voicecut_off",
+    "voicecut_help",
+    "sysvo_help",
+    "sysvo_slider",
+    "sysvo_line",
+    "sysvo_base",
+    "pos_st",
+    "pos_sl",
+    "sysvo_0",
+    "sysvo_1",
+    "sysvo_2",
+    "sysvo_3",
+    "sysvo_4",
+    "sysvo_5",
+    "sysvo_6",
+    "sysvosel_help",
+    "head_wave",
+    "head_bgm",
+    "head_down",
+    "head_se",
+    "head_movie",
+    "head_voice",
+    "head_voicecut",
+    "head_sysvo",
+    "head_voicetrans",
+    "voicetrans_off",
+    "voicetrans_on",
+    "voicetrans_help",
+    "wave_on",
+    "wave_off",
+    "wave_mute",
+    "wave_play",
+    "wave_test",
+    "bgm_on",
+    "bgm_off",
+    "bgm_mute",
+    "bgm_play",
+    "bgm_test",
+    "se_on",
+    "se_off",
+    "se_mute",
+    "se_play",
+    "se_test",
+    "sysse_slider",
+    "sysse_on",
+    "sysse_off",
+    "sysse_mute",
+    "sysse_play",
+    "sysse_test",
+    "voice_on",
+    "voice_off",
+    "voice_mute",
+    "voice_play",
+    "voice_test",
+    "bgv2_slider",
+    "bgv2_on",
+    "bgv2_off",
+    "bgv2_mute",
+    "bgv2_play",
+    "bgv2_test",
+    "bgv_slider",
+    "bgv_on",
+    "bgv_off",
+    "bgv_mute",
+    "bgv_play",
+    "bgv_test",
+    "down_on",
+    "down_off",
+    "down_mute",
+    "down_play",
+    "down_test",
+    "movie_on",
+    "movie_off",
+    "movie_mute",
+    "movie_play",
+    "movie_test",
+    "sysvo_on",
+    "sysvo_off",
+    "sysvo_mute",
+    "sysvo_play",
+    "sysvo_test",
+    "voicecut_chk",
+    "voicecut_rev"
+  ],
+  "order": null,
+  "packbase": [
+    "config_s4sound",
+    "config_s0base"
+  ],
+  "packhash": [
+    7891595010197908154,
+    -3104547293727413572,
+    5218156681245026023,
+    1076910369008819300,
+    -1399026364847664680,
+    9040741119091950326,
+    -5744001272999009012,
+    -1098294605231457364,
+    6513950554593679127,
+    -2099469626784985866,
+    -6917048174179172730,
+    -6094989171809068848,
+    -7328844493754920638,
+    -6331775801127087070
+  ],
+  "packlist": [
+    [
+      158,
+      282,
+      38,
+      108,
+      0,
+      11228,
+      null,
+      1
+    ],
+    [
+      0,
+      0,
+      45,
+      440,
+      0,
+      11215,
+      null,
+      1
+    ],
+    [
+      355,
+      377,
+      121,
+      38,
+      0,
+      12148
+    ],
+    [
+      121,
+      0,
+      37,
+      283,
+      0,
+      12161,
+      null,
+      1
+    ],
+    [
+      224,
+      330,
+      274,
+      47,
+      0,
+      11023
+    ],
+    [
+      224,
+      377,
+      131,
+      37,
+      0,
+      11176
+    ],
+    [
+      83,
+      0,
+      38,
+      286,
+      0,
+      11141,
+      null,
+      1
+    ],
+    [
+      45,
+      0,
+      38,
+      313,
+      0,
+      11241,
+      null,
+      1
+    ],
+    [
+      158,
+      0,
+      66,
+      282,
+      0,
+      11851,
+      null,
+      1
+    ],
+    [
+      224,
+      0,
+      282,
+      66,
+      0,
+      11837
+    ],
+    [
+      224,
+      66,
+      282,
+      66,
+      0,
+      11843
+    ],
+    [
+      224,
+      132,
+      282,
+      66,
+      0,
+      11847
+    ],
+    [
+      224,
+      198,
+      282,
+      66,
+      0,
+      11829
+    ],
+    [
+      224,
+      264,
+      282,
+      66,
+      0,
+      11833
+    ]
+  ],
+  "result": {
+    "__gridchain": {
+      "groups": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "grpedges": [
+        [
+          [
+            4,
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            4,
+            3,
+            2,
+            1,
+            0
+          ],
+          [
+            0
+          ],
+          [
+            4
+          ]
+        ],
+        [
+          [
+            8,
+            6,
+            5
+          ],
+          [
+            8,
+            7,
+            5
+          ],
+          [
+            5
+          ],
+          [
+            8
+          ]
+        ],
+        [
+          [
+            9
+          ],
+          [
+            15
+          ],
+          [
+            15,
+            14,
+            13,
+            12,
+            11,
+            10,
+            9
+          ],
+          [
+            15,
+            14,
+            13,
+            12,
+            11,
+            10,
+            9
+          ]
+        ]
+      ],
+      "grplinks": [
+        [
+          null,
+          null,
+          null,
+          [
+            1,
+            2
+          ],
+          "page0"
+        ],
+        [
+          null,
+          null,
+          [
+            0
+          ],
+          [
+            2
+          ],
+          "page1vol"
+        ],
+        [
+          null,
+          null,
+          [
+            1,
+            0
+          ],
+          null,
+          "page1sysvo"
+        ]
+      ],
+      "hash": 5486717268854207870,
+      "links": [
+        [
+          null,
+          null,
+          -1,
+          [
+            1,
+            2,
+            3,
+            4
+          ],
+          "wave_slider"
+        ],
+        [
+          null,
+          null,
+          [
+            0
+          ],
+          [
+            2,
+            3,
+            4
+          ],
+          "bgm_slider"
+        ],
+        [
+          null,
+          null,
+          [
+            1,
+            0
+          ],
+          [
+            3,
+            4
+          ],
+          "down_slider"
+        ],
+        [
+          null,
+          null,
+          [
+            2,
+            1,
+            0
+          ],
+          [
+            4
+          ],
+          "se_slider"
+        ],
+        [
+          null,
+          null,
+          [
+            3,
+            2,
+            1,
+            0
+          ],
+          null,
+          "movie_slider"
+        ],
+        [
+          null,
+          null,
+          null,
+          [
+            6,
+            7,
+            8
+          ],
+          "voice_slider"
+        ],
+        [
+          -1,
+          [
+            7
+          ],
+          [
+            5
+          ],
+          [
+            8
+          ],
+          "voicecut_on"
+        ],
+        [
+          [
+            6
+          ],
+          -1,
+          [
+            5
+          ],
+          [
+            8
+          ],
+          "voicecut_off"
+        ],
+        [
+          null,
+          null,
+          [
+            6,
+            7,
+            5
+          ],
+          null,
+          "sysvo_slider"
+        ],
+        [
+          -1,
+          [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          null,
+          -1,
+          "sysvo_0"
+        ],
+        [
+          [
+            9
+          ],
+          [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          null,
+          -1,
+          "sysvo_1"
+        ],
+        [
+          [
+            10,
+            9
+          ],
+          [
+            12,
+            13,
+            14,
+            15
+          ],
+          null,
+          -1,
+          "sysvo_2"
+        ],
+        [
+          [
+            11,
+            10,
+            9
+          ],
+          [
+            13,
+            14,
+            15
+          ],
+          null,
+          -1,
+          "sysvo_3"
+        ],
+        [
+          [
+            12,
+            11,
+            10,
+            9
+          ],
+          [
+            14,
+            15
+          ],
+          null,
+          -1,
+          "sysvo_4"
+        ],
+        [
+          [
+            13,
+            12,
+            11,
+            10,
+            9
+          ],
+          [
+            15
+          ],
+          null,
+          -1,
+          "sysvo_5"
+        ],
+        [
+          [
+            14,
+            13,
+            12,
+            11,
+            10
+          ],
+          -1,
+          null,
+          -1,
+          "sysvo_6"
+        ]
+      ],
+      "names": {
+        "bgm_slider": 1,
+        "down_slider": 2,
+        "movie_slider": 4,
+        "se_slider": 3,
+        "sysvo_0": 9,
+        "sysvo_1": 10,
+        "sysvo_2": 11,
+        "sysvo_3": 12,
+        "sysvo_4": 13,
+        "sysvo_5": 14,
+        "sysvo_6": 15,
+        "sysvo_slider": 8,
+        "voice_slider": 5,
+        "voicecut_off": 7,
+        "voicecut_on": 6,
+        "wave_slider": 0
+      },
+      "opposite": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        7,
+        6
+      ],
+      "radios": {
+        "sysvotype": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "voicecut": [
+          6,
+          7
+        ]
+      },
+      "rects": [
+        [
+          653,
+          148,
+          1009,
+          94,
+          "wave_slider",
+          null,
+          null
+        ],
+        [
+          653,
+          297,
+          1009,
+          94,
+          "bgm_slider",
+          null,
+          null
+        ],
+        [
+          653,
+          447,
+          1009,
+          94,
+          "down_slider",
+          null,
+          null
+        ],
+        [
+          653,
+          597,
+          1009,
+          94,
+          "se_slider",
+          null,
+          null
+        ],
+        [
+          653,
+          747,
+          1009,
+          94,
+          "movie_slider",
+          null,
+          null
+        ],
+        [
+          653,
+          898,
+          1009,
+          94,
+          "voice_slider",
+          null,
+          null
+        ],
+        [
+          852,
+          1065,
+          282,
+          66,
+          "voicecut_on",
+          null,
+          null
+        ],
+        [
+          1182,
+          1065,
+          282,
+          66,
+          "voicecut_off",
+          null,
+          null
+        ],
+        [
+          653,
+          1169,
+          1009,
+          94,
+          "sysvo_slider",
+          null,
+          null
+        ],
+        [
+          677,
+          1281,
+          127,
+          150,
+          "sysvo_0",
+          null,
+          null
+        ],
+        [
+          814,
+          1281,
+          127,
+          150,
+          "sysvo_1",
+          null,
+          null
+        ],
+        [
+          951,
+          1281,
+          127,
+          150,
+          "sysvo_2",
+          null,
+          null
+        ],
+        [
+          1088,
+          1281,
+          127,
+          150,
+          "sysvo_3",
+          null,
+          null
+        ],
+        [
+          1225,
+          1281,
+          127,
+          150,
+          "sysvo_4",
+          null,
+          null
+        ],
+        [
+          1362,
+          1281,
+          127,
+          150,
+          "sysvo_5",
+          null,
+          null
+        ],
+        [
+          1499,
+          1281,
+          127,
+          150,
+          "sysvo_6",
+          null,
+          null
+        ]
+      ],
+      "uniq": "option_sound"
+    },
+    "base": {
+      "class": "base",
+      "height": 1080,
+      "name": "base",
+      "storagex": 0,
+      "storagey": 0,
+      "uiname": "base",
+      "uistates": {
+        "nosave": {
+          "h": 1080,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1920
+        }
+      },
+      "width": 1920,
+      "x": 0,
+      "y": 0
+    },
+    "bgm_base": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "bgm_base",
+      "uiname": "bgm_base",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 116,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 330
+    },
+    "bgm_line": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "bgm_line",
+      "uiname": "bgm_line",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 153,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 330
+    },
+    "bgm_mute": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/bgm/toggle\")",
+      "name": "bgm_mute",
+      "uiname": "bgm_mute",
+      "uistates": {}
+    },
+    "bgm_off": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/bgm/0\")",
+      "groupName": "bgm",
+      "name": "bgm_off",
+      "uiname": "bgm_off",
+      "uistates": {}
+    },
+    "bgm_on": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/bgm/1\")",
+      "groupName": "bgm",
+      "name": "bgm_on",
+      "uiname": "bgm_on",
+      "uistates": {}
+    },
+    "bgm_play": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/bgm/toggle\")",
+      "name": "bgm_play",
+      "uiname": "bgm_play",
+      "uistates": {}
+    },
+    "bgm_slider": {
+      "class": "slider",
+      "height": 94,
+      "name": "bgm_slider",
+      "onchangefunc": "Current.func(\"onAudioVolumeChange\")",
+      "onchangefuncdata": "\"bgm\"",
+      "uiname": "bgm_slider",
+      "uistates": {
+        "disable": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "normal": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "nosave": {
+          "h": 94,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1009
+        }
+      },
+      "width": 1009,
+      "x": 653,
+      "y": 297
+    },
+    "bgm_test": {
+      "class": "",
+      "exp": "Current.cmd(\"testAudioPlay/bgm\")",
+      "name": "bgm_test",
+      "uiname": "bgm_test",
+      "uistates": {}
+    },
+    "bgmvolume": {
+      "class": "area",
+      "height": 108,
+      "name": "bgmvolume",
+      "uiname": "bgmvolume",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 297
+    },
+    "bgv2_mute": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/bgv2/toggle\")",
+      "name": "bgv2_mute",
+      "uiname": "bgv2_mute",
+      "uistates": {}
+    },
+    "bgv2_off": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/bgv2/0\")",
+      "groupName": "bgv2",
+      "name": "bgv2_off",
+      "uiname": "bgv2_off",
+      "uistates": {}
+    },
+    "bgv2_on": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/bgv2/1\")",
+      "groupName": "bgv2",
+      "name": "bgv2_on",
+      "uiname": "bgv2_on",
+      "uistates": {}
+    },
+    "bgv2_play": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/bgv2/toggle\")",
+      "name": "bgv2_play",
+      "uiname": "bgv2_play",
+      "uistates": {}
+    },
+    "bgv2_slider": {
+      "class": "",
+      "name": "bgv2_slider",
+      "onchangefunc": "Current.func(\"onAudioVolumeChange\")",
+      "onchangefuncdata": "\"bgv2\"",
+      "uiname": "bgv2_slider",
+      "uistates": {}
+    },
+    "bgv2_test": {
+      "class": "",
+      "exp": "Current.cmd(\"testAudioPlay/bgv2\")",
+      "name": "bgv2_test",
+      "uiname": "bgv2_test",
+      "uistates": {}
+    },
+    "bgv_mute": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/bgv/toggle\")",
+      "name": "bgv_mute",
+      "uiname": "bgv_mute",
+      "uistates": {}
+    },
+    "bgv_off": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/bgv/0\")",
+      "groupName": "bgv",
+      "name": "bgv_off",
+      "uiname": "bgv_off",
+      "uistates": {}
+    },
+    "bgv_on": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/bgv/1\")",
+      "groupName": "bgv",
+      "name": "bgv_on",
+      "uiname": "bgv_on",
+      "uistates": {}
+    },
+    "bgv_play": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/bgv/toggle\")",
+      "name": "bgv_play",
+      "uiname": "bgv_play",
+      "uistates": {}
+    },
+    "bgv_slider": {
+      "class": "",
+      "name": "bgv_slider",
+      "onchangefunc": "Current.func(\"onAudioVolumeChange\")",
+      "onchangefuncdata": "\"bgv\"",
+      "uiname": "bgv_slider",
+      "uistates": {}
+    },
+    "bgv_test": {
+      "class": "",
+      "exp": "Current.cmd(\"testAudioPlay/bgv\")",
+      "name": "bgv_test",
+      "uiname": "bgv_test",
+      "uistates": {}
+    },
+    "down_base": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "down_base",
+      "uiname": "down_base",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 116,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 480
+    },
+    "down_line": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "down_line",
+      "uiname": "down_line",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 153,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 480
+    },
+    "down_mute": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/down/toggle\")",
+      "name": "down_mute",
+      "uiname": "down_mute",
+      "uistates": {}
+    },
+    "down_off": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/down/0\")",
+      "groupName": "down",
+      "name": "down_off",
+      "uiname": "down_off",
+      "uistates": {}
+    },
+    "down_on": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/down/1\")",
+      "groupName": "down",
+      "name": "down_on",
+      "uiname": "down_on",
+      "uistates": {}
+    },
+    "down_play": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/down/toggle\")",
+      "name": "down_play",
+      "uiname": "down_play",
+      "uistates": {}
+    },
+    "down_slider": {
+      "class": "slider",
+      "height": 94,
+      "name": "down_slider",
+      "onchangefunc": "Current.func(\"onAudioVolumeChange\")",
+      "onchangefuncdata": "\"down\"",
+      "uiname": "down_slider",
+      "uistates": {
+        "disable": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "normal": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "nosave": {
+          "h": 94,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1009
+        }
+      },
+      "width": 1009,
+      "x": 653,
+      "y": 447
+    },
+    "down_test": {
+      "class": "",
+      "exp": "Current.cmd(\"testAudioPlay/down\")",
+      "name": "down_test",
+      "uiname": "down_test",
+      "uistates": {}
+    },
+    "downvolume": {
+      "class": "area",
+      "height": 108,
+      "name": "downvolume",
+      "uiname": "downvolume",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 447
+    },
+    "head_bgm": {
+      "class": "layer",
+      "height": 77,
+      "layer": "nosave",
+      "name": "head_bgm",
+      "overlay": "line|bgm",
+      "uiname": "head_bgm",
+      "uistates": {
+        "bgm": {
+          "ch": 108,
+          "cr": 1,
+          "cw": 38,
+          "cx": 158,
+          "cy": 282,
+          "h": 38,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 108
+        },
+        "down": {
+          "ch": 440,
+          "cr": 1,
+          "cw": 45,
+          "cx": 0,
+          "cy": 0,
+          "h": 45,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 440
+        },
+        "line": {
+          "ch": 1622,
+          "cr": 1,
+          "cw": 70,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 1622
+        },
+        "movie": {
+          "ch": 38,
+          "cw": 121,
+          "cx": 355,
+          "cy": 377,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 121
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 13,
+          "storage": "",
+          "w": 1628
+        },
+        "se": {
+          "ch": 283,
+          "cr": 1,
+          "cw": 37,
+          "cx": 121,
+          "cy": 0,
+          "h": 37,
+          "ox": 69,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 283
+        },
+        "sysvo": {
+          "ch": 47,
+          "cw": 274,
+          "cx": 224,
+          "cy": 330,
+          "h": 47,
+          "ox": 69,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 274
+        },
+        "voice": {
+          "ch": 37,
+          "cw": 131,
+          "cx": 224,
+          "cy": 377,
+          "h": 37,
+          "ox": 67,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 131
+        },
+        "voicecut": {
+          "ch": 286,
+          "cr": 1,
+          "cw": 38,
+          "cx": 83,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 286
+        },
+        "wave": {
+          "ch": 313,
+          "cr": 1,
+          "cw": 38,
+          "cx": 45,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 313
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 328
+    },
+    "head_down": {
+      "class": "layer",
+      "height": 77,
+      "layer": "nosave",
+      "name": "head_down",
+      "overlay": "line|down",
+      "uiname": "head_down",
+      "uistates": {
+        "bgm": {
+          "ch": 108,
+          "cr": 1,
+          "cw": 38,
+          "cx": 158,
+          "cy": 282,
+          "h": 38,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 108
+        },
+        "down": {
+          "ch": 440,
+          "cr": 1,
+          "cw": 45,
+          "cx": 0,
+          "cy": 0,
+          "h": 45,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 440
+        },
+        "line": {
+          "ch": 1622,
+          "cr": 1,
+          "cw": 70,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 1622
+        },
+        "movie": {
+          "ch": 38,
+          "cw": 121,
+          "cx": 355,
+          "cy": 377,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 121
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 13,
+          "storage": "",
+          "w": 1628
+        },
+        "se": {
+          "ch": 283,
+          "cr": 1,
+          "cw": 37,
+          "cx": 121,
+          "cy": 0,
+          "h": 37,
+          "ox": 69,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 283
+        },
+        "sysvo": {
+          "ch": 47,
+          "cw": 274,
+          "cx": 224,
+          "cy": 330,
+          "h": 47,
+          "ox": 69,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 274
+        },
+        "voice": {
+          "ch": 37,
+          "cw": 131,
+          "cx": 224,
+          "cy": 377,
+          "h": 37,
+          "ox": 67,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 131
+        },
+        "voicecut": {
+          "ch": 286,
+          "cr": 1,
+          "cw": 38,
+          "cx": 83,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 286
+        },
+        "wave": {
+          "ch": 313,
+          "cr": 1,
+          "cw": 38,
+          "cx": 45,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 313
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 478
+    },
+    "head_movie": {
+      "class": "layer",
+      "height": 77,
+      "layer": "nosave",
+      "name": "head_movie",
+      "overlay": "line|movie",
+      "uiname": "head_movie",
+      "uistates": {
+        "bgm": {
+          "ch": 108,
+          "cr": 1,
+          "cw": 38,
+          "cx": 158,
+          "cy": 282,
+          "h": 38,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 108
+        },
+        "down": {
+          "ch": 440,
+          "cr": 1,
+          "cw": 45,
+          "cx": 0,
+          "cy": 0,
+          "h": 45,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 440
+        },
+        "line": {
+          "ch": 1622,
+          "cr": 1,
+          "cw": 70,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 1622
+        },
+        "movie": {
+          "ch": 38,
+          "cw": 121,
+          "cx": 355,
+          "cy": 377,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 121
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 13,
+          "storage": "",
+          "w": 1628
+        },
+        "se": {
+          "ch": 283,
+          "cr": 1,
+          "cw": 37,
+          "cx": 121,
+          "cy": 0,
+          "h": 37,
+          "ox": 69,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 283
+        },
+        "sysvo": {
+          "ch": 47,
+          "cw": 274,
+          "cx": 224,
+          "cy": 330,
+          "h": 47,
+          "ox": 69,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 274
+        },
+        "voice": {
+          "ch": 37,
+          "cw": 131,
+          "cx": 224,
+          "cy": 377,
+          "h": 37,
+          "ox": 67,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 131
+        },
+        "voicecut": {
+          "ch": 286,
+          "cr": 1,
+          "cw": 38,
+          "cx": 83,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 286
+        },
+        "wave": {
+          "ch": 313,
+          "cr": 1,
+          "cw": 38,
+          "cx": 45,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 313
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 778
+    },
+    "head_se": {
+      "class": "layer",
+      "height": 77,
+      "layer": "nosave",
+      "name": "head_se",
+      "overlay": "line|se",
+      "uiname": "head_se",
+      "uistates": {
+        "bgm": {
+          "ch": 108,
+          "cr": 1,
+          "cw": 38,
+          "cx": 158,
+          "cy": 282,
+          "h": 38,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 108
+        },
+        "down": {
+          "ch": 440,
+          "cr": 1,
+          "cw": 45,
+          "cx": 0,
+          "cy": 0,
+          "h": 45,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 440
+        },
+        "line": {
+          "ch": 1622,
+          "cr": 1,
+          "cw": 70,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 1622
+        },
+        "movie": {
+          "ch": 38,
+          "cw": 121,
+          "cx": 355,
+          "cy": 377,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 121
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 13,
+          "storage": "",
+          "w": 1628
+        },
+        "se": {
+          "ch": 283,
+          "cr": 1,
+          "cw": 37,
+          "cx": 121,
+          "cy": 0,
+          "h": 37,
+          "ox": 69,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 283
+        },
+        "sysvo": {
+          "ch": 47,
+          "cw": 274,
+          "cx": 224,
+          "cy": 330,
+          "h": 47,
+          "ox": 69,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 274
+        },
+        "voice": {
+          "ch": 37,
+          "cw": 131,
+          "cx": 224,
+          "cy": 377,
+          "h": 37,
+          "ox": 67,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 131
+        },
+        "voicecut": {
+          "ch": 286,
+          "cr": 1,
+          "cw": 38,
+          "cx": 83,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 286
+        },
+        "wave": {
+          "ch": 313,
+          "cr": 1,
+          "cw": 38,
+          "cx": 45,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 313
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 628
+    },
+    "head_sysvo": {
+      "class": "layer",
+      "height": 77,
+      "layer": "nosave",
+      "name": "head_sysvo",
+      "overlay": "line|sysvo",
+      "uiname": "head_sysvo",
+      "uistates": {
+        "bgm": {
+          "ch": 108,
+          "cr": 1,
+          "cw": 38,
+          "cx": 158,
+          "cy": 282,
+          "h": 38,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 108
+        },
+        "down": {
+          "ch": 440,
+          "cr": 1,
+          "cw": 45,
+          "cx": 0,
+          "cy": 0,
+          "h": 45,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 440
+        },
+        "line": {
+          "ch": 1622,
+          "cr": 1,
+          "cw": 70,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 1622
+        },
+        "movie": {
+          "ch": 38,
+          "cw": 121,
+          "cx": 355,
+          "cy": 377,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 121
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 13,
+          "storage": "",
+          "w": 1628
+        },
+        "se": {
+          "ch": 283,
+          "cr": 1,
+          "cw": 37,
+          "cx": 121,
+          "cy": 0,
+          "h": 37,
+          "ox": 69,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 283
+        },
+        "sysvo": {
+          "ch": 47,
+          "cw": 274,
+          "cx": 224,
+          "cy": 330,
+          "h": 47,
+          "ox": 69,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 274
+        },
+        "voice": {
+          "ch": 37,
+          "cw": 131,
+          "cx": 224,
+          "cy": 377,
+          "h": 37,
+          "ox": 67,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 131
+        },
+        "voicecut": {
+          "ch": 286,
+          "cr": 1,
+          "cw": 38,
+          "cx": 83,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 286
+        },
+        "wave": {
+          "ch": 313,
+          "cr": 1,
+          "cw": 38,
+          "cx": 45,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 313
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1378
+    },
+    "head_voice": {
+      "class": "layer",
+      "height": 77,
+      "layer": "nosave",
+      "name": "head_voice",
+      "overlay": "line|voice",
+      "uiname": "head_voice",
+      "uistates": {
+        "bgm": {
+          "ch": 108,
+          "cr": 1,
+          "cw": 38,
+          "cx": 158,
+          "cy": 282,
+          "h": 38,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 108
+        },
+        "down": {
+          "ch": 440,
+          "cr": 1,
+          "cw": 45,
+          "cx": 0,
+          "cy": 0,
+          "h": 45,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 440
+        },
+        "line": {
+          "ch": 1622,
+          "cr": 1,
+          "cw": 70,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 1622
+        },
+        "movie": {
+          "ch": 38,
+          "cw": 121,
+          "cx": 355,
+          "cy": 377,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 121
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 13,
+          "storage": "",
+          "w": 1628
+        },
+        "se": {
+          "ch": 283,
+          "cr": 1,
+          "cw": 37,
+          "cx": 121,
+          "cy": 0,
+          "h": 37,
+          "ox": 69,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 283
+        },
+        "sysvo": {
+          "ch": 47,
+          "cw": 274,
+          "cx": 224,
+          "cy": 330,
+          "h": 47,
+          "ox": 69,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 274
+        },
+        "voice": {
+          "ch": 37,
+          "cw": 131,
+          "cx": 224,
+          "cy": 377,
+          "h": 37,
+          "ox": 67,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 131
+        },
+        "voicecut": {
+          "ch": 286,
+          "cr": 1,
+          "cw": 38,
+          "cx": 83,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 286
+        },
+        "wave": {
+          "ch": 313,
+          "cr": 1,
+          "cw": 38,
+          "cx": 45,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 313
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 929
+    },
+    "head_voicecut": {
+      "class": "layer",
+      "height": 77,
+      "layer": "nosave",
+      "name": "head_voicecut",
+      "overlay": "line|voicecut",
+      "uiname": "head_voicecut",
+      "uistates": {
+        "bgm": {
+          "ch": 108,
+          "cr": 1,
+          "cw": 38,
+          "cx": 158,
+          "cy": 282,
+          "h": 38,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 108
+        },
+        "down": {
+          "ch": 440,
+          "cr": 1,
+          "cw": 45,
+          "cx": 0,
+          "cy": 0,
+          "h": 45,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 440
+        },
+        "line": {
+          "ch": 1622,
+          "cr": 1,
+          "cw": 70,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 1622
+        },
+        "movie": {
+          "ch": 38,
+          "cw": 121,
+          "cx": 355,
+          "cy": 377,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 121
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 13,
+          "storage": "",
+          "w": 1628
+        },
+        "se": {
+          "ch": 283,
+          "cr": 1,
+          "cw": 37,
+          "cx": 121,
+          "cy": 0,
+          "h": 37,
+          "ox": 69,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 283
+        },
+        "sysvo": {
+          "ch": 47,
+          "cw": 274,
+          "cx": 224,
+          "cy": 330,
+          "h": 47,
+          "ox": 69,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 274
+        },
+        "voice": {
+          "ch": 37,
+          "cw": 131,
+          "cx": 224,
+          "cy": 377,
+          "h": 37,
+          "ox": 67,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 131
+        },
+        "voicecut": {
+          "ch": 286,
+          "cr": 1,
+          "cw": 38,
+          "cx": 83,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 286
+        },
+        "wave": {
+          "ch": 313,
+          "cr": 1,
+          "cw": 38,
+          "cx": 45,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 313
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1078
+    },
+    "head_voicetrans": {
+      "name": "head_voicetrans",
+      "overlay": "line|voicetrans",
+      "uiname": "head_voicetrans",
+      "uistates": {},
+      "x": 0,
+      "y": 1349
+    },
+    "head_wave": {
+      "class": "layer",
+      "height": 77,
+      "layer": "nosave",
+      "name": "head_wave",
+      "overlay": "line|wave",
+      "uiname": "head_wave",
+      "uistates": {
+        "bgm": {
+          "ch": 108,
+          "cr": 1,
+          "cw": 38,
+          "cx": 158,
+          "cy": 282,
+          "h": 38,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 108
+        },
+        "down": {
+          "ch": 440,
+          "cr": 1,
+          "cw": 45,
+          "cx": 0,
+          "cy": 0,
+          "h": 45,
+          "ox": 68,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 440
+        },
+        "line": {
+          "ch": 1622,
+          "cr": 1,
+          "cw": 70,
+          "cx": 0,
+          "cy": 0,
+          "h": 70,
+          "ox": 2,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 1622
+        },
+        "movie": {
+          "ch": 38,
+          "cw": 121,
+          "cx": 355,
+          "cy": 377,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 121
+        },
+        "nosave": {
+          "h": 64,
+          "opacity": 0,
+          "ox": 0,
+          "oy": 13,
+          "storage": "",
+          "w": 1628
+        },
+        "se": {
+          "ch": 283,
+          "cr": 1,
+          "cw": 37,
+          "cx": 121,
+          "cy": 0,
+          "h": 37,
+          "ox": 69,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 283
+        },
+        "sysvo": {
+          "ch": 47,
+          "cw": 274,
+          "cx": 224,
+          "cy": 330,
+          "h": 47,
+          "ox": 69,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 274
+        },
+        "voice": {
+          "ch": 37,
+          "cw": 131,
+          "cx": 224,
+          "cy": 377,
+          "h": 37,
+          "ox": 67,
+          "oy": 4,
+          "storage": "config_page3_en__pack",
+          "w": 131
+        },
+        "voicecut": {
+          "ch": 286,
+          "cr": 1,
+          "cw": 38,
+          "cx": 83,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 286
+        },
+        "wave": {
+          "ch": 313,
+          "cr": 1,
+          "cw": 38,
+          "cx": 45,
+          "cy": 0,
+          "h": 38,
+          "ox": 67,
+          "oy": 3,
+          "storage": "config_page3_en__pack",
+          "w": 313
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 179
+    },
+    "movie_base": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "movie_base",
+      "uiname": "movie_base",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 116,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 780
+    },
+    "movie_line": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "movie_line",
+      "uiname": "movie_line",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 153,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 780
+    },
+    "movie_mute": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/movie/toggle\")",
+      "name": "movie_mute",
+      "uiname": "movie_mute",
+      "uistates": {}
+    },
+    "movie_off": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/movie/0\")",
+      "groupName": "movie",
+      "name": "movie_off",
+      "uiname": "movie_off",
+      "uistates": {}
+    },
+    "movie_on": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/movie/1\")",
+      "groupName": "movie",
+      "name": "movie_on",
+      "uiname": "movie_on",
+      "uistates": {}
+    },
+    "movie_play": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/movie/toggle\")",
+      "name": "movie_play",
+      "uiname": "movie_play",
+      "uistates": {}
+    },
+    "movie_slider": {
+      "class": "slider",
+      "height": 94,
+      "name": "movie_slider",
+      "onchangefunc": "Current.func(\"onAudioVolumeChange\")",
+      "onchangefuncdata": "\"movie\"",
+      "uiname": "movie_slider",
+      "uistates": {
+        "disable": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "normal": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "nosave": {
+          "h": 94,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1009
+        }
+      },
+      "width": 1009,
+      "x": 653,
+      "y": 747
+    },
+    "movie_test": {
+      "class": "",
+      "exp": "Current.cmd(\"testAudioPlay/movie\")",
+      "name": "movie_test",
+      "uiname": "movie_test",
+      "uistates": {}
+    },
+    "movievolume": {
+      "class": "area",
+      "height": 108,
+      "name": "movievolume",
+      "uiname": "movievolume",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 747
+    },
+    "pos0": {
+      "class": "area",
+      "height": 64,
+      "name": "pos0",
+      "uiname": "pos0",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 192
+    },
+    "pos1": {
+      "class": "area",
+      "height": 65,
+      "name": "pos1",
+      "uiname": "pos1",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 341
+    },
+    "pos2": {
+      "class": "area",
+      "height": 65,
+      "name": "pos2",
+      "uiname": "pos2",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 491
+    },
+    "pos3": {
+      "class": "area",
+      "height": 65,
+      "name": "pos3",
+      "uiname": "pos3",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 641
+    },
+    "pos4": {
+      "class": "area",
+      "height": 64,
+      "name": "pos4",
+      "uiname": "pos4",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 791
+    },
+    "pos_next": {
+      "class": "area",
+      "height": 17,
+      "name": "pos_next",
+      "uiname": "pos_next",
+      "uistates": {},
+      "width": 930,
+      "x": 228,
+      "y": 892
+    },
+    "pos_sl": {
+      "class": "area",
+      "height": 37,
+      "name": "pos_sl",
+      "uiname": "pos_sl",
+      "uistates": {},
+      "width": 974,
+      "x": 670,
+      "y": 451
+    },
+    "pos_st": {
+      "class": "area",
+      "height": 36,
+      "name": "pos_st",
+      "uiname": "pos_st",
+      "uistates": {},
+      "width": 974,
+      "x": 670,
+      "y": 180
+    },
+    "pos_top": {
+      "class": "area",
+      "height": 17,
+      "name": "pos_top",
+      "uiname": "pos_top",
+      "uistates": {},
+      "width": 930,
+      "x": 228,
+      "y": 142
+    },
+    "scroll_term": {
+      "class": "layer",
+      "height": 2,
+      "layer": "(~null~)",
+      "name": "scroll_term",
+      "uiname": "scroll_term",
+      "uistates": {
+        "(~null~)": {
+          "h": 2,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 18
+        }
+      },
+      "width": 18,
+      "x": 228,
+      "y": 1618
+    },
+    "se_base": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "se_base",
+      "uiname": "se_base",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 116,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 630
+    },
+    "se_line": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "se_line",
+      "uiname": "se_line",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 153,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 630
+    },
+    "se_mute": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/se/toggle\")",
+      "name": "se_mute",
+      "uiname": "se_mute",
+      "uistates": {}
+    },
+    "se_off": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/se/0\")",
+      "groupName": "se",
+      "name": "se_off",
+      "uiname": "se_off",
+      "uistates": {}
+    },
+    "se_on": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/se/1\")",
+      "groupName": "se",
+      "name": "se_on",
+      "uiname": "se_on",
+      "uistates": {}
+    },
+    "se_play": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/se/toggle\")",
+      "name": "se_play",
+      "uiname": "se_play",
+      "uistates": {}
+    },
+    "se_slider": {
+      "class": "slider",
+      "height": 94,
+      "name": "se_slider",
+      "onchangefunc": "Current.func(\"onAudioVolumeChange\")",
+      "onchangefuncdata": "\"se\"",
+      "uiname": "se_slider",
+      "uistates": {
+        "disable": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "normal": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "nosave": {
+          "h": 94,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1009
+        }
+      },
+      "width": 1009,
+      "x": 653,
+      "y": 597
+    },
+    "se_test": {
+      "class": "",
+      "exp": "Current.cmd(\"testAudioPlay/se\")",
+      "name": "se_test",
+      "uiname": "se_test",
+      "uistates": {}
+    },
+    "sevolume": {
+      "class": "area",
+      "height": 108,
+      "name": "sevolume",
+      "uiname": "sevolume",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 597
+    },
+    "sysse_mute": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/sysse/toggle\")",
+      "name": "sysse_mute",
+      "uiname": "sysse_mute",
+      "uistates": {}
+    },
+    "sysse_off": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/sysse/0\")",
+      "groupName": "sysse",
+      "name": "sysse_off",
+      "uiname": "sysse_off",
+      "uistates": {}
+    },
+    "sysse_on": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/sysse/1\")",
+      "groupName": "sysse",
+      "name": "sysse_on",
+      "uiname": "sysse_on",
+      "uistates": {}
+    },
+    "sysse_play": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/sysse/toggle\")",
+      "name": "sysse_play",
+      "uiname": "sysse_play",
+      "uistates": {}
+    },
+    "sysse_slider": {
+      "class": "",
+      "name": "sysse_slider",
+      "onchangefunc": "Current.func(\"onAudioVolumeChange\")",
+      "onchangefuncdata": "\"sysse\"",
+      "uiname": "sysse_slider",
+      "uistates": {}
+    },
+    "sysse_test": {
+      "class": "",
+      "exp": "Current.cmd(\"testAudioPlay/sysse\")",
+      "name": "sysse_test",
+      "uiname": "sysse_test",
+      "uistates": {}
+    },
+    "sysvo_0": {
+      "class": "button",
+      "exp": "Current.cmd(\"setBasicOptionValue/sysvo/0\")",
+      "groupName": "sysvotype",
+      "height": 150,
+      "name": "sysvo_0",
+      "uiname": "sysvo_0",
+      "uistates": {
+        "off": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 70,
+          "cy": 0,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        },
+        "on": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 197,
+          "cy": 0,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        },
+        "over": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 324,
+          "cy": 0,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        }
+      },
+      "width": 127,
+      "x": 677,
+      "y": 1281
+    },
+    "sysvo_1": {
+      "class": "button",
+      "exp": "Current.cmd(\"setBasicOptionValue/sysvo/1\")",
+      "groupName": "sysvotype",
+      "height": 150,
+      "name": "sysvo_1",
+      "uiname": "sysvo_1",
+      "uistates": {
+        "off": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 70,
+          "cy": 150,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        },
+        "on": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 197,
+          "cy": 150,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        },
+        "over": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 324,
+          "cy": 150,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        }
+      },
+      "width": 127,
+      "x": 814,
+      "y": 1281
+    },
+    "sysvo_2": {
+      "class": "button",
+      "exp": "Current.cmd(\"setBasicOptionValue/sysvo/2\")",
+      "groupName": "sysvotype",
+      "height": 150,
+      "name": "sysvo_2",
+      "uiname": "sysvo_2",
+      "uistates": {
+        "off": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 70,
+          "cy": 300,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        },
+        "on": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 197,
+          "cy": 300,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        },
+        "over": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 324,
+          "cy": 300,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        }
+      },
+      "width": 127,
+      "x": 951,
+      "y": 1281
+    },
+    "sysvo_3": {
+      "class": "button",
+      "exp": "Current.cmd(\"setBasicOptionValue/sysvo/3\")",
+      "groupName": "sysvotype",
+      "height": 150,
+      "name": "sysvo_3",
+      "uiname": "sysvo_3",
+      "uistates": {
+        "off": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 70,
+          "cy": 450,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        },
+        "on": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 197,
+          "cy": 450,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        },
+        "over": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 324,
+          "cy": 450,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        }
+      },
+      "width": 127,
+      "x": 1088,
+      "y": 1281
+    },
+    "sysvo_4": {
+      "class": "button",
+      "exp": "Current.cmd(\"setBasicOptionValue/sysvo/4\")",
+      "groupName": "sysvotype",
+      "height": 150,
+      "name": "sysvo_4",
+      "uiname": "sysvo_4",
+      "uistates": {
+        "off": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 70,
+          "cy": 600,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        },
+        "on": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 197,
+          "cy": 600,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        },
+        "over": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 324,
+          "cy": 600,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        }
+      },
+      "width": 127,
+      "x": 1225,
+      "y": 1281
+    },
+    "sysvo_5": {
+      "class": "button",
+      "exp": "Current.cmd(\"setBasicOptionValue/sysvo/5\")",
+      "groupName": "sysvotype",
+      "height": 150,
+      "name": "sysvo_5",
+      "uiname": "sysvo_5",
+      "uistates": {
+        "off": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 70,
+          "cy": 750,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        },
+        "on": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 197,
+          "cy": 750,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        },
+        "over": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 324,
+          "cy": 750,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        }
+      },
+      "width": 127,
+      "x": 1362,
+      "y": 1281
+    },
+    "sysvo_6": {
+      "class": "button",
+      "exp": "Current.cmd(\"setBasicOptionValue/sysvo/6\")",
+      "groupName": "sysvotype",
+      "height": 150,
+      "name": "sysvo_6",
+      "uiname": "sysvo_6",
+      "uistates": {
+        "off": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 70,
+          "cy": 900,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        },
+        "on": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 197,
+          "cy": 900,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        },
+        "over": {
+          "ch": 150,
+          "cw": 127,
+          "cx": 324,
+          "cy": 900,
+          "h": 150,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3__pack",
+          "w": 127
+        }
+      },
+      "width": 127,
+      "x": 1499,
+      "y": 1281
+    },
+    "sysvo_base": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "sysvo_base",
+      "uiname": "sysvo_base",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 116,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 1202
+    },
+    "sysvo_help": {
+      "class": "area",
+      "height": 94,
+      "name": "sysvo_help",
+      "uiname": "sysvo_help",
+      "uistates": {},
+      "width": 1009,
+      "x": 653,
+      "y": 1169
+    },
+    "sysvo_line": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "sysvo_line",
+      "uiname": "sysvo_line",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 153,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 1202
+    },
+    "sysvo_mute": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/sysvo/toggle\")",
+      "name": "sysvo_mute",
+      "uiname": "sysvo_mute",
+      "uistates": {}
+    },
+    "sysvo_off": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/sysvo/0\")",
+      "groupName": "sysvo",
+      "name": "sysvo_off",
+      "uiname": "sysvo_off",
+      "uistates": {}
+    },
+    "sysvo_on": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/sysvo/1\")",
+      "groupName": "sysvo",
+      "name": "sysvo_on",
+      "uiname": "sysvo_on",
+      "uistates": {}
+    },
+    "sysvo_play": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/sysvo/toggle\")",
+      "name": "sysvo_play",
+      "uiname": "sysvo_play",
+      "uistates": {}
+    },
+    "sysvo_slider": {
+      "class": "slider",
+      "height": 94,
+      "name": "sysvo_slider",
+      "onchangefunc": "Current.func(\"onAudioVolumeChange\")",
+      "onchangefuncdata": "\"sysvo\"",
+      "uiname": "sysvo_slider",
+      "uistates": {
+        "disable": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "normal": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "nosave": {
+          "h": 94,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1009
+        }
+      },
+      "width": 1009,
+      "x": 653,
+      "y": 1169
+    },
+    "sysvo_test": {
+      "class": "",
+      "exp": "Current.cmd(\"testAudioPlay/sysvo\")",
+      "name": "sysvo_test",
+      "uiname": "sysvo_test",
+      "uistates": {}
+    },
+    "sysvosel_help": {
+      "class": "area",
+      "height": 174,
+      "name": "sysvosel_help",
+      "uiname": "sysvosel_help",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 1281
+    },
+    "voice_base": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "voice_base",
+      "uiname": "voice_base",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 116,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 931
+    },
+    "voice_line": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "voice_line",
+      "uiname": "voice_line",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 153,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 931
+    },
+    "voice_mute": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/voice/toggle\")",
+      "name": "voice_mute",
+      "uiname": "voice_mute",
+      "uistates": {}
+    },
+    "voice_off": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/voice/0\")",
+      "groupName": "voice",
+      "name": "voice_off",
+      "uiname": "voice_off",
+      "uistates": {}
+    },
+    "voice_on": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/voice/1\")",
+      "groupName": "voice",
+      "name": "voice_on",
+      "uiname": "voice_on",
+      "uistates": {}
+    },
+    "voice_play": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/voice/toggle\")",
+      "name": "voice_play",
+      "uiname": "voice_play",
+      "uistates": {}
+    },
+    "voice_slider": {
+      "class": "slider",
+      "height": 94,
+      "name": "voice_slider",
+      "onchangefunc": "Current.func(\"onAudioVolumeChange\")",
+      "onchangefuncdata": "\"voice\"",
+      "uiname": "voice_slider",
+      "uistates": {
+        "disable": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "normal": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "nosave": {
+          "h": 94,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1009
+        }
+      },
+      "width": 1009,
+      "x": 653,
+      "y": 898
+    },
+    "voice_test": {
+      "class": "",
+      "exp": "Current.cmd(\"testAudioPlay/voice\")",
+      "name": "voice_test",
+      "uiname": "voice_test",
+      "uistates": {}
+    },
+    "voicecut_chk": {
+      "class": "",
+      "exp": "Current.cmd(\"setBasicOptionValue/voicecut/toggle\")",
+      "name": "voicecut_chk",
+      "uiname": "voicecut_chk",
+      "uistates": {}
+    },
+    "voicecut_help": {
+      "class": "area",
+      "height": 90,
+      "name": "voicecut_help",
+      "uiname": "voicecut_help",
+      "uistates": {
+        "off": {
+          "ch": 282,
+          "cr": 1,
+          "cw": 66,
+          "cx": 158,
+          "cy": 0,
+          "h": 66,
+          "ox": 330,
+          "oy": 0,
+          "storage": "config_page3_en__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 224,
+          "cy": 0,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3_en__pack",
+          "w": 282
+        }
+      },
+      "width": 1628,
+      "x": 120,
+      "y": 1065
+    },
+    "voicecut_off": {
+      "class": "radio",
+      "exp": "Current.cmd(\"setBasicOptionValue/voicecut/off\")",
+      "groupName": "voicecut",
+      "height": 66,
+      "name": "voicecut_off",
+      "uiname": "voicecut_off",
+      "uistates": {
+        "off": {
+          "ch": 282,
+          "cr": 1,
+          "cw": 66,
+          "cx": 158,
+          "cy": 0,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3_en__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 224,
+          "cy": 66,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3_en__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 224,
+          "cy": 132,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3_en__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 1182,
+      "y": 1065
+    },
+    "voicecut_on": {
+      "class": "radio",
+      "exp": "Current.cmd(\"setBasicOptionValue/voicecut/on\")",
+      "groupName": "voicecut",
+      "height": 66,
+      "name": "voicecut_on",
+      "uiname": "voicecut_on",
+      "uistates": {
+        "off": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 224,
+          "cy": 0,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3_en__pack",
+          "w": 282
+        },
+        "on": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 224,
+          "cy": 198,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3_en__pack",
+          "w": 282
+        },
+        "over": {
+          "ch": 66,
+          "cw": 282,
+          "cx": 224,
+          "cy": 264,
+          "h": 66,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_page3_en__pack",
+          "w": 282
+        }
+      },
+      "width": 282,
+      "x": 852,
+      "y": 1065
+    },
+    "voicecut_rev": {
+      "class": "",
+      "exp": "Current.cmd(\"setBasicOptionValue/voicecut/toggle\")",
+      "name": "voicecut_rev",
+      "uiname": "voicecut_rev",
+      "uistates": {}
+    },
+    "voicetrans_help": {
+      "height": 0,
+      "name": "voicetrans_help",
+      "uiname": "voicetrans_help",
+      "uistates": {},
+      "width": 0,
+      "x": 0,
+      "y": 1349
+    },
+    "voicetrans_off": {
+      "name": "voicetrans_off",
+      "uiname": "voicetrans_off",
+      "uistates": {},
+      "x": 0,
+      "y": 1349
+    },
+    "voicetrans_on": {
+      "name": "voicetrans_on",
+      "uiname": "voicetrans_on",
+      "uistates": {},
+      "x": 0,
+      "y": 1349
+    },
+    "voicevolume": {
+      "class": "area",
+      "height": 108,
+      "name": "voicevolume",
+      "uiname": "voicevolume",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 898
+    },
+    "wave_base": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "wave_base",
+      "uiname": "wave_base",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 116,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 181
+    },
+    "wave_line": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "wave_line",
+      "uiname": "wave_line",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 153,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 181
+    },
+    "wave_mute": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/wave/toggle\")",
+      "name": "wave_mute",
+      "uiname": "wave_mute",
+      "uistates": {}
+    },
+    "wave_off": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/wave/0\")",
+      "groupName": "wave",
+      "name": "wave_off",
+      "uiname": "wave_off",
+      "uistates": {}
+    },
+    "wave_on": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/wave/1\")",
+      "groupName": "wave",
+      "name": "wave_on",
+      "uiname": "wave_on",
+      "uistates": {}
+    },
+    "wave_play": {
+      "class": "",
+      "exp": "Current.cmd(\"setAudioOnOff/wave/toggle\")",
+      "name": "wave_play",
+      "uiname": "wave_play",
+      "uistates": {}
+    },
+    "wave_slider": {
+      "class": "slider",
+      "height": 94,
+      "name": "wave_slider",
+      "onchangefunc": "Current.func(\"onAudioVolumeChange\")",
+      "onchangefuncdata": "\"wave\"",
+      "uiname": "wave_slider",
+      "uistates": {
+        "disable": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "normal": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "nosave": {
+          "h": 94,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1009
+        }
+      },
+      "width": 1009,
+      "x": 653,
+      "y": 148
+    },
+    "wave_test": {
+      "class": "",
+      "exp": "Current.cmd(\"testAudioPlay/wave\")",
+      "name": "wave_test",
+      "uiname": "wave_test",
+      "uistates": {}
+    },
+    "wavevolume": {
+      "class": "area",
+      "height": 108,
+      "name": "wavevolume",
+      "uiname": "wavevolume",
+      "uistates": {},
+      "width": 1628,
+      "x": 120,
+      "y": 148
+    }
+  }
+}

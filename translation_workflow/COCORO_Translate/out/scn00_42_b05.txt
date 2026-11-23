@@ -1,0 +1,60 @@
+scn00_42_0241 | "Dạ không, chẳng có gì đâu ạ. Thỉnh thoảng tôi chỉ bắt chước mấy chú mèo nhìn trừng trừng vào cõi hư vô thôi."
+scn00_42_0242 | "Sao tự dưng lúc này lại đi bắt chước mèo làm gì...?"
+scn00_42_0243 | "Theo dữ liệu thống kê thì con người rất thích mèo, nên tôi nghĩ nếu bắt chước mèo thì cậu sẽ thấy tôi đáng yêu hơn đó méo."
+scn00_42_0244 | "..."
+scn00_42_0245 | "Meo?"
+scn00_42_0246 | "Đánh úp người ta bằng sự đáng yêu là phạm quy đấy nhé..."
+scn00_42_0247 | Cứ thế, buổi diễn tập cũng kết thúc êm đẹp.
+scn00_42_0248 | Giờ chỉ còn chờ đến ngày lễ cưới chính thức nữa thôi.
+scn00_42_0249 | "E he he... he he... e he he he......"
+scn00_42_0250 | Sau bữa tối, Cocoro cứ đứng ngắm nhìn chiếc váy cưới được mặc trên ma-nơ-canh dựng ở góc phòng mà cười khúc khích suốt.
+scn00_42_0251 | Kể từ khi ý thức được trái tim mình, những biểu cảm vô thức cũng tự nhiên hiện lên trên gương mặt em ngày một nhiều.
+scn00_42_0252 | "...Tôi muốn sớm được khoác lên mình bộ váy này và đứng ở nơi ấy quá."
+scn00_42_0253 | Từ lúc đi diễn tập lễ cưới ở vườn bách thảo về đến giờ, em lúc nào cũng trông như thế này.
+scn00_42_0254 | Mà, chính tôi cũng thấy mong chờ lắm chứ.
+scn00_42_0255 | Nhờ có buổi diễn tập, mọi thứ bỗng trở nên thật hơn bao giờ hết, hay nói đúng hơn là tôi đã có thể hình dung ra ngày đó rõ ràng trong tâm trí.
+scn00_42_0256 | Tắm mình trong ánh nắng rọi qua mái kính vòm, bước đi trên lối đi ngập tràn sắc xanh trong bộ váy cưới trắng muốt... Cocoro lúc ấy ắt hẳn sẽ xinh đẹp biết nhường nào.
+scn00_42_0257 | "Cứ để bên ngoài thế kia lỡ làm bẩn mất thì sao."
+scn00_42_0258 | "Thế thì nguy hiểm lắm ạ. Để tôi dùng cảm biến độ nhạy cao để canh chừng cẩn thận xem có vết bẩn nào không nhé."
+scn00_42_0259 | "Không, cất đi thôi chứ."
+scn00_42_0260 | "Ơ kìa~~"
+scn00_42_0261 | "Chỉ đêm nay thôi, để ngoài này một đêm không được sao ạ? Tôi sẽ vận dụng toàn bộ năng lực kỹ thuật của mình để đảm bảo tuyệt đối không làm bẩn đâu."
+scn00_42_0262 | "Được rồi, tùy cậu vậy."
+scn00_42_0263 | "Vâng ạ!"
+scn00_42_0264 | Dù có hơi lo lắng một chút, nhưng thấy em vui mừng đến mức đó, tôi cũng chẳng nỡ buông lời từ chối.
+scn00_42_0265 | Bộ váy cưới dẫu rất quan trọng, nhưng tôi cũng muốn trân trọng những cảm xúc mà Cocoro đang cảm nhận lúc này hơn.
+scn00_42_0266 | "E he he... he he he... e he he he... ư hử hử."
+scn00_42_0267 | Liếc nhìn Cocoro vẫn đang tủm tỉm cười, tôi với tay nhấc ống nghe điện thoại lên.
+scn00_42_0268 | "Được rồi..."
+scn00_42_0269 | Tôi lướt qua danh sách nhật ký cuộc gọi rồi chọn lấy tên người cần liên lạc.
+scn00_42_0270 | Chỉ cần chạm vào đó là cuộc gọi sẽ được kết nối.
+scn00_42_0271 | "...Hít... phù..."
+scn00_42_0272 | Tôi hít một hơi thật sâu để giải tỏa bớt căng thẳng.
+scn00_42_0273 | "...Được rồi."
+scn00_42_0274 | Chạm tay vào màn hình, hồi chuông chờ bắt đầu vang lên từ ống nghe.
+scn00_42_0275 | ...
+scn00_42_0276 | ......
+scn00_42_0277 | .........
+scn00_42_0278 | Không có ai bắt máy.
+scn00_42_0279 | "...Không có nhà sao nhỉ."
+scn00_42_0280 | Khi tôi ngắt kết nối, tiếng chuông chờ cũng im bặt.
+scn00_42_0281 | Nhận ra bản thân lại cảm thấy nhẹ nhõm vì đầu dây bên kia không bắt máy, tôi bỗng thấy chạnh lòng và thất vọng về chính mình đôi chút.
+scn00_42_0282 | "?"
+scn00_42_0283 | "Phù..."
+scn00_42_0284 | Thấy tôi vô thức thở dài, Cocoro liền khẽ nắm lấy bàn tay tôi.
+scn00_42_0285 | "Chúng ta đi dạo một chút không ạ?"
+scn00_42_0286 | "Giờ này mà đi dạo sao?"
+scn00_42_0287 | Bên ngoài trời đã tối mịt rồi.
+scn00_42_0288 | Dù sao thì cũng phải đợi một lúc nữa mới gọi lại được. Nếu vậy, đi dạo cùng Cocoro để giết thời gian một chút cũng chẳng sao.
+scn00_42_0289 | "...Ừ, đi thôi nào."
+scn00_42_0290 | "Vâng ạ."
+scn00_42_0291 | "...Gâu? Gâu gâu!!"
+scn00_42_0292 | Vừa cùng Cocoro bước ra ngoài, chú chó đang nằm bẹp dưới đất liền vểnh tai rồi đứng bật dậy.
+scn00_42_0293 | "Mày cũng muốn đi dạo cùng à?"
+scn00_42_0294 | "Gâu!!"
+scn00_42_0295 | "Cậu Hinata, chúng ta dắt bé này theo cùng được không ạ?"
+scn00_42_0296 | "Được chứ."
+scn00_42_0297 | "Thích nhé, được cho phép rồi đấy."
+scn00_42_0298 | Nói đoạn, Cocoro móc sợi dây dắt vào vòng cổ cho chú chó.
+scn00_42_0299 | "Nào, chúng ta xuất phát thôi."
+scn00_42_0300 | Cứ như thế, một tổ hợp kỳ lạ nếu ngẫm nghĩ kỹ gồm một con người, một humanoid và một chú chó cùng nhau dạo bước dưới màn đêm.

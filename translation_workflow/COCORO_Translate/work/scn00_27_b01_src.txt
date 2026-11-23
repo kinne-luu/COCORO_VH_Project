@@ -1,0 +1,63 @@
+# scene=scn00_27 batch=1/4 dòng 1-59 / 205
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_27_0001 | - | 海沿いの道を、クレープを食べながら歩いていた。 | We walk along the shore while enjoying our crepes. | 我们吃着可丽饼走在沿海道路上。
+scn00_27_0002 | - | 陽射しはきついが、風が適度にあって過ごしやすい日だ。 | The sun blazes down on us, but the pleasant sea breeze makes it a comfortable day to be out. | 虽然阳光很强烈，但好在有轻风吹过所以天气也还算不错。
+scn00_27_0003 | ココロ(Cocoro) | 「クレープは美味しいですか？」 | "Is your crepe tasty?" | “可丽饼美味吗？”
+scn00_27_0004 | ひなた(Hinata) | 「……（コクン）」 | "*nod*..." | “……（点头）”
+scn00_27_0005 | ココロ(Cocoro) | 「それはよかった」 | "I'm glad to hear that." | “那就好”
+scn00_27_0006 | - | どこから仕入れたのか、新鮮なフルーツと生クリーム、チョコのソースを小麦の香りのする焼きたての生地が包み込んでいる。 | I have no idea how Daichi managed to obtain fresh fruit and whipped cream, but they're wrapped into a delicious, freshly baked dough package with plenty of chocolate sauce. | 不知道从哪里入手的新鲜水果鲜奶油和巧克力酱被包裹在经历了烘烤散发着小麦香气的面皮里。
+scn00_27_0007 | - | 『厄災』以前も、クレープなんて食べる事は滅多になかった。なんとなく、女の子が好きそうというイメージだったが、 | Even before the Calamity, I rarely ate crepes. I always had the impression they were for girls. | ‘灾厄’以前我也没怎么吃过可丽饼，我印象中这应该是女孩子喜欢的东西。
+scn00_27_0008 | ひなた(Hinata) | （なんか、デートって感じがする） | (Wow, this really feels like a proper date.) | （感觉，很有约会的样子）
+scn00_27_0009 | - | 甘ったるいのがいい。生クリームが口の周りについてしまうのを気にして、ちょっと食べづらいもどかしさも。 | This sugary sweetness is perfect for the occasion. It's the kind of dessert that you have to eat carefully if you don't want to get whipped cream on your face. | 甜甜的感觉也好，不想让鲜奶油沾到嘴边，所以不太好下口的焦急感也是如此。
+scn00_27_0010 | ココロ(Cocoro) | 「もぐもぐ……これは『美味しい』に該当すると。少々、甘味が強すぎる気がしますが……」 | "Nom nom... I believe this meets the requirements to be 'tasty,' though I think there may be too much sugar in it..." | “嚼嚼……这应该可以用‘美味’来形容，但有点太甜了”
+scn00_27_0011 | ココロ(Cocoro) | 「むむ？」 | "Mmh?" | “呣呣”
+scn00_27_0012 | ココロ(Cocoro) | 「どうしてワタシのほっぺをハンカチで拭いたのですか？」 | "Why did you wipe my cheek?" | “为什么要用手帕擦我的脸？”
+scn00_27_0013 | - | ココロの手のひらに指で線を引いていく。 | I put away my handkerchief and grab Cocoro's hand to write on. | 我在心的手心写道。
+scn00_27_0014 | - | 『クリームがついてた』 | You had cream on your face. | ‘沾上奶油了’
+scn00_27_0015 | ココロ(Cocoro) | 「食べるのに夢中で、気が付いていませんでした。お手数をおかけしました、今後はこのような事がないよう注意します」 | "I was so preoccupied with eating that I didn't realize. Thank you for taking care of that for me. I'll be more careful in the future." | “吃得太入迷了，并没有注意到这一点。麻烦您了，今后我会注意不让这种事再次发生”
+scn00_27_0016 | ひなた(Hinata) | 「……（ふるふる）」 | "*shake* *shake*..." | “……（摇头）”
+scn00_27_0017 | ココロ(Cocoro) | 「？」 | "Huh?" | “？”
+scn00_27_0018 | - | 『ふいてあげたい』 | I want to wipe it. | ‘我想帮你擦’
+scn00_27_0019 | ココロ(Cocoro) | 「こういう事ですか？？」 | "You mean that I should do this?" | “这样吗？？”
+scn00_27_0020 | - | ココロがわざと口元にクリームを付ける。 | She pushes the crepe against the corner of her lips on purpose, leaving a dab of whipped cream. | 心故意将奶油占到了嘴边。
+scn00_27_0021 | ひなた(Hinata) | 「……（ふるふる）」 | "*shake* *shake*..." | “……（摇头）”
+scn00_27_0022 | - | 俺は拭いてあげながら首を振る。 | I shake my head as I wipe her mouth again. | 我一边给她擦一边摇着头。
+scn00_27_0023 | ココロ(Cocoro) | 「？？」 | "Hmm?" | “？？”
+scn00_27_0024 | - | 『しぜんにしてて』 | Let it happen naturally. | ‘要自然一点’
+scn00_27_0025 | ココロ(Cocoro) | 「……偶発的にほっぺに付いた生クリームを拭くのが、ひなたさんにとって喜びであると。なんですかそれ、おかしいです」 | "...So it makes you happy to wipe cream off my face, but only if it got there by accident? How strange." | “……意思是擦掉偶然沾在脸上的鲜奶油，对日向先生来说是一种乐趣么。这算什么，好奇怪”
+scn00_27_0026 | - | 不条理に感じて理解できないせいか、ココロは怒ったような顔をしながら、またクレープを食べる。 | Cocoro looks a bit annoyed as she bites into her crepe again, perhaps because she doesn't understand my logic. | 或许是因为觉得不合理而无法理解，心摆出了一副生气的表情，再次吃起了可丽饼。
+scn00_27_0027 | ココロ(Cocoro) | 「むぐっ……な、なんですか？」 | "Mmgh... Wh-What?" | “嚼嚼……干、干什么？”
+scn00_27_0028 | - | 『ついてた』 | You had cream on your face again. | ‘沾上了’
+scn00_27_0029 | ココロ(Cocoro) | 「なんと、注意すると言っておきながら……この[てい]体たらく。[さむらい]侍なら切腹するところです」 | "Really? I was trying to be more careful, but my body won't listen... If I was a samurai, I would disembowel myself out of shame." | “怎么会，刚刚才说过要注意一点……如此失态，如果是武士就该切腹了”
+scn00_27_0030 | - | ココロは生クリームを付けないようクレープを食べる動作を最適化する。 | Cocoro tentatively nibbles at the crepe again, adjusting her technique so as to not make a mess. | 心为了不再沾上鲜奶油而将吃可丽饼的动作进行了优化。
+scn00_27_0031 | - | 口をなるべく大きく開け、ちょっとずつかじって食べる。 | She opens her mouth widely and takes small bites. | 将嘴张得大大的，一点点地咬着吃了起来。
+scn00_27_0032 | - | しかし、力加減を間違えると、生地から生クリームが押し出されてくる。 | However, she seems to be struggling to use the right amount of pressure, as cream spills out from the corner. | 但是，她却没控制好力道，将奶油从面饼里挤了出来。
+scn00_27_0033 | ココロ(Cocoro) | 「くっ……なんと食べにくい料理。不条理です」 | "Nngh... This food is so hard to eat. It's not practical." | “咕……这个食物吃起来真不方便，很不合理”
+scn00_27_0034 | ひなた(Hinata) | （手こずってるなぁ） | (Wow, she really is struggling.) | （她感觉到棘手了啊）
+scn00_27_0035 | - | 微笑ましくて、つい笑ってしまう。 | Her antics are so cute that I can't help but smile. | 这场景太让人感觉欣慰了，我不由得笑了起来。
+scn00_27_0036 | ひなた(Hinata) | 「ぁうっ」 | "Ah!" | “啊呜”
+scn00_27_0037 | ひなた(Hinata) | （ココロ、あぶないっ） | (Cocoro, watch out!) | （心，危险）
+scn00_27_0038 | ココロ(Cocoro) | 「？　ひゃあっ」 | "Huh? Hyahh!" | “？　呀——”
+scn00_27_0039 | - | 補修のされていないアスファルトのひび割れに、ココロが[つまず]躓いて転んでしまった。 | Cocoro trips over a pothole. The roads around here haven't been maintained in a while. | 心被柏油路上年久失修产生的裂缝绊倒了。
+scn00_27_0040 | ひなた(Hinata) | （ココロ、大丈夫？） | (Cocoro, are you okay?) | （心，没事吧？）
+scn00_27_0041 | ココロ(Cocoro) | 「ご心配には[およ]及びません。ワタシは受け身もマスターしていますので」 | "There's no need to worry. I'm a master of safe falling techniques." | “不必担心，我掌握了受身方法”
+scn00_27_0042 | - | ココロは得意げにしているが、 | She says with a smug tone, but... | 心一副得意的样子。
+scn00_27_0043 | ひなた(Hinata) | （クレープが……） | (Her crepe...) | （可丽饼……）
+scn00_27_0044 | ココロ(Cocoro) | 「あっ……」 | "Ah..." | “啊……”
+scn00_27_0045 | ココロ(Cocoro) | 「……やってしまいました。せっかく特別に用意していただいた本日限定アマイ洋菓子店特製クレープが」 | "Now I've done it... I've wasted the special limited edition Amai Confectionery crepe that they prepared just for us." | “……搞砸了，这可是特意准备的本日限定甜甜西点店特制可丽饼啊”
+scn00_27_0046 | - | 悲しげに起き上がったココロの服を払ってあげる。 | Cocoro wistfully stares at the mess on the ground as I pat the dirt off her clothes. | 心难过地站了起来，我则替她拍起了衣服上的土。
+scn00_27_0047 | ココロ(Cocoro) | 「ワタシには中国拳法がインストールされていますが、クレープを持ったまま受け身を取る方法まではマスターしていませんでした」 | "I have a master-level kung fu package installed, but I've never had the need to refine my safe falling skills with the thought of having a crepe in my hand." | “我安装了中国拳法，但却没有掌握拿着可丽饼进行受身的方法”
+scn00_27_0048 | - | 歴代の拳法家も、クレープを持ったまま戦う技は[あ]編み出していなかったか。 | Somehow, I doubt that any kung fu masters of the past developed techniques that involved holding a crepe. | 历代拳法家们应该也都不会拿着可丽饼去创造战技吧。
+scn00_27_0049 | ココロ(Cocoro) | 「……しかし、データは取れました。次は守ってみせます」 | "...However, this experience has provided me with valuable data. I will try it out next time." | “……不过我已经收集了数据，下次一定能保护住可丽饼的”
+scn00_27_0050 | - | ココロが悔しげにしている。材料を手に入れて作ってくれた大地への感謝か、それともクレープが気に入ってたのか。 | She sounds determined. Is she expressing her gratitude to Daichi for obtaining the ingredients, or did she really like the crepe that much? | 心显得十分悔恨，是因为对收集材料做出可丽饼的大地心怀感激，还是因为很中意这个可丽饼呢。
+scn00_27_0051 | ひなた(Hinata) | 「ぁぅぁぅ……」 | "Ah, ah..." | “啊呜啊呜……”
+scn00_27_0052 | ココロ(Cocoro) | 「今、なんと？」 | "What did you say?" | “刚刚说了什么？”
+scn00_27_0053 | - | 『いっしょにたべよう』 | Let's share mine. | ‘一起吃吧’
+scn00_27_0054 | - | 俺は食べかけのクレープを差し出した。 | I offer her my half-eaten crepe. | 我把吃到一半的可丽饼递向了她。
+scn00_27_0055 | ココロ(Cocoro) | 「いけません、それはひなたさんの分です」 | "I can't accept that. That one is yours." | “不可以，这也是日向先生的份”
+scn00_27_0056 | ココロ(Cocoro) | 「ワタシは……所詮、消化吸収におよそ１００倍のカロリーを消費してしまう、栄養摂取機能の未熟な未完成品……」 | "It would be wasted on an underdeveloped prototype like me that consumes a hundred times more energy to digest the food than it provides." | “我……毕竟只是个需要消费100倍卡路里来进行消化吸收，营养摄取技能不够完善的半成品”
+scn00_27_0057 | - | ココロは落ち込んだように下を向いている。 | She hangs her head dejectedly. | 心失落地低下了头。
+scn00_27_0058 | - | 『いっしょにたべたほうがおいしい』 | It'll taste better when we share. | ‘一起吃才更美味’
+scn00_27_0059 | ココロ(Cocoro) | 「それは本当ですか？　科学的根拠を[うかが]伺ってもよろしいですか？」 | "Is that true? May I ask what the scientific reasoning is behind that statement?" | “真的吗？　可以问一下科学依据吗？”

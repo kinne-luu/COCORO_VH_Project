@@ -1,0 +1,64 @@
+# scene=scn00_28 batch=5/6 dòng 241-300 / 354
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_28_0241 | ひなた(Hinata) | 「……？」 | "...?" | “……？”
+scn00_28_0242 | - | 色々入っているが、なんの箱だろう。 | There's a variety of items inside. Where did this come from? | 里面有好多东西，这是用来干什么的箱子啊。
+scn00_28_0243 | ココロ(Cocoro) | 「落とし物箱です。園内での落とし物はここに集積されます。ひなたさんの落とし物もあるかもしれません」 | "It's the lost-and-found box. It contains all the items of unknown origin that I've found within the garden. It might also contain the item you dropped." | “这是失物箱，我将园内的遗失物品都收集在了这里，日向先生遗失的物品或许也在其中”
+scn00_28_0244 | - | 『ありがとう』 | Thanks. | ‘谢谢’
+scn00_28_0245 | - | 段ボールの中身を見ていく。 | I rummage through the box. | 我看了看纸箱里面。
+scn00_28_0246 | - | ボールペンやキーホルダー、ハンカチに手袋、よくある落とし物が入っている。 | Ballpoint pens, keychains, handkerchiefs, gloves... It's filled with items that are commonly lost. | 圆珠笔、钥匙环、手帕、手套，都是些常见的失物。
+scn00_28_0247 | ひなた(Hinata) | （ないなぁ……） | (It's not here...) | （没有啊……）
+scn00_28_0248 | ココロ(Cocoro) | 「見付かりませんか」 | "You can't find it?" | “没找到吗”
+scn00_28_0249 | ひなた(Hinata) | 「……（コクン）」 | "*shake* *shake*..." | “……（点头）”
+scn00_28_0250 | ココロ(Cocoro) | 「そうですか、残念です」 | "I see. That's too bad." | “这样啊，真遗憾”
+scn00_28_0251 | - | しかし、色んな落とし物があって面白い。 | It's interesting to see what kind of items other people have dropped, though. | 不过，里面有很多失物还挺有意思的。
+scn00_28_0252 | - | 定番の落とし物から、人気ロボットアニメのフィギュア、片方だけ脱げた幼児用の靴、水筒、ピンクの派手な折りたたみ傘など。 | Aside from the usual suspects, there's a figurine from a popular robot anime, a single baby shoe, a thermos bottle, a pink folding umbrella with a showy pattern, and other knickknacks. | 从常见的失物到有名的机器人动画手办、只有一边的婴儿鞋、水壶、粉色的华丽折叠伞等等。
+scn00_28_0253 | - | この一つ一つに誰かの生活があったんだろう。 | All these items were once part of somebody's life. | 每一件都映射着某人的生活吧。
+scn00_28_0254 | - | 『厄災』によって全てが変わってしまう前は。 | That is, until the Calamity changed everything. | 在‘灾厄’将一切都改变了之前。
+scn00_28_0255 | ひなた(Hinata) | 「……？」 | "...?" | “……？”
+scn00_28_0256 | ひなた(Hinata) | （なんだろうこれ） | (What is this?) | （这是什么）
+scn00_28_0257 | - | ラッピングされた、いかにもプレゼントという感じの物が入っていた。 | There's a colorful box with a ribbon wrapped around it. It looks like the most typical "present" you could imagine. | 有个被包装了起来很像礼物的东西。
+scn00_28_0258 | - | 大きくて、手に取ってみるとずしりと重い。 | It's quite large, and it feels heavy when I lift it. | 体积很大，拿在手里感觉沉甸甸的。
+scn00_28_0259 | - | 形と重さから、本じゃないかと思うが。 | From the shape and weight, I'd guess there was a book inside. | 根据形状和重量来看，我想应该是一本书吧。
+scn00_28_0260 | ひなた(Hinata) | （……え？） | (Huh?) | （……哎？）
+scn00_28_0261 | - | 包みの表に書かれてあった文字を見て、ドキッとする。 | There's something written on the wrapping paper. I gasp when I read the words. | 看到写在包装表面的文字后，我的心砰砰直跳。
+scn00_28_0262 | - | ――ひなたへ。 | For Hinata. | ——送给日向。
+scn00_28_0263 | - | 俺の名前が書かれてあった。 | It has my name on it. | 上面写着的是我的名字。
+scn00_28_0264 | - | 偶然か？　いや…… | Could it be for someone with the same name? No... | 偶然吗？　不……
+scn00_28_0265 | ひなた(Hinata) | （この生真面目な筆跡に見覚えがある） | (I recognize this handwriting.) | （我对这个一丝不苟的笔迹有印象）
+scn00_28_0266 | - | 父の字だ。 | It's my dad's. | 这是父亲的字。
+scn00_28_0267 | - | という事は、父の落とし物？ | What does that mean? Did my dad drop this? | 也就是说，这是父亲的失物？
+scn00_28_0268 | - | そして、これは俺宛のプレゼント？ | Is it a present he got for me? | 而且，是给我的礼物？
+scn00_28_0269 | - | よく見ると、ラッピングの一部に黒ずんだ染みが付いている。 | When I look closer, the wrapping paper has a dark stain on it. | 仔细看了看后，我发现包装的一部分被染上了黑色的印记。
+scn00_28_0270 | - | まるで、血の付いた手で触った跡のような。 | Almost as if somebody touched it with bloody hands. | 简直就像是，被沾血的手摸过的痕迹。
+scn00_28_0271 | ココロ(Cocoro) | 「ひなたさん……？」 | "Hinata-san...?" | “日向先生……？”
+scn00_28_0272 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_28_0273 | - | 俺はラッピングを開き、中身を出した。 | I open the wrapping and take out what's inside. | 我打开包装，取出了里面的东西。
+scn00_28_0274 | ひなた(Hinata) | （これは……） | (This is...) | （这是……）
+scn00_28_0275 | - | 古びた植物図鑑が入っていた。 | It's an old-fashioned encyclopedia of plants. | 里面是一本古旧的植物图鉴。
+scn00_28_0276 | - | この表紙、よく覚えてる。小学生時代、俺がほしがっていたものだ。 | The cover looks familiar. It's the one I'd always coveted as a kid. | 我还记得这个封面，这是我小学时代想要的书。
+scn00_28_0277 | - | 元はヴィクトリア朝時代のイギリスで出版された植物図鑑で、挿絵が緻密で美しく、ネットで存在を知ってからずっと憧れていた。 | It was originally published during the Victorian era in England, and the illustrations are incredibly detailed and beautiful. Ever since I read about it on the internet, I'd always wanted a copy. | 这原本是维多利亚时代的英国出版的植物图鉴，插图细腻精美，我在网上知道有这本书之后便一直很想要。
+scn00_28_0278 | - | 高くて、とても小遣いじゃ買えなかったが、父は俺が花を育ててる事をよく思っていなかったため、親にねだるわけにもいかなかった。 | But it was too expensive to afford with my allowance, and I couldn't ask my parents to buy it for me because I knew Dad didn't approve of me growing flowers. | 虽然它的价格很高，靠零花钱不可能买得起，但父亲不想让我养花，所以也没法向父母要。
+scn00_28_0279 | ひなた(Hinata) | （父さんが俺に……？） | (He actually got it for me...?) | （父亲送我的……？）
+scn00_28_0280 | - | どうして？ | Why? | 为什么？
+scn00_28_0281 | - | いや、そもそもなんでここにある？ | And more importantly, what is it doing ? | 不，说到底这本书为什么会在这里？
+scn00_28_0282 | - | 父は植物園になど寄りつかなかったはず……。 | Dad wouldn't be caught dead anywhere near the botanical garden. | 父亲应该没来过植物园才对……
+scn00_28_0283 | - | どういう事だ、まるで古代の遺跡でオーパーツを見付けた探検家の気分だった。 | What does this mean? I feel like an archeologist who just uncovered an out-of-place artifact. | 这是怎么回事，我现在的心情简直和在古代遗迹发现欧帕兹的探险家一样。
+scn00_28_0284 | ココロ(Cocoro) | 「体温の低下を確認。ひなたさん、大丈夫ですか？」 | "Detecting a sudden drop in body temperature. Hinata-san, are you okay?" | “检测到体温下降。日向先生，您没事吧？”
+scn00_28_0285 | ひなた(Hinata) | 「……（コクン）」 | "*nod*..." | “……（点头）”
+scn00_28_0286 | - | 予想外の出来事に困惑を通り越して、混乱してしまった。 | I'm beyond bewildered by this discovery. Never in a million years would I have expected to find something like this. | 这出乎意料的事让我感到困惑，甚至陷入了混乱。
+scn00_28_0287 | ココロ(Cocoro) | 「それがひなたさんの落とし物なんでしょうか」 | "Is that the item that you lost?" | “那就是日向先生遗失的物品吗”
+scn00_28_0288 | ひなた(Hinata) | 「……（ふるふる）」 | "*shake* *shake*..." | “……（摇头）”
+scn00_28_0289 | ココロ(Cocoro) | 「では、それはひなたさんの物ではないのですね」 | "So that item doesn't belong to you." | “那么，这不是日向先生的物品对吧”
+scn00_28_0290 | - | 俺はもう一度首を振る。 | I shake my head again. | 我再次摇了摇头。
+scn00_28_0291 | - | 『さがしてたものじゃない』 | It's not the thing I was looking for. | ‘不是我要找的东西’
+scn00_28_0292 | - | 『でもこれは　おれへのプレゼントみたいだ』 | But it seems to be a present for me. | ‘但这貌似是送给我的礼物’
+scn00_28_0293 | ココロ(Cocoro) | 「？」 | "Huh?" | “？”
+scn00_28_0294 | - | 『ちちがおとしていったものみたい』 | My dad must have lost it. | ‘似乎是爸爸落在这里的’
+scn00_28_0295 | - | ちゃんと説明しておかなければ。ココロには俺が落とし物を盗もうとしているように見えるだろうから。 | I try my best to explain the situation so that Cocoro won't think that I'm trying to steal an item from the lost-and-found box that isn't mine. | 如果不说清楚，在心看来就像是我想要将失物据为己有吧。
+scn00_28_0296 | ココロ(Cocoro) | 「探し物は、見付からなかったのですね」 | "So the item you lost isn't in here?" | “没有找到要找的物品是吗”
+scn00_28_0297 | - | 『うん　ありがとう』 | No. Thanks, though. | ‘嗯　谢谢你’
+scn00_28_0298 | ココロ(Cocoro) | 「ではワタシは、これを戻してきます」 | "In that case, I'll return this." | “那么我就将箱子放回去了”
+scn00_28_0299 | - | ココロは父の落とし物を除いた箱を、職員用の事務所へ返しに行く。 | Cocoro returns the lost-and-found box to the staff office with all its contents, minus the encyclopedia, still inside. | 心把装着其余物品的箱子送回职员办公室去了。
+scn00_28_0300 | ひなた(Hinata) | （なんで父さんはこんな物を……） | (Why would Dad buy something like this...?) | （为什么父亲会送我这种东西……）

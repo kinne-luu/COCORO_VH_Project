@@ -1,0 +1,64 @@
+# scene=scn00_40 batch=5/7 dòng 239-298 / 394
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_40_0239 | ひなた(Hinata) | 「ふぅ……」 | "Phew..." | “呼……”
+scn00_40_0240 | ひなた(Hinata) | （逆効果だったかな……） | (Maybe that had the opposite effect...) | （是不是起了反作用啊……）
+scn00_40_0241 | - | 俺が先に態度を示す事で、ココロを取り巻く空気を変えたかったんだけど。 | I mostly wanted to break the awkward atmosphere surrounding Cocoro by stating my intentions. | 我本来是想先表明我的态度，从而改变心周围的气氛。
+scn00_40_0242 | - | かえってココロに悲しい想いをさせてしまったかもしれない。 | But perhaps I only ended up making her sad. | 或许反倒是给心增添了难过的回忆。
+scn00_40_0243 | - | 無力感に落ち込む俺の後ろから、つないだままだった手をココロが引っ張った。 | A sense of helplessness washes over me. Then, Cocoro softly tugs at my hand, which is still interlaced with hers. | 正当我因无力感而失落的时候，心拉了拉我的手。
+scn00_40_0244 | ひなた(Hinata) | 「？」 | "Hmm?" | “？”
+scn00_40_0245 | ココロ(Cocoro) | 「ひなたさん……あの」 | "Hinata-san... Um..." | “日向先生……那个”
+scn00_40_0246 | - | ココロは何か言いたげにもじもじした後、 | She fidgets for a moment, as if she's thinking about what to say. | 心扭扭捏捏地想说着什么。
+scn00_40_0247 | - | 勢いよく抱きついてきた。 | Then, she throws her arms around me. | 随后便用力抱了过来。
+scn00_40_0248 | ひなた(Hinata) | 「わっ。どうした？？」 | "Whoa! What's wrong!?" | “哇，怎么了？？”
+scn00_40_0249 | ココロ(Cocoro) | 「……いえ……この感情をどう伝えたらいいのか分からなくて」 | "It's just... I don't know how else to convey this feeling." | “……没什么……只是不知道这份感情要如何传达给你”
+scn00_40_0250 | ひなた(Hinata) | 「不安にさせちゃった……？」 | "Did I make you anxious?" | “让你感到不安了吗……？”
+scn00_40_0251 | - | ココロは俺の胸に顔を埋めたまま、首を振る。 | She shakes her head with her face still buried in my chest. | 心将脸埋在我的胸前摇了摇头。
+scn00_40_0252 | ココロ(Cocoro) | 「ううん……ちがいます」 | "No... You didn't." | “没有……不是这样”
+scn00_40_0253 | ココロ(Cocoro) | 「ワタシ、嬉しかったです。ひなたさんが、みなさんの前でああ言ってくれて」 | "You made me happy by saying all those things in front of everyone." | “我很开心，因为日向先生在大家面前说了那样的话”
+scn00_40_0254 | ココロ(Cocoro) | 「ワタシ、ひなたさんの事が好きです」 | "I love you, Hinata-san." | “我喜欢日向先生”
+scn00_40_0255 | ひなた(Hinata) | 「ココロ……」 | "Cocoro..." | “心……”
+scn00_40_0256 | ココロ(Cocoro) | 「この感情、どうすればいいか分かりません。だから、すみません、しばらくこうしてていいですか？」 | "But I don't know what to do with these feelings. I'm sorry, but can we stay like this for a while?" | “这份感情，我不知道要如何发泄出去。所以，对不起，可以让我暂时这样待一会儿吗？”
+scn00_40_0257 | ひなた(Hinata) | 「うん。俺も好きだよ、ココロ」 | "Sure. I love you too, Cocoro." | “嗯，我也喜欢你哦，心”
+scn00_40_0258 | - | ココロの事を抱きしめ、俺たちはしばらくそうしてすごした。 | I hug her back, and we bask in each other's embrace for a while. | 我就这样抱着心，和她保持这个姿势待了一会儿。
+scn00_40_0259 | - | あれから、部屋でふたりでぼんやりと過ごしているうちに夕方になっていた。 | We spend the rest of the afternoon inside the apartment, and before we know it, the sun is starting to set. | 在那之后，我们两个一直在房间里放松到了黄昏。
+scn00_40_0260 | ひなた(Hinata) | 「……そろそろ夕飯の準備をしないとな」 | "...It's about time to start making dinner." | “……差不多该准备晚饭了”
+scn00_40_0261 | ココロ(Cocoro) | 「それでしたら、ワタシにお任せください」 | "Of course. Please leave it to me." | “这就交给我吧”
+scn00_40_0262 | ひなた(Hinata) | 「一緒に作ろうよ。ココロの分も」 | "Let's cook together. We'll make enough for us both." | “我们一起来做吧，连同你的那份”
+scn00_40_0263 | - | 同じ物を食べて美味しいと言ってくれる人がいる。それだけで、食事はより一層美味しくなる。 | Food tastes a lot better when you share it with someone while talking about how tasty it is. | 光是有人能和自己一起吃饭并说饭菜美味，就能让食物变得更加美味。
+scn00_40_0264 | ココロ(Cocoro) | 「一緒に……ワタシの分も……好き」 | "Together... for us both... I'd like that." | “一起做……连我的那份也……喜欢”
+scn00_40_0265 | ココロ(Cocoro) | 「そう、これは『好き』という感情。激しく鼓動するＣＰＵが熱を帯び、冷却が追いつかず全身から放熱が止まりません」 | "Right, this feeling is part of 'love' as well. It sends an intense surge of heat through my CPU, making it so hot that my cooling system can't keep up and the heat radiates from my entire body." | “没错，这就是‘喜欢’的感情。高昂的情绪让CPU发热，来不及冷却而让全身都止不住地开始放热了”
+scn00_40_0266 | ひなた(Hinata) | 「大変だ、麦茶を飲もうっ」 | "That sounds bad. You should have some cold barley tea." | “不好了，赶紧喝点麦茶吧”
+scn00_40_0267 | - | 冷蔵庫から麦茶を出してグラスに注いであげる。 | I pull out a pitcher of barley tea from the fridge and pour her a glass. | 我从冰箱拿出麦茶倒进杯子里递给了心。
+scn00_40_0268 | ココロ(Cocoro) | 「ゴクゴクゴク…………ぷふぅ。火照ったボディに、冷えた麦茶が染み渡ります」 | "*gulp* *gulp* *gulp*... Pwahh. This is perfect to stave off this burning heat inside my body." | “咕咚咕咚咕咚……噗呼，滚烫的身体被冰冷的麦茶渗透了”
+scn00_40_0269 | ひなた(Hinata) | 「オーバーヒートしなくてよかった」 | "I'm glad you didn't overheat." | “没有过热真是太好了”
+scn00_40_0270 | - | まだ熱が残るココロをうちわで[あお]扇いであげていると、 | Her face still looks flushed, so I fan her using a hand fan. Then, a voice rings out from the open window. | 就在我用团扇给还残留着热量的心扇风的时候。
+scn00_40_0271 | 風音(Kazane) | 「ひなたー、ココロちゃーん、いるー？」 | "Hinataaa, Cocoro-chaaan! Are you there!?" | “日向——，心——，你们在吗——？”
+scn00_40_0272 | - | 外から風音の呼ぶ声がした。 | It's Kazane. | 外面传来了风音的呼喊声。
+scn00_40_0273 | ひなた(Hinata) | 「いるよー」 | "We're here!" | “在——”
+scn00_40_0274 | - | 返事をすると、風音が上がってきた。 | I shout back, and Kazane comes up the stairs. | 听到我的回应后，风音便走上了楼。
+scn00_40_0275 | 風音(Kazane) | 「おじゃましまーす」 | "Excuse us!" | “打扰啦”
+scn00_40_0276 | - | その後ろに、どこかで見覚えのある初老の女性が。 | Following in after Kazane is an elderly woman who looks somewhat familiar. | 她身后跟着一位面熟的老年女性。
+scn00_40_0277 | ひなた(Hinata) | （誰だっけ……？） | (Who's that again...?) | （是谁来着……？）
+scn00_40_0278 | - | 思い出せそうで思い出せない。 | Her name's on the tip of my tongue, but I can't remember it. | 只差一点但就是想不起来。
+scn00_40_0279 | 風音(Kazane) | 「こちらは吉野さん」 | "This is Yoshino-san." | “这位是吉野婆婆”
+scn00_40_0280 | ココロ(Cocoro) | 「こんばんは、吉野さん。ワタシはココロです」 | "Good evening, Yoshino-san. I'm Cocoro." | “晚上好，吉野婆婆，我是心”
+scn00_40_0281 | 吉野(Yoshino) | 「こんばんは、ココロちゃん」 | "Good evening, Cocoro-chan." | “晚上好，心”
+scn00_40_0282 | ココロ(Cocoro) | 「？」 | "Huh?" | “？”
+scn00_40_0283 | - | 吉野さんの声を聞いて、ココロが首をかしげる。 | Cocoro tilts her head upon hearing Yoshino-san's voice. | 听到吉野婆婆的声音后，心疑惑地歪起了头。
+scn00_40_0284 | ココロ(Cocoro) | 「聞き覚えのある声です。あなたは以前、挨拶を交わした事がありますね」 | "Your voice sounds familiar. We must have exchanged greetings before." | “是有印象的声音，我以前和您打过招呼对吧”
+scn00_40_0285 | 吉野(Yoshino) | 「そうそう。覚えててくれたのねぇ。あの時、元気にご挨拶してくれたわよね」 | "That's right. I'm glad you remember. You greeted me with so much energy that day." | “是啊是啊，你还记得我啊，当时你可是很精神地向我打了个招呼呢”
+scn00_40_0286 | ココロ(Cocoro) | %130;『ワタシはココロと申します。今日からこちらでお世話になります。どうぞよろしくお願いします！　ぺこり！！！』 | %120;"My name is Cocoro! I'll be living here with you starting today! I'm pleased to make your acquaintance! And bow!!!" | %130;“我的名字叫心，今天开始就要住在这里了，请多多关照！　鞠躬！！！”
+scn00_40_0287 | 通行人のお婆さん(Elderly Woman) | 『あなた、ココロちゃんっていうの。可愛らしいお名前ねぇ』 | "So, your name is Cocoro-chan. That's a cute name." | “小姑娘是叫心吗，真是个可爱的名字啊”
+scn00_40_0288 | ひなた(Hinata) | 「あー、あの時の！！！」 | "Oh, that's right!" | “啊——，是那个时候！！！”
+scn00_40_0289 | - | ココロが九十九商店街に来たばかりの時、ヒトっぽさを見せるのだと張り切って大声で挨拶をしたのに答えてくれたお婆さんだ。 | When Cocoro first came to the Tsukumo shopping district with me, she greeted everyone really loudly in order to demonstrate her "humanness." Yoshino-san is the kind woman who replied to her back then. | 在心刚来九十九商店街，为了展示自己人类的一面而放声大喊着打招呼的时候，回应了她的那位老奶奶。
+scn00_40_0290 | 風音(Kazane) | 「吉野さんから、ふたりにプレゼントがあるだってさ」 | "She has a present for you guys." | “吉野婆婆说有礼物要送给你们两个”
+scn00_40_0291 | ひなた(Hinata) | 「プレゼント？？」 | "A present?" | “礼物？？”
+scn00_40_0292 | 吉野(Yoshino) | 「もしよかったら、ココロちゃんにこれを使ってほしいの」 | "If you don't mind, I want Cocoro-chan to wear this." | “可以的话，我希望心能用这个”
+scn00_40_0293 | - | 吉野さんはニコニコしながら大きな袋から、ふわふわした白い布を取りだした。広げるのを俺も手伝う。 | Yoshino-san is carrying a large bag. She takes something out of it—some kind of white cloth? I help her spread it out. | 吉野婆婆笑眯眯地从大袋子中取出了柔软的白布，递到了我伸出的手中。
+scn00_40_0294 | ココロ(Cocoro) | 「これは……」 | "This is..." | “这是……”
+scn00_40_0295 | ココロ(Cocoro) | 「知っています、ワタシ。このふわふわとした純白の美しい衣装は、結婚式に花嫁が着る……ウェディングドレスというものです」 | "I know what this is. It's a white, frilly costume worn by brides on the day of their wedding—a wedding dress." | “我知道，这柔软洁白的美丽衣服，是新娘在婚礼上穿的……婚纱”
+scn00_40_0296 | ひなた(Hinata) | 「うん……そうだね」 | "Yeah... Looks like it." | “嗯……是啊”
+scn00_40_0297 | - | それは[まぎ]紛れもない、純白のウェディングドレスだった。 | This is most definitely a pure-white wedding dress. | 这毫无疑问就是纯白的婚纱。
+scn00_40_0298 | 風音(Kazane) | 「吉野さんね、これをココロちゃんに着てほしいんだって」 | "Yoshino-san would like you to wear this at your wedding." | “吉野婆婆是想让心穿上它”

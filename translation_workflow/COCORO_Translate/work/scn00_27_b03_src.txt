@@ -1,0 +1,63 @@
+# scene=scn00_27 batch=3/4 dòng 120-178 / 205
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_27_0120 | ココロ(Cocoro) | 「ではいったい……」 | "But then, what...?" | “那又是为什么……”
+scn00_27_0121 | - | 『さっきのでさいごだった』 | There's no more. You finished it all. | ‘刚刚就是最后一口了’
+scn00_27_0122 | ココロ(Cocoro) | 「え……？　ええっ！？」 | "What...? Whaaaat!?" | “哎……？　哎哎！？”
+scn00_27_0123 | ココロ(Cocoro) | 「も、もしやワタシは、いやしくもひなたさんの分までクレープを食べてしまったのですか……？」 | "D-Don't tell me that I ate your share as well...?" | “难、难道说，我连日向先生的份也都吃掉了吗……？”
+scn00_27_0124 | ひなた(Hinata) | 「（コクン）」 | (*nod*...) | （点头）
+scn00_27_0125 | ココロ(Cocoro) | 「そんな……。ワタシはヒトを幸福にするために生まれましたのに、ひなたさんから幸福を奪ってしまうなんて……」 | "Oh no... I was created to make humans happy, yet I ended up stealing your happiness..." | “怎么会……我明明是为了让人类感到幸福才诞生的，却夺走了日向先生幸福……”
+scn00_27_0126 | - | 『ううん　わけてもらったよ』 | No, you shared plenty of it with me. | ‘不是的　我也分到了哦’
+scn00_27_0127 | ココロ(Cocoro) | 「ウソです。ワタシはひなたさんの分を食べてしまいました。自分が『美味しい』を知りたいばっかりに」 | "You're lying. It's a fact that I ate your share, Hinata-san. I was too preoccupied with trying to learn what 'tasty' means." | “说谎，我连日向先生的份也都吃掉了，就因为自己想要知晓‘美味’”
+scn00_27_0128 | - | 『おいしそうにたべるココロをみてて　おれもしあわせだった』 | It made me happy to see you enjoying it so much. | ‘看着心美味品尝食物的样子　我就已经很幸福了’
+scn00_27_0129 | ココロ(Cocoro) | 「なんと……。自分の口やのど、胃に入るわけじゃないのに、『美味しい』を感じる事ができるのですか？」 | "How can that be? Is it possible to enjoy tasty food even when it's not going into your own mouth or stomach?" | “怎么会……明明没有通过自己的嘴和喉咙进入到胃部，却能感受到‘美味’吗？”
+scn00_27_0130 | - | 『おいしいとはちがうけど　しあわせは　ひとにつたわるんだ』 | It's a different kind of happiness than when you eat the food, but happiness can be shared this way. | ‘倒也感受不到美味　但幸福　是能够传递给他人的’
+scn00_27_0131 | ココロ(Cocoro) | 「……理解不能。『幸せ』は空気感染するのでしょうか……」 | "I don't understand. Can 'happiness' be transmitted from one person to another like an airborne disease?" | “……无法理解，‘幸福’是会通过空气传播吗……”
+scn00_27_0132 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_27_0133 | - | ココロが何故かしゅんとしてしまった。 | For some reason, Cocoro looks a bit gloomy. | 心不知为何显得很沮丧。
+scn00_27_0134 | ひなた(Hinata) | 「ぁぁ……ぅぅ……」 | "Ah... Uh..." | “啊啊……呜呜……”
+scn00_27_0135 | ココロ(Cocoro) | 「お気遣い感謝します。しかし、幸福という概念は、ワタシには難しすぎます」 | "I appreciate you taking the time to explain, but I'm afraid the concept of 'happiness' is still too difficult for me." | “多谢关心，但是，幸福这个概念对我来说还太难了”
+scn00_27_0136 | ココロ(Cocoro) | 「そんなワタシが、ひなたさんを幸せにできるんでしょうか……」 | "Will I really be able to make you happy this way...?" | “不理解幸福的我，真的能让日向先生获得幸福吗……”
+scn00_27_0137 | - | 黙り込むココロを見ていて、俺も同じ気持ちになる。 | Watching Cocoro fall into a pensive silence, I ponder the same question. | 看着陷入沉默的心，我也产生了和她相同的想法。
+scn00_27_0138 | - | ココロにしてあげられる事が、俺にあるだろうか？ | Is there anything I can do to make Cocoro happy? | 我有什么能为心做的事吗？
+scn00_27_0139 | - | 『おれはココロにそばにいてほしい』 | I want you to stay with me, Cocoro. | ‘我希望心能一直在我身边’
+scn00_27_0140 | - | 『ずっとずっと』 | Forever. | ‘永远永远’
+scn00_27_0141 | - | そう手のひらに書いてから、その手を[にぎ]握った。強く、ぎゅっと。 | After I finish writing those words on her hand, I give it a tight squeeze. | 我将这几句话写在了心的手上，然后握住了那只手，用力地握着。
+scn00_27_0142 | ココロ(Cocoro) | 「ひなたさん……」 | "Hinata-san..." | “日向先生……”
+scn00_27_0143 | - | ココロが、焦点の合わない瞳で懸命に俺を見ようと、顔を近づけてきた。 | Cocoro leans in closer, trying as hard as she can to look at me with her unfocused eyes. | 心试图用无法聚焦的瞳孔拼命看清我，于是将脸也靠近了过来。
+scn00_27_0144 | - | 俺は、強く握った手に引き寄せられていく。 | At the same time, she pulls me closer to her with the hand that's still in mine. | 我也被用力握住的手拉了过去。
+scn00_27_0145 | - | ふたりの距離が限りなく近づき、このままでは密着してしまう――唇と唇が。 | We're so close that our noses are almost touching. If we get any closer... our lips might meet in the middle. | 两人的距离无比接近，这样下去——唇与唇就会贴在一起。
+scn00_27_0146 | - | こんな他にも人がいる場所で？ | Can I really do this? Right here in public? | 在这个有很多人的地方？
+scn00_27_0147 | - | ヒューマノイドの女の子と？ | With a girl I know is a humanoid? | 和仿生人女孩子？
+scn00_27_0148 | - | 昔、映画やドラマを観ていて、何も言わずに示し合わせたようにキスをする恋人同士を不思議に思っていた。 | When I was a kid, I always wondered how the lovers I saw in the movies and drama series I used to watch were able to kiss without saying anything. | 以前我在看到电影或戏剧中恋人之间无需言语便一同吻向对方时感到十分不可思议。
+scn00_27_0149 | - | 何か合図でもあるのか？ | Did they give each other a sign somehow? | 是有什么暗号吗？
+scn00_27_0150 | - | じゃなきゃ、突然、どうしてキスをしようとする？ | If not, how would they know when to go for the kiss? | 不然的话，为什么突然会接吻？
+scn00_27_0151 | ひなた(Hinata) | （しちゃっていいよね……？） | (It's okay... isn't it?) | （可以这么做吧……？）
+scn00_27_0152 | - | 理性を放棄しようとしたその時、 | I'm about to abandon all reason, when... | 就当我准备放弃理性的时候。
+scn00_27_0153 | 風音(Kazane) | 「ヒュ～お熱いねぇ～、そこのおふたりさん」 | "Whoo! Getting hot over there, you lovebirds!" | “咻～挺亲密的嘛～，那边的二位”
+scn00_27_0154 | - | …………。 | ... | …………
+scn00_27_0155 | 風音(Kazane) | 「って、お熱すぎじゃない！！？」 | "...Way too hot, from the looks of it!" | “不对，这也太亲密了吧！！？”
+scn00_27_0156 | 光太郎(Kotaro) | 「あちゃ～～間が悪かったなぁ、こりゃ」 | "Oh no, looks like we seriously interrupted something." | “哎呀～～这可真是太不凑巧了啊”
+scn00_27_0157 | こさめ(Kosame) | 「なになに、どうしたの？」 | "Hey, what's going on?" | “怎么了怎么了，发生什么事了？”
+scn00_27_0158 | ひなた(Hinata) | （なんだなんだ？？） | (What?) | （什么情况？？）
+scn00_27_0159 | - | 風音とこさめちゃんと、なぜかこさめちゃんを車椅子ごと抱えた光太郎さんが急に絡んできた。 | Kazane and Kosame-chan—who's for some reason being carried by Kotaro-san, wheelchair and all—have suddenly showed up. | 风音和小雨，还有不知道为什么将小雨连同轮椅一起抱了起来的光太郎先生突然缠了上来。
+scn00_27_0160 | - | すると、ココロがすくっと立ち上がる。 | Cocoro quickly rises to her feet. | 然后，心便立刻站了起来。
+scn00_27_0161 | ココロ(Cocoro) | 「出ましたね、不良ども」 | "You've got some guts, showing up here." | “混混们出现了啊”
+scn00_27_0162 | ココロ(Cocoro) | 「ひなたさんは下がって、ここはワタシにお任せください」 | "Hinata-san, please stand back. I will take care of these thugs." | “日向先生快退下，这里就交给我吧”
+scn00_27_0163 | ひなた(Hinata) | 「？？」 | "...?" | “？？”
+scn00_27_0164 | - | ココロが俺をかばって前に立つ。 | Cocoro spreads her arms and stands in front of me. | 心将我护至身后。
+scn00_27_0165 | こさめ(Kosame) | 「ふふふ、私たちは不良だから、イチャイチャしてる奴らはみんな敵なんだー」 | "Hehehe, we're the worst delinquents in town, and nobody's allowed to make out on our turf!" | “呵呵呵，我们就是不良，所以亲亲热热的家伙全都是我们的敌人——”
+scn00_27_0166 | 光太郎(Kotaro) | 「まあ、そういうわけだから邪魔させてもらうぜ」 | "Well, you get the idea. We're here to break things up." | “就是这样，所以就打扰了”
+scn00_27_0167 | 風音(Kazane) | 「ねえ、あのふたり、今チューしようとしてなかった？？」 | "Hey, you two were just about to kiss, weren't you?" | “我说，那两个人刚刚是不是要接吻来着？？”
+scn00_27_0168 | こさめ(Kosame) | 「風音ちゃん、そんなの後。ちゃんとして」 | "Kazane-chan, save that for later. Keep up the act." | “风音，这种事之后再好好做就行了”
+scn00_27_0169 | 風音(Kazane) | 「そうだった。あたしらは恋人たちの邪魔をするのを生き甲斐にしている、街の不良軍団ってわけだぜ。覚悟しな」 | "Right, right. We're a bunch of street punks who've made it our mission to interrupt people's dates. You'd better be ready to take us on." | “说的也是，我们可是在街上以妨碍恋人为生的混混军团啊，做好心理准备吧”
+scn00_27_0170 | - | 俺はココロの手を取る。 | I grab Cocoro's hand from behind. | 我拉起心的手。
+scn00_27_0171 | - | 『このちゃばんはなに』 | What kind of farce is this? | ‘这又是哪一出’
+scn00_27_0172 | ココロ(Cocoro) | 「デートプランＢ、不良の襲撃です」 | "Plan B for the date. A delinquent attack." | “约会B计划，混混的袭击”
+scn00_27_0173 | ココロ(Cocoro) | 「ワタシの厳選した資料によると、不良の襲撃によりピンチになったところを、カッコよく助ける事でふたりの関係が深まる。定番イベントです」 | "From my carefully selected reference material, I learned that a standard event of a date involves protecting your partner from delinquents. It will deepen our relationship." | “经过我严选的资料中，在恋人被混混袭击陷入危机的时候，帅气地将其救下就能够加深两人之间的关系，是标准事件”
+scn00_27_0174 | ひなた(Hinata) | （ラブコメマンガじゃないんだから……） | (This isn't some romcom manga...) | （这又不是恋爱漫画……）
+scn00_27_0175 | - | 風音たちに不良役を頼んだというわけか。 | So she asked Kazane and the others to play the "delinquents" in this event. Right. | 所以才让风音她们来扮演混混了啊。
+scn00_27_0176 | - | でもこの場合、普通なら男の方が戦うもんだが、 | But isn't it usually the guy who fights them off? | 但一般来说，这种情况下都是男方出头的。
+scn00_27_0177 | ココロ(Cocoro) | 「いきますよ！　てやー」 | "Here I come... Hyahhh!" | “我上了！　嘿呀——”
+scn00_27_0178 | 風音(Kazane) | 「こっちもイチャイチャを見せつけられてむしゃくしゃしてんだ、本気で行くぜ！　おらー」 | "I'm in a really bad mood after seeing you two canoodling like that, so I'm going to hit you with everything I've got! Rahhh!" | “我们看到有人调情也很火大啊，我要认真起来了！　喝啊——”

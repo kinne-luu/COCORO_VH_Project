@@ -1,0 +1,64 @@
+# scene=scn00_38 batch=2/6 dòng 61-120 / 326
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_38_0061 | 霧香(Kirika) | 「妹……？」 | "Sister...?" | “妹妹……？”
+scn00_38_0062 | ココロ(Cocoro) | 「はい、あのような姿をしていますが、あの子はワタシの妹なのです。弟の可能性も否定できませんが」 | "Yes. We may not look very similar, but she's my sister—though I cannot entirely rule out the possibility that she's my brother, either." | “是的，她虽然外表是那副模样，但其实是我的妹妹。也不能否定是弟弟的可能性就是了”
+scn00_38_0063 | - | ココロの説明を聞いて、霧香さんはますます頭に『？』を浮かべている。 | I can almost see the question marks floating above Kirika-san's head upon hearing Cocoro's explanation. | 听到心的解释后，雾香小姐头上的‘？’越来越多了。
+scn00_38_0064 | 霧香(Kirika) | 「無事でよかった……ふたりとも」 | "I'm glad you're safe... The both of you." | “你们两个，没事就好……”
+scn00_38_0065 | ひなた(Hinata) | 「心配かけてごめん」 | "Sorry for making you worry." | “抱歉让你担心了”
+scn00_38_0066 | ココロ(Cocoro) | 「……おさわがせいたしました。ぺこり」 | "My apologies for the trouble... Bow..." | “……给您添麻烦了，鞠躬”
+scn00_38_0067 | 光太郎(Kotaro) | 「ほんとによく無事だったな、少年。騒動が収まってるみたいだが、ここでいったい何があったんだ？」 | "You did well to stay safe, kiddo. It looks like the turmoil outside has calmed down, but do you know what happened in here?" | “你没事真是太好了，少年。骚动似乎也平息了，所以这里到底发生了什么？”
+scn00_38_0068 | 霧香(Kirika) | 「暴走していたミュータントドローンが、元に戻っていたわ。こういった事例は『厄災』の時にもごく少数見られただけ」 | "The mutant drones that were attacking the town suddenly started operating normally again. We saw several cases like this during the Calamity as well, but they were exceedingly rare." | “暴走的变异无人机都恢复原状了，类似的事例在‘灾厄’时也只是少量出现过”
+scn00_38_0069 | - | 外で何が起こっているか分からなかったけど、どうやらロボットたちの暴走は収まったらしい。 | I don't know what's going on outside, but apparently the robots have stopped rioting. | 我虽然不知道外面发生了什么，但看来机器人们的暴走已经平息下来了。
+scn00_38_0070 | 霧香(Kirika) | 「先ほど、新しいアレロパシー反応を受信したわ。それがきっかけで、ミュータントドローンが正気を取り戻したように見えた」 | "I detected a new allelopathy signal, and right after that, the mutant drones seemed to regain their sanity." | “刚刚我接收到了一个新的化感作用反应，看上去就是它让变异无人机都恢复了正常”
+scn00_38_0071 | ココロ(Cocoro) | 「妹がやってくれました。ワタシの現在の感情を、皆に伝えてくれました」 | "My sister did that. She conveyed my feelings to everyone else." | “是妹妹做的，她将我现在的感情传达给了大家”
+scn00_38_0072 | 霧香(Kirika) | 「……ジャバウォックが？」 | "The Jabberwock did?" | “……贾巴沃克吗？”
+scn00_38_0073 | ひなた(Hinata) | 「ＣＣＲ－０２、ココロの後継機だよ」 | "That's CCR-02, Cocoro's successor." | “是CCR-02，心的后代机”
+scn00_38_0074 | 霧香(Kirika) | 「……後継機？　えっ！？」 | "...Successor? What!?" | “……后代机？　哎！？”
+scn00_38_0075 | ココロ(Cocoro) | 「ワタシも存在を知らされていませんでしたので、[くわ]詳しい事情は分かりません」 | "I only learned of her existence very recently myself, so I'm afraid I don't know much about her." | “我也没有被告知她的存在，所以也不是很清楚详细情况”
+scn00_38_0076 | 霧香(Kirika) | 「ココロの後継機が、どうしてあんな姿をしているの？」 | "Why would Cocoro's successor look like ?" | “心的后代机为什么会是那副样子？”
+scn00_38_0077 | ココロ(Cocoro) | 「さあ。それもこれも全部、ここのコンピュータに記録が残っていると妹が申しておりました」 | "I don't know, but she tells me that everything should be recorded on the computer here." | “谁知道呢，妹妹说一切的一切都记录在了这里的电脑中”
+scn00_38_0078 | 霧香(Kirika) | 「ここに全ての記録が……」 | "Everything's recorded here...?" | “一切的记录都在这里……”
+scn00_38_0079 | - | 霧香さんがコンピュータを見てゴクリと[つば]唾を飲み込む。 | Kirika-san looks the computer up and down and visibly gulps. | 雾香小姐看着电脑咽了口口水。
+scn00_38_0080 | - | ずっと求め続けたものを目の前にして、緊張と興奮を隠せないでいる。 | She can't hide her nervousness and excitement at having found what she's been looking for all along. | 一直渴求的东西就在眼前，令她难掩紧张和兴奋的情绪。
+scn00_38_0081 | 光太郎(Kotaro) | 「ジャバ……じゃなくて、ＣＣＲ－０２とやらが何をしてくれたんだ？　全部話してくれ、気になってしょうがない」 | "So what did the Jabber— What did CCR-02 do? Can you tell us everything? I'm dying to know." | “贾巴……啊不对，那个叫CCR-02的家伙到底做了什么？　我实在是好奇得不得了”
+scn00_38_0082 | ひなた(Hinata) | 「ココロ、いい？」 | "Cocoro, would you mind?" | “心，可以吗？”
+scn00_38_0083 | - | 俺じゃ何があったのか半分も説明できない。 | I'm not confident I could even begin to explain half of what happened. | 我来说的话连一半都解释不清楚。
+scn00_38_0084 | - | ココロが[うなず]頷く。 | Cocoro nods. | 心点了点头。
+scn00_38_0085 | ココロ(Cocoro) | 「そうですね、ちゃんと報告しなければなりません。とくに霧香には」 | "Of course. I need to make a proper report, especially to Kirika." | “说的也是啊，得好好报告一下，尤其是对雾香”
+scn00_38_0086 | 霧香(Kirika) | 「ええ、聞かせてちょうだい」 | "Go on. Tell me." | “嗯，就让我听听吧”
+scn00_38_0087 | - | 真剣な顔をする霧香さんに見せるように、ココロは左手を[かか]掲げた。 | Kirika-san observes Cocoro with a serious expression. Cocoro lifts up her left hand. | 心举起左手展示给一脸认真的雾香小姐。
+scn00_38_0088 | - | そして、手首をくるりと反転させ、手の甲が向くようにする。 | Then, she turns the back of her hand to her. | 然后，她翻转了手腕，将手背朝向了外面。
+scn00_38_0089 | 霧香(Kirika) | 「……？」 | "Hmm?" | “……？”
+scn00_38_0090 | ココロ(Cocoro) | 「ワタシとひなたさんは、正式に婚約をいたしました」 | "Hinata-san and I are now officially engaged." | “我和日向先生正式缔结了婚约”
+scn00_38_0091 | 霧香(Kirika) | 「……。え？」 | "...What?" | “……哎？”
+scn00_38_0092 | 光太郎(Kotaro) | 「なんだって？？」 | "What did you say?" | “你说什么？？”
+scn00_38_0093 | ココロ(Cocoro) | 「……これが証拠です」 | "Hehe... This is the evidence." | “……这就是证据”
+scn00_38_0094 | - | 左手の薬指に指輪が輝いていた。 | The ring on her finger glimmers brightly. | 左手无名指上的戒指熠熠生辉。
+scn00_38_0095 | 霧香(Kirika) | 「それ、もしかして姉さんの婚約指輪……」 | "Is that Yoko's engagement ring...?" | “这，难道是姐姐的订婚戒指……”
+scn00_38_0096 | ひなた(Hinata) | 「えーっと……そういう事なんだけど、たぶん霧香さんに今報告すべきは、もっと別の事だと思うよココロ」 | "Umm... It is, but I don't think that's what we should be reporting on right now, Cocoro." | “呃……这事倒是没错，但现在应该向雾香小姐报告的应该是其他的事才对啊心”
+scn00_38_0097 | ココロ(Cocoro) | 「ワタシはまた間違えてしまいましたか」 | "Did I make another mistake?" | “我又犯错了吗”
+scn00_38_0098 | 光太郎(Kotaro) | 「なぜ騒動が起こったのか、どうやってそれが治まったのか、そこにココロちゃんがどう関係してたのかを聞かせてほしい」 | "I'd like to hear why the robots got all riled up again, why they stopped, and what you had to do with it, Cocoro-chan." | “我们想知道的是，骚动是如何发生的，又是如何结束的，这些和心又有什么关联”
+scn00_38_0099 | ココロ(Cocoro) | 「なるほど、そっちでしたか。失敬失敬。えー、話すと長くなりますが、お客様には一席お付きあいをいただきたく……」 | "I see, so 's what you meant. My apologies. Umm, it's a long story, so I recommend that you all sit..." | “原来如此，是这部分啊，失敬失敬。哎——，说来话长，请客人能够静坐听我娓娓道来……”
+scn00_38_0100 | ココロ(Cocoro) | 「いただきたく……その…………あぅぅ…………」 | "Sit down... Um... Ahh..." | “娓娓道来……那个…………啊呜…………”
+scn00_38_0101 | ひなた(Hinata) | 「ココロ？」 | "Cocoro?" | “心？”
+scn00_38_0102 | ココロ(Cocoro) | 「ごめんなさい」 | "I'm sorry." | “十分抱歉”
+scn00_38_0103 | - | ココロはいきなり駆けだして、部屋から逃げるように出ていってしまった。 | Cocoro suddenly runs out of the room. | 心突然逃也似地跑出了房间。
+scn00_38_0104 | 霧香(Kirika) | 「どうしたのかしら……」 | "What's the matter with her?" | “她是怎么了……”
+scn00_38_0105 | ひなた(Hinata) | 「ちょっとごめん」 | "Give us a moment." | “我也失陪一下”
+scn00_38_0106 | - | 俺は霧香さんたちを残して、ココロを追いかけた。 | I leave Kirika-san and the others and go check on Cocoro. | 我将雾香小姐她们留在原地跑去追心了。
+scn00_38_0107 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_38_0108 | ひなた(Hinata) | 「ココロ」 | "Cocoro..." | “心”
+scn00_38_0109 | - | ココロは植物園にいた。 | I find her at the botanical garden. | 心在植物园里。
+scn00_38_0110 | - | ナツノシラユキの前に[たたず]佇み、黙っている。 | She's standing quietly in front of the summer snows. | 一言不发地伫立在夏之白雪前。
+scn00_38_0111 | ひなた(Hinata) | 「まだ蕾のままだ。よかった」 | "They're still in bud... We didn't miss it." | “还是花蕾的状态，还好”
+scn00_38_0112 | - | 騒動の間に咲いてしまっていたら、もう花を見られないところだった。 | If they'd bloomed during the incident, we would've missed our chance to see them. | 如果是在骚动期间开了花，我们就看不到了。
+scn00_38_0113 | ココロ(Cocoro) | 「ひなたさん……」 | "Hinata-san..." | “日向先生……”
+scn00_38_0114 | ひなた(Hinata) | 「うん、だいじょうぶ」 | "Yeah, it's okay." | “嗯，没关系”
+scn00_38_0115 | ココロ(Cocoro) | 「ワタシ、まだ何も言っていませんが」 | "I haven't said anything yet." | “我还什么都没说呢”
+scn00_38_0116 | ひなた(Hinata) | 「言わなくても分かるよ。ココロの気持ち」 | "You don't need to. I can tell how you feel." | “不用说我也知道心的心情哦”
+scn00_38_0117 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_38_0118 | ひなた(Hinata) | 「なにかな、その疑わしげな視線」 | "What's with that doubtful look?" | “怎么了嘛，你这怀疑的视线”
+scn00_38_0119 | ココロ(Cocoro) | 「はっきりと疑わしいです。わかりっこありません」 | "I  doubtful. There's no way for you to tell." | “我就是在怀疑。你不可能知道我的心情”
+scn00_38_0120 | ひなた(Hinata) | 「正確じゃないかもだけど、なんとなく分かる」 | "Well, maybe not exactly, but I at least have a general idea." | “虽然可能不是很准确，但我大概能明白”

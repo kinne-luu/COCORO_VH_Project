@@ -1,0 +1,65 @@
+# scene=scn00_34 batch=3/5 dòng 121-181 / 284
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_34_0121 | - | 絶望感で思考が停止し、一瞬、呆然と立ち止まってしまった。 | The overwhelming sense of despair causes my mind to go blank. For a moment, I freeze, standing there like a deer in the headlights. | 我因绝望感而停止了思考，一瞬间呆在了原地。
+scn00_34_0122 | - | 俺めがけて、警備ロボットが橋を一直線に迫ってくる―― | The security robot across the bridge starts making a beeline for me. | 安保机器人从桥上笔直地朝我冲了过来——
+scn00_34_0123 | ひなた(Hinata) | （ダメだ、逃げきれない！！？） | (Crap, there's nowhere to run!) | （不行，逃不掉！！？）
+scn00_34_0124 | - | 咄嗟に腕で頭を[かば]庇って[うずくま]蹲り、身を固くして衝撃を待った。しかし、 | I quickly crouch down and shield my head with my arms, bracing for the impact. However... | 我下意识用手护住头蹲了下来，紧绷着身体等待着冲击的到来，可是——
+scn00_34_0125 | ひなた(Hinata) | （……？） | (...?) | （……？）
+scn00_34_0126 | - | 何も起こらない。 | Nothing's happening. | 什么都没有发生。
+scn00_34_0127 | - | 目を開いて顔を上げると、信じられない光景があった。 | I open my eyes and slowly raise my head. I can't believe what I'm seeing. | 睁开眼抬起头后，我看到了一副难以置信的景象。
+scn00_34_0128 | - | 後から現れた警備ロボットが、もう一方の警備ロボットを取り押さえていた。 | Another security robot appeared from behind me and rushed ahead. It's now holding back the one that came from the other side. | 后出现的安保机器人制服了另一台机器人。
+scn00_34_0129 | ひなた(Hinata) | （ミュータントドローン同士で争っている……？？） | (The mutant drones are... fighting each other?) | （变异无人机之间在争斗……？？）
+scn00_34_0130 | - | 今までそんな話は聞いた事がない。『厄災』の最中も、ドローン同士で争う事はなかったはず。 | I've never heard of such a thing before. Even during the Calamity, the robots never attacked one of their own kind. | 我至今为止从来没有听说过这种事，‘灾厄’那时应该也没有发生过无人机之间的争斗。
+scn00_34_0131 | - | しかし、現実に目の前で起こっている。 | But right now, it's happening in front of me. | 可是，这一幕就在我眼前发生了。
+scn00_34_0132 | ひなた(Hinata) | （……目が青い） | (That one's eyes are blue...) | （……眼睛是蓝色的）
+scn00_34_0133 | - | よく見ると、後から来た方はライトが青かった。 | When I look closer, I can see that the lamps on the robot that came from behind are blue. | 仔细一看，后出现的那台机器人亮着蓝灯。
+scn00_34_0134 | ひなた(Hinata) | （もしかして、ミュータント化していない？？） | (That one's not a mutant?) | （难道说，它没有发生变异？？）
+scn00_34_0135 | - | 分からない。が、そいつはもう一方の赤い目をした警備ロボットを取り押さえたまま、機械音声でメッセージを発した。 | I don't understand why, but it's holding back the red-eyed security robot as it plays an automated voice message. | 我不清楚，但它将另一台红眼睛的安保机器人压制着的同时，用机械音向我发出了信息。
+scn00_34_0136 | 警備ロボット(Security Robot) | 『ここは危険です、すぐに離れてください』 | "Warning, danger. Please leave immediately." | ‘这里很危险，请立刻离开’
+scn00_34_0137 | ひなた(Hinata) | （この警備ロボット、やっぱり正気なんだ） | (That security robot is operating normally!) | （这个安保机器人果然还处于正常状态）
+scn00_34_0138 | - | セントラルエリアの中には、アレロパシーの影響を受けてない機体もいるのか？ | Are there other robots in Central that weren't affected by the allelopathy? | 中心区里也有没有受到化感作用影响的机体吗？
+scn00_34_0139 | - | それとも、この機体だけが特別なのか。 | Or is this particular one special for some reason? | 还是说，只有这台机体是特殊的。
+scn00_34_0140 | ひなた(Hinata) | （考えてる暇はない） | (There's no time to think.) | （没时间思考了）
+scn00_34_0141 | - | 俺は[わき]脇をすり抜けて走った。 | I slip past the two grappling robots. | 我穿过它身边跑了起来。
+scn00_34_0142 | - | 今なら橋の上に邪魔する者はいない。 | The rest of the bridge looks to be clear. | 现在的桥上畅通无阻。
+scn00_34_0143 | ひなた(Hinata) | （ここを駆け抜ければ、身を隠す場所はある） | (As long as I can get to the island, there'll be plenty of places to hide.) | （只要冲过这里，就有地方藏身了）
+scn00_34_0144 | - | 全速力で走れば、残り１０秒もかからない―― | I can clear the bridge in ten seconds if I run as fast as I can. | 全速奔跑过去连10秒都用不了——
+scn00_34_0145 | - | 俺の希望に影を差すように、巨大な何かが頭上から降ってきた。 | But my hope is almost immediately crushed by a large shadow looming overhead. | 就像是要给我的希望蒙上阴影一般，一个巨大的物体从我头顶落了下来。
+scn00_34_0146 | ひなた(Hinata) | （ジャバウォック！！？） | (The Jabberwock!?) | （贾巴沃克！！？）
+scn00_34_0147 | - | キメラのような獣めいたロボットが現れ、俺の行く手を[さえぎ]遮っていた。 | The beastly chimera robot is now blocking my way. | 像奇美拉一样的兽型机器人出现了，挡住了我的去路。
+scn00_34_0148 | - | 全身に脂汗が[にじ]滲む。 | I break out in cold sweat. | 全身都渗出了汗水。
+scn00_34_0149 | - | こいつの機動力は、警備ロボットの比じゃない。 | Its agility is in a whole different league than the security robots. | 这家伙的机动力不是安保机器人能比的。
+scn00_34_0150 | - | それに、人間へ向ける憎しみ……。 | And it seems to harbor a deep hatred toward humans... | 而且，对人类的憎恨也……
+scn00_34_0151 | - | ココロとは違った意味で、感情を持っているかのように感じる。 | I get the impression that this one also has feelings, but in a different way from Cocoro. | 让人感觉它虽然和心所有不同，但似乎也拥有感情。
+scn00_34_0152 | ひなた(Hinata) | （今度こそ逃げ道はない……） | (Now I'm really stuck here...) | （这次是真的无路可逃了……）
+scn00_34_0153 | - | ここは橋の上。進むか[ひ]退くかしか道はない。 | I'm in the middle of the bridge. There's no way forward or back. | 现在是在桥上，只能前进或者后退。
+scn00_34_0154 | - | 俺は、猛獣と遭遇した時のように、ジャバウォックの目を見つめながら、ゆっくりと回り込もうとする。 | I slowly back away, staring the Jabberwock in the eyes as if I'm facing off with a wild animal. | 我按照遇到猛兽时的方式，盯着贾巴沃克的眼睛，试图慢慢绕过去。
+scn00_34_0155 | - | ジャバウォックが前足を振り下ろした。 | The Jabberwock stamps its front legs on the ground right in front of me. | 贾巴沃克挥下了前脚。
+scn00_34_0156 | - | 余計な動きをするなという警告だったのか、つま先が[かす]掠めただけで済んだ。 | Maybe it's a warning for me not to move. It only slightly grazed my shoes. | 它只是用指尖掠过了我，是在警告我不要做多余的动作吗。
+scn00_34_0157 | - | だが、もう動けない。こいつは、その気になれば1秒と待たずに俺を殺傷できる。 | But I'm stuck in place. This thing could crush me in a moment if it wanted to. | 但我已经不能动了，只要它想，不到1秒就能杀了我。
+scn00_34_0158 | - | 固まっている俺を、ジャバウォックはジッと見つめる。 | As I'm frozen in fear, the Jabberwock stares at me. | 贾巴沃克盯着僵在原地的我。
+scn00_34_0159 | ひなた(Hinata) | （どうして何もしてこない……） | (Why isn't it attacking?) | （它为什么什么都不做……）
+scn00_34_0160 | - | [にら]睨み合いに、精神だけが削られていく。 | This staring contest is only wearing me down mentally. | 和它对视只会不断消磨我的精神。
+scn00_34_0161 | ジャバウォック(Jabberwock) | 『ナニを……シに……キタ……の』 | "What... are you... doing... here?" | ‘你是……来……做什么……的’
+scn00_34_0162 | ひなた(Hinata) | （えっ……しゃべった？？） | (Huh? It can talk!?) | （哎……说话了？？）
+scn00_34_0163 | - | ノイズ混じりの辿々しい音声。 | Its voice is faltering and filled with noise. | 那是混杂着噪音断断续续的声音。
+scn00_34_0164 | - | しかし、声色は意外にも可愛らしい。まるで、少女のようだった。 | But aside from the sound quality, it's actually a surprisingly cute voice, like that of a young girl. | 不过，音色却出人意料地很可爱，就像是少女一样。
+scn00_34_0165 | - | 質問を発したまま、ジャバウォックはまた俺の顔をジッと覗き込む。 | The Jabberwock stares at me again, awaiting an answer to its question. | 提出问题后，贾巴沃克便继续盯着我的脸看了起来。
+scn00_34_0166 | - | 俺はゆっくりと手を動かし、キーボードを打った。 | I slowly move my hand and type on my keyboard. | 我缓缓地动手在键盘上打起了字。
+scn00_34_0167 | - | 『ココロに伝えたい事があって来た』 | "I need to tell Cocoro something." | ‘我是有想要传达给心的事才来的’
+scn00_34_0168 | ジャバウォック(Jabberwock) | 『ツタえ……たい……コト……ナニ』 | "Tell her... what?" | ‘想要……传达的……事……是什么’
+scn00_34_0169 | - | 『ココロを絶望から救ってあげられるかもしれない』 | "I might be able to save her. There's still hope." | ‘或许能将心从绝望中拯救出来’
+scn00_34_0170 | ジャバウォック(Jabberwock) | 『ＣＣＲ－０１は……ソレを……ノゾ……んでナイ』 | "CCR-01... does not... want that." | ‘CCR-01……并没有……期盼……这种事……’
+scn00_34_0171 | - | 『絶望したままでいたいとココロは望んでいる？』 | "Cocoro doesn't want to be saved?" | ‘心希望一直绝望下去？’
+scn00_34_0172 | - | ジャバウォックは黙って頷いた。 | The Jabberwock silently nods. | 贾巴沃克默默点了点头。
+scn00_34_0173 | - | 『それは、見付けられていないからだ』 | "That's just because she hasn't found it yet." | ‘那是因为她还没有找到’
+scn00_34_0174 | ジャバウォック(Jabberwock) | 『ナ……ニを』 | "Found... what?" | ‘找到……什么’
+scn00_34_0175 | - | 『心を』 | "Her soul." | ‘人心’
+scn00_34_0176 | ジャバウォック(Jabberwock) | 『ココロ……？』 | "Her soul...?" | ‘人心……？’
+scn00_34_0177 | - | 『うん』 | "Yes." | ‘嗯’
+scn00_34_0178 | ジャバウォック(Jabberwock) | 『オマエ……ミツけ……ら……れる……カ？』 | "Can you... find it... for her?" | ‘你……能……找到……吗？’
+scn00_34_0179 | - | 『わからない。でも手伝う事ならできる』 | "I don't know. But I can help her try." | ‘我不知道，但我能帮忙’
+scn00_34_0180 | - | 『俺は何度も、ココロの心の断片を見てきた』 | "I've already seen pieces of Cocoro's soul many times." | ‘我看到过很多次心的心灵碎片’
+scn00_34_0181 | - | それが俺の見間違いじゃないのなら、ココロは心を持っている。 | As long as I'm not just seeing things, Cocoro definitely has a soul. | 如果不是我看错了，那心就肯定拥有人心。

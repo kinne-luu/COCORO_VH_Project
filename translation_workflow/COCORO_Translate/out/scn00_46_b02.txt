@@ -1,0 +1,60 @@
+scn00_46_0061 | <Hãy dùng linh kiện của em đi ạ.>
+scn00_46_0062 | "...Nếu tận dụng linh kiện của cháu thì có thể sửa được. Nhưng làm vậy thì cháu sẽ hỏng mất."
+scn00_46_0063 | <Không sao đâu ạ. Em có hỏng cũng không sao hết. Vì chị ấy đã chúc phúc cho em rồi mà.>
+scn00_46_0064 | "?"
+scn00_46_0065 | "Vào giây phút cuối cùng, Cocoro đã đặt tên cho em ấy ạ."
+scn00_46_0066 | <Vâng ạ. Em là Shirayuki. Chị đã trao tên cho em.>
+scn00_46_0067 | "Shirayuki... Một cái tên thật đẹp."
+scn00_46_0068 | <Rồi nhé, rồi nhé... Chị còn cho em nhìn thấy những điều đẹp đẽ nữa. Cả những chuyện vui vẻ. Và... cả những chuyện vô cùng đau lòng nữa...>
+scn00_46_0069 | Shirayuki đang tíu tít bỗng gục đầu xuống và bắt đầu thút thít khóc.
+scn00_46_0070 | "...Ra là vậy sao. Nhưng mà này, dù có lấy linh kiện của cháu thay vào thì vẫn có một thứ không thể nào sửa chữa được. Duy nhất ký ức của Cocoro là chẳng thể nào lấy lại."
+scn00_46_0071 | Khối bộ nhớ bị trúng điện kích đã hoàn toàn hỏng hóc vô phương cứu chữa.
+scn00_46_0072 | "Dù có khôi phục lại thể xác thì những ký ức thuở còn là Cocoro cũng sẽ chẳng bao giờ quay về..."
+scn00_46_0073 | <...>
+scn00_46_0074 | "...Vậy cháu xin phép đi đây ạ."
+scn00_46_0075 | "Cháu quay về ký túc xá sao?"
+scn00_46_0076 | "Vâng. Kỳ nghỉ hè cũng đã kết thúc rồi ạ."
+scn00_46_0077 | "Vậy à..."
+scn00_46_0078 | "Cảm ơn dì vì tất cả. Dì đừng làm việc quá sức mà cố gắng gượng ép bản thân nhé."
+scn00_46_0079 | "Thỉnh thoảng nhớ ghé qua thăm dì đấy nhé."
+scn00_46_0080 | Tôi trao cái ôm nhẹ từ biệt dì Kirika rồi rời khỏi nơi đó.
+scn00_46_0081 | Cứ nấn ná ở lại lâu, cảm giác những ký ức buồn bã sẽ lại trỗi dậy trong lòng tôi.
+scn00_46_0082 | "Kìa cháu đang làm trò gì thế, mau dừng lại đi!"
+scn00_46_0083 | Vừa toan bước ra ngoài, tiếng quát gay gắt của dì Kirika vang lên khiến tôi khựng bước.
+scn00_46_0084 | Quay đầu nhìn lại, tôi thấy Shirayuki nhảy tót lên bảng điều khiển và đang toan làm điều gì đó.
+scn00_46_0085 | Hình ảnh trên màn hình chính nhiễu loạn dữ dội, hiển nhiên rơi vào trạng thái báo lỗi.
+scn00_46_0086 | Một cơn ớn lạnh chạy dọc sống lưng tôi.
+scn00_46_0087 | Shirayuki chính là kẻ đầu sỏ đã phát ra tín hiệu allelopathy gây nên thảm họa 'Ách Tai'. Lẽ nào con bé lại định gây ra sự cố gì nữa ư...
+scn00_46_0088 | "Ngắt kết nối ngay lập tức! Bằng không ta buộc lòng phải tiêu trừ ngươi đấy!"
+scn00_46_0089 | Dì Kirika cầm lấy khẩu súng trường đặt ở bên cạnh.
+scn00_46_0090 | Đó là khẩu súng trường chuyên dụng chống Mutant Drone trang bị cho Đội Tiêu Trừ. Nay Đội Tiêu Trừ đã bị giải thể, dì Kirika giữ lấy nó để vừa nghiên cứu vừa phòng thân.
+scn00_46_0091 | "Shirayuki, dừng lại đi em!"
+scn00_46_0092 | <...>
+scn00_46_0093 | Dù họng súng đang chĩa thẳng vào mình, Shirayuki vẫn không hề dừng tay.
+scn00_46_0094 | Chúng tôi đã bị dáng vẻ đáng yêu và những cuộc đối thoại ngỡ như trôi chảy kia đánh lừa sao? Rốt cuộc bản chất của đứa trẻ này vẫn là con quái vật chimera hung bạo kia ư?
+scn00_46_0095 | Ngón tay của dì Kirika đã đặt lên cò súng.
+scn00_46_0096 | "Dì Kirika, khoan đã!"
+scn00_46_0097 | "Đừng cản dì, không thể để 'Ách Tai' tái diễn thêm lần nào nữa!"
+scn00_46_0098 | "Dì nhìn màn hình kìa..."
+scn00_46_0099 | Trên màn hình trước đó còn nhiễu loạn như tivi analog mất sóng, bỗng hiện lên một đoạn video.
+scn00_46_0100 | "Đoạn video này là gì thế này..."
+scn00_46_0101 | Một căn phòng tối.
+scn00_46_0102 | Có một tấm gương.
+scn00_46_0103 | Hình ảnh phản chiếu nơi đó là...
+scn00_46_0104 | <...Xác định rằng trông rất đáng yêu... hihi.>
+scn00_46_0105 | "Cocoro..."
+scn00_46_0106 | Dù trong bóng tối không thấy rõ ràng, nhưng chắc chắn đó là Cocoro.
+scn00_46_0107 | Nhưng đây là thước phim từ lúc nào? Và ai đã quay lại nó?
+scn00_46_0108 | <Ước gì có thể mau chóng khoác lên mình chiếc váy cưới này, cùng cậu Hinata trao lời thề vĩnh cửu và đón nhận phúc lành của mọi người.>
+scn00_46_0109 | <...>
+scn00_46_0110 | <Liệu tôi có xứng đáng được hưởng hạnh phúc không?>
+scn00_46_0111 | <Bao nhiêu robot ngoài kia đang bị đào thải và vứt bỏ, vậy mà chỉ riêng mình tôi...>
+scn00_46_0112 | <?>
+scn00_46_0113 | <Có ai vừa gọi tôi sao?>
+scn00_46_0114 | <...>
+scn00_46_0115 | Như nghe thấy tiếng ai đó gọi, Cocoro liền bước chân rời khỏi phòng.
+scn00_46_0116 | Đúng lúc ấy, tôi thoáng thấy bóng dáng mình đang say ngủ lướt qua màn hình.
+scn00_46_0117 | "Buổi sáng ngày hôm đó..."
+scn00_46_0118 | Hơn nữa, thước phim này được quay từ chính góc nhìn của Cocoro.
+scn00_46_0119 | Nói cách khác, đây là khung cảnh thu vào đáy mắt Cocoro.
+scn00_46_0120 | <Đây là em sao...?>

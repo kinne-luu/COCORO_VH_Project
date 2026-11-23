@@ -1,0 +1,48 @@
+# scene=scn00_43 batch=4/4 dòng 181-224 / 224
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_43_0181 | ココロ(Cocoro) | 「……うずうず」 | "I can't wait..." | “……心里痒痒的”
+scn00_43_0182 | ココロ(Cocoro) | 「……ちょっとだけ……」 | "Just a little while should be okay." | “……就只看一会儿……”
+scn00_43_0183 | - | …………。 | ... | …………
+scn00_43_0184 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_43_0185 | ココロ(Cocoro) | 「……とってもカワイイと判断します……えへへ」 | "I've determined that I look very cute... Hehehe..." | “……我认为这非常可爱……哎嘿嘿”
+scn00_43_0186 | ココロ(Cocoro) | 「早くこのドレスを着て、ひなたさんと永遠を誓い合い祝福を受けたいです」 | "I want to wear this and make my eternal vows with Hinata-san as soon as possible so we can receive our blessing." | “好想赶快穿上这件婚纱，和日向先生立下永远的誓言，然后受到大家的祝福”
+scn00_43_0187 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_43_0188 | ココロ(Cocoro) | 「ワタシは幸福になってもいいのでしょうか？」 | "But is it okay for me to become happy?" | “我真有资格获得幸福吗？”
+scn00_43_0189 | ココロ(Cocoro) | 「沢山のロボットが廃棄されているというのに、ワタシだけ……」 | "So many robots have been destroyed. I'm the only one who gets to..." | “许多的机器人都被废弃掉了，只有我……”
+scn00_43_0190 | - | ――……ネエ……ちゃ……。 | <Sis...ter...> | ——……姐……姐……
+scn00_43_0191 | ココロ(Cocoro) | 「？」 | "Huh?" | “？”
+scn00_43_0192 | ココロ(Cocoro) | 「誰か、ワタシを呼びましたか？」 | "Did someone just call me?" | “是有谁在叫我吗？”
+scn00_43_0193 | - | ――……タス……け……て……お……エ……ちゃん……。 | <Sister... Save... me...> | ——……救救……我……姐……姐……
+scn00_43_0194 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_43_0195 | - | ………………。 | ...... | ………………
+scn00_43_0196 | - | …………。 | ... | …………
+scn00_43_0197 | ひなた(Hinata) | 「……んぅぅ……」 | "Nngh..." | “……嗯……”
+scn00_43_0198 | - | 目が覚めてしまった。 | I wake up. | 我睁开了眼睛。
+scn00_43_0199 | - | 夜明け前に起きる生活を続けているせいか、目覚ましの前に自然と起きるようになってしまった。 | Maybe I'm naturally waking up before my alarm because I've gotten so used to getting up early. | 或许是过久了在天亮前起床的生活，我在闹钟响起之前便自然醒来了。
+scn00_43_0200 | - | 外から、ぽたぽたと雫が[したた]滴る音がする。 | Slowly, I become aware of the sound of dripping water outside. | 外面传来了滴滴答答的水滴声。
+scn00_43_0201 | ひなた(Hinata) | 「雨が降ってるのか……」 | "It's raining...?" | “下雨了吗……”
+scn00_43_0202 | - | 俺は身体を起こす。 | I sit up. | 我坐起身来。
+scn00_43_0203 | ひなた(Hinata) | 「ココロ」 | "Cocoro?" | “心”
+scn00_43_0204 | - | 返事がない。 | No response. | 没有回应。
+scn00_43_0205 | - | 手で探るが、隣りに寝ていない。 | I feel around, but she's not in her futon next to mine. | 我用手摸了一下，发现她并没有睡在旁边。
+scn00_43_0206 | - | キッチンにもいないようだ。 | I get up and look in the kitchen, but she's not there, either. | 似乎也不在厨房。
+scn00_43_0207 | ひなた(Hinata) | 「どこに行ったんだ……ふわぁ～～」 | "Where did she go? Fwahh..." | “到底是跑去哪里了……呼哇～～”
+scn00_43_0208 | - | 欠伸をしながら、カーテンを開いて外を見る。 | I stretch, open the curtain, and look outside. | 我一边打着哈欠，一边拉开窗帘向外看去。
+scn00_43_0209 | ひなた(Hinata) | 「雨が上がってる……」 | "Looks like the rain's just ending." | “雨停了……”
+scn00_43_0210 | - | どうやら夜中に降って、もうやんだようだ。 | It seems like it rained overnight, but it's letting up now. | 看样子是在晚上下的，现在已经停了。
+scn00_43_0211 | - | だとすると、今日、ナツノシラユキが咲くかもしれない。 | That means that the summer snows might bloom today. | 这么说的话，夏之白雪或许就会在今天绽放。
+scn00_43_0212 | ひなた(Hinata) | 「ココロ」 | "Cocoro?" | “心”
+scn00_43_0213 | - | 声量を上げて呼ぶ。近くにいれば、ココロなら聞き逃すはずがない。 | I raise my voice properly this time. If she's anywhere nearby, she should be able to hear me. | 我抬高了声音叫着心，如果她在附近就不可能听不见。
+scn00_43_0214 | ひなた(Hinata) | 「いったいどこに……」 | "Where could she have gone?" | “到底去哪里了……”
+scn00_43_0215 | - | 言いかけて異変に気が付いた。 | Then, the empty mannequin catches my eye. | 刚说完我就发现了不对劲的地方。
+scn00_43_0216 | ひなた(Hinata) | 「……ドレスがない」 | "The dress is gone." | “……婚纱不见了”
+scn00_43_0217 | - | トルソーに着せて飾ってあったはずのウェディングドレスが、なくなっていた。 | It was still on display when we went to bed, but now it's nowhere to be seen. | 本应穿在人体模型身上装饰好的婚纱消失了。
+scn00_43_0218 | ひなた(Hinata) | 「ココロ！」 | "Cocoro!" | “心！”
+scn00_43_0219 | - | 今度ははっきりと、大きな声で呼んだ。 | I shout louder. | 这次我用最大的声音喊了出来。
+scn00_43_0220 | - | しかし、返事はない。 | But I'm only met with silence. | 但是，没有任何回应。
+scn00_43_0221 | ひなた(Hinata) | （捜しに行くか？　いや……） | (Should I go out to look for her? No, wait...) | （要去找她吗？　不……）
+scn00_43_0222 | - | 俺は部屋に置いてあったリュックから、ドローンを取りだした。 | I go over to my backpack and take out my drone. | 我从房间里的背包中取出了无人机。
+scn00_43_0223 | ひなた(Hinata) | 「こいつを飛ばせば、ココロと通信できる」 | "If I fly it around, I should be able to connect with Cocoro." | “把它放飞出去就能和心联系上了”
+scn00_43_0224 | - | 俺はセッティングしたドローンを、窓の外へと放った。 | Once I'm done setting up the drone, I fly it out of the window. | 我将设置好的无人机放飞到了窗外。

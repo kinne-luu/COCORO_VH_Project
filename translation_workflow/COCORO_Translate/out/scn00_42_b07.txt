@@ -1,0 +1,68 @@
+scn00_42_0361 | "..."
+scn00_42_0362 | "...Ư ử"
+scn00_42_0363 | "Phải rồi."
+scn00_42_0364 | Gương mặt Cocoro bỗng sáng bừng lên như vừa lóe ra một ý nghĩ gì đó.
+scn00_42_0365 | "Gâu?"
+scn00_42_0366 | "Tôi đã chọn được tên cho mày rồi đấy."
+scn00_42_0367 | "Hả, lúc này luôn sao?"
+scn00_42_0368 | "Vâng ạ. Suốt từ nãy đến giờ nó cứ lấp lửng ở ngay đầu môi đây này."
+scn00_42_0369 | Vừa xoa tay lên ngực vừa nói, Cocoro chăm chú nhìn sâu vào đôi mắt chú chó.
+scn00_42_0370 | "Mùa hè... Natsu, mùa tươi đẹp vô giá và quan trọng nhất đối với tôi... Đó chính là tên của mày đấy."
+scn00_42_0371 | "Natsu à... cái tên hay đấy chứ."
+scn00_42_0372 | "Gâu?"
+scn00_42_0373 | "Natsu."
+scn00_42_0374 | "Gâu!"
+scn00_42_0375 | "Giỏi lắm. Chú chó ngoan."
+scn00_42_0376 | "Gâu gâu!!"
+scn00_42_0377 | "Không phải. Mày không còn chỉ là 'chó' nữa rồi. À không, mày vẫn là một chú chó, nhưng điều đó cũng giống như việc tôi là một humanoid vậy."
+scn00_42_0378 | "Cũng giống như tôi là Cocoro, thì mày giờ đã trở thành Natsu rồi. Natsu ơi."
+scn00_42_0379 | "Gâu gâu!!"
+scn00_42_0380 | "Một lần nữa, từ nay về sau giúp đỡ nhau nhé, Natsu."
+scn00_42_0381 | "Gâu!!"
+scn00_42_0382 | Chắc hẳn nó không hiểu được tiếng người đâu. Nhưng những tâm tư, tình cảm của tôi và Cocoro, Natsu đều đã thấu cảm được cả.
+scn00_42_0383 | Chính vì thế mà nó mới hân hoan vẫy đuôi mừng rỡ đến vậy.
+scn00_42_0384 | "Haaa~~~ tống khứ được thứ mắc nghẹn trong cổ họng ra rồi, nhẹ cả người luôn ạ."
+scn00_42_0385 | "Nói thật lòng thì kể từ khi cậu Hinata bảo tôi đặt tên cho nó, tôi đã luôn thấy áp lực lắm đấy."
+scn00_42_0386 | "Tôi cứ băn khoăn mãi liệu mình có thể trao cho sinh vật nhiều lông mềm mại này một cái tên thật phù hợp, tựa như khi tôi được trao cho cái tên Cocoro hay không."
+scn00_42_0387 | "Đến mức ấy cơ à...? Tự dưng thấy áy náy với cậu ghê."
+scn00_42_0388 | "Dạ không sao đâu ạ, nhưng giờ đây tôi đã trao cho nó một cái tên vô cùng hoàn hảo rồi. Cảm giác lúc này đúng thật là ngập tràn xúc động."
+scn00_42_0389 | "Gâu! Gâu gâu!!"
+scn00_42_0390 | Natsu tung tăng đùa nghịch, hất tung cả cát biển lên.
+scn00_42_0391 | Cocoro với vẻ mặt nhẹ nhõm thảnh thơi, ngước nhìn lên bầu trời đêm.
+scn00_42_0392 | "...? Cậu Hinata ơi, nhìn kìa!"
+scn00_42_0393 | "Gì thế? Có UFO bay qua à?"
+scn00_42_0394 | Liệu có thứ gì đáng kinh ngạc đang lơ lửng trên bầu trời chăng?
+scn00_42_0395 | "Những vì sao..."
+scn00_42_0396 | "Muôn vàn vì sao đang tỏa sáng lấp lánh...... Đẹp... thật sự rất đẹp."
+scn00_42_0397 | "Ừ..."
+scn00_42_0398 | "...Oa..."
+scn00_42_0399 | Cocoro ngơ ngẩn ngước nhìn lên, cứ như thể đây là lần đầu tiên em được chiêm ngưỡng bầu trời sao vậy.
+scn00_42_0400 | "Vào lúc cảm biến thị giác bị hỏng hóc... tôi đã từng nhận định rằng cứ hỏng như thế lại tốt hơn."
+scn00_42_0401 | "Tại sao lại thế?"
+scn00_42_0402 | "......"
+scn00_42_0403 | "Bởi vì tôi nghĩ rằng dẫu cho hoa Tuyết Trắng Mùa Hạ có nở rộ và tôi có nhìn thấy nó đi chăng nữa... thì mình cũng chẳng thể thấu hiểu được vẻ đẹp là gì."
+scn00_42_0404 | "...Nên tôi cho rằng thà không nhìn thấy còn hơn. Giờ ngẫm lại, đó chẳng qua là vì sự hèn nhát trong tôi mà thôi."
+scn00_42_0405 | Vào lúc đó, chắc hẳn em vẫn chưa thể nhận định được hành vi ấy là 'sự hèn nhát'. Bởi khi ấy Cocoro vẫn chưa ý thức được rằng tận sâu bên trong mình cũng có một trái tim.
+scn00_42_0406 | "Thế nhưng, đã có một chuyện xảy ra khiến tôi khao khát muốn được nhìn thấy."
+scn00_42_0407 | "Đó là khi cậu Hinata cùng Kazane cùng ngắm nhìn bầu trời sao ở nơi này."
+scn00_42_0408 | Đêm mở cửa bãi tắm biển hôm ấy sao.
+scn00_42_0409 | <Đẹp thật đấy nhỉ...>
+scn00_42_0410 | <Ừ.>
+scn00_42_0411 | <Kể từ sau Ách Tai xảy ra toàn là những chuyện gian nan vất vả, thực tình đã có không biết bao nhiêu lần tớ muốn buông xuôi chạy trốn khỏi tất cả...>
+scn00_42_0412 | <Đúng lúc ấy thì Hinata đã trở về. Cậu đã đưa bé Cocoro đến đây, và làm thay đổi cả thị trấn này.>
+scn00_42_0413 | <Cậu nói quá lên rồi đấy.>
+scn00_42_0414 | <Thật mà, trước đây tớ toàn suy nghĩ làm quá lên thôi.>
+scn00_42_0415 | <Được cùng nhau ngắm nhìn một bầu trời sao và thốt lên rằng nó thật đẹp, tớ nghĩ hạnh phúc đích thực chính là những điều giản dị như thế đấy.>
+scn00_42_0416 | <...>
+scn00_42_0417 | <Chị Coco làm sao thế ạ?>
+scn00_42_0418 | <Kosame, những vì sao có đẹp không em?>
+scn00_42_0419 | <Dạ? Đúng thế thật đó, đẹp lắm ạ! Nè nè, chị Cocoro cũng nhìn thử xem đi!>
+scn00_42_0420 | <...Tôi không nhìn thấy được.>
+scn00_42_0421 | <Với tôi, tôi không thể hiểu được vẻ đẹp là gì.>
+scn00_42_0422 | "Bây giờ đây, khi cùng cậu Hinata ngước nhìn lên bầu trời sao này, liệu tôi đã có thể cảm nhận được cảm xúc giống như cậu chưa?"
+scn00_42_0423 | "Ừ, chắc chắn là có rồi."
+scn00_42_0424 | "...Vậy thì quả nhiên, cảm xúc này chính là hạnh phúc."
+scn00_42_0425 | "Cậu Hinata, tôi đang rất hạnh phúc."
+scn00_42_0426 | "Gâu!"
+scn00_42_0427 | "Dù cho mùa tươi đẹp vô giá này có khép lại đi chăng nữa. Thì chừng nào những kỷ niệm vẫn còn vẹn nguyên, những cảm xúc mà tôi đang cảm nhận lúc này sẽ chẳng bao giờ phai nhạt."
+scn00_42_0428 | Dẫu cho mùa tiếp theo có sang, tôi vẫn tin chắc rằng trong tương lai phía trước đang đón đợi hai chúng tôi sẽ chỉ toàn là niềm hạnh phúc.

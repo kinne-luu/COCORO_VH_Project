@@ -1,0 +1,64 @@
+# scene=scn00_27 batch=2/4 dòng 60-119 / 205
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_27_0060 | - | 『じぶんでたしかめるといいよ』 | Try it for yourself, and you'll find out. | ‘自己试试就知道啦’
+scn00_27_0061 | - | 俺は持っていたクレープを差し出した。 | I push the crepe toward her again, urging her to take a bite. | 我把手中的可丽饼递了出去。
+scn00_27_0062 | - | ココロは少しためらってから、 | She hesitates, but eventually obliges. | 心犹豫了一下之后。
+scn00_27_0063 | ココロ(Cocoro) | 「はむ……もぐもぐ……味覚センサーに感じるデータは同じです」 | "Nom... *munch* *munch*... The data from my flavor sensors indicates that it tastes the same." | “哈呣……嚼嚼……味觉传感器感受到的数据是相同的”
+scn00_27_0064 | ココロ(Cocoro) | 「……もぐもぐ……もぐもぐ……」 | "Nom nom... Nom nom..." | “……嚼嚼……嚼嚼……”
+scn00_27_0065 | ココロ(Cocoro) | 「……ですが、『美味しい』とは味覚だけで感じるものではありません」 | "However, the tastiness of food isn't determined by its flavor alone." | “……但是，‘美味’不是只靠味觉来感受的东西”
+scn00_27_0066 | - | 『おいしい？』 | Is it good? | ‘美味吗？’
+scn00_27_0067 | ココロ(Cocoro) | 「わ、わかりません。ちょっとこれは……ワタシにはまだ難しいです」 | "I-I'm not sure... I'm afraid this is still too difficult for me." | “我、我不知道，这个……对我来说还有点难”
+scn00_27_0068 | ココロ(Cocoro) | 「ですから、もっと食べてみなければ！」 | "I need to eat more before I can draw a conclusion." | “所以，得多试几口才行！”
+scn00_27_0069 | ココロ(Cocoro) | 「……あーーん」 | "Ahhh..." | “……啊——”
+scn00_27_0070 | - | ひな鳥のように口を開けて待つココロに、クレープを食べさせてあげる。 | She opens her mouth wide like a baby bird, so I tear off a piece of crepe and feed it to her. | 我将可丽饼喂到了像雏鸟一样张开嘴等待着的心口中。
+scn00_27_0071 | ココロ(Cocoro) | 「はむ……もぐもぐ……もぐもぐ……」 | "Nom... *munch* *munch*..." | “哈呣……嚼嚼……嚼嚼……”
+scn00_27_0072 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_27_0073 | ココロ(Cocoro) | 「…………これが『美味しい』？　わかりません……わかりません……」 | "Is this 'tasty'? I'm not sure... I'm not sure..." | “…………这就是‘美味’？　我不明白……我不明白……”
+scn00_27_0074 | - | ココロは困った顔で味を確かめている。 | Cocoro savors the food with a befuddled expression. | 心一脸困惑地反复确认着味道。
+scn00_27_0075 | ひなた(Hinata) | （あぶないっ！） | (Careful!) | （危险！）
+scn00_27_0076 | ココロ(Cocoro) | 「ひゃっ」 | "Eep!" | “呀——”
+scn00_27_0077 | - | 今度は間に合った。 | This time I managed to make it. | 这次赶上了。
+scn00_27_0078 | - | 俺がココロの手をつかみ、[つまづ]躓いて転ぶのを防げた。 | I grabbed Cocoro's hand in time to prevent her from falling. | 我拉住了心的手，让她没被绊倒。
+scn00_27_0079 | ココロ(Cocoro) | 「ありがとうございます……。ワタシはまた不注意でひなたさんにご迷惑を……」 | "Thank you... I've caused you trouble again by not paying attention..." | “非常感谢……我又不小心给日向先生添麻烦了……”
+scn00_27_0080 | ひなた(Hinata) | （ココロが落ち込んでしまった。どうしよう……） | (Oh no, she looks sad. What should I do?) | （心失落起来了，怎么办……）
+scn00_27_0081 | - | 困っていると、ココロが自分から俺の手を握った。 | As I'm pondering my next move, Cocoro offers me her hand. | 正当我不知所措的时候，心握住了我的手。
+scn00_27_0082 | ひなた(Hinata) | 「？」 | "...?" | “？”
+scn00_27_0083 | ココロ(Cocoro) | 「こうやって歩いてもいいですか？　ワタシは、その……目があまり見えていませんので」 | "Can we walk like this? I, um, can't see very well, so..." | “可以这样一起走吗？　我，那个……眼睛看不太清楚”
+scn00_27_0084 | ひなた(Hinata) | 「……（コクン）」 | "*nod*..." | “……（点头）”
+scn00_27_0085 | ココロ(Cocoro) | 「ありがとうございます……ふふ」 | "Thank you... Hehe..." | “非常感谢……呵呵”
+scn00_27_0086 | - | 嬉しそうにはにかむココロと手をつないで、海岸線の道を歩いて行った。 | Cocoro lets out an embarrassed giggle when I take hold of her hand, and we continue our walk along the shore. | 我牵着开心中带有些许羞涩的心的手，沿着海岸线走了起来。
+scn00_27_0087 | - | ココロに導かれてやってきたのは、砂浜だった。 | Cocoro leads us to the beach. | 心带我来的地方是沙滩。
+scn00_27_0088 | - | 今日も海水浴を楽しんでいる人たちが、ぽつぽついる。 | There are quite a few people swimming today. | 今天也有不少来享受海水浴的人。
+scn00_27_0089 | - | 『およぐの？』 | Are we going to swim? | ‘要游泳吗？’
+scn00_27_0090 | ココロ(Cocoro) | 「それも考慮しましたが、海水に[ひた]浸るのはリスクが高すぎると判断し、断念しました。ひなたさんが[さ]錆びてしまいます」 | "I considered it, but I dropped the idea after assessing the risks. I don't want you to get rusty, Hinata-san." | “我倒是考虑过，但我判断浸入海水的风险太高了，便放弃了这个想法，毕竟这有可能会让日向先生生锈”
+scn00_27_0091 | - | 人は錆びないんだが。 | Humans don't rust, though. | 但人是不会生锈的。
+scn00_27_0092 | ひなた(Hinata) | （でもデートで水着になるのは、ちょっと刺激的すぎだったかも） | (Being in swimsuits might be a bit too much excitement for a first date.) | （不过如果穿着泳衣约会，可能就有点过于刺激了）
+scn00_27_0093 | ココロ(Cocoro) | 「ですので、ワタシはここに座る事を提案します」 | "So, I propose that we sit down here instead." | “因此，我提议坐在这里”
+scn00_27_0094 | - | ココロの提案を受け入れ、砂浜に腰を下ろした。 | Going along with Cocoro's idea, I sit down in the sand. | 我接受了心的提议，坐在了沙滩上。
+scn00_27_0095 | - | 寄せては返す波がキラキラと陽光を反射して、それを眺めているだけで気持ちが穏やかになっていく。 | The lapping waves sparkle in the sun. The sight of the ocean alone is enough to make me feel at peace. | 不断拍打着沙滩的波浪一闪一闪地反射着阳光，光是眺望着这个场景就让我感到内心十分宁静。
+scn00_27_0096 | ココロ(Cocoro) | 「あーん」 | "Ahh..." | “啊——”
+scn00_27_0097 | ココロ(Cocoro) | 「……はむ……もむもむ……」 | "Nom... Nom nom..." | “……哈呣……嚼嚼……”
+scn00_27_0098 | ひなた(Hinata) | 「ぁぁぅぅ」 | "Ahh..." | “啊啊呜呜”
+scn00_27_0099 | ココロ(Cocoro) | 「まだ分かりません。美味しいかもしれないと、その可能性を探っているところです。なので、もう一口。あーーん」 | "I'm still not sure, but I'm exploring the possibility that this indeed makes it tastier. One more bite, please. Ahhh..." | “还不清楚，我正在寻找美味的可能性，所以，再来一口，啊——”
+scn00_27_0100 | - | ココロにクレープを食べさせてあげる。 | I feed her some more pieces of crepe. | 我将可丽饼喂给了心。
+scn00_27_0101 | ココロ(Cocoro) | 「……もぐもぐ……もぐもぐ……」 | "Nom nom... Nom nom..." | “……嚼嚼……嚼嚼……”
+scn00_27_0102 | ココロ(Cocoro) | 「……もぐもぐ…………もぐ…………」 | "Nom nom... Nom..." | “……嚼嚼……嚼……”
+scn00_27_0103 | ひなた(Hinata) | 「（じー）……」 | (*stare*...) | “（盯——）……”
+scn00_27_0104 | ココロ(Cocoro) | 「……？　ひなたさんがワタシを見つめている気配を感じます」 | "Huh? I detect that your gaze is focused on me." | “……？　我感觉到日向先生在盯着我看”
+scn00_27_0105 | - | 『わかるの』 | How can you tell? | ‘能感觉出来吗’
+scn00_27_0106 | ココロ(Cocoro) | 「ぼんやりとは見えていますし、息づかいや推測によってですが」 | "I can still see a , and I detected a change in your breathing, which enabled me to guess correctly." | “我能模模糊糊地看到，不过还是通过呼吸推测出来的”
+scn00_27_0107 | ココロ(Cocoro) | 「なぜワタシを見ていたのですか？」 | "Why were you looking at me?" | “为什么要盯着我看呢？”
+scn00_27_0108 | - | 『しあわせそうだったから』 | You look happy. | ‘因为你看上去很幸福’
+scn00_27_0109 | ココロ(Cocoro) | 「幸せ？　ワタシが？」 | "Happy? Me?" | “幸福？　我吗？”
+scn00_27_0110 | ココロ(Cocoro) | 「はて、それを表現しようとはしていませんでしたが。ひなたさんの勘違いでは？」 | "I wasn't actively expressing 'happiness' just now. Are you imagining things, Hinata-san?" | “但我并没有试图表现得很幸福，会不会是日向先生的错觉？”
+scn00_27_0111 | - | 『かもしれない』 | Maybe. | ‘或许是吧’
+scn00_27_0112 | ココロ(Cocoro) | 「かもではなく、そうです」 | "Not 'maybe.' You are." | “不是或许，就是错觉”
+scn00_27_0113 | - | ココロはきっぱり言って、また口を開く。 | Cocoro bluntly says, before opening her mouth again. | 心断言道，然后再次张开了嘴
+scn00_27_0114 | ココロ(Cocoro) | 「あーーん……」 | "Ahhhn..." | “啊——”
+scn00_27_0115 | - | …………。 | ... | …………
+scn00_27_0116 | ココロ(Cocoro) | 「ひなたさん、あーーん」 | "Hinata-san, ahhhn..." | “日向先生，啊——”
+scn00_27_0117 | ひなた(Hinata) | 「（ふるふる）」 | (*shake* *shake*...) | （摇头）
+scn00_27_0118 | ココロ(Cocoro) | 「？　あ、美味しいからもうワタシにわけてあげるのが嫌になりましたか？」 | "Huh? Do you want to keep the rest to yourself because it's so tasty?" | “？　啊，是因为太美味了所以不想分给我吃了吗？”
+scn00_27_0119 | - | 『ちがうよ』 | No, that's not it. | ‘不是啦’

@@ -1,0 +1,59 @@
+scn00_27_0120 | "Vậy thì rốt cuộc là..."
+scn00_27_0121 | 'Miếng ban nãy là miếng cuối cùng rồi đấy.'
+scn00_27_0122 | "Hả...? Hảảả!?"
+scn00_27_0123 | "C-Chẳng lẽ tôi lại tham ăn tới mức chén sạch luôn cả phần bánh của cậu Hinata rồi sao...!?"
+scn00_27_0124 | "...(Gật đầu)"
+scn00_27_0125 | "Sao lại thế được chứ... Tôi được sinh ra là để mang lại hạnh phúc cho con người, vậy mà lại đi cướp mất hạnh phúc của cậu Hinata thế này..."
+scn00_27_0126 | 'Không đâu, cậu cũng chia cho tôi rồi mà.'
+scn00_27_0127 | "Cậu nói dối. Rõ ràng là tôi đã ăn hết phần của cậu Hinata rồi. Chỉ vì bản thân cứ khăng khăng muốn biết thế nào là 'ngon'..."
+scn00_27_0128 | 'Được nhìn thấy Cocoro ăn một cách ngon lành như thế, tôi cũng cảm thấy rất hạnh phúc rồi.'
+scn00_27_0129 | "Lại có chuyện như vậy sao... Rõ ràng đâu có đi qua miệng, họng hay dạ dày của mình, vậy mà cậu vẫn có thể cảm nhận được vị 'ngon' ư?"
+scn00_27_0130 | 'Dù không giống với cảm giác ngon miệng, nhưng niềm hạnh phúc có thể lan tỏa sang người khác đấy.'
+scn00_27_0131 | "...Không thể hiểu nổi. Chẳng lẽ 'hạnh phúc' lại có thể lây lan qua không khí sao..."
+scn00_27_0132 | "..."
+scn00_27_0133 | Chẳng hiểu sao Cocoro lại ỉu xìu cụp mắt xuống.
+scn00_27_0134 | "A... ư..."
+scn00_27_0135 | "Cảm ơn sự quan tâm của cậu. Nhưng đối với tôi, khái niệm hạnh phúc vẫn còn quá đỗi mơ hồ."
+scn00_27_0136 | "Một kẻ như tôi... liệu có thể đem lại hạnh phúc cho cậu Hinata được không đây..."
+scn00_27_0137 | Nhìn Cocoro chìm vào im lặng, lòng tôi cũng dâng lên nỗi niềm tương tự.
+scn00_27_0138 | Liệu có điều gì mà tôi có thể làm cho Cocoro được không?
+scn00_27_0139 | 'Tôi chỉ muốn Cocoro ở bên cạnh tôi.'
+scn00_27_0140 | 'Mãi mãi về sau.'
+scn00_27_0141 | Sau khi viết những dòng ấy lên lòng bàn tay cậu ấy, tôi liền nắm chặt lấy bàn tay đó. Thật chặt, thật ấm áp.
+scn00_27_0142 | "Cậu Hinata..."
+scn00_27_0143 | Cocoro ghé sát mặt lại, cố gắng hết sức dùng đôi mắt chưa thể lấy nét để nhìn rõ tôi.
+scn00_27_0144 | Bàn tay đang siết chặt khẽ kéo tôi lại gần cậu ấy hơn.
+scn00_27_0145 | Khoảng cách giữa hai người thu hẹp lại tới vô cùng, cứ đà này thì sẽ chạm vào nhau mất... môi chạm môi.
+scn00_27_0146 | Ở một nơi đông người qua lại thế này ư?
+scn00_27_0147 | Với một cô bé là người nhân tạo sao?
+scn00_27_0148 | Ngày xưa khi xem phim ảnh hay phim truyền hình, tôi từng thấy rất kỳ lạ trước cảnh các cặp tình nhân chẳng cần nói lời nào mà vẫn ăn ý trao nhau nụ hôn.
+scn00_27_0149 | Họ có ám hiệu gì với nhau sao?
+scn00_27_0150 | Bằng không thì tại sao đột nhiên lại có thể hôn nhau được chứ?
+scn00_27_0151 | Mình làm thế này có được không nhỉ...?
+scn00_27_0152 | Ngay khoảnh khắc tôi định buông xuôi mọi lý trí, thì...
+scn00_27_0153 | "Húuu~ Tình tứ dữ ha~ hai cô cậu đằng kia ơi!"
+scn00_27_0154 | ............
+scn00_27_0155 | "Khoan đã, thế này chẳng phải là quá mức cuồng nhiệt rồi sao hả!!?"
+scn00_27_0156 | "Ai chà chà~~ Quả này đến đúng lúc hỏng ăn rồi."
+scn00_27_0157 | "Gì thế gì thế, có chuyện gì vậy ạ?"
+scn00_27_0158 | Cái gì thế này??
+scn00_27_0159 | Kazane, bé Kosame, và cả chú Kotaro đang không hiểu vì lý do gì mà bế bổng cả bé Kosame lẫn xe lăn trên tay, đột nhiên ùa tới bắt chuyện.
+scn00_27_0160 | Thế rồi, Cocoro thoăn thoắt đứng bật dậy.
+scn00_27_0161 | "Xuất hiện rồi đấy à, lũ côn đồ kia."
+scn00_27_0162 | "Cậu Hinata hãy lùi lại, ở đây cứ giao cho tôi."
+scn00_27_0163 | "??"
+scn00_27_0164 | Cocoro dang tay che chắn trước mặt tôi.
+scn00_27_0165 | "Hì hì hì, bọn ta là dân giang hồ xấu xa, nên đứa nào dám chim chuột tình tứ đều là kẻ thù hết đó nhaaa!"
+scn00_27_0166 | "Ừ thì sự thể là vậy đấy, cho nên bọn chú tới phá đám đây."
+scn00_27_0167 | "Này này, ban nãy hai người họ đang định hôn nhau đúng không hả??"
+scn00_27_0168 | "Chị Kazane, chuyện đó tính sau đi. Phải nhập tâm vào vai diễn đã chứ."
+scn00_27_0169 | "Phải rồi ha. Bọn tao lấy việc phá hoại các cặp tình nhân làm lẽ sống, chính là băng đảng bất hảo của thị trấn này đây. Liệu hồn mà chuẩn bị tinh thần đi!"
+scn00_27_0170 | Tôi kéo tay Cocoro lại từ phía sau.
+scn00_27_0171 | 'Trò hề kịch cợm này là sao đây.'
+scn00_27_0172 | "Kế hoạch hẹn hò Phương án B: Côn đồ tập kích."
+scn00_27_0173 | "Theo tài liệu được chọn lọc kỹ càng của tôi, khi một trong hai người bị côn đồ tấn công rơi vào nguy hiểm, người kia giải cứu thật ngầu thì mối quan hệ của cả hai sẽ thêm gắn kết. Đây là sự kiện kinh điển đấy ạ."
+scn00_27_0174 | Có phải truyện tranh hài tình cảm lãng mạn đâu cơ chứ...
+scn00_27_0175 | Hóa ra là cậu ấy nhờ vả nhóm Kazane đóng giả làm côn đồ à.
+scn00_27_0176 | Thế nhưng trong tình huống này, thông thường phía con trai mới là người đứng ra chiến đấu chứ nhỉ.
+scn00_27_0177 | "Tôi xông lên đây! Te-yaaa!"
+scn00_27_0178 | "Bên này vừa bị đập vào mắt cảnh tình tứ nên đang ngứa mắt lắm đây này, tao sẽ ra tay thật đấy! Nhào vôôô!"

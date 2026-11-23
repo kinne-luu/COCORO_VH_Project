@@ -1,0 +1,60 @@
+# scene=scn00_36 batch=1/4 dòng 1-56 / 241
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_36_0001 | 研究者Ｂ(Researcher B) | 「ＣＣＲ－０１、答えなさい。花はどうして美しい？」 | "CCR-01, answer me. Why are flowers so beautiful?" | “CCR-01，请回答，花为什么美丽？”
+scn00_36_0002 | ＣＣＲ－０１(CCR-01) | 「……わかりません」 | "I don't know." | “……我不知道”
+scn00_36_0003 | 研究者Ｃ(Researcher C) | 「なんでもいい、答えるんだ」 | "You have to give an answer. Anything is fine." | “随便回答一个就行了”
+scn00_36_0004 | ＣＣＲ－０１(CCR-01) | 「……花が美しいのは、その形状が整っているからではないかと推測できます。また彩りも豊かで、そういったものをヒトは美しいと感じやすいです」 | "I can recognize that flowers are beautiful because of their intricate shapes and rich variety in colors. Humans tend to find such things appealing." | “……我推测花之所以美丽，是因为其形状十分规则，色彩也很丰富，而人类会比较容易对这类事物感到美丽”
+scn00_36_0005 | 研究者Ｂ(Researcher B) | 「ふむ……。他には？」 | "Hmm... Anything else?" | “唔呣……还有吗？”
+scn00_36_0006 | ＣＣＲ－０１(CCR-01) | 「花を美しいと感じるのは、ヒトが進化の過程で獲得した、本能的に有している根源的な感性である可能性があります」 | "It's possible that humans developed an instinctive sense of aesthetic during their evolution process that causes them to find flowers beautiful." | “人之所以能够感受到花很美丽，有可能是在进化过程中获得了根源感性这一本能”
+scn00_36_0007 | ＣＣＲ－０１(CCR-01) | 「その場合、ワタシにその能力が備わっていなくても不思議ではありません。ワタシはヒトではありません」 | "If that is the case, it's highly unlikely that I possess that ability, because I'm not a human." | “这样的话，我没有这个能力也就并不奇怪了，因为我不是人类”
+scn00_36_0008 | 研究者Ｂ(Researcher B) | 「花以外でもいい、あなたが美しいと感じるものはある？」 | "Is there anything you find beautiful? It doesn't have to be flowers." | “说花以外的也可以，有什么东西会让你感觉到美丽吗？”
+scn00_36_0009 | ＣＣＲ－０１(CCR-01) | 「美しいと認識できるものはあります。完璧なシンメトリー、複雑で整った幾何学模様、[にご]濁りのないグラデーション、澄んだ音――」 | "There are things that I recognize are beautiful. Perfect symmetry, complex and well-shaped geometric patterns, color gradients, clear sounds—" | “有能够让我识别为美丽的事物，比如完美的对称，复杂且规则的几何学模型，自然的渐变，悦耳的声音——”
+scn00_36_0010 | 研究者Ｂ(Researcher B) | 「美しいものを見た時、あなたは何を感じている？」 | "What do you feel when you see something beautiful?" | “你在看到美丽事物时，会感觉到什么？”
+scn00_36_0011 | ＣＣＲ－０１(CCR-01) | 「感じる……？　わかりません。感じるとはなんでしょう」 | "Feel...? I don't know. What does it mean to feel?" | “感觉……？　我不知道，感觉是什么意思呢”
+scn00_36_0012 | 研究者Ｂ(Researcher B) | 「まるで哲学的ゾンビね……。人のように考え、感情があるかのように振る舞っていてもクオリアはない」 | "You're like a philosophical zombie... You think like a human and act as if you have feelings like a human, yet you have no qualia." | “就像是哲学上的僵尸啊……能像人类那样进行思考，行为举止也都像是拥有感情一样，但却没有感受质”
+scn00_36_0013 | 研究者Ｂ(Researcher B) | 「だから花を見て美しいと判断できても、その美しさから何かを得ているわけじゃないのよ」 | "Even though you can look at a flower and consider it beautiful, that doesn't mean you gain anything from its beauty." | “所以即便在看到花后能判断出花很美丽，也无法从那个美丽上得到任何东西啊”
+scn00_36_0014 | 研究者Ｃ(Researcher C) | 「感情回路は感情を生み出しているはずでは」 | "Aren't its emotional circuits supposed to output emotions?" | “感情回路不应该会孕育出感情吗”
+scn00_36_0015 | 研究者Ｂ(Researcher B) | 「三峯博士の設計した感情回路はブラックボックス。設計図を見ても、製造工程を見ていても、誰にも理解できなかった」 | "The emotional circuits designed by Dr. Mitsumine are like a black box. No one has been able to analyze and understand the blueprints or manufacturing process." | “三峯博士设计的感情回路是个黑盒，就算看了设计图和制作工序，也没有人能力理解”
+scn00_36_0016 | 研究者Ｃ(Researcher C) | 「肝心の三峯博士はもうこの世にいませんしね……」 | "And Dr. Mitsumine isn't around anymore to answer our questions..." | “毕竟最重要的三峯博士已经不在人世了啊……”
+scn00_36_0017 | 研究者Ｂ(Researcher B) | 「ええ。つまりお手上げよ」 | "Right. We're stumped here." | “是啊，所以现在就束手无策了啊”
+scn00_36_0018 | 研究者Ｂ(Researcher B) | 「一度、メモリーをデリートして、一から学習し直す事を検討した方がいいのかもしれない」 | "Maybe we should consider formatting its memory and having it relearn everything from scratch." | “或许应该讨论一下先删除掉记忆，然后从零开始重新学习的事了”
+scn00_36_0019 | ＣＣＲ－０１(CCR-01) | （メモリーをデリート……） | (Formatting my memory...) | （删除记忆……）
+scn00_36_0020 | - | つまり、ワタシがこのセカイに生み出されて、今日までの記憶を全て消去するという事。 | That would mean erasing all my memories from the day I was born into this world until today. | 也就是说，我从出生在这个世界上开始到今天的记忆全都会被消除。
+scn00_36_0021 | ＣＣＲ－０１(CCR-01) | （実験が上手くいくのなら、そうするべき） | (If that would help the experiment succeed, then that's what they should do.) | （想要实验顺利进行的话，确实应该这样做）
+scn00_36_0022 | - | だってワタシは実験機。テストに合格できないなら、やり直すのが最適な対応。 | I was a prototype. If I couldn't pass the tests, it would be appropriate to start over from the beginning. | 我毕竟是实验机，如果不能通过测试，那最好的办法就是从头再来。
+scn00_36_0023 | - | それが正しい手順であると１００％理解している。なのに―― | I fully understood, a hundred percent, that that was the correct process. However... | 我100\%理解这是正确方式，可是——
+scn00_36_0024 | ＣＣＲ－０１(CCR-01) | （感情回路がネガティブに反応している。……理解不能、エラーとして処理します） | (My emotional circuits are giving a negative reaction. I don't understand... I will process it as an error.) | （感情回路却出现了消极的反应……无法理解，将其作为错误进行处理）
+scn00_36_0025 | 研究者Ｃ(Researcher C) | 「いっそ……ＣＣＲ－０１の廃棄も視野に入れた方がいいのではないですか？」 | "At this rate... Maybe we should also start considering the possibility that the CCR-01 may need to be scrapped." | “或者……是不是应该考虑一下干脆将CCR-01废弃掉的事？”
+scn00_36_0026 | 研究者Ｂ(Researcher B) | 「……」 | "..." | “……”
+scn00_36_0027 | 研究者Ｃ(Researcher C) | 「三峯博士は未完成な実験機を残して亡くなりました。先生がその尻拭いをする必要はありません」 | "Dr. Mitsumine passed away and left behind an unfinished prototype. We're under no obligation to finish her work." | “三峯博士留下未完成的实验机便去世了，老师没有必要去给她善后”
+scn00_36_0028 | 研究者Ｃ(Researcher C) | 「もしＣＣＲプロジェクトが上手くいっても、三峯博士の手柄になってしまいます」 | "Besides, even if the CCR project ends up succeeding, the credit would go to Dr. Mitsumine." | “而且就算CCR计划能够顺利进行，最后也都会变成三峯博士的功劳”
+scn00_36_0029 | 研究者Ｃ(Researcher C) | 「それより、先生が新たに設計したＣＣＲ－０２に引き[つ]継ぐべきです」 | "I think we should shift our focus to finishing the newer CCR-02 model that you designed." | “我认为，不如将重心转移到老师新设计出的CCR-02上面”
+scn00_36_0030 | 研究者Ｂ(Researcher B) | 「……そうね。考えてみましょう」 | "...Right. I'll think about it." | “……也是啊，让我考虑考虑吧”
+scn00_36_0031 | 研究者Ｃ(Researcher C) | 「はい」 | "Please do." | “好”
+scn00_36_0032 | ＣＣＲ－０１(CCR-01) | （ＣＣＲ－０２……？　ワタシの後継機……） | (CCR-02? My successor...) | （CCR-02？　我的后代机……）
+scn00_36_0033 | - | どうやらワタシはテストに失敗したとみなされたらしい。 | It sounded like I was judged to have failed my test. | 看来我是被认定为测试失败了。
+scn00_36_0034 | - | メモリーを消去され、最悪ボディごと廃棄されるかもしれない。 | My memory was to be erased, and in the worst case, my entire body would be scrapped. | 我的记忆将会被消除，最坏的情况是连身体也会被一同废弃掉。
+scn00_36_0035 | - | いずれにせよ、リプログラムされた時点で、ワタシがワタシであると考えている部分は消えてなくなる。 | In any case, if I were to be reprogrammed, the part that I thought of as "me" would disappear. | 无论如何，在被重新编程后，我的自我认知部分就会消失。
+scn00_36_0036 | - | ボディをいくらでも作り直せる我々にとって、唯一ユニークなパーツは記憶。 | Our bodies could be modified in any way, so the only part unique to us was our memory. | 对于可以随意制作身体的我们来说，唯一独特的零件就是记忆。
+scn00_36_0037 | - | 記憶もコピーはできるが、一度消えたら、同じものを作り出す事はできない。 | It could be copied, but once it disappeared, it was impossible to recreate it in exactly the same way. | 记忆虽然也能被复制，但一旦消失就再也无法制作出同样的了。
+scn00_36_0038 | ＣＣＲ－０１(CCR-01) | （……そうか……これが『死』） | (I see... So 's what "death" is...) | （……这样啊……这就是‘死亡’）
+scn00_36_0039 | - | メモリーがこのセカイから消えてなくなる事が、ワタシにとっての『死』なのだ。 | To me, having my memory erased from this world would mean "death." | 记忆从这个世界上消失，就是对我而言的‘死亡’。
+scn00_36_0040 | ＣＣＲ－０１(CCR-01) | （失敗作である事に異論はありません。リプログラムも廃棄処分も適正な処理であると考えます） | (I do not dispute that I'm a failed prototype. I agree that it would be appropriate to either reprogram me or dispose of me.) | （我认同自己是失败作这一点，我认为重新编程和废弃处理都是正确的处理方式）
+scn00_36_0041 | - | 感情回路がうるさくアラートを鳴らしてくる。 | Yet my emotional circuits were sending out distress signals. | 感情回路一直发出着烦人的警报声。
+scn00_36_0042 | - | ワタシはそれをエラーとして処理する。 | I treated those as errors. | 我将其作为错误进行了处理。
+scn00_36_0043 | - | ヒトの役に立つために生み出されたワタシが、ヒトの手を[わずら]煩わせるわけにはいかない。 | I was created to be useful to humans, so it wouldn't be right for me to cause trouble for them. | 我是为了帮助人类而诞生的，不能给人类添麻烦。
+scn00_36_0044 | - | 『死』を受け入れる事が、最も合理的であると判断できた。 | I knew that accepting my "death" would be the proper thing to do. | 我判断接受‘死亡’才是最合理的。
+scn00_36_0045 | ＣＣＲ－０１(CCR-01) | 「もうここへは来られなくなりました」 | "I won't be able to come here anymore." | “我之后再也来不了这里了”
+scn00_36_0046 | - | ワタシがそれを告げると、子どもはショックを受けた様子だった。 | The child looked shocked when I told him that. | 我说出这句话后，那孩子似乎很受打击。
+scn00_36_0047 | 子ども(Child) | 「……え、どうして？」 | "Huh? Why not?" | “……哎，为什么？”
+scn00_36_0048 | ＣＣＲ－０１(CCR-01) | 「機密事項に抵触するため言えません。オトナの事情というやつです」 | "That's confidential information, so I can't say. It's complicated." | “这触及到机密事项我不能说，算是有点隐情吧”
+scn00_36_0049 | - | ワタシは機密事項の[かたまり]塊。歩くトップシークレットと言って過言ではない。 | Both my body and memory were filled with confidential information. I was like a walking top secret. | 我就是机密事项的集合体，说是行走的顶级机密也不为过。
+scn00_36_0050 | - | ゆえに、ただの一般人である子どもに教えてあげられる事は何もなかった。 | Therefore, there wasn't much that I could say to an ordinary boy like him. | 因此，我也没有任何能告诉这个普通小孩子的事。
+scn00_36_0051 | - | ただひとつ、もう逢えなくなるという事実以外。 | Except for the single truth that we couldn't see each other anymore. | 除了再也见不到了这个事实以外。
+scn00_36_0052 | ＣＣＲ－０１(CCR-01) | 「あなたはワタシに植物の知識を話すのを楽しんでおられたようなので、念のためお伝えしておこうかと」 | "You seem to enjoy sharing your knowledge of plants with me, so I thought I should let you know." | “感觉你好像很喜欢对我讲解植物的知识，所以以防万一我想先通知你一下”
+scn00_36_0053 | 子ども(Child) | 「もう会えないの？」 | "We won't be able to see each other anymore?" | “再也见不到了吗？”
+scn00_36_0054 | ＣＣＲ－０１(CCR-01) | 「あなたは会えるかもしれません。でも、ワタシは恐らく会えないでしょう」 | "You might see me again, but I probably won't be able to see you." | “你或许可以再见到我，但是‘我’恐怕是再也见不到你了吧”
+scn00_36_0055 | 子ども(Child) | 「どういう意味……？」 | "What do you mean...?" | “什么意思……？”
+scn00_36_0056 | ＣＣＲ－０１(CCR-01) | 「……」 | "..." | “……”

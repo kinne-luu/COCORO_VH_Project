@@ -1,0 +1,64 @@
+# scene=scn00_42 batch=4/7 dòng 181-240 / 428
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_42_0181 | 光太郎(Kotaro) | 「見せつけてくれるじゃないの」 | "You showoffs!" | “是在晒给我们看吗”
+scn00_42_0182 | こさめ(Kosame) | 「わぁ～～」 | "Wow!" | “哇～～”
+scn00_42_0183 | 風音(Kazane) | 「ちょっ、とばしていいって！！？」 | "Hey, I said we could skip it!" | “喂，我都说可以跳过了啊！！？”
+scn00_42_0184 | ひなた(Hinata) | 「ちょ、ココロ」 | "Hey, Cocoro!" | “等下，心”
+scn00_42_0185 | ココロ(Cocoro) | 「？」 | "Huh?" | “？”
+scn00_42_0186 | - | みんなの様子に気付いたココロが、首をかしげる。 | When Cocoro notices everyone's stares, she tilts her head in confusion. | 注意到大家的样子后，心疑惑地歪起了头。
+scn00_42_0187 | ココロ(Cocoro) | 「ワタシはまた間違えましたか？」 | "Did I make another mistake?" | “我又做错什么了吗？”
+scn00_42_0188 | 風音(Kazane) | 「あー……ま、いいんじゃない？　あんたたちの本気がみんなに伝わって」 | "Ahh... No, it's fine. You've definitely shown us that you're serious about this." | “啊……算了，这样不也挺好的嘛？　你们的真心也都传达给大家了”
+scn00_42_0189 | - | リハーサルに参加するためだったり、たんに興味半分で見に来ていた人たちに、俺たちがほんとに好き合ってるんだというのが伝わっただろう。 | Some people came to participate in the rehearsal, while others were curious to check out the venue. Either way, I'm sure they can tell now that Cocoro and I are really a couple. | 大概是将我们真的很喜欢对方这一点，传达给了来参加彩排和单纯出于兴趣来看的人们吧。
+scn00_42_0190 | 風音(Kazane) | 「で、退場しておしまい……か」 | "Finally, there's the recessional... Right?" | “然后，就是结束退场了啊……”
+scn00_42_0191 | 大地(Daichi) | 「次は披露宴会場へ移動だな！」 | "Yup, and then we'll move to the reception venue!" | “接下来就是要去婚宴会场了对吧！”
+scn00_42_0192 | - | 披露宴会場は公民館だった建物で、海岸に近い。 | The reception will be held at an old community center near the beach. | 婚宴会场是曾经的公民馆，距离海岸很近。
+scn00_42_0193 | - | 列席者の人数が読めないのもあって、砂浜でバーベキューをする事になっていた。 | Since we're not sure how many people will actually show up, we decided to host a barbecue on the beach. | 因为也不确定出席者人数，所以便决定在沙滩上进行烧烤活动。
+scn00_42_0194 | - | 俺とココロが料理をして、みなさんに振る舞う予定だ。 | Cocoro and I will handle the cooking and help serve the guests. | 计划是由我和心来做料理招待大家。
+scn00_42_0195 | ココロ(Cocoro) | 「腕が鳴ります。列席者のみなさまに、ワタシの『美味しい』を見せつけてやります」 | "I can't wait to show off my cooking skills to everyone. I'll cook the tastiest food they've ever had!" | “我已经手痒难耐了，我会向各位出席者们展示属于我的‘美味’”
+scn00_42_0196 | - | ココロはやる気だ。 | Cocoro is determined to make it a success. | 心很有干劲。
+scn00_42_0197 | 大地(Daichi) | 「ケーキもとっておきのを用意するから、楽しみにしといてくれよ！」 | "I'll make sure the cake will be a very special one, so look forward to it!" | “蛋糕我也准备了个特制的，敬请期待！”
+scn00_42_0198 | - | 大地も張り切ってくれている。 | Daichi's in high spirits, too. | 大地也干劲十足。
+scn00_42_0199 | 風音(Kazane) | 「えーっと、何か見落としはないかな……」 | "Um, is there anything we've missed...?" | “我想想，应该没什么遗漏的部分了吧……”
+scn00_42_0200 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_42_0201 | - | 時間が空いて暇になり、ココロが屈みこむ。 | Having nothing to do for the moment, Cocoro stands off to the side, looking at the ground. | 闲下来之后，心便俯下了身。
+scn00_42_0202 | こさめ(Kosame) | 「ココちゃん、何を見てるの？」 | "Coco-chan, what are you looking at?" | “心儿，你在看什么呢？”
+scn00_42_0203 | ココロ(Cocoro) | 「花です」 | "The flowers." | “在看花”
+scn00_42_0204 | こさめ(Kosame) | 「？　咲いてないよ」 | "Huh? There's no flowers." | “？　还没开呢”
+scn00_42_0205 | ココロ(Cocoro) | 「はい。この子はナツノシラユキといって、もうすぐ咲くはずの花です」 | "Not . These little ones are called 'summer snows,' and they're going to bloom soon." | “是的，它的名字是夏之白雪，应该就快要开花了”
+scn00_42_0206 | こさめ(Kosame) | 「ふぅん」 | "Ohh..." | “唔——”
+scn00_42_0207 | ココロ(Cocoro) | 「……この花が咲くと、フィアンセが逢いに来てくれて、結婚してくれると約束していました」 | "I once made a promise that when these flowers bloom, I would meet with my fiancé, and we would get married." | “……未婚夫和我约好了，等这朵花一开，他就会来见我，然后和我结婚”
+scn00_42_0208 | こさめ(Kosame) | 「それって、ひなたさん？」 | "Was that with Hinata-san?" | “那个未婚夫就是日向先生？”
+scn00_42_0209 | ココロ(Cocoro) | 「はい、そうです」 | "Yes, it was." | “是的，就是这样”
+scn00_42_0210 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_42_0211 | - | ココロの横顔は、どこか不安げだ。 | When I catch a glimpse of Cocoro's face in profile, she looks a bit anxious. | 心的侧颜看上去有些不安。
+scn00_42_0212 | こさめ(Kosame) | 「……どうかした？」 | "What's wrong?" | “……怎么了？”
+scn00_42_0213 | ココロ(Cocoro) | 「約束はもう一つありました」 | "We also made a second promise." | “还有另一个约定”
+scn00_42_0214 | ココロ(Cocoro) | 「……ナツノシラユキが咲けば、ワタシにもきっと、花がどうして美しいのか分かる」 | "When the summer snows bloom, I'm supposed to be able to understand why they're so beautiful." | “……等到夏之白雪开花，我就肯定能明白花为什么美丽了”
+scn00_42_0215 | ココロ(Cocoro) | 「それが、ワタシがフィアンセと結婚をしてもいい条件だったのです」 | "If I can't, I don't deserve to marry my fiancé..." | “这就是我可以和未婚夫结婚的前提”
+scn00_42_0216 | ココロ(Cocoro) | 「花は植物の心です。……ワタシはナツノシラユキの心を正しく受け取れるでしょうか」 | "Flowers are like the soul of a plant... But will I really be able to see the souls of the summer snows?" | “花是植物的心……我能够真正理解夏之白雪的心吗”
+scn00_42_0217 | ココロ(Cocoro) | 「もし、何も感じなかったらと思うと……」 | "What if I don't feel anything when I see them...?" | “一想到万一，我什么都感觉不到……”
+scn00_42_0218 | こさめ(Kosame) | 「ココちゃん……」 | "Coco-chan..." | “心儿……”
+scn00_42_0219 | - | 母さんはどうして庭で花を育てていたのだろう。 | Why did Mom grow flowers in our garden? | 妈妈为什么会在院子里养花呢？
+scn00_42_0220 | - | 手間暇をかけて世話をした植物が綺麗な花を咲かせると嬉しいから。 | Because it made her happy to see them bloom after she spent so much time raising and caring for them. | 是因为在看到花时间照顾的植物开出漂亮的花朵后会感到很开心。
+scn00_42_0221 | - | なぜ嬉しいと思うのか。 | But why did it make her happy? | 为什么会感到开心呢？
+scn00_42_0222 | - | それはきっと、花を咲かせる事で、植物が答えてくれたように感じるからだ。 | It must have been because she felt the flowers were expressing their gratitude by blooming for her. | 这肯定是因为感觉植物开花是在回应自己吧。
+scn00_42_0223 | - | だから、より一層、美しいと感じていたに違いない。 | Those feelings made them seem all the more beautiful. | 所以，就更能感受到它的美丽了。
+scn00_42_0224 | - | 『厄災』で人がいなくなった後、ココロはひとりぼっちで植物園の世話をしていた。 | After the Calamity, Cocoro stayed in the garden by herself to take care of the plants. | 在人们因为‘灾厄’都离开了这里之后，心便一个人独自打理着植物园。
+scn00_42_0225 | - | ナツノシラユキがいつか咲くようにと、毎日、水をやって観察をしてきた。 | She watered and observed the summer snows every day, hoping they would bloom. | 为了让夏之白雪开花，她每天都会浇水并观察。
+scn00_42_0226 | - | 大きな期待は裏切られた時、深い失望へと変わる。それを予感して、ココロは不安になっている。 | The greater your expectations, the greater the disappointment will be when things don't turn out as you'd hoped. That's why Cocoro is so anxious. | 期望越大，失望就会越大，心就是预感到了这一点才变得不安了起来。
+scn00_42_0227 | ひなた(Hinata) | （大丈夫、今のココロならきっと、美しさを感じられるはず） | (She'll be fine. I'm sure that Cocoro will be able to feel the beauty of the flowers in her soul.) | （没关系，现在的心肯定能感受到美丽）
+scn00_42_0228 | - | 離れたところで通信機の呼び出し音が鳴った。 | Somewhere in the distance, a walkie-talkie beeps. | 远处响起了对讲机的呼叫声。
+scn00_42_0229 | 光太郎(Kotaro) | 「はい、こちら光太郎。……なんだって？　わかった、すぐ行く」 | "Yes, Kotaro here... What? Roger, I'm on my way." | “喂，我是光太郎……你说什么？　我知道了，我现在就过去”
+scn00_42_0230 | 霧香(Kirika) | 「どうしたの？」 | "What's wrong?" | “怎么了？”
+scn00_42_0231 | 光太郎(Kotaro) | 「ジャバウォックが……」 | "It's the Jabberwock..." | “是贾巴沃克……”
+scn00_42_0232 | 霧香(Kirika) | 「なんですって？」 | "What?" | “你说什么？”
+scn00_42_0233 | - | 光太郎さんと霧香さんは、慌てた様子で出て行った。 | Kotaro-san and Kirika-san rush outside. | 光太郎先生和雾香小姐慌慌张张地离开了。
+scn00_42_0234 | ひなた(Hinata) | （今、ジャバウォックって……） | (Did they say "Jabberwock"...?) | （刚刚，他们在说贾巴沃克……）
+scn00_42_0235 | 風音(Kazane) | 「うん、完璧！　後は飾り付けをやって、披露宴でやる歌とダンスの練習をするだけだな」 | "All right, perfect! Now all we've got to do is finish the decorations and practice the songs and dances we'll perform at the reception." | “嗯，完美！　然后就只剩下布置好装饰，还有练习婚宴上的歌舞了”
+scn00_42_0236 | 大地(Daichi) | 「マジでやんのかよ……」 | "Do I really have to do this...?" | “真的要做吗……”
+scn00_42_0237 | 風音(Kazane) | 「ったりまえでしょうが！　うちらは友人代表よ？」 | "Of course! We're representing their friends, remember?" | “那当然了啊！　咱们可是朋友代表哦？”
+scn00_42_0238 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_42_0239 | ひなた(Hinata) | 「ココロ？」 | "Cocoro?" | “心？”
+scn00_42_0240 | - | ナツノシラユキを見ていたはずのココロが、どこか遠くに視線をやっていた。 | Cocoro had been looking at the summer snows, but now her gaze drifts off into the distance. | 本应盯着夏之白雪看的心，现在却将视线望向了远方。

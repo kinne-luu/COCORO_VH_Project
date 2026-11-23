@@ -1,0 +1,54 @@
+scn00_28_0301 | Nếu có dịp nào khiến tôi liên tưởng đến, thì chỉ có thể là ngày sinh nhật của tôi mà thôi.
+scn00_28_0302 | Khi ấy, cha tôi vốn bận rộn tối ngày với cương vị Thị trưởng, ngay cả vào ngày sinh nhật của tôi ông cũng chẳng có mặt ở nhà.
+scn00_28_0303 | ...À không, người không có nhà lúc đó là mình thì đúng hơn.
+scn00_28_0304 | Tôi nhớ sau khi trở về từ vườn bách thảo, trong tủ lạnh có sẵn một chiếc bánh kem. Nhưng tôi đã chẳng hề đụng đến một miếng.
+scn00_28_0305 | Biết đâu đây lại chính là món quà sinh nhật mà cha đã lỡ mất dịp trao tận tay cho tôi?
+scn00_28_0306 | Thế nhưng, tại sao nó lại nằm ở nơi này?
+scn00_28_0307 | Còn vết máu lưu lại trên lớp giấy gói kia là thế nào?
+scn00_28_0308 | Đêm xảy ra thảm họa "Ách Tai"... cha từng có mặt ở đây sao?
+scn00_28_0309 | Tiếng đáp xuống của chiếc flycam vốn đang lơ lửng dừng lại giữa không trung kéo tôi quay đầu nhìn lại.
+scn00_28_0310 | Chẳng biết tự lúc nào Cocoro đã quay trở lại.
+scn00_28_0311 | "............"
+scn00_28_0312 | Cocoro đang lặng lẽ nhìn chằm chằm về phía tôi.
+scn00_28_0313 | Ánh mắt ấy lạnh lùng đến rợn người.
+scn00_28_0314 | "Việc cần làm đã xong xuôi rồi đúng không ạ. Vậy thì chúng ta rời khỏi đây thôi. Ở lại đây chưa chắc đã an toàn đâu."
+scn00_28_0315 | Trong giọng nói của cậu ấy cũng chẳng còn vương chút sắc thái cảm xúc nào.
+scn00_28_0316 | "Tôi hiểu rồi"... vừa định nắm lấy tay cậu ấy để nhắn nhủ câu đó, Cocoro đã khẽ lách tay ra như muốn lẩn tránh, rồi lạnh lùng rảo bước đi trước tôi.
+scn00_28_0317 | ...Cocoro?
+scn00_28_0318 | Tôi rảo bước đuổi kịp, toan nắm tay cậu ấy như lúc mới đến, nhưng Cocoro dường như cố tình né tránh, thoăn thoắt đi nhanh hơn ở phía trước.
+scn00_28_0319 | Cho tới tận lúc về đến phòng, tôi chẳng thể chạm vào tay Cocoro được lấy một lần, và cậu ấy cũng tuyệt nhiên không quay đầu nhìn lại dù chỉ một lần.
+scn00_28_0320 | Sau khi trở về phòng, tôi ngồi ngắm nghía cuốn từ điển thực vật.
+scn00_28_0321 | Giả sử đây thực sự là món quà cha chuẩn bị cho tôi,
+scn00_28_0322 | thì cớ sao nó lại nằm ở một nơi như thế chứ?
+scn00_28_0323 | Chưa kể đến vết máu còn vương trên giấy bọc.
+scn00_28_0324 | Trông nó hệt như dấu tích khi có một bàn tay dính máu chạm vào.
+scn00_28_0325 | Tôi đưa ngón tay khẽ miết lên trán mình.
+scn00_28_0326 | Dù nhìn bằng mắt thường gần như không còn thấy dấu vết gì, nhưng sờ vào vẫn có thể cảm nhận rõ những đường khâu vết thương ngày ấy.
+scn00_28_0327 | Đêm "Ách Tai" hôm ấy, cha đã có mặt ở vườn bách thảo sao...?
+scn00_28_0328 | Bấy lâu nay tôi luôn tự hỏi, rốt cuộc ai là người đã cứu lấy tôi khi tôi ngất lịm đi.
+scn00_28_0329 | Là cha sao?
+scn00_28_0330 | Làm sao có chuyện đó được.
+scn00_28_0331 | Nếu đúng là thế, cớ sao ông ấy chưa từng hé răng lấy một lời?
+scn00_28_0332 | Thật chẳng hiểu ra làm sao nữa...
+scn00_28_0333 | Tôi cứ ngỡ chuyện giữa mình và cha đã hoàn toàn dứt khoát từ lâu rồi.
+scn00_28_0334 | Bởi ngay từ khoảnh khắc được dì Kirika nhận nuôi, tôi đã xem như mình đoạn tuyệt tình phụ tử với ông ấy.
+scn00_28_0335 | Nhưng thực chất, tôi chỉ vùi sâu nỗi niềm ấy vào đáy lòng để cố tình nhắm mắt làm ngơ mà thôi.
+scn00_28_0336 | Chính vì vậy, ngày quay trở lại thành phố Tsukumo, khi nghe người ta xì xào "nó là con trai của ngài cựu Thị trưởng đấy", tôi đã chẳng thể giấu nổi nét bực bội khó chịu trên mặt.
+scn00_28_0337 | Giờ đây, khi vô tình phát hiện ra dấu vết hành động khó hiểu của cha, lòng tôi lại rơi vào mớ bòng bong bối rối khôn nguôi.
+scn00_28_0338 | "Cậu Hinata."
+scn00_28_0339 | "...?"
+scn00_28_0340 | "Tôi nghĩ đã đến lúc đi ngủ rồi ạ. Việc này sẽ ảnh hưởng tới sinh hoạt ngày mai, tôi kiến nghị cậu nên tạm dừng việc đọc sách tại đây."
+scn00_28_0341 | "...A... ư..."
+scn00_28_0342 | Ừ, cậu nói phải.
+scn00_28_0343 | Cocoro trải đệm giúp tôi.
+scn00_28_0344 | "Vậy thì chúc cậu ngủ ngon."
+scn00_28_0345 | Ủa? Đệm của Cocoro đâu rồi?
+scn00_28_0346 | "Tôi sẽ ngủ ở đằng kia. Đêm nay tôi muốn tranh thủ sạc điện."
+scn00_28_0347 | "..."
+scn00_28_0348 | Dạo gần đây cậu ấy có bao giờ muốn để lộ dáng vẻ lúc đang sạc điện cho tôi thấy đâu cơ chứ.
+scn00_28_0349 | "Vậy một lần nữa, chúc cậu một giấc ngủ an lành."
+scn00_28_0350 | Cocoro tắt đèn trong phòng rồi đứng thẳng tắp sát mép tường, tiến vào trạng thái ngủ đông.
+scn00_28_0351 | Trông hệt như một cỗ máy robot vậy.
+scn00_28_0352 | Mà khoan, nói hệt như là sao chứ, vốn dĩ Cocoro chính là...
+scn00_28_0353 | Một phần vì tâm trí còn ngập tràn những suy nghĩ về cha, tôi cũng không nghĩ ngợi thêm nhiều mà dần chìm vào giấc ngủ.
+scn00_28_0354 | Sáng hôm sau, khi tôi tỉnh giấc, Cocoro đã biến mất không còn tăm hơi.

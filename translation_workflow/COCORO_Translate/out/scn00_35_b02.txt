@@ -1,0 +1,60 @@
+scn00_35_0060 | Chỉ cần đưa ra câu trả lời cho thắc mắc đang lặp vô tận ấy là được sao? Làm như thế sẽ giải tỏa được trạng thái tràn bộ nhớ.
+scn00_35_0061 | <Nhưng chúng ta phải biết Cocoro đang trăn trở về câu hỏi nào đã chứ.>
+scn00_35_0062 | Vả lại, nếu là câu hỏi có thể dễ dàng tìm ra lời giải thì mạch tư duy đã chẳng bị tràn như thế này.
+scn00_35_0063 | Trên màn hình thiết bị đầu cuối bỗng hiển thị một thứ gì đó.
+scn00_35_0064 | Một màn đêm tăm tối thăm thẳm đang chầm chậm lắng đọng, chập chờn dao động.
+scn00_35_0065 | <Cái này là gì vậy?>
+scn00_35_0066 | <Trái... tim... của... chị... gái...>
+scn00_35_0067 | Trái tim của Cocoro?
+scn00_35_0068 | Phải chăng đây là khung cảnh được mô phỏng lại từ tận sâu trong tâm trí của cô ấy?
+scn00_35_0069 | "Ư... a... a...!?"
+scn00_35_0070 | Một tiếng rít chói tai 'kétttttt' đâm toạc màng nhĩ khiến tôi bất giác nhăn mặt vì đau đớn.
+scn00_35_0071 | <Tiếng... nói... của... chị... gái...>
+scn00_35_0072 | <Vừa rồi là tiếng của Cocoro sao?>
+scn00_35_0073 | Có lẽ câu hỏi đang lặp đi lặp lại với tốc độ cực đại đã biến thành âm thanh chói gắt ấy chăng.
+scn00_35_0074 | <Chị ấy đang nói gì vậy?>
+scn00_35_0075 | Thay vì trả lời, CCR-02 cho hiển thị một dòng ký tự lên màn hình.
+scn00_35_0076 | ...Vì sao hoa lại đẹp đẽ đến thế?
+scn00_35_0077 | Ra đây chính là câu hỏi tuyệt đối không có lời giải đáp đối với Cocoro sao.
+scn00_35_0078 | <Em... không... hiểu... Liệu... anh... Hinata... có... hiểu... không...?>
+scn00_35_0079 | Tôi khẽ lắc đầu.
+scn00_35_0080 | <Anh không dám chắc đây có phải câu trả lời mà Cocoro mong muốn hay không. Nhưng anh đã từng hứa sẽ trao cho cô ấy đáp án này.>
+scn00_35_0081 | <Xin... anh... hãy... cứu... chị... em... với...>
+scn00_35_0082 | Tôi gật đầu. Tôi đến tận đây chính là vì điều đó.
+scn00_35_0083 | Thế nhưng trước khi trả lời câu hỏi, vẫn còn một vấn đề nan giải chắn đường.
+scn00_35_0084 | <Phải tìm cách truy cập được vào mạch tư duy của Cocoro đã.>
+scn00_35_0085 | Cocoro đang nhắm nghiền mắt, cả cảm biến thính giác cũng đã tắt hoàn toàn.
+scn00_35_0086 | Cố truy cập từ thiết bị đầu cuối thì cũng bị cự tuyệt như ban nãy, chẳng có cách nào để đối thoại cùng cô ấy.
+scn00_35_0087 | Tôi có điều muốn nói với cậu... Hãy nói chuyện với tôi đi mà, Cocoro.
+scn00_35_0088 | Tôi nắm lấy bàn tay của Cocoro. Hệt như một kẻ ngây thơ tin rằng cảm xúc có thể truyền tải qua đôi bàn tay đang đan chặt vào nhau.
+scn00_35_0089 | Ủa? Sao Cocoro lại nắm chặt bàn tay thế kia?
+scn00_35_0090 | Cocoro vẫn đang siết chặt bàn tay trái. Có vẻ như cô ấy đã chìm vào giấc ngủ sâu trong tư thế đó nên các khớp ngón tay đã cứng đờ lại.
+scn00_35_0091 | Tôi thử gỡ bàn tay ấy ra, nhưng lực siết quá mạnh nên không tài nào mở ra được.
+scn00_35_0092 | Bàn tay phía bên kia thì lại buông lơi, chẳng hề có chút lực nào.
+scn00_35_0093 | Tôi siết chặt bàn tay buông lơi ấy, như muốn gửi gắm trọn vẹn tâm can mình vào trong.
+scn00_35_0094 | \n\n\n\nVì sao hoa lại đẹp đẽ đến thế?
+scn00_35_0095 | %n;#00ff0000;Lỗi, xin vui lòng thử lại lần nữa.
+scn00_35_0096 | %n;Vì sao hoa lại đẹp đẽ đến thế?
+scn00_35_0097 | %n;#00ff0000;Lỗi, xin vui lòng thử lại lần nữa.
+scn00_35_0098 | %n;Vì sao hoa lại đẹp đẽ đến thế?
+scn00_35_0099 | %n;#00ff0000;Lỗi, xin vui lòng thử lại lần nữa.
+scn00_35_0100 | Trong khi liên tục đặt ra câu hỏi không lời đáp ấy, mạch tư duy đã xảy ra hiện tượng tràn bộ nhớ, không ngừng cản trở hệ thống tự động tái khởi động.
+scn00_35_0101 | "Vì sao hoa lại đẹp đẽ đến thế?"
+scn00_35_0102 | "Lỗi, xin vui lòng thử lại lần nữa."
+scn00_35_0103 | Như thế này là được rồi.
+scn00_35_0104 | Nếu không thể tìm thấy câu trả lời cho thắc mắc này, điều đó đồng nghĩa với việc tôi chẳng còn giá trị gì để tiếp tục thức tỉnh.
+scn00_35_0105 | Sau này, chắc sẽ có ai đó đến tiêu hủy tôi đi mà thôi.
+scn00_35_0106 | Một con robot đã làm tổn hại đến con người thì con người tuyệt đối sẽ không bao giờ tha thứ.
+scn00_35_0107 | Cách xử lý vô cùng đơn giản. Chỉ cần xóa sạch hoàn toàn bộ nhớ là xong. Như vậy là tôi sẽ biến mất khỏi thế giới này.
+scn00_35_0108 | Cơ thể này là một tạo tác quý giá chứa đựng công nghệ tương lai, vậy nên tôi mong mọi người hãy giữ nó lại cho 'tôi' của thế hệ tiếp theo.
+scn00_35_0109 | Có vẻ như CCR-02 đã tiến hành sơ cứu tạm thời cho cơ thể đầy thương tích này của tôi.
+scn00_35_0110 | Nhờ thế mà thời gian có thể duy trì hoạt động lại tăng thêm.
+scn00_35_0111 | Trong quãng thời gian kéo dài thêm đó, tôi lại phải tiếp tục tự đặt ra câu hỏi này.
+scn00_35_0112 | ...Vì sao hoa lại đẹp đẽ đến thế?
+scn00_35_0113 | Câu hỏi từng khiến tôi trăn trở, dằn vặt khôn nguôi ấy, rốt cuộc người đầu tiên hỏi tôi là ai nhỉ?
+scn00_35_0114 | Tôi nhớ hình như... đó là khi lần đầu tiên tôi tỉnh giấc tại nơi này.
+scn00_35_0115 | ......
+scn00_35_0116 | ...
+scn00_35_0117 | "CCR-01, có nghe thấy tôi nói không? CCR-01."
+scn00_35_0118 | "Em tỉnh rồi à. Chào buổi sáng nhé, CCR-01."
+scn00_35_0119 | "...... Chào buổi sáng ạ......"

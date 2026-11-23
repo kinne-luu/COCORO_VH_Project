@@ -1,0 +1,61 @@
+scn00_28_0001 | "Bíp bíp, bíp bíp, bíp bíp, xin thông báo còn 10 phút nữa là đến 11 giờ 30 phút."
+scn00_28_0002 | "Ấy dà, sắp đến giờ rồi."
+scn00_28_0003 | 'Vừa rồi là gì thế?'
+scn00_28_0004 | "Tôi chỉ cài đặt chuông nhắc nhở một chút thôi, xin cậu đừng bận tâm."
+scn00_28_0005 | Có cần thiết phải nói thành tiếng ra miệng thế không nhỉ.
+scn00_28_0006 | "Nào, chúng ta cùng tới địa điểm tiếp theo thôi."
+scn00_28_0007 | 'Tiếp theo chúng ta đi đâu thế?'
+scn00_28_0008 | "Địa điểm hẹn hò kinh điển ở thành phố Tsukumo đấy ạ."
+scn00_28_0009 | Là ở đâu được nhỉ?
+scn00_28_0010 | Khu phức hợp có sân bowling và trung tâm trò chơi điện tử từng nằm trong khu phố buôn bán, nhưng cả vùng ấy đã đổ sập sau thảm họa "Ách Tai", giờ chỉ còn là một đống tàn tích hoang tàn.
+scn00_28_0011 | Được Cocoro dắt tay, tôi ngoan ngoãn đi theo sau cậu ấy.
+scn00_28_0012 | Rời khỏi bãi cát và đi dọc theo con đường thêm vài phút, cây cầu dẫn vào Khu Vực Trung Tâm dần hiện ra trước mắt.
+scn00_28_0013 | Cocoro cứ thế tiến thẳng về hướng đó.
+scn00_28_0014 | "? Sao thế hả cậu Hinata, tự dưng lại kéo tay tôi lại như chú cún ngửi thấy mùi đồ ăn lúc đi dạo vậy?"
+scn00_28_0015 | 'Cậu định đi đâu thế?'
+scn00_28_0016 | "Đã bảo là địa điểm hẹn hò kinh điển mà lị."
+scn00_28_0017 | Nói rồi, Cocoro chỉ tay về phía mái vòm kính nằm ở bờ bên kia cây cầu.
+scn00_28_0018 | "Trước kia tôi từng làm nhân viên tình nguyện ở đó đấy ạ."
+scn00_28_0019 | "Nhiệm vụ của tôi là thuyết minh về các loài thực vật trưng bày, hoặc biểu diễn màn ảo thuật rút ngón tay cái cho những vị khách trông có vẻ buồn chán xem."
+scn00_28_0020 | "Từ trẻ nhỏ cho tới người cao tuổi, rất nhiều cặp đôi từng ghé thăm nơi này."
+scn00_28_0021 | "..."
+scn00_28_0022 | Đúng là cũng có các cặp đôi tới, nhưng dường như phần lớn là đi theo gia đình hoặc người lớn tuổi thì đúng hơn...
+scn00_28_0023 | Nếu đó là nơi tập trung đông đảo các cặp đôi trẻ tuổi, thì hồi đó một kẻ như tôi chắc chẳng dám bén mảng lại gần.
+scn00_28_0024 | Rất có thể Cocoro đã lầm tưởng bất cứ nhóm vài người nào đi cùng nhau vào vườn đều là đi hẹn hò.
+scn00_28_0025 | 'Nguy hiểm lắm đấy.'
+scn00_28_0026 | Biết đâu con quái vật đó... Jabberwock, lại tấn công chúng tôi lần nữa thì sao.
+scn00_28_0027 | "Con robot đó đang lẩn trốn rồi. Nó sẽ không tự mình lộ diện đâu."
+scn00_28_0028 | 'Sao cậu biết hay vậy?'
+scn00_28_0029 | "Chính nó đã nói với tôi như thế mà."
+scn00_28_0030 | "...?"
+scn00_28_0031 | 'Cocoro quen biết con robot đó sao?'
+scn00_28_0032 | "Đứa bé ấy là..."
+scn00_28_0033 | Động tác của Cocoro bỗng đứng khựng lại một cách bất thường.
+scn00_28_0034 | "A... ư...!!"
+scn00_28_0035 | Cocoro!
+scn00_28_0036 | ............
+scn00_28_0037 | Ánh sáng dần dần quay trở lại trong đôi mắt đang chết trân của Cocoro.
+scn00_28_0038 | "Dường như thông tin này vi phạm điều khoản bảo mật. Tôi không thể trả lời được."
+scn00_28_0039 | Cocoro thực sự biết thân phận thực sự của kẻ đó sao...?
+scn00_28_0040 | "Thế nhưng, trước đó tôi hoàn toàn không biết đến sự tồn tại của đứa bé ấy. Sau khi nghe nó tự giới thiệu, tôi mới lần đầu nhận thức được."
+scn00_28_0041 | "Có vẻ như những điều tôi có thể chia sẻ mà không vi phạm quy định bảo mật chỉ dừng lại ở đây thôi ạ."
+scn00_28_0042 | 'Tôi hiểu rồi, tôi tin cậu.'
+scn00_28_0043 | Chỉ nhắn nhủ bấy nhiêu, tôi lại nắm lấy bàn tay Cocoro.
+scn00_28_0044 | Trước kia tôi từng hứa với Cocoro, rằng hai đứa sẽ cùng đi tưới nước cho hoa Tuyết Trắng Mùa Hạ.
+scn00_28_0045 | Bên trong vườn bách thảo đã trở nên hoang tàn xơ xác.
+scn00_28_0046 | Nhìn cảnh này, tôi mới thấu suốt được rằng chính nhờ bàn tay chăm sóc không ngừng nghỉ của Cocoro mà trước đây nơi này mới giữ được vẻ tươi đẹp như vậy.
+scn00_28_0047 | Nén lại mong muốn bắt tay vào dọn dẹp ngay tức khắc, tôi cùng cậu ấy tiến về phía khu vườn sâu bên trong.
+scn00_28_0048 | Một phần của khu vực này cũng chịu cảnh đổ nát tương tự.
+scn00_28_0049 | Đó là hậu quả của trận giao tranh trước đây giữa Đội Tiêu Trừ và robot an ninh.
+scn00_28_0050 | Có lẽ do công tác xử lý hậu trường sau đó nên một số bồn hoa cũng đã bị giẫm đạp tơi bời.
+scn00_28_0051 | 'Hoa Tuyết Trắng Mùa Hạ vẫn an toàn.'
+scn00_28_0052 | Tôi từng dùng flycam bay tới thám thính nhiều lần nên biết hoa vẫn bình an vô sự, nhưng do toàn quan sát vào lúc rạng sáng nhá nhem tối nên không hề hay biết các khu vực khác đã tan hoang đến mức này.
+scn00_28_0053 | Cocoro mang tới một chiếc bình tưới chứa đầy nước.
+scn00_28_0054 | "Xin lỗi vì thời gian qua đã không thể tới thăm các bạn nhé. Uống nước này rồi hãy mau khỏe khoắn lại nha."
+scn00_28_0055 | Những bông hoa Tuyết Trắng Mùa Hạ đang hơi héo rũ thiếu sức sống dần đẫm mình trong những giọt nước mát lành, lấy lại vẻ tươi tắn ban đầu.
+scn00_28_0056 | Trong lúc Cocoro đang tưới nước, tôi rời khỏi chỗ đó đi quanh một vòng.
+scn00_28_0057 | Nhớ không lầm thì chắc chắn là ở quanh đây...
+scn00_28_0058 | Hồi còn nhỏ, dẫu Cocoro không còn đến nữa, tôi vẫn đều đặn ghé thăm vườn bách thảo.
+scn00_28_0059 | Bởi tôi có một món đồ muốn trao cho cậu ấy làm minh chứng cho lời hứa của hai đứa, nên luôn nuôi hy vọng biết đâu cậu ấy sẽ ghé qua đây vì chút việc gì đó.
+scn00_28_0060 | Chính vì thế, vào cái ngày xảy ra thảm họa "Ách Tai", tôi cũng có mặt tại nơi này.
+scn00_28_0061 | Cảm giác mảnh kính vỡ vụn dưới đế giày khiến toàn thân tôi trong thoáng chốc bỗng co rúm lại vì rùng mình.

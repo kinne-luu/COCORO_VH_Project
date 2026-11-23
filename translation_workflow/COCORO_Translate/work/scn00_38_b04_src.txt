@@ -1,0 +1,64 @@
+# scene=scn00_38 batch=4/6 dòng 181-240 / 326
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_38_0181 | こさめ(Kosame) | 「……ひなたさん」 | "Hinata-san." | “……日向先生”
+scn00_38_0182 | ひなた(Hinata) | 「こさめちゃん、おはよう」 | "Kosame-chan, good morning." | “小雨，早上好”
+scn00_38_0183 | こさめ(Kosame) | 「ココちゃん、無事だったってほんとですか……？」 | "Is it true that Coco-chan came back safely?" | “心儿真的没事吗……？”
+scn00_38_0184 | ひなた(Hinata) | 「ああ、応急処置をしてもらって元気になったよ」 | "Yeah. She received some medical attention and feels better now." | “嗯，她接受过应急处理了，现在已经恢复精神了哦”
+scn00_38_0185 | こさめ(Kosame) | 「よかった……」 | "I'm so glad to hear that..." | “太好了……”
+scn00_38_0186 | - | あくまで応急処置で、完全に直ったわけじゃないらしいが、それがなければボディのダメージは致命的だったろう。 | Granted, the maintenance was only a stopgap measure. It's not as if all the damage to her body has been repaired. But without treatment, it would have been fatal. | 不过似乎也只是接受了应急处理，并不是完全修理好了，但如果没有这个应急处理，身体的损伤就应该足以致命了吧。
+scn00_38_0187 | - | 普通に歩けていたのは、ＣＣＲ－０２のおかげだ。 | She's able to walk normally again, thanks to CCR-02. | 她现在能正常走路都是多亏了CCR-02。
+scn00_38_0188 | こさめ(Kosame) | 「……」 | "..." | “……”
+scn00_38_0189 | - | アマイ洋菓子店の２階の窓を見上げるこさめちゃん。 | Kosame-chan looks up at the second-floor window above Amai Confectionery. | 小雨抬头看向甜甜西点店的二楼。
+scn00_38_0190 | - | きっとココロに謝って仲直りがしたいんだろう。でも、ココロが落ち込んで出てこないから、どうしていいか分からないに違いない。 | She probably wants to apologize and make up with Cocoro, but she's not sure where to start. | 小雨肯定想向心道歉然后两个人和好如初吧。但是，心现在却很失落闭门不出，这肯定让小雨不知该如何是好了吧。
+scn00_38_0191 | こさめ(Kosame) | 「あの時、私……ココちゃんの事、恐いって思っちゃって。きっと、ココちゃんを傷つけちゃった……」 | "When I last saw her, I... I was scared of Coco-chan... I know how much that must have hurt her..." | “那时我……觉得心很可怕，这肯定伤害到了心……”
+scn00_38_0192 | こさめ(Kosame) | 「なんであんな事、思っちゃったんだろう」 | "I wonder why I ever felt that way about her." | “我为什么会那么想啊”
+scn00_38_0193 | ひなた(Hinata) | 「今もそう思ってる？」 | "Are you still scared of her now?" | “现在你还那么认为吗？”
+scn00_38_0194 | こさめ(Kosame) | 「ううん、思ってない。だってココちゃん、とっても優しかったし、私を助けてくれた恩人だもん」 | "No, not at all. Coco-chan has been nothing but kind, and she even saved my life." | “不，现在我不那么认为了，毕竟心儿那么温柔，而且还是我的救命恩人”
+scn00_38_0195 | ひなた(Hinata) | 「なら大丈夫だと思うよ」 | "Then I'm sure it'll be okay." | “那我觉得应该就没问题了”
+scn00_38_0196 | - | 人は異質なものに触れた時、戸惑いを覚え、時には恐れる。 | When people are exposed to the unknown, they feel uncomfortable and sometimes even afraid. | 人类与异样的事物接触时，会感到迷茫，有时还会感到恐惧。
+scn00_38_0197 | - | けどそれは違和感による心の作用。 | That's just how the human soul works. | 但这其实是由违和感引起的心理作用。
+scn00_38_0198 | - | 思っていたものと違った時に、想定外の危険から身を守るための感情の機能なんだろう。 | I suppose it's a function that protects us from unforeseen dangers when we're faced with something different from what we expected. | 大概人类是在事物和自己所认为的出现了偏差时，为了从意料之外的危险保护自己的情感机能吧。
+scn00_38_0199 | - | 理性によって違和感の正体を解き明かし、受け入れていくうちに戸惑いは消える。 | But that disappears once we find an acceptable, logical explanation for our discomfort. | 而在透过理性理解了违和感的来源后，在逐渐接受的过程中迷茫感也会随之消失。
+scn00_38_0200 | - | 最初からなんでもすんなり受け入れられるほど、人の心は柔軟じゃない。 | The soul isn't flexible enough to easily accept everything without question. | 人心还没有柔软到面对什么都能从一开始就接受。
+scn00_38_0201 | ひなた(Hinata) | 「ココロと仲直りしたいんだよね」 | "Do you want to make up with Cocoro and be friends again?" | “你想和心和好对吧”
+scn00_38_0202 | こさめ(Kosame) | 「……（コクン）」 | "*nod*..." | “……（点头）”
+scn00_38_0203 | - | 泣きそうな顔で頷く。こさめちゃんは、もう今のココロを受け入れている。 | She nods, tears shimmering in her eyes. Kosame-chan has already accepted Cocoro. | 小雨一副要哭出来的样子点了点头，她已经接受了现在的心。
+scn00_38_0204 | ひなた(Hinata) | 「それならきっと大丈夫。もう伝わってると思うよ」 | "You'll definitely be okay. I think she already knows how you feel." | “那应该就没问题了，我想你的心意应该已经传达给她了”
+scn00_38_0205 | こさめ(Kosame) | 「え……どうして？」 | "Huh...? How?" | “哎……为什么？”
+scn00_38_0206 | ひなた(Hinata) | 「ココロは人の心が読み取れる娘だから」 | "Because Cocoro can see what's inside people's souls." | “因为心是能读出人心的姑娘”
+scn00_38_0207 | - | こさめちゃんは半信半疑って顔をしているけど、少なくとも伝わっているという根拠があった。 | Kosame-chan gives me a quizzical look, but I have definitive evidence to support my claim. | 小雨一副半信半疑的表情，不过我对此还是有根据的。
+scn00_38_0208 | - | なぜなら、 | I know, because... | 因为。
+scn00_38_0209 | - | さっきから俺たちの頭の上をドローンが飛んでいる。 | There's been a drone flying over our heads for a few minutes now. | 刚刚我们的头顶上一直飞着一架无人机。
+scn00_38_0210 | - | 俺は操縦してないから、操っているのはココロだ。 | I'm not operating it, so it must be Cocoro. | 既然不是我在操纵，那就只能是心在操纵了。
+scn00_38_0211 | - | みんなの様子を見たり、話し声を聞いているにちがいない。 | She's checking on how everyone's doing and listening to what we're saying. | 她肯定是在观察着大家的样子，听着大家说话的声音。
+scn00_38_0212 | - | 今のこさめちゃんの言葉ももう届いただろう。 | She must have heard what Kosame-chan just said, too. | 刚刚小雨的话肯定也传达给她了吧。
+scn00_38_0213 | ひなた(Hinata) | （これで少しは元気になってくれたらいいんだけど） | (Hopefully that'll cheer her up a little.) | （如果这能让她稍微打起点精神就好了）
+scn00_38_0214 | - | そこへ、住民たちを[か]掻き分けて重装備の男たちがぞろぞろと現れた。 | Then, a group of heavily armed men cuts through the middle of the street, pushing residents aside. | 这时，一群全副武装的男性分开居民们涌了出来。
+scn00_38_0215 | 駆除隊隊長(Extermination Squad Leader) | 「あのロボットを引き渡してもらおうか」 | "Hand the robot over." | “能把那个机器人交给我吗”
+scn00_38_0216 | 風音(Kazane) | 「出たね！　そうはさせないよ！」 | "I  you'd be back! You're still not gonna get your way!" | “出现了啊！　我可不会让你如愿！”
+scn00_38_0217 | 犬(Dog) | 「ワン！　ワン！　ワン！　ワン！」 | "Woof! Woof! Woof! Woof!" | “汪！　汪！　汪！　汪！”
+scn00_38_0218 | - | 風音が駆除隊隊長の前に立ち[ふさ]塞がる。 | Kazane doesn't budge, blocking the squad's advance. | 风音站在驱除队队长面前挡住了他的去路。
+scn00_38_0219 | 駆除隊隊長(Extermination Squad Leader) | 「業務を妨害するというなら、拘束する事になる。我々も地元住民とのいざこざはなるべく避けたいんだがな」 | "If you interfere with our duties, we will have to detain you. We're not here to make trouble for the residents." | “如果你想妨碍公务，那我就会逮捕你，我们还是想尽可能避免和本地居民产生冲突啊”
+scn00_38_0220 | 大地(Daichi) | 「どの口で言ってやがる……」 | "Do you even hear yourself...?" | “你哪来的脸说这种话……”
+scn00_38_0221 | 風音(Kazane) | 「やれるもんならやってみなよ！」 | "Try it if you think you can!" | “你大可以试试！”
+scn00_38_0222 | ひなた(Hinata) | 「風音っ」 | "Kazane!" | “风音”
+scn00_38_0223 | - | 本当に突っかかっていきそうだったので風音を止める。 | I hold her back, worried that she'll actually start a brawl. | 我看双方似乎真的要起冲突了，便出言阻止了风音。
+scn00_38_0224 | - | 駆除隊の今までの行動を見る限り、何をするか分かったものじゃない。 | Having seen how the extermination squad operates, there's no telling what they might do. | 根据驱除队至今为止的行为来看，真不好说他们会做出什么事来。
+scn00_38_0225 | - | とはいえ、みすみすココロを引き渡すつもりはもちろんない。 | Still, I have no intent of handing Cocoro over to them. | 话虽如此，我当然也没想过要乖乖将心交给他们。
+scn00_38_0226 | - | 俺が代わりに道を塞いで抗議する気持ちを見せる。 | I take Kazane's place in the middle of the street in a show of defiance. | 我表现出了代替风音挡路抗议的意思。
+scn00_38_0227 | ひなた(Hinata) | 「ココロは渡しません」 | "I'm not giving you Cocoro." | “我不会将心交给你”
+scn00_38_0228 | - | すると、 | Then... | 然后。
+scn00_38_0229 | こさめ(Kosame) | 「渡さないもん！」 | "You can't take her!" | “才不会交给你们！”
+scn00_38_0230 | 犬(Dog) | 「ワン！」 | "Woof!" | “汪！”
+scn00_38_0231 | 大地(Daichi) | 「おうよ」 | "They're right!" | “就是”
+scn00_38_0232 | - | みんなが俺の隣りに並んで壁を作ってくれた。 | The others stand next to me, forming a wall between the squad and the building. | 大家都站到了我的身边组成了一道人墙。
+scn00_38_0233 | - | それを見ていた住人たちも集まってくる。 | The other residents gather to see what the commotion is all about. | 看到这一幕的居民们也都聚集了过来。
+scn00_38_0234 | - | いつの間にか、住人たちと駆除隊が向かい合うような格好になっていた。 | Before I realize it, they've all joined our human barricade, facing off against the extermination squad. | 不知何时就演变成了居民们和驱除队对峙的形势。
+scn00_38_0235 | 駆除隊隊長(Extermination Squad Leader) | 「邪魔をするというなら、実力で排除する」 | "If you keep interfering, we'll have no choice but to remove you by force." | “既然你们要妨碍我们，那我们就要动用武力了”
+scn00_38_0236 | 霧香(Kirika) | 「待ってください！」 | "Wait!" | “慢着！”
+scn00_38_0237 | - | 霧香さんと光太郎さんが駆けつけてくれた。 | Kirika-san and Kotaro-san come running toward us. | 雾香小姐和光太郎先生跑了过来。
+scn00_38_0238 | 霧香(Kirika) | 「調査チームの指揮権は私にあります。ココロは重要な証人であり、丁重に保護する必要があります」 | "I'm the chief of the investigation team. Cocoro is a valuable witness. She must be protected at all costs and treated with respect." | “调查队的指挥权归我所有，心作为重要的证人，需要被重点保护起来”
+scn00_38_0239 | 駆除隊隊長(Extermination Squad Leader) | 「証人？　ロボットを人のように扱うな、胸クソが悪い！」 | "A witness? Don't treat robots like they're humans! It makes me sick!" | “证人？　别把机器人说得像人似的，让人想吐！”
+scn00_38_0240 | 霧香(Kirika) | 「あの娘を連れて行ってどうするつもりですか？」 | "What do you intend to do with her?" | “你带她走是想做什么？”

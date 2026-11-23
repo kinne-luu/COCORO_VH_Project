@@ -1,0 +1,60 @@
+scn00_37_0061 | "Vâng. Cậu từng bảo rằng chúng đã tiến hóa để thu hút những loài động vật hỗ trợ thụ phấn."
+scn00_37_0062 | Phải rồi, để quy tụ côn trùng và những loài thú nhỏ mang phấn hoa đi muôn nơi, những đóa hoa đã được sinh ra trên đời.
+scn00_37_0063 | "Kích thước, màu sắc, hình dáng, hương thơm, cho đến mùa nở và thời điểm nở trong ngày. Sở dĩ mỗi loài hoa lại có những đặc trưng khác biệt là do đối tượng động vật mà chúng hướng tới vốn không giống nhau."
+scn00_37_0064 | <Tức là, chúng có một đối tượng cụ thể mà mình muốn gửi gắm, và đã tiến hóa thành dáng hình mà đối phương yêu thích>
+scn00_37_0065 | Từ thuở hồng hoang xa xôi đến mức nghìn thu chẳng đếm xuể, từ những thứ thậm chí còn chưa được gọi là hoa, chúng đã tiến hóa thành muôn sắc muôn màu, thiên hình vạn trạng các loài hoa rực rỡ như ngày nay.
+scn00_37_0066 | Điều đó có nghĩa là gì chứ?
+scn00_37_0067 | <Hoa chính là trái tim của thực vật>
+scn00_37_0068 | "Hoa là trái tim của thực vật sao?"
+scn00_37_0069 | <Là ngôn ngữ để chúng giao tiếp với côn trùng>
+scn00_37_0070 | <Và là tâm tư muốn truyền tải được kết tinh thành hình hài cụ thể>
+scn00_37_0071 | "Ý cậu là thực vật mượn những đóa hoa để giao tiếp với các loài động vật khác......?"
+scn00_37_0072 | <Ừ. Chúng đang cất tiếng gọi để lũ côn trùng có thể tìm thấy mình>
+scn00_37_0073 | Thứ cảm xúc của thực vật được hóa thân thành hình bóng cụ thể. Đó chính là những đóa hoa.
+scn00_37_0074 | "Ra là vậy, có lẽ đúng là thế thật."
+scn00_37_0075 | "Thế nhưng điều đó vẫn không thể giải thích lý do vì sao con người lại cảm nhận hoa là đẹp đẽ."
+scn00_37_0076 | "Bởi vì trên đời này đâu phải chỉ có những đóa hoa xinh đẹp. Cũng có những loài hoa khiến con người cảm thấy quái dị ghê rợn, thậm chí có loài còn tỏa ra mùi hôi thối nồng nặc như xác chết phân hủy."
+scn00_37_0077 | <Nếu chẳng hiểu gì thì có lẽ ta sẽ thấy chúng thật quái đản>
+scn00_37_0078 | <Thế nhưng đó là vì ngôn ngữ chưa thông suốt mà thôi. Nếu thấu hiểu được ý nghĩa của nó, biết đâu ta cũng sẽ cảm thấy nó thật đẹp>
+scn00_37_0079 | "Chỉ nói 'biết đâu' thôi thì không được. Xin hãy đưa ra luận cứ rõ ràng."
+scn00_37_0080 | <Con người luôn cảm thấy sợ hãi trước những kẻ mà mình không thể tương thông ý chí>
+scn00_37_0081 | Những người muốn bài trừ robot đều tin rằng robot không có trái tim và chẳng thể trò chuyện thấu hiểu. Họ đang khiếp sợ đấy thôi.
+scn00_37_0082 | <Thế nhưng nếu biết rằng đối phương có trái tim thì sẽ ra sao?>
+scn00_37_0083 | "......"
+scn00_37_0084 | <Con người khi cô độc một mình sẽ rất buồn bã, nên họ luôn khao khát muốn thấu hiểu tâm can của ai đó>
+scn00_37_0085 | <Khoảnh khắc chạm được vào trái tim của một người, ta sẽ cảm nhận được niềm hạnh phúc>
+scn00_37_0086 | <Khi có ai đó chạm vào trái tim mình, ta cảm thấy hai tâm hồn đã hòa chung nhịp đập, và ta sẽ không còn cô đơn nữa>
+scn00_37_0087 | Trải nghiệm khi hai tâm hồn thấu hiểu và giao hòa cùng nhau chính là điều vô cùng thiêng liêng đối với con người.
+scn00_37_0088 | Đó là một trải nghiệm quý giá khôn xiết, sẽ mãi mãi khắc sâu trong ký ức chẳng thể phai mờ.
+scn00_37_0089 | Chính vì lẽ đó nên con người...
+scn00_37_0090 | <Con người luôn cảm thấy những thứ có trái tim là cao quý và đẹp đẽ>
+scn00_37_0091 | "Hoa là trái tim của thực vật. Vì thế nên con người khi ngắm nhìn hoa mới cảm nhận được vẻ đẹp......"
+scn00_37_0092 | Mẹ tôi, người đã cống hiến trọn vẹn cuộc đời ngắn ngủi của mình cho việc nghiên cứu robot, lại luôn chăm sóc những luống hoa ngoài vườn, điều đó từng khiến tôi thắc mắc suốt bao năm tháng.
+scn00_37_0093 | Trước đây tôi cứ ngỡ mẹ chỉ chú ý đến tính năng sinh học của thực vật, nhưng giờ đây tôi đã hiểu ra mọi chuyện không hề đơn thuần như thế.
+scn00_37_0094 | Mỗi khi những nhành cây được mẹ tận tụy chăm bẵm trổ ra những đóa hoa tuyệt đẹp, trông mẹ lại hạnh phúc biết bao.
+scn00_37_0095 | \n\n\n\n\n\n\n\n...Năm nay các em lại nở những đóa hoa thật đẹp cho mẹ ngắm rồi, cảm ơn các em nhé.
+scn00_37_0096 | Có lẽ là bởi mẹ cảm nhận được cây cỏ đang cất lời đáp lại tấm lòng của mình.
+scn00_37_0097 | Dù bận rộn trăm công nghìn việc, ngày nào mẹ cũng dành thời gian và tâm huyết để chăm sóc chúng.
+scn00_37_0098 | Đối với mẹ, đó chính là cuộc giao tiếp giữa mẹ và thế giới thực vật.
+scn00_37_0099 | <Chính vì tin rằng đối phương có trái tim, nên người ta mới dốc lòng dốc sức để tìm hiểu>
+scn00_37_0100 | <Bởi vì nếu có trái tim, thì ta mới có thể tin rằng rồi sẽ có ngày đôi bên tương thông thấu hiểu>
+scn00_37_0101 | <Tớ đã luôn tìm kiếm trái tim của cậu trong từng lời ăn tiếng nói, từng cử chỉ nhỏ nhặt nhất>
+scn00_37_0102 | Khi tiếp xúc với tha nhân, con người luôn hành xử như thế một cách hết sức tự nhiên. Và khi kề cạnh bên Cocoro, tôi cũng đã vô thức làm điều đó.
+scn00_37_0103 | <Còn cậu thì sao?>
+scn00_37_0104 | "Thấu hiểu con người là lý do tồn tại của tôi, thế nên dĩ nhiên tôi luôn quan sát vô cùng tường tận."
+scn00_37_0105 | <Cậu đã luôn dõi nhìn vào trái tim tớ, đúng không>
+scn00_37_0106 | "Trái tim không thể nhìn thấy bằng mắt thường."
+scn00_37_0107 | <Cà phê cậu pha ngon lắm>
+scn00_37_0108 | Chắc hẳn mỗi buổi sáng, cô bé đều chăm chú quan sát tôi khi tôi nhấp từng ngụm cà phê do chính tay cô pha.
+scn00_37_0109 | Thu nhặt từng mảnh vỡ tâm hồn hiện hữu trên nét mặt, cử chỉ, giọng nói và thái độ của tôi, cô bé mới có thể pha nên tách cà phê tuyệt hảo của buổi sớm hôm ấy.
+scn00_37_0110 | "......"
+scn00_37_0111 | Trên gương mặt vốn vô cảm của Cocoro, dường như vừa thoáng hé mở một nét rạng rỡ dịu dàng.
+scn00_37_0112 | "Tôi hiểu rồi. Thế nhưng, tôi vẫn không hiểu."
+scn00_37_0113 | "Trái tim của tôi... rốt cuộc đang ở nơi đâu?"
+scn00_37_0114 | Trái tim nằm ở chốn nào?
+scn00_37_0115 | Đó là một câu hỏi hóc búa mà biết bao nhà nghiên cứu lỗi lạc từng dốc sức kiếm tìm nhưng đến nay vẫn chưa ai có lời giải thỏa đáng. Một kẻ như tôi đời nào trả lời nổi.
+scn00_37_0116 | Thế nhưng, duy chỉ có nơi ngự trị trái tim của Cocoro là tôi có niềm tin chắc chắn tuyệt đối.
+scn00_37_0117 | Tôi nắm lấy bàn tay trái của Cocoro.
+scn00_37_0118 | Bàn tay bấy lâu nay vẫn luôn siết chặt cứng đờ thành nắm đấm.
+scn00_37_0119 | <Tớ nghĩ chắc chắn nó đang ở ngay đây này>
+scn00_37_0120 | "Phát sinh lỗi, phát sinh lỗi, phát sinh lỗi, phát sinh lỗi."

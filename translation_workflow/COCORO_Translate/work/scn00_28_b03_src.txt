@@ -1,0 +1,63 @@
+# scene=scn00_28 batch=3/6 dòng 122-180 / 354
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_28_0122 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_28_0123 | - | わなわなと震えていた。 | I'm shaking. | 我浑身颤抖着。
+scn00_28_0124 | - | \n\n\n\n\n\n『きみがフィアンセにもとめているのは　ニセモノのしょうにんだ』 | \n\n\n\n\n\nThe recognition you seek from your fiancé won't be real. | \n\n\n\n\n\n‘你向未婚夫索求的　是虚假的承认’
+scn00_28_0125 | - | %n;『それはウソでしかない』 | %n;It will be based on lies. | %n;‘但那只会是谎言’
+scn00_28_0126 | - | %n;『そんなほうほうで　セカイにみとめられたりしない』 | %n;The world won't acknowledge you that way. | %n;‘用这种方法　是无法被世界所认同的’
+scn00_28_0127 | - | 勢いのまま書き[なぐ]殴った。 | I write down exactly what's on my mind with rough strokes. | 我粗暴地写道。
+scn00_28_0128 | - | 吐き出してから、ハッとなる。 | But when I finish, I realize what I've done. | 全部写完后，我才突然反应了过来。
+scn00_28_0129 | - | ココロを深く傷つけるような言葉を投げかけてしまった。 | I've given Cocoro the words that I knew would hurt her the most. | 我将能够深深伤害到心的言语扎向了心。
+scn00_28_0130 | ひなた(Hinata) | 「……ぁぅぅ」 | "Ah..." | “……啊呜呜”
+scn00_28_0131 | ひなた(Hinata) | （ごめん） | (Sorry.) | （抱歉）
+scn00_28_0132 | ココロ(Cocoro) | 「ならばワタシは失敗作のまま消える。それは死ではなく、デバッグ。セカイのエラーを取り除くだけの」 | "In that case, I will remain a failure until I disappear. It won't be a death—it's merely debugging, erasing an error from the world." | “那么我就会以失败作的身份消失，这并不是死，而是Debug，只是在消除世界中的错误”
+scn00_28_0133 | - | 『ちがう』 | No. | ‘不是的’
+scn00_28_0134 | - | ココロは静かに首をふる。 | Cocoro quietly shakes her head. | 心静静摇了摇头。
+scn00_28_0135 | ココロ(Cocoro) | 「ナツノシラユキを、ワタシは見た事があります」 | "I've seen summer snows bloom before." | “我是看过夏之白雪的”
+scn00_28_0136 | ひなた(Hinata) | （え……？） | (Huh?) | （哎……？）
+scn00_28_0137 | ココロ(Cocoro) | 「まだネットワークが断絶する以前、検索をして出てきたものを見ました。記事や写真、動画、全てを」 | "Before the network was cut off, I searched online and found them. Information, photos, videos... Everything." | “在网络断绝前，我就已经进行过搜索了，它的文章、照片、视频我全都看过了”
+scn00_28_0138 | ココロ(Cocoro) | 「知識は得られましたが、それによってワタシに何か変化が起こったりはしませんでした」 | "I gained that new knowledge, but it didn't change anything within me." | “虽然得到了知识，但我却并没有因此而产生任何变化”
+scn00_28_0139 | ココロ(Cocoro) | 「なにもなかった」 | "Nothing happened." | “什么变化都没有”
+scn00_28_0140 | ココロ(Cocoro) | 「目が見えなくなってよかったと判断します」 | "Therefore, I think it's for the best that I can't see anymore." | “我认为眼睛看不见了真是太好了”
+scn00_28_0141 | ココロ(Cocoro) | 「もし、このナツノシラユキが咲いて、それを見て何も起こらないと確認できたら、ワタシがエラーだという証明に他なりません」 | "If I saw the summer snows bloom with my own eyes, and again nothing changed within me, that would serve as irrefutable evidence that I'm an error." | “如果，这株夏之白雪开花了，而如果我在看到它开花的样子后也确实什么都没有发生任何变化，就只能证明我是一个错误”
+scn00_28_0142 | ココロ(Cocoro) | 「ワタシに、間違って生まれた存在であると、自ら証明しろというのですか？」 | "Are you asking for me to obtain the evidence that my creation was a mistake myself?" | “是要我，亲自去证明我是不应该诞生的存在吗？”
+scn00_28_0143 | ココロ(Cocoro) | 「そんなの……あんまりです……」 | "That's... just cruel..." | “这样……也太过分了……”
+scn00_28_0144 | ひなた(Hinata) | （ココロ……？） | (Cocoro...?) | （心……？）
+scn00_28_0145 | ココロ(Cocoro) | 「……？？」 | "...?" | “……？？”
+scn00_28_0146 | - | ココロは、自らの瞳を濡らす水分を、戸惑いながら指先で[ぬぐ]拭った。 | Confused, Cocoro wipes away the drops of liquid spilling from her eyes. | 心疑惑地用指尖拭去了浸湿自己眼眸的水分。
+scn00_28_0147 | ココロ(Cocoro) | 「？？　洗浄液の故障でしょう。もうぽんこつですね、ワタシは」 | "Huh? My washer fluid reservoirs must be leaking. I really am a piece of scrap, aren't I?" | “？？　是清洗液发生故障了吧，我已经变成破烂了啊”
+scn00_28_0148 | - | 俺は衝動的にココロを抱きしめていた。 | I'm overcome by a sudden impulse to hug her, so I do. | 我不顾一切地抱住了心。
+scn00_28_0149 | - | 抱きしめながら、彼女の手のひらを強く握り、指先を走らせる。 | As I pull her close, I give her hand a tight squeeze, then run a fingertip along her palm. | 一边抱着她，一边用力握着她的手掌，用指尖在上面比划着。
+scn00_28_0150 | - | \n\n\n\n\n\n\n\n『おれはココロに　いきてほしい』 | \n\n\n\n\n\n\nI want you to live, Cocoro. | \n\n\n\n\n\n\n\n‘我希望　心能够活下去’
+scn00_28_0151 | - | %n;『きみがこころをみつける　てつだいがしたい』 | %n;I want to help you discover your soul. | %n;‘我想帮你找到人心’
+scn00_28_0152 | ココロ(Cocoro) | 「ワタシの心を見付ける……？」 | "Discover my soul...?" | “找到我的人心……？”
+scn00_28_0153 | ひなた(Hinata) | 「……（コクン）」 | "*nod*..." | “……（点头）”
+scn00_28_0154 | - | それがココロがセカイから祝福を受ける唯一の方法だろうから。 | I figure that must be the only way for Cocoro to receive the world's blessing. | 因为这大概就是能让心受到世界祝福的唯一方法了。
+scn00_28_0155 | - | \n\n\n\n\n\n\n\n『さいしょにやくそくしたよね』 | \n\n\n\n\n\n\nRemember our promise? | \n\n\n\n\n\n\n\n‘一开始不就约好了嘛’
+scn00_28_0156 | - | %n;『きみがヒトになるてつだいをするって』 | %n;I'm going to make you human. | %n;‘让我将你变成人类’
+scn00_28_0157 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_28_0158 | ココロ(Cocoro) | 「エラー発生。思考ルーチンがループに陥っています。思考を一時停止します」 | "An error has occurred. My thought processes are stuck in a loop. Pausing..." | “发生错误，思考模式陷入循环，暂时停止思考”
+scn00_28_0159 | ココロ(Cocoro) | 「いいえ、停止しません」 | "No, I won't pause them." | “不，我不会停止”
+scn00_28_0160 | ココロ(Cocoro) | 「エラー発生。エラー発生。ただちにシステムの再起動をしてください」 | "Error, error... Please reboot the system immediately." | “发生错误，发生错误。请立刻重新启动系统”
+scn00_28_0161 | ココロ(Cocoro) | 「いいえ、再起動しません」 | "No, I won't reboot." | “不，我不会重启系统”
+scn00_28_0162 | - | ココロが自分の中の何かに[あらが]抗っていた。 | There seems to be some kind of conflict going on inside her. | 心正在和自己体内的什么东西对抗着。
+scn00_28_0163 | ココロ(Cocoro) | 「ひなたさん……」 | "Hinata-san..." | “日向先生……”
+scn00_28_0164 | - | ぎゅっ――ココロが俺の手を強く握り返した。 | Cocoro gives my hand a squeeze in return. | ——心用力回握住了我的手。
+scn00_28_0165 | - | そして、引き寄せるように下へ引っ張る。 | Then, she starts pulling me down, closer to her. | 然后，向下用力试图将我拉过去。
+scn00_28_0166 | ココロ(Cocoro) | 「ワタシ……ワタ……ワタシも……」 | "I... I... I want..." | “我……我……我也……”
+scn00_28_0167 | ココロ(Cocoro) | 「エラー発生。エラー発生。エラー発生」 | "Error, error, error." | “发生错误，发生错误，发生错误”
+scn00_28_0168 | ココロ(Cocoro) | 「ワタ……ワタシは……ワタシも……ワタシと……ワタ……ワタ……ワタシも……！！！」 | "I... I want... I want... I, too... I... I... I want...!!!" | “我……我……我也……和我……我……我……我也！！！”
+scn00_28_0169 | ココロ(Cocoro) | 「ワタシもひなたさんと、同じ星空を見上げたい」 | "I want to look at the starry sky with you, too." | “我也想和日向先生看到同一片星空”
+scn00_28_0170 | ココロ(Cocoro) | 「ンン……」 | "Mmh..." | “嗯嗯……”
+scn00_28_0171 | ひなた(Hinata) | 「……（んぐっ）」 | (Mmgh...) | “……（嗯咕）”
+scn00_28_0172 | - | ココロは強引に俺を下に向かせ、自分の口を俺の唇に押しつけた。 | Cocoro makes me tilt my head downward while she presses her lips up against mine. | 心强行让我低下了头，将自己的嘴印到了我的嘴唇上。
+scn00_28_0173 | - | 強く打ち付けるようで、唇同士が触れ合った瞬間、互いにフリーズしたように固まり、その不自然な姿勢を維持する。 | The moment our lips meld together, we both freeze in this unnatural pose. | 唇与唇激烈碰撞在一起的瞬间，双方都凝固住了，维持着那个十分不自然的姿势。
+scn00_28_0174 | ココロ(Cocoro) | 「ンン…………ン…………ンンン………………」 | "Mm... Mmh... Mmmmh..." | “嗯嗯…………嗯…………嗯嗯嗯………………”
+scn00_28_0175 | - | ココロは背伸びをしてぷるぷると震え、頬はオーバーヒートしたように紅潮し、目を固く閉じている。 | Cocoro is trembling on her tiptoes, and her cheeks glow so red that I'm afraid she's overheating. Her eyes are firmly shut. | 心踮起脚尖颤抖着，脸颊像是过热般泛起了红潮，双眼紧闭了起来。
+scn00_28_0176 | - | 俺もまたどうしていいか分からず、硬直していた。 | As for me, I'm completely frozen because I have no idea what to do. | 我也不知道该怎么做，就一直僵在那里。
+scn00_28_0177 | - | いつまでこうしているんだろう？ | How long do we stay like this? | 这要做到什么时候？
+scn00_28_0178 | - | いつまでもこうしていたい。 | I wish it could last forever. | 想要一直这样下去。
+scn00_28_0179 | - | ココロが、ほんのわずかだけ唇を離した。 | But then, Cocoro draws her head back ever so slightly. | 心将嘴唇微微离开。
+scn00_28_0180 | ひなた(Hinata) | 「……ぁぅぁぅ……」 | "Ah, ah..." | “……啊呜啊呜……”

@@ -1,0 +1,64 @@
+# scene=scn00_30 batch=5/7 dòng 241-300 / 384
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_30_0241 | ひなた(Hinata) | （ココロ……？？） | (Cocoro...?) | （心……？？）
+scn00_30_0242 | - | 後方数メートルの場所にいたはずのココロが、いつの間にかそこにいる。 | Cocoro was supposed to be a few meters away, but suddenly she's there. | 本应在小雨身后几米外的心，不知何时站在了这里。
+scn00_30_0243 | - | そして、トラックを弾き返したあのパワー。 | And she has enough power to flip a truck... | 还有，弹飞卡车的那个力量。
+scn00_30_0244 | ひなた(Hinata) | （命令なしでリミッターを解除した？？） | (Did she disable her limiter without me ordering her to?) | （没有收到命令就解除了限制？？）
+scn00_30_0245 | ココロ(Cocoro) | 「こさめ、無事ですか」 | "Kosame, are you okay?" | “小雨，你没事吧”
+scn00_30_0246 | こさめ(Kosame) | 「…………（コクン）」 | "*nod*..." | “…………（点头）”
+scn00_30_0247 | ココロ(Cocoro) | 「ついでに、そこの犬も」 | "And how about the dog?" | “还有，那边的狗也没事吧”
+scn00_30_0248 | 犬(Dog) | 「ワン！！　ワンワン！！！」 | "Woof! Woof woof!!!" | “汪！！　汪汪！！！”
+scn00_30_0249 | - | 元気に尻尾を振る犬を、ココロは[わずら]煩わしげに見る。 | Cocoro looks at the dog, who is energetically wagging his tail, with annoyance. | 心厌烦地看向用力甩着尾巴的狗。
+scn00_30_0250 | ココロ(Cocoro) | 「よかっ……た」 | "Good for... you." | “那就……好”
+scn00_30_0251 | - | ココロがガクリと崩れ落ちた。 | Then, Cocoro collapses to the ground. | 心一下子倒了下去。
+scn00_30_0252 | ひなた(Hinata) | （ココロ！！） | (Cocoro!!) | （心！！）
+scn00_30_0253 | - | 俺はココロに駆け寄る。 | I rush to her side. | 我跑向了心。
+scn00_30_0254 | - | トラックに二度はねられ、リミッター解除して今度は弾き返した。 | She got hit by that truck twice, then she disabled her limiter and flipped it over. | 被卡车撞了两次，这次又解除限制将卡车弹了回去。
+scn00_30_0255 | - | もう取り返しが付かないほどの損傷を、ボディに負ったはず。 | After all that, her body must be irreparably damaged. | 她的身体应该已经受到了无法修复的损伤。
+scn00_30_0256 | ひなた(Hinata) | （すぐにどこか安全な場所へ運ばないと……） | (I need to get her to a safe place right now...) | （得马上将她带到安全的地方去……）
+scn00_30_0257 | 駆除隊隊長(Extermination Squad Leader) | 「ハァ、ハァ……バケモノめ、とうとう正体を現しやがったな」 | "Hahh, hahh... That monster! It's finally shown its true colors." | “哈，哈……你这个怪物，终于是现出原形了啊”
+scn00_30_0258 | - | 横転したトラックから[は]這い出しながら、隊長が言う。 | The squad leader comes crawling out of the overturned truck. | 队长一边从侧翻的卡车里往外爬一边说道。
+scn00_30_0259 | 駆除隊隊長(Extermination Squad Leader) | 「……増援を呼べ、すぐにだ急げ！！」 | "Call for reinforcements! And make it quick!!" | “……呼叫增援，现在立刻马上！！”
+scn00_30_0260 | - | 隊長が無線に向かって叫ぶ。 | The squad leader yells into his walkie-talkie. | 队长对着无线电吼道。
+scn00_30_0261 | - | どこに隠れていたのか、武装した駆除隊の隊員が現れてココロを包囲するように展開した。 | Almost immediately, armed men appear and surround Cocoro. They must have been hiding someplace nearby. | 不知在何处全副武装隐藏着的驱除队队员们现身了，展开队形将心团团围住了。
+scn00_30_0262 | 光太郎(Kotaro) | 「言いなりにできる部下を待機させていたのか」 | "You kept all your yes-men on standby?" | “你是早就让那些对你言听计从的部下在附近待命了吗”
+scn00_30_0263 | 霧香(Kirika) | 「すぐにやめさせてください！」 | "Make them stand down immediately!" | “立刻停下来！”
+scn00_30_0264 | 駆除隊隊長(Extermination Squad Leader) | 「そうはいかない。現場の指揮権は俺にある」 | "I can't do that. I'm the commander of this situation." | “这可不行，现场的指挥权归我所有”
+scn00_30_0265 | ひなた(Hinata) | （あいつら、ココロを駆除するつもりだ） | (They're planning to exterminate Cocoro!) | （那些家伙，想要驱除掉心）
+scn00_30_0266 | - | あの銃で、植物園に現れた警備ロボットのようにココロを…… | They're carrying the same guns they used on that security robot at the garden... | 就像是用那些枪攻击出现在植物园里的安保机器人那样将心也……
+scn00_30_0267 | 霧香(Kirika) | 「そうじゃないんです！　これ以上追い詰めると……」 | "No, I'm worried about ! If you corner her any further..." | “不是这样！　再继续逼她的话……”
+scn00_30_0268 | - | ふいにどこからか、何かの警告音が鳴り響いていた。 | An alarm suddenly rings out. Where is it coming from? | 不知道从哪响起了一个警报声。
+scn00_30_0269 | - | 霧香さんが持っていた探知機を見て、慌てて辺りを警戒する。 | Kirika-san shoots a glance at the device she's holding, then looks around her as if she's anticipating an attack. | 雾香小姐看了一下身上的探测器后，慌忙防备起了周围。
+scn00_30_0270 | 霧香(Kirika) | 「来る！？」 | "It's coming !?" | “要来了！？”
+scn00_30_0271 | - | その声とほとんど同時だった。 | The moment she yells out, it appears. | 话音未落。
+scn00_30_0272 | - | 巨大な影が一瞬太陽を[さえぎ]遮ったかと思うと、横転したトラックを踏みつけて着地した。 | A huge shadow blots out the sun for a moment before something lands atop the overturned truck with a loud smash. | 一个巨大的身影飞跃过来一瞬间几乎遮蔽住了太阳，然后踩着侧翻的卡车着陆了。
+scn00_30_0273 | ひなた(Hinata) | （ジャバウォック……！？） | (The Jabberwock...!?) | （贾巴沃克……！？）
+scn00_30_0274 | - | 様々なロボットのパーツを寄せ集めたキメラのような、薄気味悪いミュータントドローンの出現に、人々は悲鳴をあげてパニックに[おちい]陥った。 | People start screaming in panic when they see the monstrous mutant drone, which looks as though it was cobbled together from various robot parts. | 这只由各种机器人零件组成，如同奇美拉一般令人毛骨悚然的变异无人机一出现，人们便都尖叫着陷入了恐慌。
+scn00_30_0275 | 霧香(Kirika) | 「やはりそう……あなただったのね」 | "I knew it... It was you." | “果然如此……就是你啊”
+scn00_30_0276 | - | 霧香さんは周囲のパニックが目に入らないかのように、ココロを見つめて言った。 | Kirika-san seems unfazed by the panic building around her. She looks Cocoro straight in the eye as she speaks to her. | 雾香小姐对周围的恐慌视若无睹，盯着心说道。
+scn00_30_0277 | ココロ(Cocoro) | 「……？」 | "...?" | “……？”
+scn00_30_0278 | 霧香(Kirika) | 「アレロパシーを発生させていたのは、ジャバウォックじゃない……」 | "It's not the Jabberwock emitting the allelopathy..." | “引发化感作用的，不是贾巴沃克……”
+scn00_30_0279 | ひなた(Hinata) | （何を言ってるんだ、霧香さんは……？） | (What is Kirika-san saying...?) | （你在说什么啊，雾香小姐……？）
+scn00_30_0280 | 霧香(Kirika) | 「ココロ……あなたが『厄災』の元凶だったのね」 | "Cocoro... You're the cause of the Calamity, aren't you?" | “心……你就是‘灾厄’的元凶吧”
+scn00_30_0281 | ひなた(Hinata) | （えっ――？？） | (What...?) | （哎——？？）
+scn00_30_0282 | - | 霧香さんは今、何と言った？ | Did I hear her right? | 雾香小姐刚刚，说了什么？
+scn00_30_0283 | 霧香(Kirika) | 「そして、あなたの呼び声に応えてジャバウォックが現れた」 | "And the Jabberwock appeared because it responded to your call." | “然后，贾巴沃克也在你的呼唤下现身了”
+scn00_30_0284 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_30_0285 | 駆除隊隊長(Extermination Squad Leader) | 「ジャバウォックはいい、先にあいつを仕留めるんだ！」 | "Forget the Jabberwock! Finish that one off first!" | “别去管贾巴沃克，先把这个家伙给处理掉！”
+scn00_30_0286 | - | 展開していた駆除隊が、ココロに銃口を向ける | The squad members still surrounding Cocoro point their guns at her. | 展开队形的驱除队，将枪口指向了心。
+scn00_30_0287 | ココロ(Cocoro) | 「警告します……これ以上の攻撃には、自己防衛の原則により……反撃を……行う可能性が……」 | "I warn you... Any further hostilities... may cause me to counterattack... in self-defense..." | “警告……如果继续攻击，依照自我防卫的原则……我就有可能……进行反击……”
+scn00_30_0288 | - | ココロはもうふらふらで、立っているのがやっとだ。反撃する力など残っていない。 | Cocoro is swaying on her feet—she's struggling just to stay upright. She doesn't have any power left to fight back. | 心摇摇晃晃着好不容易才站住了，已经没有力量反击了。
+scn00_30_0289 | - | ジャバウォックが[ほ]吠えた。 | The Jabberwock lets out a howl. | 贾巴沃克咆哮了起来。
+scn00_30_0290 | - | 猛獣が狩りをするように、駆除隊めがけて襲いかかる。 | Then, it pounces at the extermination squad members like an animal on the hunt. | 猛兽如同开始狩猎一般，向驱除队袭去了。
+scn00_30_0291 | 駆除隊隊長(Extermination Squad Leader) | 「くっ、仕方が無い、そいつをスクラップにしろ！」 | "Dammit! Fine, turn that one into scrap metal first!" | “咕，没办法了，把这家伙给我拆了！”
+scn00_30_0292 | - | 駆除隊も反撃するが、ジャバウォックは信じられない運動性能でそれを[かわ]躱す。 | The squad members attack, but the Jabberwock dodges with unbelievable speed and agility. | 虽然驱除队进行了反击，但贾巴沃克展现出了难以置信的运动性能躲开了所有的攻击。
+scn00_30_0293 | - | 隊員の一人が倒され、ジャバウォックが前足でのしかかって踏みつけた。 | It swats down one of the men with ease before resting one of its front paws on his body. | 贾巴沃克扑倒一名队员，将前脚踩了上去。
+scn00_30_0294 | - | 体重をかけるだけで、肋骨ごと心臓を押しつぶす事ができるだろう。 | It could probably crush his ribcage just by shifting its body weight onto the man. | 光靠重量就能把心脏连同肋骨一起踩烂吧。
+scn00_30_0295 | ココロ(Cocoro) | 「いけません」 | "You mustn't do that." | “不可以”
+scn00_30_0296 | ジャバウォック(Jabberwock) | 『……』 | "..." | ‘……’
+scn00_30_0297 | - | ジャバウォックが動きを止め、足をどけて獲物を解放した。 | The Jabberwock freezes for a moment. Then, it removes its paw, freeing its victim. | 贾巴沃克停了下来，抬起脚放开了猎物。
+scn00_30_0298 | - | 九死に一生を得た隊員が、這いずるように逃げて行く。 | After narrowly escaping death, the squad member scrambles to get away from the beast. | 九死一生的队员连滚带爬地跑了。
+scn00_30_0299 | 光太郎(Kotaro) | 「隊長、ここでの戦闘は一般人を巻き込む恐れがあります！」 | "Leader! If we fight here, civilians will get caught in the crossfire!" | “队长，在这里战斗可能会把普通人也牵扯进来！”
+scn00_30_0300 | 駆除隊隊長(Extermination Squad Leader) | 「構わん、いいからやれ！」 | "Don't mind them. Just destroy it!" | “不用管，给我打！”

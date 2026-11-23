@@ -1,0 +1,59 @@
+scn00_28_0122 | "..."
+scn00_28_0123 | Toàn thân tôi run lên bần bật.
+scn00_28_0124 | \n\n\n\n\n\n'Sự công nhận mà cậu tìm kiếm ở vị hôn phu đó chỉ là sự công nhận giả tạo mà thôi.'
+scn00_28_0125 | %n;'Thứ đó chẳng qua chỉ là lời dối trá.'
+scn00_28_0126 | %n;'Bằng cách thức như thế, thế giới này sẽ chẳng bao giờ thừa nhận cậu đâu.'
+scn00_28_0127 | Tôi cứ thế viết nguệch ngoạc từng nét chữ trong cơn kích động.
+scn00_28_0128 | Đến khi trút hết ra rồi, tôi mới giật mình tỉnh ngộ.
+scn00_28_0129 | Tôi vừa buông ra những lời có thể làm Cocoro tổn thương sâu sắc.
+scn00_28_0130 | "...A... ư..."
+scn00_28_0131 | Xin lỗi cậu.
+scn00_28_0132 | "Nếu vậy thì tôi sẽ biến mất với tư cách là một sản phẩm thất bại. Đó không phải cái chết, mà chỉ là quá trình gỡ lỗi - Debug. Đơn thuần là loại bỏ một lỗi sai khỏi thế giới này."
+scn00_28_0133 | 'Không phải đâu.'
+scn00_28_0134 | Cocoro khẽ lắc đầu trong tĩnh lặng.
+scn00_28_0135 | "Trước đây tôi từng nhìn thấy hoa Tuyết Trắng Mùa Hạ rồi."
+scn00_28_0136 | Hả...?
+scn00_28_0137 | "Từ trước khi mạng lưới kết nối bị cắt đứt, tôi đã tìm kiếm và xem tất cả những gì xuất hiện. Cả bài báo, hình ảnh, lẫn video, toàn bộ."
+scn00_28_0138 | "Dù tiếp thu được kiến thức, nhưng điều đó chẳng hề tạo ra bất kỳ sự thay đổi nào bên trong tôi."
+scn00_28_0139 | "Không có bất cứ điều gì xảy ra cả."
+scn00_28_0140 | "Tôi nhận định rằng việc đôi mắt này không còn nhìn thấy nữa lại là điều tốt."
+scn00_28_0141 | "Bởi nếu đóa Tuyết Trắng Mùa Hạ này nở rộ, mà khi nhìn thấy nó tôi vẫn xác nhận không có gì lay động, thì điều đó chẳng khác nào chứng minh rằng tôi chính là một lỗi sai."
+scn00_28_0142 | "Cậu bảo tôi... phải tự tay chứng minh bản thân là một sự tồn tại sinh ra do sai lầm sao?"
+scn00_28_0143 | "Chuyện đó... quá tàn nhẫn rồi..."
+scn00_28_0144 | Cocoro...?
+scn00_28_0145 | "...??"
+scn00_28_0146 | Cocoro ngơ ngác dùng đầu ngón tay khẽ gạt đi những giọt nước đang làm ướt đẫm khóe mắt mình.
+scn00_28_0147 | "?? Chắc là do dung dịch tẩy rửa mắt bị trục trặc rồi. Bản thân tôi đúng là một cỗ máy phế thải rồi nhỉ."
+scn00_28_0148 | Theo một xung động mãnh liệt, tôi ôm chầm lấy Cocoro vào lòng.
+scn00_28_0149 | Vừa ôm chặt lấy cậu ấy, tôi vừa siết lấy bàn tay nhỏ nhắn rồi lướt từng đầu ngón tay lên lòng bàn tay.
+scn00_28_0150 | \n\n\n\n\n\n\n\n'Tôi muốn Cocoro được sống tiếp.'
+scn00_28_0151 | %n;'Tôi muốn giúp cậu tìm ra được một trái tim.'
+scn00_28_0152 | "Tìm ra trái tim của tôi... sao?"
+scn00_28_0153 | "...(Gật đầu)"
+scn00_28_0154 | Bởi vì đó có lẽ là con đường duy nhất để Cocoro nhận được lời chúc phúc từ thế giới này.
+scn00_28_0155 | \n\n\n\n\n\n\n\n'Ngay từ đầu chúng ta đã hứa với nhau rồi mà.'
+scn00_28_0156 | %n;'Rằng tôi sẽ giúp cậu trở thành con người.'
+scn00_28_0157 | "..."
+scn00_28_0158 | "Phát hiện lỗi. Chu trình tư duy rơi vào vòng lặp vô tận. Tạm dừng tiến trình suy nghĩ."
+scn00_28_0159 | "Không, tôi sẽ không dừng lại."
+scn00_28_0160 | "Phát hiện lỗi. Phát hiện lỗi. Yêu cầu khởi động lại hệ thống ngay lập tức."
+scn00_28_0161 | "Không, tôi không khởi động lại."
+scn00_28_0162 | Cocoro đang kiên quyết chống cự lại một thứ gì đó bên trong bản thân mình.
+scn00_28_0163 | "Cậu Hinata..."
+scn00_28_0164 | Siết chặt... Cocoro nắm chặt lấy tay tôi đáp lại.
+scn00_28_0165 | Rồi sau đó, cậu ấy kéo ghì tôi cúi xuống gần mình hơn.
+scn00_28_0166 | "Tôi... t-tôi... tôi cũng..."
+scn00_28_0167 | "Phát hiện lỗi. Phát hiện lỗi. Phát hiện lỗi."
+scn00_28_0168 | "T-Tôi... tôi là... tôi cũng... cùng với tôi... t-tôi... tôi cũng...!!!"
+scn00_28_0169 | "Tôi cũng muốn cùng cậu Hinata ngắm nhìn chung một bầu trời đầy sao!"
+scn00_28_0170 | "Ưm..."
+scn00_28_0171 | "...(Ưm!)"
+scn00_28_0172 | Cocoro cưỡng ép ghì đầu tôi xuống, rồi ấn đôi môi của mình áp chặt vào môi tôi.
+scn00_28_0173 | Một cú va chạm thật mạnh bạo, khoảnh khắc hai đôi môi chạm vào nhau, cả hai chúng tôi đều như bị hóa đá đứng sững sờ, giữ nguyên tư thế gượng gạo ấy.
+scn00_28_0174 | "Ưm............ ư............ ưm ưm..............."
+scn00_28_0175 | Cocoro kiễng chân lên run rẩy bần bật, hai má đỏ bừng như thể đang quá nhiệt, đôi mắt nhắm nghiền thật chặt.
+scn00_28_0176 | Tôi cũng chẳng biết phải làm sao cho phải, toàn thân cứng đờ như khúc gỗ.
+scn00_28_0177 | Chúng tôi sẽ duy trì tư thế này đến bao giờ đây?
+scn00_28_0178 | Tôi chỉ muốn giây phút này kéo dài mãi mãi.
+scn00_28_0179 | Cocoro khẽ rời đôi môi ra trong gang tấc.
+scn00_28_0180 | "...A... a..."

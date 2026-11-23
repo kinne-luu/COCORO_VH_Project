@@ -1,0 +1,45 @@
+# scene=scn00_47 batch=4/4 dòng 180-220 / 220
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_47_0180 | ひなた(Hinata) | 「俺は……九十九市に帰ってくるよ」 | "I'm... moving back to Tsukumo." | “我……会回到九十九市”
+scn00_47_0181 | ひなた(Hinata) | 「復興してからになるけど、霧香さんの仕事を手伝いたい」 | "It won't be until after the official reopening, but I want to help Kirika-san with her work." | “虽然可能要等到这里完全复兴后了，不过我还是想来协助雾香小姐的工作”
+scn00_47_0182 | - | 復興はもう始まってる。少しずつ人も戻ってき始めていて、いずれ再開発されるだろう。 | Recovery efforts are already well underway. People are slowly starting to return to the city, and redevelopment will begin in due time. | 复兴已经开始了，人们也逐渐开始回迁，这里早晚也会被重新开发吧。
+scn00_47_0183 | 風音(Kazane) | 「それだけ？」 | "Is that all?" | “只有这些？”
+scn00_47_0184 | ひなた(Hinata) | 「それだけじゃないよ。ココロ」 | "No, there's more. Cocoro?" | “不止这些啊。心”
+scn00_47_0185 | ココロ(Cocoro) | 『はい』 | <Yes?> | ‘嗯’
+scn00_47_0186 | ひなた(Hinata) | 「俺は君と将来を誓う」 | "I promise to build my future with you." | “我会与你誓约未来”
+scn00_47_0187 | こさめ(Kosame) | 「プロポーズかな……ドキドキ」 | "Is this a proposal...? How exciting!" | “这是求婚吗……激动激动”
+scn00_47_0188 | ひなた(Hinata) | 「必ず、ココロが安心して暮らせるセカイを創る。時間はかかってしまうかもしれないけど……」 | "I swear I'll create a world where you can live your life without worry. It may take me some time, but..." | “我一定会创造出一个能让心安心生活的世界，虽然可能会花费很长时间……”
+scn00_47_0189 | ココロ(Cocoro) | 『ひなたさん……』 | <Hinata-san...> | ‘日向先生……’
+scn00_47_0190 | ひなた(Hinata) | 「そのために、俺はこの街に帰ってくるつもりだよ」 | "That's why I'm moving back to Tsukumo." | “为此，我想回到这条街上”
+scn00_47_0191 | 風音(Kazane) | 「あたしもやるぜ！　九十九市を前よりも素敵な街に復興してみせるってな！」 | "I'll help! Let's rebuild Tsukumo and make it an even better place than it was before!" | “我也出一份力吧！　一定要将九十九市复兴成一个比之前还要出色的城市啊！”
+scn00_47_0192 | 大地(Daichi) | 「おうよ！」 | "Sounds great!" | “没错！”
+scn00_47_0193 | こさめ(Kosame) | 「私もお手伝いするね、ココちゃん」 | "I'll help too, Coco-chan." | “我也会出一份力的，心儿”
+scn00_47_0194 | ココロ(Cocoro) | 『みなさん、ありがとうございます……』 | <Thanks, everyone...> | ‘各位，非常感谢你们……’
+scn00_47_0195 | ひなた(Hinata) | 「その時は……その時こそ――」 | "And when the time comes... we'll definitely..." | “到那时……到那时就——”
+scn00_47_0196 | - | 俺はモニタに手を触れさせた。 | I reach out toward the monitor with one hand. | 我将手贴到了屏幕上。
+scn00_47_0197 | - | ココロがその手に手を重ねる。 | Cocoro does the same, and our hands touch on the screen. | 心则用手和我的手重叠了起来。
+scn00_47_0198 | ココロ(Cocoro) | 『約束……ですか？』 | <Do you promise?> | ‘这是……约定吗？’
+scn00_47_0199 | ひなた(Hinata) | 「うん、約束」 | "Yeah, I promise." | “嗯，约定”
+scn00_47_0200 | - | それは強制力のない契約。 | Promises aren't legally binding. | 这是没有强制力的契约。
+scn00_47_0201 | - | [たが]互いの信頼によってのみ成り立つ。 | They're the result of mutual trust. | 是基于双方之间的信任成立的。
+scn00_47_0202 | - | だからこそ、守られる事に意味が生じる。 | That's exactly why it's meaningful to keep them. | 正因如此，遵守约定才会产生意义。
+scn00_47_0203 | ココロ(Cocoro) | 『……ひなたさんは、必ず約束を守ってくれるって、ワタシ知ってます』 | <Hinata-san, I  that you will keep that promise.> | ‘……我知道，日向先生一定会遵守约定’
+scn00_47_0204 | ココロ(Cocoro) | 『その時は、ウェディングドレスを着させてくださいね』 | <When the time comes, I hope you'll let me wear a wedding dress again.> | ‘到那时，就请让我穿上婚纱吧’
+scn00_47_0205 | ひなた(Hinata) | 「うん、もう一度見せてよ、花嫁衣装を着たココロを」 | "Yeah, of course. I'd love to see you in your wedding dress again." | “嗯，让我再看一次新娘打扮的心吧”
+scn00_47_0206 | ココロ(Cocoro) | 『……グスン……はい……』 | <*sniffle*... Yeah...> | ‘……呜……好……’
+scn00_47_0207 | ココロ(Cocoro) | 『……霧香、一つお願いがあります』 | <Kirika, I have a request.> | ‘……雾香，我有一个请求’
+scn00_47_0208 | 霧香(Kirika) | 「なにかしら」 | "What is it?" | “什么请求？”
+scn00_47_0209 | ココロ(Cocoro) | 『ボディの調整を……ひなたさんの隣りに立っても釣り合うような、オトナのナイスボディにどうか』 | <When you repair my body... could you give me some extra curves so that Hinata-san won't have to feel ashamed when I stand next to him?> | ‘请把我的身体调整成……站在日向先生身边能显得很般配的成熟性感身体’
+scn00_47_0210 | ココロ(Cocoro) | 『……胸とか……』 | <Especially in the chest area...> | ‘……比如胸……’
+scn00_47_0211 | 霧香(Kirika) | 「ふふ、そうね。ひなたの好みを聞いておきましょうか」 | "Hehe, I see... Let's ask Hinata what he thinks about that first." | “呵呵，是啊，那就来问问日向的喜好吧”
+scn00_47_0212 | ひなた(Hinata) | 「ちょ、やめてよっ、今のままで充分だって」 | "Whoa, whoa, let's not get into that! You're perfect just the way you are!" | “等下，别这样啦，现在这样就已经很好了”
+scn00_47_0213 | 風音(Kazane) | 「赤くなって、やらしーな」 | "Then why're you blushing? You perv!" | “脸红了，真下流——”
+scn00_47_0214 | 大地(Daichi) | 「でも、いいんじゃね？　ココロも成長したいだろ」 | "I don't see the problem. Cocoro probably wants to grow older just like everyone else, right?" | “不过不也挺好的？　心应该也想获得成长吧”
+scn00_47_0215 | こさめ(Kosame) | 「オトナなココちゃんも見てみたいなぁ～」 | "I'd love to see a more mature version of Coco-chan, too." | “我也好像看看成熟的心儿呢～”
+scn00_47_0216 | - | 植物は花を咲かせる――愛を伝え、結ばれるために。 | Plants grow flowers in order to convey their love and to foster connections. | 植物会开出花朵——为了传达爱意，和相互结合。
+scn00_47_0217 | - | 愛を知った花はやがて[みの]実り、種を[ま]蒔く。 | Flowers that know love will eventually bear fruit and scatter their seeds. | 知晓了爱的花朵，不久后将会结出果实，并播下种子。
+scn00_47_0218 | - | 未来へ繋いでいくために。 | That's how the future is built. | 为了能够将生命延续到未来。
+scn00_47_0219 | ココロ(Cocoro) | 『未来が待ち遠しいです、ひなたさん』 | <I can't wait to see what the future brings, Hinata-san.> | ‘我好想未来赶快到来啊，日向先生’
+scn00_47_0220 | ひなた(Hinata) | 「ああ、そうだね、ココロ」 | "Yeah. Me too, Cocoro." | “嗯，是啊，心”

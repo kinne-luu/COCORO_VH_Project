@@ -1,0 +1,64 @@
+# scene=scn00_42 batch=6/7 dòng 301-360 / 428
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_42_0301 | ココロ(Cocoro) | 「ひなたさん、先ほどはどちらにお電話をなさっていたのですか？」 | "Hinata-san, who were you trying to call earlier?" | “日向先生，你刚刚是在给谁打电话？”
+scn00_42_0302 | ひなた(Hinata) | 「うん……。父さんにね、ココロとの事、報告しておこうと思って」 | "Oh... Just my dad. I wanted to tell him about us." | “唔……是在给我父亲打，我是想把和心结婚的事告诉他来着”
+scn00_42_0303 | ココロ(Cocoro) | 「まあ、お父様……。つまり、ワタシにとって義父となられる方ですね」 | "My, your father... In other words, my future father-in-law." | “哎呀，父亲大人吗……也就是说，会变成我父亲的先生吗”
+scn00_42_0304 | ひなた(Hinata) | 「ココロは会った事があるんだろう？」 | "You've met him before, haven't you?" | “心应该见过他吧？”
+scn00_42_0305 | ココロ(Cocoro) | 「はい。『厄災』が起こった夜に。血を流して気を失っていたひなたさんを手当して病院へと連れていっていただきました」 | "I have. It was on the night of the Calamity. After you'd been knocked unconscious by falling glass, he administered first aid and carried you to the hospital." | “是的，‘灾厄’发生的那晚，是他将失血过多昏过去的日向先生进行了紧急处理并送去了医院”
+scn00_42_0306 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_42_0307 | - | ココロがふと考え込む。 | Cocoro seems lost in thought for a moment. | 心忽然陷入了沉思。
+scn00_42_0308 | ココロ(Cocoro) | 「あの当時、ワタシはヒトの感情について、まだまだ学習が足りていませんでした」 | "Back then, I hadn't learned a lot about human emotions yet." | “当时，我对人类感情的学习还远远不够”
+scn00_42_0309 | ココロ(Cocoro) | 「ゆえに、お義父様の感情を捉えきれていませんでしたが、今メモリーを辿ってみたところ……とても心配なさっていましたね」 | "I didn't understand how my future father-in-law was feeling at the time, but when I review my memories... I can tell that he looked very worried." | “因此，我当时没能理解父亲大人的感情，但现在回想一下……他很担心你呢”
+scn00_42_0310 | ひなた(Hinata) | 「そうなんだ」 | "He did, huh?" | “这样啊”
+scn00_42_0311 | - | 父からその時の話を聞いている。それでもまだ、あの人が俺の心配をするというのが信じられないでいる。 | Dad told me about that night, and I had a hard time believing that he was really worried about me. | 我从父亲那里听说过了当时的事，但即便如此，我也无法相信他会担心我。
+scn00_42_0312 | ひなた(Hinata) | （でも、ココロからもそう見えてたんなら……） | (But if it looked that way to Cocoro at the time...) | （但是，既然在心看来是这样的话……）
+scn00_42_0313 | - | 父は本当に俺を心配し、取り乱していたんだろう。 | Then Dad must have really been distraught. | 那父亲应该是真的是很担心我，并且很慌张吧。
+scn00_42_0314 | ココロ(Cocoro) | 「お義父様は、ワタシたちの式に来てくださるでしょうか」 | "Do you think he would come to our wedding?" | “父亲大人会来参加我们的婚礼吗？”
+scn00_42_0315 | ひなた(Hinata) | 「どうだろうなぁ」 | "I'm not sure." | “谁知道呢”
+scn00_42_0316 | - | 来たくても、今からじゃ間に合わないかもしれない。 | Even if I got in touch with him today and he  to come, I'm not sure he'd actually make it in time. | 就算他想来，现在或许也来不及了。
+scn00_42_0317 | ひなた(Hinata) | （もっと早くに伝えておけばよかった） | (I should have talked to him sooner.) | （要是早点告诉他就好了）
+scn00_42_0318 | - | いや、ちがうか。父が断りやすい状況を、無意識に作ってしまっていた。 | I unconsciously created a situation that would make it more likely for him to refuse. | 不，不对，我应该是下意识制造出了一个父亲容易拒绝我的状况。
+scn00_42_0319 | ひなた(Hinata) | （まだ俺は、父さんと向き合えずにいる……） | (I'm still not able to face him properly...) | （我又没能好好面对父亲……）
+scn00_42_0320 | ココロ(Cocoro) | 「もし、お義父様と会えたら、お礼が言いたいです」 | "If I get to see him, I want to express my gratitude." | “如果，我能再和父亲大人见面，我想向他道个谢”
+scn00_42_0321 | ひなた(Hinata) | 「お礼って？」 | "Your gratitude?" | “道谢？”
+scn00_42_0322 | ココロ(Cocoro) | 「ワタシのひなたさんを救ってくれました。ワタシは外へ出られませんでしたので、助かりました」 | "He saved my future husband's life. I couldn't go outside the garden at the time, so I'm glad he was there to help." | “因为他救了我的日向先生。我当时无法离开植物园，所以真的帮大忙了”
+scn00_42_0323 | ひなた(Hinata) | 「そうだね。俺も、ちゃんとお礼を言わないと」 | "Yeah. I should thank him for that, too." | “是啊，我也得好好向他道个谢才行”
+scn00_42_0324 | ココロ(Cocoro) | 「そうです。過去にどんな経緯があるにせよ、命を救われた一点においては感謝すべきです」 | "You should. No matter what happened between you two in the past, he  save your life." | “是的，不管过去发生了什么恩怨，也应该对他救了自己的性命这件事表达感谢”
+scn00_42_0325 | ひなた(Hinata) | 「ココロと話してると、くよくよしてるのが馬鹿らしくなるな」 | "Talking to you makes me feel like I'm a dumb little kid in comparison sometimes." | “和你这么一聊，就感觉我这么耿耿于怀显得好蠢”
+scn00_42_0326 | - | つい吹き出してしまう。 | I can't help but blurt out how I really feel. | 我不由得笑了出来。
+scn00_42_0327 | ココロ(Cocoro) | 「そうですね。ヒトの心は複雑で、それゆえに迷子になる事もあります。しかし、悩みを感じたらこう考えるといいでしょう」 | "I see. The human soul is incredibly complex, and that's why you may feel lost sometimes. But when you feel troubled, how about thinking this way?" | “就是说啊，人心是很复杂的，因此会陷入迷茫。不过，如果产生了烦恼，只需要这样想就可以了”
+scn00_42_0328 | ココロ(Cocoro) | 「ヒトは悩んだ時、実はもうすでに答えが出ているものです。あとは実行するだけでいいのです」 | "When there's a question on your mind, the answer is already there inside you. You just have to find it and act upon it." | “人类在烦恼的时候，其实已经得出了答案，接下来只要去实行就好了”
+scn00_42_0329 | ひなた(Hinata) | 「……すごいね、ココロは」 | "You're incredible, Cocoro." | “……你真厉害啊，心”
+scn00_42_0330 | ココロ(Cocoro) | 「そうでしょうとも。なにせ毎日、学習していますから」 | "I sure am. I've been learning a lot every day." | “那是当然了，毕竟我每天都在学习”
+scn00_42_0331 | - | ココロはニコニコしながら、俺の手を引いて歩いて行った。 | Cocoro smiles and pulls me along by the hand. | 心笑眯眯地牵着我的手走了起来。
+scn00_42_0332 | - | どちらからともなく、砂浜へと降りていった。 | We didn't have a particular destination in mind, but our feet carry us to the beach. | 我们很自然地走上了沙滩。
+scn00_42_0333 | - | ココロがヒモを外してやると、犬が元気よく走っていく。 | Cocoro unhooks the dog's leash, and he happily runs off. | 心将绳子解开后，狗便兴奋地跑了出去。
+scn00_42_0334 | - | 俺はココロとふたり並んで、波打ち際に座った。 | The two of us sit down side by side at the water's edge. | 我和心两个人并排坐在海边。
+scn00_42_0335 | ひなた(Hinata) | 「ほんと、商店街に来た頃に比べて、見違えたよ。今思い出すと、あの頃はもっとぎこちなかったよね」 | "You've really changed since you first started living with me in town. Thinking back, you used to act pretty awkwardly back then." | “你是真的和刚来商店街时完全不同了啊，现在想想，当时的你要更笨手笨脚的啊”
+scn00_42_0336 | ココロ(Cocoro) | 「……感情回路が出力する感情を、ワタシはエラーだと判断し無視していました」 | "I was ignoring my emotional circuits' output because I thought it was causing errors." | “……感情回路输出的感情被我自己判断为错误无视掉了”
+scn00_42_0337 | ココロ(Cocoro) | 「ですが、ひなたさんやこさめや、商店街のヒトたちと接するうちにロジックだけでは割り切れないヒトの感情を学んでいきました」 | "However, as I interacted with you, Kosame, and all the people of the shopping district, I learned that emotions can't be analyzed with logic alone." | “但是，我在与日向先生、小雨还有商店街的人们接触的过程中，我学到了无法仅靠逻辑来理解的人类感情”
+scn00_42_0338 | ココロ(Cocoro) | 「ううん……少しちがいます」 | "No... That's not quite right." | “不……我说的有些不太准确”
+scn00_42_0339 | ココロ(Cocoro) | 「ひなたさんがワタシを愛してくださいました」 | "I learned that you really loved me, Hinata-san." | “日向先生是爱着我的”
+scn00_42_0340 | ココロ(Cocoro) | 「街のヒトたちや、霧香や、みなさんも」 | "The townspeople, Kirika, and everyone else did, too." | “街上的人们也是，雾香也是，小雨也是”
+scn00_42_0341 | ココロ(Cocoro) | 「その愛を受け取るうちに、ワタシも好きになっていったんだと思います、ヒトが」 | "So I think that receiving their love caused me to start loving them—all humans—too." | “我想，在接受着大家喜爱的过程中，我也喜欢上了人类”
+scn00_42_0342 | - | 人を好きになっていった――そのおかげで、自然と感情を学び、発露させていったのか。 | In other words, she fell in love with humanity as a whole... And that allowed her to develop natural emotions and express them. | 喜欢上人类了——因此，她才能自然地学习并表达感情啊。
+scn00_42_0343 | - | 感情表現のほとんどは、他人とコミュニケーションを取るためのものだ。 | Expressing emotions is usually a way to communicate with others. | 将感情表现出来基本都是为了和他人交流。
+scn00_42_0344 | - | 好きという感情のやり取りがあって、初めて発達するのかもしれない。 | But perhaps that channel of communication only opens when there are mutual feelings of amity involved. | 或许正是因为进行了‘喜欢’这一感情的交流，才让她开始了成长。
+scn00_42_0345 | ココロ(Cocoro) | 「ありがとうございます、ひなたさん」 | "Thank you very much, Hinata-san." | “谢谢你，日向先生”
+scn00_42_0346 | - | ココロが隣りに座る俺の肩に、ぽてんと頭を預ける。 | Cocoro leans toward me and rests her head on my shoulder. | 心将头倚在了我的肩上。
+scn00_42_0347 | ココロ(Cocoro) | 「ワタシを最初に好きになってくださって」 | "Thank you for being the first one to love me." | “谢谢你第一个喜欢上我”
+scn00_42_0348 | ひなた(Hinata) | 「こちらこそ、ありがとう。好きにならせてくれて」 | "And thank , Cocoro, for letting me love you." | “我才是要谢谢你能让我喜欢上你”
+scn00_42_0349 | - | 誰かをこんなにも好きになった事はないし、好きになれてよかったと思える。 | I've never loved anyone this much before, and I'm glad that I do now. | 我从来没有如此喜欢过一个人，能喜欢上她真是太好了。
+scn00_42_0350 | - | 海を[な]撫でて吹いてくる風が気持ちいい。 | The sea breeze feels so nice out here. | 海风轻抚着海面吹来，令人感觉十分惬意。
+scn00_42_0351 | ひなた(Hinata) | 「風が涼しい……。もう夏が終わるんだな」 | "The wind is nice and refreshing... Summer's almost over, huh?" | “海风好凉爽……夏天已经结束了啊”
+scn00_42_0352 | - | 風の中に秋の気配が混じり始めている。 | I'm starting to pick up the scents of autumn in the air. | 风中已然混入了秋天的气息。
+scn00_42_0353 | ココロ(Cocoro) | 「……季節は移ろいゆくものなのですね」 | "The seasons are ever changing, aren't they?" | “……季节是会不断变化的事物啊”
+scn00_42_0354 | ココロ(Cocoro) | 「今、理解しました。ワタシは幸せでした」 | "I just realized... that I've been happy all along." | “现在我理解到了，我十分幸福”
+scn00_42_0355 | ココロ(Cocoro) | 「幸せだと感じる心を持つに[いた]至りました」 | "I've developed a soul that allows me to feel happiness." | “拥有了一颗能感受到幸福的心”
+scn00_42_0356 | ココロ(Cocoro) | 「だからこそ、せつない。夏が終わりゆく事が……」 | "But that's also why I'm sad that summer is ending." | “也正因如此，夏天即将结束让我感到有些难过……”
+scn00_42_0357 | - | ココロの瞳から、つぅと一筋、涙がこぼれた。 | A single tear runs down her cheek. | 心眼中垂下了一道泪水。
+scn00_42_0358 | 犬(Dog) | 「クゥン……」 | "Woo..." | “呜……”
+scn00_42_0359 | - | それに気付いた犬がすり寄って、ココロを[なぐさ]慰める。 | The dog notices before I do, and he nuzzles Cocoro to try to comfort her. | 注意到这一点的狗蹭过来安慰起了心。
+scn00_42_0360 | - | ココロは、なんでもないよと言うように犬を撫でてあげる。 | She pets the dog as if to reassure him that she's okay. | 心则抚摸着狗，就像是在说我没事一样。

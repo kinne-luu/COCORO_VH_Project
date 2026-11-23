@@ -1,0 +1,64 @@
+# scene=scn00_37 batch=3/5 dòng 121-180 / 261
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_37_0121 | - | 『さかせてよ　ココロのこころを』 | Make your soul bloom for me. | ‘我来让你的心绽放吧’
+scn00_37_0122 | - | きっと、とても美しいはずだから―― | I'm sure it'll be the most beautiful thing... | 肯定会很美丽——
+scn00_37_0123 | ココロ(Cocoro) | 「エラー発生、エラー発生、エラー発生、ただちにシステムのシャットダウンを――」 | "Error... Error... Error... Shutting down system..." | “发生错误，发生错误，发生错误，立刻关机——”
+scn00_37_0124 | ココロ(Cocoro) | 「……いいえ、シャットダウンしません」 | "...No, I won't shut down." | “……不，我不会关机”
+scn00_37_0125 | ココロ(Cocoro) | 「ワタシは、咲きたい――」 | "I want to bloom..." | “我，想要绽放——”
+scn00_37_0126 | ココロ(Cocoro) | 「ひなたさんに知ってほしい、ワタシのほんとうの気持ちを」 | "I want Hinata-san to know my true feelings." | “想让日向先生知道，我真实的感情”
+scn00_37_0127 | - | 指がゆっくりと開かれていく。 | Her fingers slowly loosen. | 她缓缓张开手掌。
+scn00_37_0128 | - | それと同時に、暗闇にぽつんとあった蕾が[ほころ]綻んで…… | At the same time, the bud in the darkness slowly swells... | 与此同时，独自存在于黑暗之中的花蕾也绽放了……
+scn00_37_0129 | - | 開花の条件が整ったように、ゆっくりとほどけて、開いていった。 | Its petals unfurl, beginning to open. The conditions for it to bloom must have finally been met. | 像是集齐了所有开花条件般，缓缓地舒展开了花瓣。
+scn00_37_0130 | - | ドレスを[まと]纏うように、色鮮やかな花弁をふわりと広げる。 | The petals take on a variety of vivid colors and begin to unfold like the skirt of a flowy dress. | 鲜艳的花瓣如礼服般舒展开来。
+scn00_37_0131 | - | その中から現れたのは―― | From its center, something appears... | 从中出现的是——
+scn00_37_0132 | ひなた(Hinata) | （……母さんの指輪） | (It's Mom's ring...) | （……妈妈的戒指）
+scn00_37_0133 | - | 『厄災』の夜、植物園で無くした母さんの形見が、そこにあった。 | It's the memento I lost in the garden the night of the Calamity. | ‘灾厄’之夜，在植物园里遗失的母亲遗物，就在这里。
+scn00_37_0134 | ＣＣＲ－０２(CCR-02) | 『おネエ……チャン……の……オーバーふ……ろー……かいショウ。りブート……して……ル』 | "My... sis...ter's... overflow... is... resolved. She's... re...booting." | ‘姐姐……的……过载……状态……消除了。她正在……重启’
+scn00_37_0135 | - | ＣＣＲ－０２がココロの状態を教えてくれた。 | CCR-02 explains to me what's happening. | CCR-02将心的状态告知了我。
+scn00_37_0136 | ひなた(Hinata) | 「……（コクン）」 | "*nod*..." | “……（点头）”
+scn00_37_0137 | - | 頷きながら、ココロの様子を見る。 | I watch Cocoro closely. | 我一边点头，一边观察着心。
+scn00_37_0138 | - | まだ目は閉じたまま。死んだように眠っている。 | Her eyes are still shut. She's sleeping so deeply that she might as well be dead. | 她依旧闭着眼睛，像是睡死了过去一样。
+scn00_37_0139 | - | しかし、 | But then... | 不过。
+scn00_37_0140 | ひなた(Hinata) | （ココロの左手が、開花するみたいに開いていく……） | (Her left hand is opening up, like a blooming flower.) | （心的左手，如花朵绽放般打开了……）
+scn00_37_0141 | - | そして、その小さな手のひらには、懐かしい指輪が。 | And then, in her small palm, I find the ring of my memories. | 然后，在她小小的手心里，有一枚令人怀念的戒指。
+scn00_37_0142 | - | 母さんの形見。 | Mom's memento. | 是妈妈的遗物。
+scn00_37_0143 | - | 幼い俺は、それを結婚の約束の証にしたくて、植物園のお姉さんに渡そうと毎日持ち歩いていた。 | When I was little, I carried it with me everywhere, waiting for the opportunity to give it to the girl at the garden as a reminder of my promise to marry her. | 小时候的我，为了能将它作为结婚约定的证明交给植物园的姐姐，每天都将它随身携带。
+scn00_37_0144 | - | しかし、結局、逢えないまま、あの夜がやってきてしまった。 | But in the end, I never saw her again, and then that catastrophic night happened. | 可是，最后还没见到她，那一夜就来临了。
+scn00_37_0145 | - | なくしたと思っていたが、ココロが拾ってずっと持っていてくれたんだ。 | I thought I had lost the ring, but Cocoro found it and kept it with her all this time. | 我还以为弄丢了，结果是被心捡了起来一直带在身上。
+scn00_37_0146 | - | ココロは心を開いてくれた。なのに目覚める気配がない。 | She's finally opened up to me, but she's still not waking up. | 我敲开了她的心扉，但她却没有丝毫要醒来的迹象。
+scn00_37_0147 | ひなた(Hinata) | 「……ぁぅぁぅ……！」 | "Ah, uh...!" | “……啊呜啊呜……！”
+scn00_37_0148 | ひなた(Hinata) | （ココロ！） | (Cocoro!) | （心！）
+scn00_37_0149 | - | どうして目を開けないんだろう？ | Why won't she open her eyes? | 为什么不睁开眼睛？
+scn00_37_0150 | - | 『ココロはまだどこか悪いところが？』 | "Is there still something wrong with Cocoro?" | ‘心还有什么没修好的地方吗？’
+scn00_37_0151 | ＣＣＲ－０２(CCR-02) | 『うウン……ち……ガウ……コワがっ……てる。め……ヲ……あけ……るの……ヲ』 | "Umm... No... She's just... scared... to o...pen her... eyes." | ‘没有……她……是在……害怕。害怕……睁开……眼……睛’
+scn00_37_0152 | ひなた(Hinata) | （そうか……セカイは恐いところだと知ってしまったから） | (Right... She's learned how terrifying the world can be.) | （这样啊……毕竟她知晓了实际的恐怖之处啊）
+scn00_37_0153 | - | 自分の中にある心を自覚する前なら、エラーとして無視できた様々な不安や恐れと、向かい合わないといけない。 | She'll have to face anxieties and fears that she would have dismissed as errors before she became aware of the soul inside her. | 在认知到自己拥有人心之前，被当做错误无视掉的各种不安和恐惧，她现在都必须要去面对了。
+scn00_37_0154 | ひなた(Hinata) | 「コ……コロ……」 | "Co...coro..." | “心……”
+scn00_37_0155 | - | 絞り出すような声で、やっと名前を呼ぶ事ができた。 | With a strained voice, I finally manage to call out her name. | 我拼命从喉咙往外挤着声音，总算是叫出了她的名字。
+scn00_37_0156 | - | 気持ちを声にしようとすると、のどがギュッと締め付けられる。 | But whenever I try to turn my feelings into words, it's like my throat is being squeezed shut. | 只要试图将感情说出口，喉咙就会一下子收紧。
+scn00_37_0157 | ひなた(Hinata) | 「はぁ……はぁ……ふぅ……」 | "Hahhh... Hahh... Hfff..." | “哈……哈……呼……”
+scn00_37_0158 | - | 深呼吸をして、緊張を鎮める。 | I take a deep breath in an attempt to calm my nerves. | 我深呼吸着，压下了紧张感。
+scn00_37_0159 | ひなた(Hinata) | 「ココ……ロ……が……好き……だッ……人だから……とか……ロボッ……ト……だから……じゃ……ない……」 | "Coco...ro... I... love... you. Robot... or human... It doesn't... matter." | “我……喜欢……心……与你……是人类……还是……机器……人……都……无关……”
+scn00_37_0160 | ひなた(Hinata) | 「ココロだ……から……好きに……なッ……はぁ、はぁ……た！」 | "I... love you... hahh, hahh, for being... !" | “因为……你是……心……我……才会……喜欢……哈啊、哈啊……你！”
+scn00_37_0161 | ひなた(Hinata) | 「不安……も……こわい事も……君となら……わかち……あえ……る……って信じ……てる」 | "I believe... that... we can... overcome... any... scary... stuff... as long... as... we... share it..." | “不安……也好……可怕的事……也好……我相信……这些……都能和……你共同……面对”
+scn00_37_0162 | ひなた(Hinata) | 「お……おれ……お、お……俺と…………ハァ、ハァ…………」 | "P-P... Please... m-m-m... Hahh, hahh..." | “我……我……我、我……和我…………哈啊、哈啊…………”
+scn00_37_0163 | ひなた(Hinata) | 「俺と……結婚してください！」 | "Please... Marry me!" | “和我……结婚吧！”
+scn00_37_0164 | - | ワタシの意識と言うべき部分は、すでに覚醒していた。 | The part of me that I recognize as my consciousness is already awake. | 我体内应该被称为意识的部分早就已经醒来了。
+scn00_37_0165 | - | しかし、目を開けるのが恐かった。 | But I'm scared to open my eyes. | 但是，我却很害怕睁开眼睛。
+scn00_37_0166 | - | ワタシはセカイをめちゃめちゃにした。 | I've made a mess of the world. | 我将世界搅得一团糟。
+scn00_37_0167 | - | 親切にしてくれた九十九商店街のヒトたちにも迷惑をかけた。 | I caused a lot of trouble for the residents of the Tsukumo shopping district, despite the fact that they'd been so kind to me. | 给对我很亲切的九十九商店街的人们添了很多麻烦。
+scn00_37_0168 | - | 友達になってくれたこさめを恐れさせてしまった。 | I made Kosame, who was my best friend, afraid of me. | 让和我成为了朋友的小雨对我感到了恐惧。
+scn00_37_0169 | - | ひなたさんを深く深く傷つけ、再び声を奪ってしまった。 | I hurt Hinata-san enough to take his voice from him a second time. | 深深伤害到了日向先生，再次夺走了他的声音。
+scn00_37_0170 | ココロ(Cocoro) | （セカイを見るのが恐い……これが感情。心の働き……） | (I'm scared to see the world... But this feeling... comes from my soul...) | （我害怕看到世界……这就是感情，这就是心的功能……）
+scn00_37_0171 | - | 感情とはなんと厄介なのだろう。 | Emotions are such troublesome things. | 感情这东西真是麻烦啊。
+scn00_37_0172 | - | ただまぶたを開いて、ＣＣＲ－０２がメンテナンスしてくれた視覚センサーの状態を確認するために、こんなに勇気が必要になるなんて。 | I can't believe it's taking so much courage to just open my eyelids and check the status of my optical sensors that CCR-02 repaired for me. | 只是睁开眼睛，对CCR-02帮我修理好的视觉传感器进行确认，居然需要如此大的勇气。
+scn00_37_0173 | ココロ(Cocoro) | （このまま寝たふりを続ければ、全部上手くいったりしないでしょうか） | (Won't everything work out on its own if I just keep my eyes closed?) | （就这样继续装睡，是不是一切就都能顺利进行了啊）
+scn00_37_0174 | - | 省電力モードに切り替えれば、１０年は[ねば]粘れる。 | If I switch into battery-saving mode, I could last for about ten years. | 只要切换到省电模式，就能撑10年。
+scn00_37_0175 | - | いやダメだ。寝たふりなのはＣＣＲ－０２にばれている。 | No, I couldn't. CCR-02 would know that I'm only pretending to sleep. | 不，不行，我在装睡的事已经被CCR-02看穿了。
+scn00_37_0176 | - | あの子はずっと、ワタシのメモリーを盗み見していた。 | She's already stolen peeks into my memory. | 她一直都在偷看我的记忆。
+scn00_37_0177 | - | いつの間にか生まれていたワタシの妹。勝手にワタシの内面的状態を把握しないでほしい。ロボットにだってプライバシーはある。 | My sister, who I didn't know I had... I don't want her accessing my inner workings without my permission. Even robots should have privacy. | 她是我不知何时诞生的妹妹，我还是希望她能不要总是擅自监视我内心的状态，机器人也是有隐私的。
+scn00_37_0178 | ココロ(Cocoro) | （ひなたさんを見たい。ワタシの目で。やっぱり恐い。無理無理） | (I want to see Hinata-san. With my own eyes. But still, I'm so scared. I just can't!) | （想看日向先生，想用我的眼睛去看他。还是好害怕，不行不行）
+scn00_37_0179 | ひなた(Hinata) | 「コ……コロ……」 | "Co...coro..." | “心……”
+scn00_37_0180 | - | ひなたさんの声を聴覚センサーが捉えた。 | My auditory sensors pick up Hinata-san's voice. | 听觉传感器捕捉到了日向先生的声音。

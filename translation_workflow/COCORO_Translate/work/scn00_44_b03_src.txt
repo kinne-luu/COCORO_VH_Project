@@ -1,0 +1,64 @@
+# scene=scn00_44 batch=3/4 dòng 120-179 / 215
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_44_0120 | 駆除隊隊長(Extermination Squad Leader) | 「出来損ないが邪魔をするな」 | "Get out of my way, you clanker!" | “废物别来碍事”
+scn00_44_0121 | 駆除隊隊長(Extermination Squad Leader) | 「おまえの事は調べたぞ。ＣＣＲ－０１に対抗して造られたが、失敗作とみなされて放棄された出来損ないの犬もどき」 | "I've looked up everything about you. You were designed to compete with the CCR-01, but the project was abandoned because you were deemed a failure! A mutt!" | “我已经调查过你了，你就是个为了对抗CCR-01而被制造出来，但却被视为失败作放弃掉的废物狗”
+scn00_44_0122 | 駆除隊隊長(Extermination Squad Leader) | 「跡形も残らないよう駆除してやるぞ」 | "I'm gonna make sure there's not a single trace left of you." | “看我把你驱除得灰都不剩”
+scn00_44_0123 | ココロ(Cocoro) | 「おやめなさい」 | "Stop right there!" | “请住手”
+scn00_44_0124 | ココロ(Cocoro) | 「あなたは駆除隊の任務から外されたはず。これ以上の乱暴狼藉は罪に問われます」 | "You were relieved of your duties. Any further disorderly conduct will result in charges being filed against you." | “你身上应该已经没有驱除队的任务了才对，如果继续试试暴行一定会被问罪”
+scn00_44_0125 | 駆除隊隊長(Extermination Squad Leader) | 「……貴様、なんだその格好は？　ロボットが人間ごっこか？」 | "...Why are you dressed like ? Are you trying to pretend to be human?" | “……你这是什么打扮？　机器人在模仿人类吗？”
+scn00_44_0126 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_44_0127 | 駆除隊隊長(Extermination Squad Leader) | 「俺はおまえらを許さない」 | "I can't let you get away." | “我无法原谅你们”
+scn00_44_0128 | ココロ(Cocoro) | 「なぜ、そこまで[にく]憎むのでしょう」 | "Why do you hate us so much?" | “为什么，如此憎恨我们”
+scn00_44_0129 | 駆除隊隊長(Extermination Squad Leader) | 「家族を殺されたからだ！」 | "Because you killed my family!" | “因为我的家人都被杀了！”
+scn00_44_0130 | 駆除隊隊長(Extermination Squad Leader) | 「『厄災』で俺は妻と子どもを失った……。おまえたちが殺した」 | "I lost my wife and kid in the Calamity... You killed them!" | “‘灾厄’让我失去了妻儿……都是被你们杀的”
+scn00_44_0131 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_44_0132 | ひなた(Hinata) | 「ハァ、ハァ、ハァ、ハァ……！」 | "Hahh, hahh, hahh, hahh...!" | “哈啊，哈啊，哈啊，哈啊……！”
+scn00_44_0133 | - | 突然、ペダルを踏む足に抵抗感がなくなり、俺は前につんのめって自転車ごと倒れた。 | Suddenly, the resistance in my bike's pedals disappears, and I'm nearly sent hurtling over the handlebars. | 突然，踩着踏板的脚感觉阻力消失了，随后我便向前倾去连着自行车一起摔倒了。
+scn00_44_0134 | ひなた(Hinata) | 「クッ……チェーンがちぎれてる」 | "Ugh... The chain snapped." | “呜……车链断了”
+scn00_44_0135 | - | 俺はマウンテンバイクを乗り捨てて、自分の足で走った。 | I toss my mountain bike to the side of the road and start to run. | 我将山地自行车丢到了一边，用自己的腿走了起来。
+scn00_44_0136 | ひなた(Hinata) | 「ハァ、ハァ、足に力が……入らない」 | "Hahh, hahh... My legs are... too tired..." | “哈啊，哈啊，腿上……使不上力”
+scn00_44_0137 | - | 筋肉の繊維が引きちぎれそうなほど痛む。それでも前へ進んだ。 | My muscles throb as if they're about to burst. Still, I force myself forward. | 肌肉像是纤维撕裂了一般疼痛，但即便如此我依旧在不断前进着。
+scn00_44_0138 | - | つけっぱなしのゴーグルから、声が聞こえる。 | I can hear voices through the goggles I'm still wearing. | 一直戴在头上的护目镜传来了声音。
+scn00_44_0139 | 駆除隊隊長(Extermination Squad Leader) | 『俺だけじゃないぞ。おまえらを憎む人間は山ほどいる』 | <I'm not the only one—there's plenty of people who hate your kind.> | ‘不光是我，憎恨你们的人类数不胜数’
+scn00_44_0140 | 駆除隊隊長(Extermination Squad Leader) | 『おまえは絶対に幸せになどなれない。俺が見逃したとしても、セカイが許しはしない』 | <You'll never be happy in this world. Even if I let you go, the world won't allow you to exist.> | ‘你们绝对不会获得幸福，就算我放过你们，世界也不会放过你们’
+scn00_44_0141 | ココロ(Cocoro) | 『……あなたはご家族を亡くされたのですね。その[うら]恨みを、ワタシたちにぶつけたいと』 | <...So, you lost your family, and you want to take your anger out on us.> | ‘……你的家人都去世了啊，所以想将这份仇恨倾注到我们身上’
+scn00_44_0142 | 駆除隊隊長(Extermination Squad Leader) | 『おまえたちが元凶だ！　ロボットのくせに……人間の真似なぞしようとするから！！！』 | <You clankers are the cause of all of it! You're just robots... Yet you pretend to be human!!!> | ‘你们就是元凶！　明明只是机器人……就别去模仿人类了！！！’
+scn00_44_0143 | ひなた(Hinata) | 「ちがう…………ココロたちは何も悪くない」 | "He's wrong... Cocoro didn't do anything wrong." | “不对…………心她们没有错”
+scn00_44_0144 | - | ココロが心を持ったのは、母さんがそう造ったからだ。 | Cocoro developed a soul because my mom designed her that way. | 心会拥有人心，是因为母亲就是这样将她制造出来的。
+scn00_44_0145 | - | ＣＣＲ－０２がアレロパシーを発したのは、そうなるよう生み出されてしまったからだ。 | CCR-02 emitted allelopathy because she was created to be able to do that. | CCR-02会发出化感作用信号，也是被这样设计出来的。
+scn00_44_0146 | - | ロボットが事故を引き起こしたのなら、それは人の責任なのだ。 | Humans are responsible for any incidents and accidents that robots may cause. | 如果机器人引发了什么事故，那便是人类的责任。
+scn00_44_0147 | ココロ(Cocoro) | 『それであなたが救われるのでしたら、受け入れます』 | <If doing that will make you feel better, then I'll allow it.> | ‘如果这样就能够让你获得救赎的话，我会接受’
+scn00_44_0148 | ひなた(Hinata) | 「ココロ、何を……」 | "Cocoro, what are you...?" | “心，你在说什么……”
+scn00_44_0149 | ココロ(Cocoro) | 『ですが、少しだけ待っていただけないでしょうか。もうすぐ、この花が咲くのです――』 | <However, may I ask you to wait a few moments? These flowers are going to bloom soon, and—> | ‘不过，可以稍微等一会儿吗，这朵花很快就要开了——’
+scn00_44_0150 | 駆除隊隊長(Extermination Squad Leader) | 「花……だと？」 | "What? Flowers?" | “你说……花？”
+scn00_44_0151 | ココロ(Cocoro) | 「ナツノシラユキという、数年に一度しか咲かない花が、ほらもうこんなに[ほころ]綻んで……」 | "They're called summer snows—a rare flower that only blooms once every several years. The buds have begun to open..." | “这朵名为夏之白雪的花，几年才会开一次，你看，现在已经在绽放了……”
+scn00_44_0152 | 駆除隊隊長(Extermination Squad Leader) | 「人間のふりをするな、機械でできた人形がッッ！！！！！」 | "Stop pretending that you're human! You're just a glorified mechanical doll!!!" | “别去模仿人类，你这个机械制造出来的人偶！！！！！”
+scn00_44_0153 | ひなた(Hinata) | 『ココロ、抵抗しろ！　リミッター解除を許可する！』 | <Cocoro, you have to fight him! Disable your limiter! You have my permission!> | ‘心，进行抵抗！　我允许你解除限制！’
+scn00_44_0154 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_44_0155 | ひなた(Hinata) | 『どうしたんだ、ココロ！』 | <What are you doing, Cocoro!?> | ‘怎么了，心！’
+scn00_44_0156 | ココロ(Cocoro) | 「……傷つけるのが……こわい」 | "I'm scared... of hurting someone." | “……我害怕会伤害到他……”
+scn00_44_0157 | - | 容易くヒトを傷つけ、死に[いた]至らしめる事のできる力を使う事に、ココロは恐怖していた。 | The power Cocoro possesses could easily deal a fatal blow, so she's afraid to use it. | 心害怕使用这份能够轻易让人类受伤甚至死亡的力量。
+scn00_44_0158 | - | リミッター解除の許可を得ても、ココロ自身の感情が、それを受け入れなかった。 | Even with me giving her permission, her own emotions prevent her from accepting it. | 就算得到了解除限制的许可，心自身的感情也无法接受。
+scn00_44_0159 | 駆除隊隊長(Extermination Squad Leader) | 「死ね、機械人形！！！」 | "Die, you glorified puppet!" | “去死吧，机械人偶！！！”
+scn00_44_0160 | - | 駆除隊隊長がライフルを構えた。 | The extermination squad leader aims his rifle. | 驱除队队长举起了步枪。
+scn00_44_0161 | ひなた(Hinata) | 『やめろぉぉぉぉぉぉぉぉーーーーーーーーーーッ！！！！』 | "Noooooooooooooo!!!" | ‘住手——————————！！！！！’
+scn00_44_0162 | 駆除隊隊長(Extermination Squad Leader) | 「ぐわッ！！？」 | "Ack!?" | “咕哇！！？”
+scn00_44_0163 | - | どこからか飛び込んできたドローンが、駆除隊隊長にぶつかる。 | A drone crashes into the squad leader's head just as he pulls the trigger. | 不知从哪里飞来的无人机撞到了驱除队队长身上。
+scn00_44_0164 | - | ライフルの弾丸はわずかに[そ]逸れたものの、ココロの腕をかすめていった。 | The bullet veers off course and grazes Cocoro's arm. | 步枪的子弹虽然稍微偏离的一点，但还是蹭到了心的手臂。
+scn00_44_0165 | - | ダメージを受け、ココロがよろけて倒れる。 | The hit causes Cocoro to stagger. | 受到伤害后，心摇晃着倒下了。
+scn00_44_0166 | ココロ(Cocoro) | 「腕が……」 | "My arm..." | “手臂……”
+scn00_44_0167 | 駆除隊隊長(Extermination Squad Leader) | 「……花だと。機械の分際で、花が見たいだと……」 | "Flowers... That's ridiculous! You're just a machine, and you want to look at ?" | “……还说什么花，不过是一个机器，还说什么想看花……”
+scn00_44_0168 | - | 隊長が花壇に踏み込んで、ナツノシラユキを蹴散らそうとする。 | The squad leader steps into the flower bed and raises his foot, preparing to trample the summer snows. | 队长踏进花坛，试图踩烂夏之白雪。
+scn00_44_0169 | ココロ(Cocoro) | 「やめて」 | "Stop!" | “不要”
+scn00_44_0170 | シラユキ(Shirayuki) | 『ガァァァアアアアアアアアアア！！！！！！！』 | "Gahhhhhhhhh!!!" | ‘吼——————————！！！！！！’
+scn00_44_0171 | 駆除隊隊長(Extermination Squad Leader) | 「邪魔だ！」 | "Get out of my way!" | “碍事”
+scn00_44_0172 | - | 飛びかかってきたシラユキを、隊長がライフルの柄で殴りつけた。 | He strikes Shirayuki with the butt of his rifle. | 队长用枪托殴打着飞扑过来的白雪。
+scn00_44_0173 | ココロ(Cocoro) | 「やめてください、死んでしまいます」 | "Please stop that! You'll kill her!" | “快住手，她会死的”
+scn00_44_0174 | 駆除隊隊長(Extermination Squad Leader) | 「……おまえらは死なない。壊れるだけだ」 | "...You can't die. You'll just be destroyed." | “……你们不会死，只会坏掉”
+scn00_44_0175 | - | 隊長がライフルの銃口をシラユキに向けた。 | He aims his muzzle at Shirayuki again. | 队长将步枪的枪口对准了白雪。
+scn00_44_0176 | - | 恐らく込められている弾丸は、金属の装甲を撃ち抜く、対ロボット用徹甲弾だ。 | It's probably loaded with metal-piercing rounds that could penetrate even the thickest robot armor. | 里面装填的子弹恐怕是能够射穿金属装甲的对机器人专用穿甲弹。
+scn00_44_0177 | 駆除隊隊長(Extermination Squad Leader) | 「無に帰れ、出来損ないのぽんこつロボット。おまえは元から廃棄処分される予定だったんだ」 | "Get lost, you worthless failure of a robot. You were due to be disposed of anyway." | “回归虚无吧，你这个没用的废物机器人。你们原本就是要受到废弃处理的”
+scn00_44_0178 | ココロ(Cocoro) | 「やめろ！！！！！！！！！！」 | "NO!" | “住手！！！！！！！！！”
+scn00_44_0179 | 駆除隊隊長(Extermination Squad Leader) | 「ぐああッッ！！？」 | "Gahhh!!?" | “咕啊啊！！？”

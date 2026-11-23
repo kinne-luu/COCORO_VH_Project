@@ -1,0 +1,59 @@
+scn00_44_0061 | "Vẻ đẹp vốn là nét riêng của mỗi người mà. Thấy điều gì là xinh đẹp đều tùy thuộc vào bản thân em. Đừng hỏi tôi, mà hãy lắng nghe chính trái tim mình xem sao nhé."
+scn00_44_0062 | <Tr... ái... tim... c... ủa... riêng... em...>
+scn00_44_0063 | <E... m... kh... ông... hiểu... Em... l... à... Cocoro... ư?>
+scn00_44_0064 | "Cocoro là tôi. Còn em là..."
+scn00_44_0065 | "...Tôi cũng sẽ đặt tên cho em nhé. Một cái tên định danh độc nhất vô nhị, chứ không phải mã số mẫu máy khô khan."
+scn00_44_0066 | <T... ên... ư...?>
+scn00_44_0067 | "Trông em có vẻ rất mạnh mẽ, nên là... Behemoth... Bahamut... Lữ Bố... Gậy Bóng Chày Kim Loại... thôi, nghe sai sai thế nào ấy."
+scn00_44_0068 | "..."
+scn00_44_0069 | "Shirayuki..."
+scn00_44_0070 | <Shirayuki...?>
+scn00_44_0071 | "Đó là tên của loài hoa này. Nó đã kiên nhẫn chịu đựng suốt nhiều năm trời, để rồi một ngày kia bung nở những cánh hoa trắng muốt vô cùng kiều diễm."
+scn00_44_0072 | "Cầu chúc cho trái tim em cũng sẽ nở hoa rực rỡ như thế."
+scn00_44_0073 | <Shirayuki... Shi... rayu... ki... Shirayuki...>
+scn00_44_0074 | "Có vẻ em ưng cái tên này rồi nhỉ. Chị gái đã phát huy trọn vẹn bản lĩnh rồi nhé."
+scn00_44_0075 | "Mà, trông tôi thế này thôi chứ là chuyên gia đặt tên đấy. Tôi đã dự đoán trước là mọi chuyện sẽ thuận buồm xuôi gió rồi mà."
+scn00_44_0076 | <Chị... ơi...>
+scn00_44_0077 | "Gì thế em?"
+scn00_44_0078 | <...E... m... th... ích... chị...>
+scn00_44_0079 | "..."
+scn00_44_0080 | "...Em đã nói ra được rồi đấy thôi. Đó chính là cảm xúc của em đấy."
+scn00_44_0081 | "Nhân tiện thì, tôi cũng rất yêu quý em đấy. Dù sao em cũng là cô em gái duy nhất của tôi mà. Ngoan ngoãn để chị xoa đầu nào."
+scn00_44_0082 | <...A... oa...>
+scn00_44_0083 | "Nhờ có em sửa đôi mắt cho tôi, nên tôi mới có thể tận mắt chứng kiến hoa Tuyết Trắng Mùa Hạ nở rộ. Cảm ơn em nhiều lắm nhé, Shirayuki."
+scn00_44_0084 | <......S... ửa... đ... ược... tốt... qu... á............>
+scn00_44_0085 | <Cocoro! Cocoro ơi!!>
+scn00_44_0086 | "Cậu Hinata đấy ạ? Cậu thức giấc rồi sao. Mau đến vườn bách thảo ngay đi nhé. Một cảnh tượng kỳ vĩ tuyệt trần đang chuẩn bị bắt đầu rồi đây này."
+scn00_44_0087 | <Em đang ở vườn bách thảo à, anh hiểu rồi!>
+scn00_44_0088 | "May mà cậu Hinata không ngủ nướng. Nhưng nghe giọng cậu có vẻ hớt hải quá nhỉ. Chẳng lẽ là mình đã làm cậu ấy lo lắng rồi sao?"
+scn00_44_0089 | "Dù sao đi nữa, cậu ấy đến kịp là tốt rồi."
+scn00_44_0090 | Xào xạc......
+scn00_44_0091 | Đột nhiên có tiếng cọ xát lá cây sột soạt vang lên.
+scn00_44_0092 | Mái vòm kính có một mảng bị vỡ, nên gió bên ngoài có thể lùa vào.
+scn00_44_0093 | Thế nhưng, sáng sớm hôm nay trời hầu như lặng gió, không khí bên trong mái vòm yên bình tĩnh mịch lạ thường.
+scn00_44_0094 | "?"
+scn00_44_0095 | Cocoro ngoái đầu nhìn lại, thấy có bóng ai đó đang đứng trên lối đi.
+scn00_44_0096 | "Tìm thấy rồi nhé..."
+scn00_44_0097 | <Gừ rừ rừ rừ rừ rừ............!!>
+scn00_44_0098 | "Tao tìm thấy bọn quái vật chúng mày rồi!!!!!"
+scn00_44_0099 | "Ông là—"
+scn00_44_0100 | <Ẳngg!!?>
+scn00_44_0101 | <Tao tìm thấy bọn quái vật chúng mày rồi!!!!!>
+scn00_44_0102 | "...!!?"
+scn00_44_0103 | Toàn bộ âm thanh mà Cocoro nghe thấy đều được truyền thẳng vào chiếc tai nghe của tôi.
+scn00_44_0104 | "Cocoro? Giọng ai vừa rồi thế? Cocoro!!!"
+scn00_44_0105 | Tôi cuống cuồng gọi nhưng không có tiếng hồi đáp.
+scn00_44_0106 | <Ông là—>
+scn00_44_0107 | Ngay sau tiếng kêu căng thẳng của Cocoro, một loạt tiếng súng đinh tai bỗng vang lên.
+scn00_44_0108 | "Cocoro! Có chuyện gì đang xảy ra thế, Cocoro!"
+scn00_44_0109 | Vẫn không có lời hồi đáp. Không rõ là em không nghe thấy, hay tình thế lúc này ngàn cân treo sợi tóc không thể trả lời.
+scn00_44_0110 | <Ông định làm gì...>
+scn00_44_0111 | <Tao sẽ tiêu trừ bọn mày. Tao sẽ xóa sổ lũ chúng mày khỏi thế giới này.>
+scn00_44_0112 | Giọng nói này, là của tên Đội trưởng Đội Tiêu trừ...
+scn00_44_0113 | Chắc chắn có chuyện chẳng lành đang xảy ra rồi.
+scn00_44_0114 | Cocoro... Cocoro ơi...
+scn00_44_0115 | Màn mây xám xịt bao phủ bầu trời dần rách toạc ra, những tia nắng bình minh bắt đầu rọi xuống qua từng kẽ mây.
+scn00_44_0116 | Chẳng màng đoái hoài đến khung cảnh tráng lệ ấy, tôi dồn toàn bộ sức lực đạp từng vòng bàn đạp xe như điên cuồng.
+scn00_44_0117 | <Gừ rừ rừ rừ rừ............ Gaaaaa!!!!!>
+scn00_44_0118 | Shirayuki lao vút tới, chồm thẳng vào gã Đội trưởng Đội Tiêu trừ.
+scn00_44_0119 | "Shirayuki!"

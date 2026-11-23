@@ -1,0 +1,67 @@
+# scene=scn00_33 batch=2/7 dòng 61-123 / 428
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_33_0061 | ＣＣＲ－０１(CCR-01) | 「？　ワタシをご存じとは……」 | "Huh? Do you know me?" | “？　没想到您竟然认识我……”
+scn00_33_0062 | - | 答えながら、ＣＣＲ－０１の足元がふらついていた。 | The CCR-01 wobbled on its feet as it answered. | CCR-01说着踉跄了一下。
+scn00_33_0063 | ＣＣＲ－０１(CCR-01) | 「……先ほどの衝撃で、光学センサーのピント調節機能に異常が発生しているようです。早急なメンテナンスが必要です」 | "That impact just now seems to have caused an abnormality in the focus motor of my optical sensors. I require immediate maintenance." | “……光学传感器的聚焦调节机能似乎因为刚刚的冲击出现了异常，需要尽快维护。”
+scn00_33_0064 | 父(Dad) | 「目が見えないのか？」 | "You can't see?" | “眼睛看不见了吗？”
+scn00_33_0065 | ＣＣＲ－０１(CCR-01) | 「ご心配には[およ]及びません。ワタシにはまだ他に有用なセンサーがございます」 | "There's no need to worry. I have other sensors to orient myself with." | “不必担心，我还有其他可以使用的传感器”
+scn00_33_0066 | ＣＣＲ－０１(CCR-01) | 「しかし、目が見えなくてはそちらの方の手当をするのに支障があります」 | "However, my reduced vision prevents me from giving this boy the required medical attention." | “不过，眼睛看不见了，就会妨碍我对那位先生进行治疗”
+scn00_33_0067 | - | そう言ったＣＣＲ－０１の手には、薬箱があった。 | The CCR-01 had a first-aid kit in its hands. | 说着这句话的CCR-01手里拿着急救箱。
+scn00_33_0068 | - | どうやら倒れているひなたを見付けて、事務所へ取りにいってくれていたらしかった。 | Apparently, it had found Hinata lying on the ground and went to the office to get the kit. | 看来她是在发现倒下的日向后，将急救箱从办公室里拿了过来。
+scn00_33_0069 | ＣＣＲ－０１(CCR-01) | 「あなたが守ってくれた小さきヒトの手当をお願いしてもよろしいでしょうか？」 | "May I ask you to administer first aid on this small human you protected?" | “可以拜托您帮忙包扎一下那位被您保护住的小小人类吗？”
+scn00_33_0070 | 父(Dad) | 「ああ、任せてくれ」 | "Yeah, leave it to me." | “嗯，交给我吧”
+scn00_33_0071 | - | 薬箱を受け取り、私はひなたの応急処置をした。 | I open the first aid kit and set about treating Hinata's wounds. | 我接过急救箱，对日向的伤口进行了紧急处理。
+scn00_33_0072 | 父(Dad) | 「傷が深い……。すぐに病院へ搬送しなければ」 | "This cut is deep... I need to get him to a hospital as soon as possible." | “伤口好深……必须得马上送去医院”
+scn00_33_0073 | - | しかし、インフラは大混乱の最中にあり、緊急通報も通じない。交通網も麻痺していた。 | But the entire network seemed to be paralyzed, and my phone wouldn't connect to any emergency services. Traffic was also at a standstill. | 可是，现在基础设施正处于混乱状态，紧急报警也打不通，交通网也瘫痪了。
+scn00_33_0074 | ＣＣＲ－０１(CCR-01) | 「そちらの方をどうか守っていただけませんか」 | "Could I ask you to keep protecting that boy for me?" | “我可以将那位先生交给您来保护吗”
+scn00_33_0075 | 父(Dad) | 「ああ、もちろんだ」 | "Yes, of course." | “嗯，当然了”
+scn00_33_0076 | - | そう答えながら、ＣＣＲ－０１の口ぶりに違和感を覚えてもいた。 | The moment I answered, I realized that there was something odd about what the CCR-01 had said. | 我回答着她的同时，也从CCR-01话语中感受到了违和感。
+scn00_33_0077 | 父(Dad) | 「もしかして、君はこの子を知っているのか？」 | "Do you happen to know this boy?" | “难道说，你和他认识吗？”
+scn00_33_0078 | ＣＣＲ－０１(CCR-01) | 「はい。その小さきヒトは、ワタシのフィアンセです」 | "I do. That small human is my fiancé." | “是的，那名小小的人类，是我的未婚夫”
+scn00_33_0079 | 父(Dad) | 「フィアンセ……？」 | "Fiancé...?" | “未婚夫……？”
+scn00_33_0080 | ＣＣＲ－０１(CCR-01) | 「ＹＥＳ、フィアンセ」 | "Yes. Fiancé." | “YES，未婚夫”
+scn00_33_0081 | 父(Dad) | 「そ、そうか」 | "O-Oh..." | “这、这样啊”
+scn00_33_0082 | - | ひなたがヒューマノイドの少女のフィアンセ？ | Hinata is  to this girl humanoid? | 日向是仿生人少女的未婚夫？
+scn00_33_0083 | - | 不思議だが、[くわ]詳しく追求している暇はない。 | I scratched my head at that one, but there were more important things to worry about. | 虽然感觉很不可思议，但现在也没时间去追问了。
+scn00_33_0084 | ＣＣＲ－０１(CCR-01) | 「さあ、早く行ってくださいどうぞ」 | "Please take him, and hurry." | “好了，请快点离开吧”
+scn00_33_0085 | - | ひなたを抱き上げ、病院へ向かおうとした時、 | I scooped Hinata into my arms and started running toward the exit. | 正当我抱起日向，准备前往医院的时候。
+scn00_33_0086 | - | 外からまた衝撃音が響いてきた。 | But then, a loud noise outside stopped me in my tracks. | 外面再次响起了撞击声。
+scn00_33_0087 | 父(Dad) | 「他にも暴れているロボットがいるのか」 | "Are there more robots rampaging out there?" | “还有其他发狂的机器人吗”
+scn00_33_0088 | ＣＣＲ－０１(CCR-01) | 「困りましたね……。そうだ。あなた」 | "That sounds like trouble... Hey, you." | “真是头疼啊……对了，你过来”
+scn00_33_0089 | - | ＣＣＲ－０１が、さきほどまで暴れていた警備ロボットに語りかけた。 | The CCR-01 addressed the security robot that had been attacking us moments ago. | CCR-01对着刚刚还在发狂的安保机器人说道。
+scn00_33_0090 | ＣＣＲ－０１(CCR-01) | 「こちらの方を安全なところまでお送りしてください。いいですね？」 | "Please guard these two until they reach a safe place. Can you do that?" | “把这几位先生送到安全的地方去，明白了没有？”
+scn00_33_0091 | - | そう命じられた警備ロボットは、主に仕える忠犬のように身体全体で頷いた。 | The security robot bowed, like a loyal servant taking orders from their master. | 听到命令的安保机器人，就像是侍奉主人的忠犬一般全身都在点头。
+scn00_33_0092 | ＣＣＲ－０１(CCR-01) | 「これで多少は安全です。さ、急いで」 | "This one should keep you safe. Now, please hurry." | “这样就稍微安全一点了，好了，快走吧”
+scn00_33_0093 | 父(Dad) | 「ありがとう」 | "Thank you." | “谢谢”
+scn00_33_0094 | ＣＣＲ－０１(CCR-01) | 「いいえ。ヒトの幸福のために尽くすのが、ワタシたちの役目ですから」 | "I only did my duty. It is our duty to ensure the happiness of humans." | “不用谢，毕竟为人类的幸福而努力，就是我们的使命”
+scn00_33_0095 | 父(Dad) | 「君も一緒に行こう」 | "You should come with us, too." | “你也一起来吧”
+scn00_33_0096 | - | 見たところ、ＣＣＲ－０１は暴走していないようで、ここに残していくのは忍びなかった。 | From what I could see, the CCR-01 didn't seem to be out of control like the other robots. I couldn't bear to just leave it there. | CCR-01看起来并没有陷入暴走，所以我不忍心将她留在这里。
+scn00_33_0097 | ＣＣＲ－０１(CCR-01) | 「ワタシはここを離れられません。そう命じられているからです」 | "I cannot leave this place. I've been ordered to stay here." | “我无法离开这里，因为我被下达了这种命令”
+scn00_33_0098 | ＣＣＲ－０１(CCR-01) | 「それに、他にも逃げ遅れているヒトがいるかもしれませんから、救助に向かいます」 | "Besides, there may be other humans here who have failed to evacuate. I will rescue them." | “而且，可能还会有其他没来得及逃走的人类，我要去救助他们”
+scn00_33_0099 | 父(Dad) | 「目が見えないのでは……」 | "But you can't see..." | “你眼睛不是看不见了吗……”
+scn00_33_0100 | ＣＣＲ－０１(CCR-01) | 「問題ありません。ほらこの通り、マジックショーだってできちゃいます。親指が取れちゃった～」 | "It's not a problem. As you can see, I can still carry out magic tricks. Look, my thumb's come off." | “没有问题，你看，我甚至还能表演魔术，拇指掉下来了哦～”
+scn00_33_0101 | 父(Dad) | 「…………」 | "..." | “…………”
+scn00_33_0102 | ＣＣＲ－０１(CCR-01) | 「あれ？　あ、こっちにいたんですね、失敬失敬。大きな花をあなたの顔と勘違いしました。では気を取り直してもう一度、親指が……」 | "Huh? Oh, there you are. Apologies, I mistakenly identified a large flower as your face. Allow me to redo that. My thumb—" | “咦？　啊，您是在这边啊，失敬失敬，我将一大朵花误认成您的脸了。那就重整旗鼓再来一次，拇指……”
+scn00_33_0103 | 父(Dad) | 「わかった、信じよう」 | "Don't bother. I believe you." | “我知道了，我相信你”
+scn00_33_0104 | ＣＣＲ－０１(CCR-01) | 「？　ええ、大船に乗ったつもりでどうぞ」 | "Huh? No, please sit back and enjoy the show." | “？　嗯，您就放一百个心吧”
+scn00_33_0105 | - | ひなたは出血がひどく、一刻を争う状態だ。彼女の言葉を信じ、私は植物園を離れた。 | Hinata's wound was still bleeding—I couldn't afford to waste another second. Believing the girl humanoid's words, I left the garden. | 日向的出血很严重，现在是分秒必争的状态，我便相信了她的话，离开了植物园。
+scn00_33_0106 | 父(Dad) | 『正気を取り戻した警備ロボットが先導してくれたおかげで、安全に避難する事ができた』 | <We were able to evacuate thanks to that recovered security robot leading the way.> | ‘多亏恢复了正常的安保机器人带路，我们才得以安全地进行了避难’
+scn00_33_0107 | 父(Dad) | 『私はひなたを病院へ運び、その後は市長として災害対策チームの陣頭指揮を[と]執った』 | <I carried you to the hospital before taking up command of the disaster response team as the mayor.> | ‘我将日向送去了医院，之后便作为市长担任了灾害对策小组的前线指挥官’
+scn00_33_0108 | - | 一度に色んな情報が流れ込んできて、頭がひどく混乱していた。 | My mind's a jumbled mess from taking in so much new information at once. | 一口气得到了太多的情报，我的大脑现在十分混乱。
+scn00_33_0109 | ひなた(Hinata) | （『厄災』の夜、ココロが俺と父さんを救ってくれていたなんて……） | (So, Cocoro saved me and my dad the night of the Calamity...) | （‘灾厄’之夜，居然是心救了我和父亲……）
+scn00_33_0110 | - | 全然知らなかった。 | I had no idea. | 我完全不知道。
+scn00_33_0111 | - | それだけじゃない、 | And what's more... | 不仅如此。
+scn00_33_0112 | ひなた(Hinata) | （ココロが視力を失ったのは、俺と父さんを守ったからだったのか） | (Cocoro lost her vision while she was protecting us.) | （心会丧失视力，也是因为保护了我和父亲）
+scn00_33_0113 | - | なんて事だ……。 | I can't believe it... | 怎么会这样……
+scn00_33_0114 | - | それさえなければ、植物園で再会したあの日、ココロはすぐ俺の正体に気付いただろう。 | If not for that blow, Cocoro should have recognized me immediately the moment I revisited the garden. | 如果没发生这种事，在植物园再会的那天，心应该马上就能认出我吧。
+scn00_33_0115 | - | 俺の誕生日プレゼントが落とし物箱にあったのは、父さんがあの時、落としていったものをココロが拾っていたから。 | My birthday present ended up in the lost-and-found box because Dad dropped it back then and Cocoro found it afterward. | 我的生日礼物会在失物箱里，也是因为心捡起了父亲当时掉落的物品。
+scn00_33_0116 | - | だからココロは落とし物の持ち主を覚えていたし、その人物との関係性から俺の正体に気が付き、ドローンのカメラを俺に向けた。 | Cocoro knew who the owner of the lost item was, and when she realized what my relationship to him was, she turned the drone's camera toward me to take a look. | 所以心才会记得失物的主人，从失物和那个人的关系察觉到了我的身份，才会将无人机的镜头转向我。
+scn00_33_0117 | - | そして、もう一つ。俺が病院で目覚めた時、父が傍にいてくれなかった理由は簡単だった。 | Also, the reason why my dad wasn't with me when I woke up at the hospital... | 还有就是，我从医院醒来的时候，父亲不在身边的理由十分简单。
+scn00_33_0118 | - | 市長として災害対策チームの陣頭指揮を執っていたから。 | That was because he was busy heading up the disaster response team. | 是因为他作为市长去担任了灾害对策小组的前线指挥官。
+scn00_33_0119 | - | 少し考えれば分かる。 | I could've figured that one out on my own. | 稍微想想就能明白。
+scn00_33_0120 | - | いや分かっていた。 | No, I probably already knew. | 不，我其实早就知道。
+scn00_33_0121 | - | でも病室で一人過ごす孤独と不安、積もり積もった父への憎しみから、都合の悪い事実は無視していた。 | But the loneliness and anxiety I felt being alone in that hospital room—and the accumulated grudge I'd built up against my dad—caused me to ignore that inconvenient fact. | 但在病房里独自度日的孤独和不安，和对父亲日积月累的憎恨，让我无视了对自己不利的事实。
+scn00_33_0122 | - | 『他にも、何かなかった……？』 | "Did anything else happen...?" | ‘还发生过其他什么事吗……’
+scn00_33_0123 | - | ココロの事をなんでもいいから聞きたくて尋ねた。 | I ask this question in the hopes of learning something,  else about Cocoro. | 关于心的事我全都想听，于是便这样问道。

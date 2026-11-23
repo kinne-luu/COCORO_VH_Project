@@ -1,0 +1,64 @@
+# scene=scn00_39 batch=1/6 dòng 1-60 / 321
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_39_0001 | ひなた(Hinata) | 「ぅぅん……」 | "Nngh..." | “嗯……”
+scn00_39_0002 | - | 鼻腔をくすぐる香ばしい匂いに釣られて、目を覚ました。 | I wake up to a rich aroma tickling my nostrils. | 一股香味轻搔着我的鼻腔，引诱我睁开了眼睛。
+scn00_39_0003 | - | 俺のかすかな声を聞いたココロが、 | Cocoro must have heard my soft groan. | 心在听到我发出轻微的动静之后。
+scn00_39_0004 | ココロ(Cocoro) | 「あ、起きましたね」 | "Oh, you're awake." | “啊，你醒了啊”
+scn00_39_0005 | - | ととと、とキッチンから走ってくる。 | She trots over to me from the kitchen. | 便嗒嗒嗒地从厨房跑了过来。
+scn00_39_0006 | ココロ(Cocoro) | 「ひなたさん、おはようございます」 | "Hinata-san, good morning." | “日向先生，早上好”
+scn00_39_0007 | ひなた(Hinata) | 「うん……おはよう。ふぁああ～～～」 | "Mmh... Good morning. Fwahhh..." | “嗯……早上好，呼啊啊啊～～～”
+scn00_39_0008 | ココロ(Cocoro) | 「おおきなあくび。ワタシは限りなくヒトっぽいですが、あくびはできません」 | "That's a big yawn. As humanlike as I might be, I can't yawn." | “好大的哈欠，我虽然无限接近人类，但却无法打哈欠”
+scn00_39_0009 | ココロ(Cocoro) | 「ワタシもあくびしたい」 | "I wish I could yawn, too." | “我也想打哈欠”
+scn00_39_0010 | ひなた(Hinata) | 「してみるといいよ。眠い時や、たいくつな時に」 | "Why don't you just try it whenever you're sleepy or bored?" | “那你试试不就行了，等你困了的时候，或者无聊的时候”
+scn00_39_0011 | ココロ(Cocoro) | 「ふ……ふわぁぁあああ～～～～～～」 | "Fw-Fwahhhh..." | “呼……呼哇啊啊啊啊～～～～～～”
+scn00_39_0012 | ココロ(Cocoro) | 「どうですか」 | "How was that?" | “怎么样”
+scn00_39_0013 | ひなた(Hinata) | 「うん、可愛いから１００点」 | "A hundred points for cuteness." | “嗯，很可爱所以100分”
+scn00_39_0014 | ココロ(Cocoro) | 「１００点いただきました」 | "A perfect score!" | “拿到100分了”
+scn00_39_0015 | ひなた(Hinata) | 「クンクン……なにか匂わない？」 | "*sniff* *sniff*... Is something burning?" | “嗅嗅……好像有股怪味？”
+scn00_39_0016 | ココロ(Cocoro) | 「？　はッ！？　大変大変っ」 | "Huh? Hahh!? Oh, no!" | “？　哈！？　不好不好”
+scn00_39_0017 | - | ココロが慌ててキッチンへ走る。 | Cocoro hurries back to the kitchen. | 心慌忙跑向了厨房。
+scn00_39_0018 | ココロ(Cocoro) | 「……ぐぬぬ」 | "Grrr..." | “……咕呶呶”
+scn00_39_0019 | ひなた(Hinata) | （これは間に合わなかったな） | (Sounds like it was too late.) | （看样子是没赶上啊）
+scn00_39_0020 | ココロ(Cocoro) | 「悲報。オムレツが真っ黒焦げに……」 | "Bad news. The omelet is burnt to a crisp." | “悲报，煎蛋卷彻底焦了”
+scn00_39_0021 | ココロ(Cocoro) | 「視覚情報を得たワタシは完璧な朝食を作り上げ、一日の始めにひなたさんに美味しいをお届けする予定でしたのに……」 | "Now that I'm able to acquire usable visual information, I was confident that I could cook the  breakfast for you to begin the day..." | “我在获得视觉情报后，原本是打算制作出完美的早餐，让日向先生在一天的伊始品尝到美味的饭菜……”
+scn00_39_0022 | ひなた(Hinata) | 「いいよ、焦げてても。ココロが作ってくれたものなら、なんだって美味しい」 | "I don't mind if it's a little burnt. Anything's tasty if you're the one making it for me." | “焦了也没关系啦，只要是心做给我的，不管是什么都好吃”
+scn00_39_0023 | - | 布団から起きて、顔を洗って朝食にする。 | I get up from my futon, wash my face, and sit down for breakfast. | 我钻出被窝，洗了个脸之后便准备吃饭了。
+scn00_39_0024 | ココロ(Cocoro) | 「無理して食べないでください。健康を損ねる危険性があります」 | "Please don't force yourself to eat it. It may jeopardize your health." | “请不要强迫自己吃下去，会有损害健康的危险”
+scn00_39_0025 | ひなた(Hinata) | 「焦げたところを取れば平気だよ。いただきます」 | "It'll be fine once I cut off the burnt parts. Thanks for cooking." | “把焦掉的部分去掉就没事啦，我开动了”
+scn00_39_0026 | ひなた(Hinata) | 「もぐもぐ……もぐ…………なんか……甘い？」 | "Nom nom... Nom... It's... kinda sweet?" | “嚼嚼……嚼…………好像……有点甜？”
+scn00_39_0027 | ココロ(Cocoro) | 「？　失礼します」 | "Huh? Allow me..." | “？　失礼了”
+scn00_39_0028 | - | ココロも一口オムレツの中身を食べる。 | Cocoro takes a bite of the omelet as well... | 心也尝了一口煎蛋卷里面的部分。
+scn00_39_0029 | ココロ(Cocoro) | 「これは……お塩とお砂糖を間違えてしまったようです。視覚情報に[まど]惑わされましたっ」 | "It... would seem that I mistook the salt for the sugar. The visual information must have confused me." | “这……我似乎是将盐和糖弄混了，被视觉情报误导了”
+scn00_39_0030 | ひなた(Hinata) | 「またベタな失敗を」 | "That's the most stereotypical cooking mistake ever." | “又是这种老套的失败”
+scn00_39_0031 | ココロ(Cocoro) | 「正反対の味なのに、どうしてあんなに似た見た目をしているのでしょう！　これは卑劣なトラップです！」 | "Why do they look so similar when they taste completely different? What a cowardly trap!" | “明明是完全相反的味道，为什么外表看上去那么相似呢！　这是卑劣的陷阱！”
+scn00_39_0032 | ひなた(Hinata) | 「甘い玉子焼きも好きだよ」 | "I like my omelets sweet, too." | “甜的煎蛋卷我也喜欢哦”
+scn00_39_0033 | - | オムレツと思わなければ、ケーキみたいで美味しい。 | As long as I don't think of it as an omelet, it's a delicious treat, like cake. | 不将它当成煎蛋卷的话也挺好吃的，就和蛋糕似的。
+scn00_39_0034 | ひなた(Hinata) | 「コーヒーと合いそうだ」 | "It would pair well with coffee." | “感觉和咖啡很搭”
+scn00_39_0035 | ココロ(Cocoro) | 「どうぞ！」 | "Here you go!" | “请用！”
+scn00_39_0036 | - | ココロが得意げにコーヒーを差し出す。 | Cocoro proudly offers up a cup of coffee. | 心一脸得意地端出了咖啡。
+scn00_39_0037 | ひなた(Hinata) | 「……うん、美味しい！」 | "...Mmm, it's good!" | “……嗯，很美味！”
+scn00_39_0038 | ココロ(Cocoro) | 「ほっ」 | "Phew..." | “嚯”
+scn00_39_0039 | ココロ(Cocoro) | 「まあ、コーヒーの美味しいはもうすでにマスターいたしましたし」 | "Well, I already mastered how to make tasty coffee a long time ago." | “毕竟，我可是已经将咖啡的美味牢记于心了”
+scn00_39_0040 | ココロ(Cocoro) | 「ワタシと結婚するからには、毎朝美味しいコーヒーが飲めるものと覚悟しておいてください」 | "Once we get married, you'll get to drink tasty coffee every morning. How about that?" | “和我结婚之后，就请做好每天早上都有美味咖啡喝的心理准备吧”
+scn00_39_0041 | - | こんな嬉しい覚悟もあるのか。 | That sounds like the best thing ever. | 还有这么让人开心的心理准备啊。
+scn00_39_0042 | - | 朝食を終えると外出の用意をする。 | After breakfast, we start getting ready to head out. | 吃完早饭后我便做起了外出的准备。
+scn00_39_0043 | - | と言っても歯磨きして、寝間着から着替える程度だが。 | All I still need to do is brush my teeth and change out of my PJs. | 说是准备，但也只是刷个牙换个睡衣的程度。
+scn00_39_0044 | - | すぐに準備を終えて部屋を出ようとしていると、 | Within a few minutes, I emerge from my room all dressed and ready. | 就在我很快就收拾完毕，准备走出房门的时候。
+scn00_39_0045 | ココロ(Cocoro) | 「少々お待ちを」 | "Just a moment, please." | “稍微等一下”
+scn00_39_0046 | ひなた(Hinata) | 「どうしたの？」 | "What's wrong?" | “怎么了？”
+scn00_39_0047 | ココロ(Cocoro) | 「シッ。今、外の様子を[うかが]窺っています」 | "Shh. I'm surveying the situation outside." | “嘘，我正在偷听外面的情况”
+scn00_39_0048 | - | どうやら聴覚センサーの感度を最高にして、外から聞こえてくる音を拾っているらしい。 | It seems like she's set her auditory sensors to the highest level of sensitivity in order to pick up sounds from outside. | 她似乎是将听觉传感器的灵敏度调到了最大，听着外面的声音。
+scn00_39_0049 | ココロ(Cocoro) | 「今なら通行人はいません。さあ、参りましょう」 | "There aren't any passersby right now, so let's go." | “现在外面没有人，走吧，我们出门吧”
+scn00_39_0050 | - | どうもココロは街の人たちと顔を合わせるのが気まずいらしい。 | Cocoro still seems nervous about how the townspeople perceive her. | 看来心似乎是对和街上的人们见面一事感到很尴尬。
+scn00_39_0051 | ひなた(Hinata) | （ココロがロボットだって、もう街の住民にはばれてしまったもんな） | (By this point, everyone has probably heard that Cocoro is a robot.) | （毕竟街上的居民已经知道心是机器人的事了啊）
+scn00_39_0052 | - | それから人と顔を合わせるのを避けている。 | That's why she's avoiding people. | 然后她便开始躲着人们了。
+scn00_39_0053 | - | 以前のココロなら平気だったろう。 | Even though she used to be so sociable... | 以前的心应该就没事吧。
+scn00_39_0054 | - | ロボットだからと言って、冷たい態度を取る人がいたとしても、そういうものだと受け入れたに違いない。 | The Cocoro I used to know wouldn't have let something like that bother her. She wouldn't care if anyone gave her the cold shoulder simply because she's a robot. | 就算有人因为她是机器人而对她采取冷淡的态度，她也肯定会接受。
+scn00_39_0055 | - | けど今は、拒絶や冷たい態度に傷付く心があると知ってしまった。 | But now she's acutely aware that rejection and harsh attitudes can hurt her feelings. | 但现在，她已经知道了自己拥有会被拒绝或者冷淡态度伤害到的心灵。
+scn00_39_0056 | ココロ(Cocoro) | 「ささ、早く行きますよ」 | "Come on. Now's our chance." | “快快，快点走吧”
+scn00_39_0057 | - | 急かすココロに手を引かれて外へ出た。 | Cocoro drags me outside by the hand. | 口中不断催促着我的心，拉着我的手走出了门。
+scn00_39_0058 | 犬(Dog) | 「ワンワン！！」 | "Woof, woof!" | “汪汪！！”
+scn00_39_0059 | ココロ(Cocoro) | 「シッ！　黙ってなさい、犬。目立ってしまいます」 | "Shh! Be quiet, dog. You'll draw attention to us." | “嘘！　闭上嘴，狗，这样会引人注目的”
+scn00_39_0060 | 犬(Dog) | 「ワンワンワンワン！！！」 | "Woof woof woof woof!!!" | “汪汪汪汪！！！”

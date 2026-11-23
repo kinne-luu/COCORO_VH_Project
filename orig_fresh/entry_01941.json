@@ -1,0 +1,742 @@
+{
+  "evals": {
+    "-back": [
+      [
+        "call",
+        ".MakeBindKeyTags",
+        "back"
+      ]
+    ],
+    "-pagedown": [
+      [
+        "call",
+        ".MakeBindKeyTags",
+        "pagedown"
+      ]
+    ],
+    "-pageup": [
+      [
+        "call",
+        ".MakeBindKeyTags",
+        "pageup"
+      ]
+    ],
+    "-reset": [
+      [
+        "call",
+        ".MakeBindKeyTags",
+        "menu"
+      ]
+    ],
+    "-tabnext": [
+      [
+        "call",
+        ".MakeBindKeyTags",
+        "tabr"
+      ]
+    ],
+    "-tabprev": [
+      [
+        "call",
+        ".MakeBindKeyTags",
+        "tabl"
+      ]
+    ],
+    "base": [
+      [
+        "call",
+        ".SoftwareCursor.GetFunc('onUiExtraFuncCalled')",
+        "true"
+      ]
+    ],
+    "names": [
+      [
+        "call",
+        "uiloadSysSE",
+        "option"
+      ]
+    ]
+  },
+  "holdimage": [
+    "config_base_en__pack",
+    "config_base__pack"
+  ],
+  "imports": null,
+  "names": [
+    "scroll_top",
+    "scroll_next",
+    "pscroll_area",
+    "tabprev",
+    "tabnext",
+    "pscroll",
+    "page0",
+    "page1",
+    "page2",
+    "page3",
+    "page4",
+    "helptext",
+    "helpbase",
+    "base",
+    "reset",
+    "back",
+    "icon_lr",
+    "pageup",
+    "pagedown"
+  ],
+  "order": null,
+  "packbase": [
+    "config_s0base"
+  ],
+  "packhash": [
+    -4036515022771612607,
+    3113173453698399296,
+    861653467157476714,
+    8233014553170636829
+  ],
+  "packlist": [
+    [
+      0,
+      0,
+      74,
+      84,
+      0,
+      9203
+    ],
+    [
+      74,
+      0,
+      74,
+      84,
+      0,
+      9211
+    ],
+    [
+      0,
+      84,
+      74,
+      84,
+      0,
+      9189
+    ],
+    [
+      74,
+      84,
+      74,
+      84,
+      0,
+      9197
+    ]
+  ],
+  "result": {
+    "_slider": {
+      "class": "slider",
+      "height": 94,
+      "name": "_slider",
+      "uiname": "_slider",
+      "uistates": {
+        "disable": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "normal": {
+          "ch": 55,
+          "cw": 36,
+          "cx": 584,
+          "cy": 241,
+          "h": 55,
+          "ox": 518,
+          "oy": 15,
+          "storage": "config_base__pack",
+          "w": 36
+        },
+        "nosave": {
+          "h": 94,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1009
+        }
+      },
+      "width": 1009,
+      "x": 653,
+      "y": 148
+    },
+    "_slider_base": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "_slider_base",
+      "uiname": "_slider_base",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 116,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 181
+    },
+    "_slider_line": {
+      "class": "layer",
+      "height": 37,
+      "layer": "(~null~)",
+      "name": "_slider_line",
+      "uiname": "_slider_line",
+      "uistates": {
+        "(~null~)": {
+          "ch": 37,
+          "cw": 974,
+          "cx": 0,
+          "cy": 153,
+          "h": 37,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 974
+        }
+      },
+      "width": 974,
+      "x": 670,
+      "y": 181
+    },
+    "back": {
+      "class": "button",
+      "height": 90,
+      "name": "back",
+      "tabfocus": "false",
+      "target": "*back",
+      "uiname": "back",
+      "uistates": {
+        "off": {
+          "ch": 84,
+          "cw": 74,
+          "cx": 0,
+          "cy": 0,
+          "h": 84,
+          "ox": 0,
+          "oy": 6,
+          "storage": "config_base_en__pack",
+          "w": 74
+        },
+        "over": {
+          "ch": 84,
+          "cw": 74,
+          "cx": 74,
+          "cy": 0,
+          "h": 84,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base_en__pack",
+          "w": 74
+        }
+      },
+      "width": 74,
+      "x": 1828,
+      "y": 1006
+    },
+    "base": {
+      "class": "base",
+      "height": 1080,
+      "name": "base",
+      "storage": "config_base__bg0",
+      "storagex": 0,
+      "storagey": 0,
+      "uiname": "base",
+      "uistates": {},
+      "width": 1920,
+      "x": 0,
+      "y": 0
+    },
+    "helpbase": {
+      "class": "layer",
+      "height": 116,
+      "layer": "(~null~)",
+      "name": "helpbase",
+      "uiname": "helpbase",
+      "uistates": {
+        "(~null~)": {
+          "ch": 116,
+          "cw": 1652,
+          "cx": 0,
+          "cy": 0,
+          "h": 116,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 1652
+        }
+      },
+      "width": 1652,
+      "x": 136,
+      "y": 883
+    },
+    "helptext": {
+      "class": "layer",
+      "height": 105,
+      "layer": "nosave",
+      "name": "helptext",
+      "uiname": "helptext",
+      "uistates": {
+        "nosave": {
+          "h": 105,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1572
+        }
+      },
+      "width": 1572,
+      "x": 207,
+      "y": 888
+    },
+    "icon_lr": {
+      "name": "icon_lr",
+      "uiname": "icon_lr",
+      "uistates": {}
+    },
+    "page0": {
+      "class": "button",
+      "exp": "Current.page=0",
+      "groupName": "page",
+      "height": 48,
+      "name": "page0",
+      "sename": "page",
+      "tabfocus": "false",
+      "target": "*page",
+      "uiname": "page0",
+      "uistates": {
+        "off": {
+          "ch": 30,
+          "cw": 193,
+          "cx": 1439,
+          "cy": 260,
+          "h": 30,
+          "ox": 9,
+          "oy": 9,
+          "storage": "config_base__pack",
+          "w": 193
+        },
+        "over": {
+          "ch": 48,
+          "cw": 211,
+          "cx": 1439,
+          "cy": 116,
+          "h": 48,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 211
+        }
+      },
+      "width": 211,
+      "x": 591,
+      "y": 29
+    },
+    "page1": {
+      "class": "button",
+      "exp": "Current.page=1",
+      "groupName": "page",
+      "height": 48,
+      "name": "page1",
+      "sename": "page",
+      "tabfocus": "false",
+      "target": "*page",
+      "uiname": "page1",
+      "uistates": {
+        "off": {
+          "ch": 30,
+          "cw": 119,
+          "cx": 465,
+          "cy": 241,
+          "h": 30,
+          "ox": 9,
+          "oy": 9,
+          "storage": "config_base__pack",
+          "w": 119
+        },
+        "over": {
+          "ch": 48,
+          "cw": 137,
+          "cx": 710,
+          "cy": 220,
+          "h": 48,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 137
+        }
+      },
+      "width": 137,
+      "x": 877,
+      "y": 29
+    },
+    "page2": {
+      "class": "button",
+      "exp": "Current.page=2",
+      "groupName": "page",
+      "height": 48,
+      "name": "page2",
+      "sename": "page",
+      "tabfocus": "false",
+      "target": "*page",
+      "uiname": "page2",
+      "uistates": {
+        "off": {
+          "ch": 30,
+          "cw": 180,
+          "cx": 276,
+          "cy": 252,
+          "h": 30,
+          "ox": 9,
+          "oy": 9,
+          "storage": "config_base__pack",
+          "w": 180
+        },
+        "over": {
+          "ch": 48,
+          "cw": 198,
+          "cx": 1439,
+          "cy": 164,
+          "h": 48,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 198
+        }
+      },
+      "width": 198,
+      "x": 1094,
+      "y": 29
+    },
+    "page3": {
+      "class": "button",
+      "exp": "Current.page=3",
+      "groupName": "page",
+      "height": 48,
+      "name": "page3",
+      "sename": "page",
+      "tabfocus": "false",
+      "target": "*page",
+      "uiname": "page3",
+      "uistates": {
+        "off": {
+          "ch": 30,
+          "cw": 161,
+          "cx": 710,
+          "cy": 190,
+          "h": 30,
+          "ox": 9,
+          "oy": 9,
+          "storage": "config_base__pack",
+          "w": 161
+        },
+        "over": {
+          "ch": 48,
+          "cw": 179,
+          "cx": 1439,
+          "cy": 212,
+          "h": 48,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 179
+        }
+      },
+      "width": 179,
+      "x": 1360,
+      "y": 29
+    },
+    "page4": {
+      "class": "button",
+      "exp": "Current.page=4",
+      "groupName": "page",
+      "height": 48,
+      "name": "page4",
+      "sename": "page",
+      "tabfocus": "false",
+      "target": "*page",
+      "uiname": "page4",
+      "uistates": {
+        "off": {
+          "ch": 30,
+          "cw": 139,
+          "cx": 710,
+          "cy": 268,
+          "h": 30,
+          "ox": 9,
+          "oy": 9,
+          "storage": "config_base__pack",
+          "w": 139
+        },
+        "over": {
+          "ch": 48,
+          "cw": 157,
+          "cx": 465,
+          "cy": 193,
+          "h": 48,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 157
+        }
+      },
+      "width": 157,
+      "x": 1605,
+      "y": 29
+    },
+    "pagedown": {
+      "class": "keybind",
+      "exp": "Current.cmd(\"partial_nextPage\")",
+      "name": "pagedown",
+      "tabfocus": 0,
+      "uiname": "pagedown",
+      "uistates": {}
+    },
+    "pageup": {
+      "class": "keybind",
+      "exp": "Current.cmd(\"partial_prevPage\")",
+      "name": "pageup",
+      "tabfocus": 0,
+      "uiname": "pageup",
+      "uistates": {}
+    },
+    "pscroll": {
+      "class": "slider",
+      "height": 715,
+      "jumpmode": "true",
+      "name": "pscroll",
+      "onchangefunc": "Current.func(\"onPartialScrollChanged\")",
+      "tabfocus": "false",
+      "uiname": "pscroll",
+      "uistates": {
+        "normal": {
+          "ch": 33,
+          "cr": 1,
+          "cw": 276,
+          "cx": 0,
+          "cy": 252,
+          "h": 276,
+          "ox": 3,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 33
+        },
+        "nosave": {
+          "h": 715,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 40
+        },
+        "rail": {
+          "ch": 3,
+          "cr": 1,
+          "cw": 710,
+          "cx": 0,
+          "cy": 190,
+          "h": 710,
+          "ox": 18,
+          "oy": 1,
+          "storage": "config_base__pack",
+          "w": 3
+        }
+      },
+      "vertical": "true",
+      "width": 40,
+      "x": 1770,
+      "y": 146
+    },
+    "pscroll_area": {
+      "class": "area",
+      "height": 751,
+      "name": "pscroll_area",
+      "uiname": "pscroll_area",
+      "uistates": {
+        "nosave": {
+          "h": 23,
+          "opacity": 128,
+          "ox": 0,
+          "oy": 728,
+          "storage": "",
+          "w": 1624
+        },
+        "view": {
+          "h": 728,
+          "ox": 0,
+          "oy": 0,
+          "storage": "",
+          "w": 1624
+        }
+      },
+      "width": 1624,
+      "x": 121,
+      "y": 142
+    },
+    "reset": {
+      "class": "button",
+      "exp": "Current.cmd(\"reset\")",
+      "height": 90,
+      "name": "reset",
+      "tabfocus": "false",
+      "uiname": "reset",
+      "uistates": {
+        "off": {
+          "ch": 84,
+          "cw": 74,
+          "cx": 0,
+          "cy": 84,
+          "h": 84,
+          "ox": 0,
+          "oy": 6,
+          "storage": "config_base_en__pack",
+          "w": 74
+        },
+        "over": {
+          "ch": 84,
+          "cw": 74,
+          "cx": 74,
+          "cy": 84,
+          "h": 84,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base_en__pack",
+          "w": 74
+        }
+      },
+      "width": 74,
+      "x": 1739,
+      "y": 1006
+    },
+    "scroll_next": {
+      "class": "area",
+      "height": 17,
+      "name": "scroll_next",
+      "uiname": "scroll_next",
+      "uistates": {},
+      "width": 930,
+      "x": 228,
+      "y": 892
+    },
+    "scroll_top": {
+      "class": "area",
+      "height": 17,
+      "name": "scroll_top",
+      "uiname": "scroll_top",
+      "uistates": {},
+      "width": 930,
+      "x": 228,
+      "y": 142
+    },
+    "tabnext": {
+      "class": "button",
+      "cref": 1,
+      "exp": "Current.cmd(\"roundPage/1\")",
+      "height": 465,
+      "hitarea": "hitarea",
+      "name": "tabnext",
+      "overlay": "000:m_of|002:m_ov|001:m_on",
+      "sename": "page",
+      "tabfocus": "false",
+      "target": "*page",
+      "uiname": "tabnext",
+      "uistates": {
+        "hitarea": {
+          "h": 465,
+          "ox": 0,
+          "oy": 0,
+          "w": 59
+        },
+        "off": {
+          "ch": 59,
+          "cr": 1,
+          "cw": 465,
+          "cx": 0,
+          "cy": 193,
+          "h": 465,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 59
+        },
+        "over": {
+          "ch": 59,
+          "cr": 1,
+          "cw": 465,
+          "cx": 974,
+          "cy": 116,
+          "h": 465,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 59
+        }
+      },
+      "width": 59,
+      "x": 1842,
+      "y": 308
+    },
+    "tabprev": {
+      "class": "button",
+      "cref": 1,
+      "exp": "Current.cmd(\"roundPage/-1\")",
+      "height": 465,
+      "hitarea": "hitarea",
+      "name": "tabprev",
+      "overlay": "000:m_of|002:m_ov|001:m_on",
+      "sename": "page",
+      "tabfocus": "false",
+      "target": "*page",
+      "uiname": "tabprev",
+      "uistates": {
+        "hitarea": {
+          "h": 465,
+          "ox": 0,
+          "oy": 0,
+          "w": 59
+        },
+        "off": {
+          "ch": 59,
+          "cr": 1,
+          "cw": 465,
+          "cx": 974,
+          "cy": 175,
+          "h": 465,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 59
+        },
+        "over": {
+          "ch": 59,
+          "cr": 1,
+          "cw": 465,
+          "cx": 974,
+          "cy": 234,
+          "h": 465,
+          "ox": 0,
+          "oy": 0,
+          "storage": "config_base__pack",
+          "w": 59
+        }
+      },
+      "width": 59,
+      "x": 21,
+      "y": 308
+    }
+  }
+}

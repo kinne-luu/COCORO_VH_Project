@@ -1,0 +1,64 @@
+# scene=scn00_38 batch=5/6 dòng 241-300 / 326
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_38_0241 | 駆除隊隊長(Extermination Squad Leader) | 「決まっている、小賢しいＡＩを備えたロボットは駆除対象だ」 | "Isn't it obvious? Our job is to destroy every pesky AI robot out there." | “那还用说吗，有着狡猾AI的机器人都是驱除对象”
+scn00_38_0242 | 霧香(Kirika) | 「ならば許可できません。お引き取りを」 | "I cannot permit that. Please withdraw." | “那我就无法允许了，还是请回吧”
+scn00_38_0243 | 駆除隊隊長(Extermination Squad Leader) | 「おい」 | "Hey." | “喂”
+scn00_38_0244 | - | 隊長があごをくいっとやると、手下たちが強引に踏み込もうとする。 | The squad leader gestures with his chin, and his men take a threatening step forward. | 队长一扬下巴，手下们便开始试图强行挤进来。
+scn00_38_0245 | 風音(Kazane) | 「みんな！　力を貸して！！」 | "Everyone, help us out here!" | “各位！　助我一臂之力！！”
+scn00_38_0246 | - | 風音の声に応えた住人たちと、駆除隊とが押し合いになる。 | Spurred on by Kazane's shout, the residents brace themselves as the extermination squad tries to push us back. | 回应着风音话语的居民们，和驱除队相互推搡了起来。
+scn00_38_0247 | 駆除隊隊長(Extermination Squad Leader) | 「貴様ら、なんのつもりだ？　こっちには武器もあるんだぞ。見せしめに何人か痛い目を見せてやろうか！」 | "What do you think you're doing? Don't you see that we're armed? Do you  us to make an example out of you!?" | “你们这些家伙到底想干什么？　我们可是有武器的啊，小心我找几个人出来杀鸡儆猴！”
+scn00_38_0248 | 風音(Kazane) | 「あんたらこそ、なんのつもり？　肝心な時に何の役にも立たなかった連中が、この街でえらそうな顔すんじゃねーよ！」 | "What are  even doing!? You were less than useless when the residents needed protection, so don't act like you own this town!" | “我才想问你们到底想干什么？　紧要关头什么用都没有的一群家伙，别在这条街上颐指气使的！”
+scn00_38_0249 | 駆除隊隊長(Extermination Squad Leader) | 「なんだとう……」 | "What was that...?" | “你说什么……”
+scn00_38_0250 | - | 昨夜、駆除隊は結局、一部のミュータントドローンを足止めしただけで、ほとんど何もできなかった。 | Last night, the extermination squad did very little against the invading mutant drones. They slowed down a few of them, but that's the extent of it. | 昨晚，驱除队最终也只是拦住了一部分变异无人机，基本什么都没做到。
+scn00_38_0251 | 風音(Kazane) | 「ココロちゃんは、もうこの街の仲間なんだ。あんたらなんかに渡さない」 | "Cocoro-chan is our friend—she's one of us. We're not giving her to you." | “心儿已经是这条街的朋友了，才不会交给你们”
+scn00_38_0252 | こさめ(Kosame) | 「そうだよ！」 | "That's right!" | “就是！”
+scn00_38_0253 | 大地(Daichi) | 「九十九市から出ていきやがれ！」 | "Get out of Tsukumo City!" | “给我滚出九十九市！”
+scn00_38_0254 | 駆除隊隊長(Extermination Squad Leader) | 「……」 | "..." | “……”
+scn00_38_0255 | - | 反発されて逆上するかと思われた駆除隊隊長だったが、冷静な表情だ。 | I was afraid the squad leader would fly into a rage, but his expression is calm. | 我本以为驱除队队长在遭到反抗后会勃然大怒，但他的表情却十分冷静。
+scn00_38_0256 | - | もしかすると、こういう事態にも慣れっこなのかもしれない。 | Maybe he's used to dealing with situations like this. | 或许，他已经习惯了这种事态。
+scn00_38_0257 | - | そして、その冷静さが逆に恐ろしかった。 | The fact he can be so calm terrifies me, though. | 然后，那份冷静反倒很可怕。
+scn00_38_0258 | - | 逆上する事なく平常心のまま、他人を踏みにじる事のできる人間は存在する。 | How can people trample over others like that without even batting an eye? | 能够毫不生气保持着平常心去践踏他人的人类是存在的。
+scn00_38_0259 | - | 駆除隊は殺傷力を持つ武器を有する暴力装置であり、ここは外界から遮断されたエリア９９。 | The extermination squad is an armed force carrying deadly weapons, and Area 99 is almost entirely isolated from the outside world. | 驱除队是拥有杀伤性武器的暴力装置，而这里又是与外界隔绝的99区。
+scn00_38_0260 | ひなた(Hinata) | （何か起こってしまっても、なかった事にされてしまう可能性がある） | (If anything happened, there's a high chance it would just be swept under the rug.) | （就算他真干出什么事来，也有可能会被当做无事发生）
+scn00_38_0261 | - | 住民は今までの不満や義憤が混ざり合って興奮状態にあり、一触即発の空気だ。 | The residents are highly excitable due to a mix of frustration and righteous indignation that's been building up among them. | 居民们进入到了混杂着迄今为止的不满和义愤的兴奋状态中，气氛变得一触即发。
+scn00_38_0262 | - | 隊長が銃口を上げた。 | The squad leader lifts his gun. | 队长举起枪。
+scn00_38_0263 | - | あの頑強な警備ロボットの装甲に穴を空けるほどの威力を持つライフルだ。 | The rifles they carry are powerful enough to pierce the armor of those tough security robots. | 是那把威力大到能给坚固的安保机器人装甲上开个洞的步枪。
+scn00_38_0264 | - | 住民は非武装。誰か一人を見せしめにすれば、他を黙らせられる。 | On the other hand, the civilians are unarmed. If they decide to "make an example" out of any of us, the others won't be able to do a thing. | 居民们都没有武器，只要抓一个人出来杀鸡儆猴，就能让其他人闭嘴了。
+scn00_38_0265 | - | そしてその一人として、隊長が銃口を向けたのは風音だった。 | The squad leader's sight trains on Kazane. | 然后队长将枪口指向了风音，将她选为了那个人。
+scn00_38_0266 | ひなた(Hinata) | 「やめろ！」 | "Stop!" | “住手！”
+scn00_38_0267 | - | 俺は咄嗟に風音の前に立つ。 | I immediately step out in front of her. | 我冲过去挡在了风音身前。
+scn00_38_0268 | 駆除隊隊長(Extermination Squad Leader) | 「別におまえでも構わない」 | "Oh, you're volunteering? Fine by me." | “你来也无所谓”
+scn00_38_0269 | - | 冷たい声で言うと、隊長がトリガーを引いた。 | His voice is ice cold as he pulls the trigger. | 队长用冰冷的语气说完，便扣动了扳机。
+scn00_38_0270 | ひなた(Hinata) | 「ッ――」 | "...!" | “——”
+scn00_38_0271 | - | 弾丸は発射された。しかし、俺も、風音も無事だった。 | A gunshot rings out. However, I'm fine, and so is Kazane. | 子弹射了出来，但是，我和风音都毫发无损。
+scn00_38_0272 | 駆除隊隊長(Extermination Squad Leader) | 「……貴様、何をする」 | "What do you think you're doing?" | “……你干什么”
+scn00_38_0273 | - | 光太郎さんが、ライフルの銃身を掴んでいた。弾丸は空へ向けて放たれていた。 | Kotaro-san holds the barrel of the rifle, pointing it upward toward the sky. | 光太郎先生抓住了步枪的枪身，让子弹朝天上飞了出去。
+scn00_38_0274 | 光太郎(Kotaro) | 「隊長、そこまでです」 | "Leader, I think that's enough." | “队长，到此为止了”
+scn00_38_0275 | 駆除隊隊長(Extermination Squad Leader) | 「おい、なんだこの手は。すぐに放さないと、隊規に照らして処分するぞ」 | "Hey, let go of that. If you disobey my orders, I'll have you disciplined for insubordination." | “喂，你这手是什么意思，给我立刻放开，不然我就要按照队规处分你了”
+scn00_38_0276 | 光太郎(Kotaro) | 「そうもいかないんだな」 | "I'm afraid it doesn't work that way." | “这可不行啊”
+scn00_38_0277 | ひなた(Hinata) | 「光太郎さん！」 | "Kotaro-san!" | “光太郎先生！”
+scn00_38_0278 | 光太郎(Kotaro) | 「……やれやれ、最後まで身分は明かさないつもりでいたんだけど、これは不可抗力というやつだな」 | "...Honestly, I wasn't planning to reveal myself until the end, but I suppose this counts as  majeure." | “……哎呀哎呀，我本来想一直隐藏身份来着，但遇到不可抗力就没办法了啊”
+scn00_38_0279 | - | ひとりでぶつぶつ言うと、光太郎さんはポケットから取りだした身分証を隊長にかざして見せた。 | Muttering to himself, Kotaro-san takes an ID card out of his pocket and shows it to the squad leader. | 光太郎先生自言自语着，从口袋里取出了身份证展示给队长看。
+scn00_38_0280 | 駆除隊隊長(Extermination Squad Leader) | 「なんだこれは……？」 | "What's that...?" | “这是什么……？”
+scn00_38_0281 | 光太郎(Kotaro) | 「すいません、今まで隠してて。実は俺、あなた方を内偵するために潜入していたスパイだったんです」 | "I'm sorry for deceiving you. I'm actually an informant sent to keep an eye on you." | “抱歉一直瞒着你，其实，我是为了暗中调查你们而潜入进来的间谍”
+scn00_38_0282 | 駆除隊隊長(Extermination Squad Leader) | 「公安調査官…………だと？」 | "You're... with the Public Security Intelligence Agency?" | “公安调查官……？”
+scn00_38_0283 | - | 駆除隊隊長の表情が固まる。 | The squad leader suddenly turns pale. | 驱除队队长的表情凝固了。
+scn00_38_0284 | ひなた(Hinata) | （公安……？　光太郎さんは駆除隊の隊員じゃなかったのか） | (What...? Kotaro-san isn't actually a member of the extermination squad?) | （公安……？　光太郎先生原来不是驱除队的队员吗）
+scn00_38_0285 | 光太郎(Kotaro) | 「『厄災』の証拠隠滅を[はか]図ろうとする勢力がいるとの情報があり、潜入調査を行っていました」 | "We received a tip that there had been attempts to destroy evidence of the Calamity, so I went undercover to investigate." | “有情报称有一股势力意图消灭‘灾厄’相关证据，所以我便来进行潜入调查了”
+scn00_38_0286 | 駆除隊隊長(Extermination Squad Leader) | 「なッ……」 | "Wha...!?" | “什……”
+scn00_38_0287 | 霧香(Kirika) | 「光太郎君……あなた」 | "Kotaro-kun... You're..." | “光太郎……你”
+scn00_38_0288 | 光太郎(Kotaro) | 「いやー大変でしたけど、どうにか尻尾を掴めました。ココロちゃんについても、昨日のうちにだいぶ分かってきましたし。ね、主任？」 | "Phew, it was hard work, but I finally managed to find a lead. We learned a lot about Cocoro-chan yesterday too, didn't we, Chief?" | “哎呀，虽然是费了一番功夫，但终于是抓住了你们的尾巴。心相关的事，我们昨天也已经基本都了解清楚了，对吧，主任？”
+scn00_38_0289 | 霧香(Kirika) | 「え、ええ……」 | "Y-Yes..." | “哎，嗯……”
+scn00_38_0290 | - | 霧香さんが気まずげにしている。 | Kirika-san is looking rather awkward. | 雾香小姐显得有些尴尬。
+scn00_38_0291 | - | たぶん霧香さんは、今までずっとセキュリティが解除されたセントラルのコンピュータでデータ収集をしていたんだろう。 | She's likely been collecting data from the computers in Central ever since their security was unlocked. | 雾香小姐大概一直都在解除了安全系统的中心区电脑上收集着数据吧。
+scn00_38_0292 | - | それを手伝いながら光太郎さんは、霧香さんから情報を引き出したに違いない。 | And Kotaro-san must have extracted information from Kirika-san while helping her out with that task. | 光太郎先生一定是一边帮忙一边从雾香小姐那里套着情报。
+scn00_38_0293 | - | 知らないうちに霧香さんは、光太郎さんの調査に協力させられていたというわけだ。 | Which means that Kirika-san has been unknowingly helping with Kotaro-san's investigation the entire time. | 也就是说，雾香小姐在不知情的情况下，协助了光太郎先生的调查。
+scn00_38_0294 | 駆除隊隊長(Extermination Squad Leader) | 「貴様……」 | "You bastard..." | “你这家伙……”
+scn00_38_0295 | - | 隊長が銃口を光太郎さんに向けようとする。 | The squad leader points his gun at Kotaro-san. | 队长将枪口指向了光太郎先生。
+scn00_38_0296 | 光太郎(Kotaro) | 「おっと、もう全て報告済みなんで、俺を消しても遅いですよ。今頃、隊長を[やと]雇った人たちは拘束されてる頃です」 | "Whoa, there. I've already reported everything to the higher-ups, so killing me isn't gonna change anything. The people who hired you are probably getting arrested right about now." | “哦呀，我已经都报告上去了，就算你除掉我也已经晚了哦。现在这时候，应该正在对雇佣队长的人们进行着抓捕”
+scn00_38_0297 | 光太郎(Kotaro) | 「それに、潜入してるのは俺一人じゃない。今もどこかでこの様子を撮影している仲間がいます。何かしたら証拠が残りますよ」 | "Besides, I'm not the only spy here. My colleagues are nearby filming all of this, so no matter what you do, there will still be evidence." | “而且，潜入进来的并不止我一个人。现在也有躲起来用摄像头记录着这个情况的同伴。你要是真做出什么就肯定会留下证据哦”
+scn00_38_0298 | 駆除隊隊長(Extermination Squad Leader) | 「あのロボットは破壊せねばならん。残しておくと、我が国の国益を損ねる事になるんだぞ！」 | "That robot must be destroyed. It's a threat to national security!" | “必须要破坏掉那个机器人，留下她，只会有损我国的国家利益！”
+scn00_38_0299 | 光太郎(Kotaro) | 「国益？　証拠隠滅する事が？　バカ言っちゃいけない」 | "National security? You think it would be safer to just make it all go away? Don't be stupid." | “国家利益？　你是指消灭证据吗？　别说傻话了”
+scn00_38_0300 | 光太郎(Kotaro) | 「あの娘は『厄災』を解明する重要な手がかり。そして、『厄災』を終わらせる事ができる可能性を持つ存在。ですよね、主任？」 | "That girl's crucial to understanding the Calamity, and she likely holds the key to ending it as well. Right, Chief?" | “那个姑娘是查明‘灾厄’的重要线索，而且，她还是有可能能结束‘灾厄’的存在，对吧，主任？”

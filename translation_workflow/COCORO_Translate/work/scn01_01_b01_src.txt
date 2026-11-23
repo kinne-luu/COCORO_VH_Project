@@ -1,0 +1,13 @@
+# scene=scn01_01 batch=1/1 dòng 1-9 / 9
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn01_01_0001 | - | その後、俺がココロの消息を知ったのは、夏休みがとっくに終わり半ば強制的に普通の高校生活へ戻された後だった。 | I didn't find out about Cocoro's whereabouts until long after summer break. I'd been more or less forced back to my normal high school life. | 在那之后，当我再次得到关于心的消息时，暑假早就已经结束了，而我也已经半强制性地回到了普通的高中生活中。
+scn01_01_0002 | - | セントラルエリアの調査をしていた霧香さんが、機能停止したココロを発見した。 | Kirika-san discovered her while she was investigating something in Central. Cocoro had completely ceased to function. | 在中心区进行调查的雾香小姐发现了已经停止运行的心。
+scn01_01_0003 | - | なぜそうなったのか、どうしてそこにいたのか―― | How did she end up there? What happened to her? | 至于她为什么会变成这样这样，又为什么会在那里——
+scn01_01_0004 | - | 機密事項に抵触するため、霧香さんは話してくれない。 | Kirika-san wouldn't tell me anything, as the answers would violate confidentiality protocols. | 这些问题涉及到了机密事项，所以雾香小姐并没有对我说。
+scn01_01_0005 | - | ただ雰囲気で察したのは、ココロのボディに限界が来ていた事。 | However, from the way she talked, I assumed that Cocoro's body had simply reached its limits. | 只不过，我通过她的表现察觉到，是心的身体到达了极限。
+scn01_01_0006 | - | そして、駆除隊がなんらかの暴走をしたらしいという事。 | And it seemed that the extermination squad had gone on a robot-killing spree as well. | 还有，驱除队似乎是做出了一些失控的行为。
+scn01_01_0007 | 霧香(Kirika) | 『ココロは機能停止したがっていたから……』 | <Cocoro  to shut down, so...> | ‘心毕竟也说过她想要停止运行……’
+scn01_01_0008 | - | [なぐさ]慰めるように言った霧香さんの言葉が、なぜだか深く胸に刺さった。 | When Kirika-san tried to comfort me, her words resonated deep in my soul. | 雾香小姐试图安慰我的话语，不知为何深深地刺入了我的胸口。
+scn01_01_0009 | - | 後悔という感情を得たところで、もう何もかも遅かった。 | But by the time my regret fully sank in, it was too late to change anything. | 在感受到后悔的时候，一切都已经太迟了。

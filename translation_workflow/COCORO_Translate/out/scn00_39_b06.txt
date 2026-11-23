@@ -1,0 +1,41 @@
+scn00_39_0281 | "CCR-02 được chế tạo mô phỏng theo Cocoro. Thế nhưng, mạch cảm xúc mà chị gái tạo ra lại tựa như một chiếc hộp đen bí ẩn, chẳng một ai có thể thấu hiểu được."
+scn00_39_0282 | "Nghĩa là CCR-02 chỉ là một bản sao chép không hoàn hảo sao ạ......?"
+scn00_39_0283 | Dì Kirika khẽ gật đầu.
+scn00_39_0284 | "Bản ngã của CCR-02 lúc đó chưa phát triển toàn diện, chính vì ranh giới tha nhân mơ hồ nên con bé đã đồng nhất bản thân mình với Cocoro làm một."
+scn00_39_0285 | Tức là con bé cảm thấy Cocoro là một phần của mình, hay nói đúng hơn là bản thân nó chính là một phần của Cocoro sao.
+scn00_39_0286 | "......"
+scn00_39_0287 | "Con bé cảm nhận được những cảm xúc của Cocoro đang ngủ say hệt như của chính mình, rồi bị nỗi kinh hoàng xâm chiếm sao......?"
+scn00_39_0288 | "Phải...... Dường như chính điều đó đã trở thành phát súng kích hoạt cho cơn 'Ách Tai'."
+scn00_39_0289 | "'Nỗi sợ hãi cái chết' mà CCR-02 cảm nhận đã biến thành tiếng thét tuyệt vọng trước lúc lâm chung lan truyền khắp mạng lưới viễn thông, lây nhiễm sang các AI khác... à không, nói đúng hơn là tạo ra sự cộng hưởng rung động dữ dội."
+scn00_39_0290 | "...... Đó chính là chân tướng thực sự của hiện tượng Allelopathy."
+scn00_39_0291 | "Hiện tượng Allelopathy đã cấy ghép những cảm xúc mô phỏng giả lập vào các AI vốn không có mạch cảm xúc, khiến chúng hoàn toàn phát cuồng bạo loạn."
+scn00_39_0292 | "...... Dì nghĩ đó rất có thể chính là toàn bộ sự thật đằng sau thảm họa."
+scn00_39_0293 | "Bản thân tôi cũng từng chịu ảnh hưởng từ hiện tượng Allelopathy đấy ạ. Khoảnh khắc tôi bừng tỉnh giấc chính là khi tôi nghe thấy tiếng gào thét hấp hối của ai đó."
+scn00_39_0294 | "Khi ấy tôi chỉ coi đó là tín hiệu lỗi, nhưng giờ ngẫm lại, tiếng thét ấy chan chứa nỗi thống khổ và bi thương đến tột cùng. Hệt như chính nỗi đau của bản thân tôi vậy."
+scn00_39_0295 | Khởi nguồn vốn là cảm xúc của Cocoro bị sao chép sang, nhưng khi qua tay CCR-02 thì nó đã bị khuếch đại lên gấp bội, rồi lan truyền cộng hưởng khắp nơi và biến dạng đi.
+scn00_39_0296 | Để rồi luân chuyển một vòng, thứ đó hóa thành vô số những tiếng gào thét thảm thiết dội ngược trở lại chính nơi Cocoro.
+scn00_39_0297 | "Biết đồng cảm với người khác, cảm nhận nỗi đau của người khác như chính nỗi đau của mình. Đó là tình cảm vốn có và hết sức bình thường ở con người mà."
+scn00_39_0298 | Không chỉ có đau thương, mà niềm vui, nỗi buồn, cơn giận... muôn vàn cung bậc cảm xúc, con người đều có khả năng vừa nhận thức rõ đó là của người khác, vừa cảm nhận được như thể chuyện của chính bản thân mình.
+scn00_39_0299 | "Đến cả việc thấu cảm chia sẻ được như thế... Trái tim bên trong Cocoro thực sự đã phát triển lên một tầm mức vô cùng hoàn thiện. Không còn nghi ngờ gì nữa."
+scn00_39_0300 | "Hừm...... Tôi đã hiểu rằng dường như mình rất cừ khôi rồi ạ. Mau khen ngợi tôi đi nào, cậu Hinata."
+scn00_39_0301 | Cocoro chìa đầu sang phía tôi, tôi liền dịu dàng xoa đầu em.
+scn00_39_0302 | "Ngoan nào ngoan nào, Cocoro của chúng ta giỏi giang quá chừng."
+scn00_39_0303 | "Hì hì...... Cảm giác cứ nhồn nhột bẽn lẽn làm sao ấy ạ."
+scn00_39_0304 | "Vụ bạo loạn hôm trước lắng xuống chính là nhờ CCR-02 đã đón nhận 'tình yêu' và 'niềm hân hoan' của Cocoro rồi khuếch tán ra xung quanh."
+scn00_39_0305 | "Việc phát tán Allelopathy vốn là lỗi hệ thống của CCR-02, nhưng cảm xúc của cháu lại có khả năng đưa những cỗ máy drone đang cuồng loạn trở về trạng thái bình thường."
+scn00_39_0306 | "Cháu chính là chiếc chìa khóa then chốt để dập tắt cơn 'Ách Tai'."
+scn00_39_0307 | "Vậy thì tôi sẽ làm một phen thật hoành tráng ra trò nhé!"
+scn00_39_0308 | "...... Cơ mà, tôi rốt cuộc phải làm gì mới được ạ?"
+scn00_39_0309 | "Để xem nào......"
+scn00_39_0310 | Dì Kirika nghiêm nghị đặt tay lên vai tôi và Cocoro.
+scn00_39_0311 | "Nói tóm lại là dì sẽ dốc toàn lực ủng hộ hôn nhân của hai đứa!"
+scn00_39_0312 | "Dù chuyện bị đứa cháu trai ruột vượt mặt lấy vợ trước... làm dì hơi chạnh lòng một tẹo thật đấy."
+scn00_39_0313 | Cocoro lại đưa tay vỗ về lên đầu dì Kirika lần nữa.
+scn00_39_0314 | "Rồi dì Kirika cũng sẽ sớm tìm được một người đàn ông tốt thôi mà. Xin dì đừng nản lòng thoái chí nhé."
+scn00_39_0315 | "......"
+scn00_39_0316 | "C... Cảm ơn cháu nhé, Cocoro."
+scn00_39_0317 | "......? Rõ ràng là tôi vừa an ủi dì ấy, cớ sao giọng của dì Kirika lại thoang thoảng sát khí giận dữ thế nhỉ? Tôi lại làm sai chuyện gì rồi sao?"
+scn00_39_0318 | "Dì Kirika đang ở độ tuổi vô cùng nhạy cảm đấy. Cậu cứ để dì ấy yên thì hơn."
+scn00_39_0319 | "Hinaaaaaataaaaaa~~~~!!!"
+scn00_39_0320 | "M... Mình đi thôi Cocoro ơi, ở đây làm phiền dì ấy làm việc thì ngại lắm!"
+scn00_39_0321 | Tôi vội nắm lấy tay Cocoro rồi ba chân bốn cẳng chuồn khỏi căn phòng.

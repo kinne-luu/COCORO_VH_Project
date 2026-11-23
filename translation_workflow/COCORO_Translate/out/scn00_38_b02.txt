@@ -1,0 +1,60 @@
+scn00_38_0061 | "Em gái ư......?"
+scn00_38_0062 | "Vâng ạ, tuy mang hình hài như vậy, nhưng đứa trẻ đó chính là em gái của tôi. Dù tôi cũng không thể loại trừ khả năng đó là em trai."
+scn00_38_0063 | Nghe Cocoro giải thích xong, trên đầu dì Kirika lại càng hiện thêm nhiều dấu chấm hỏi.
+scn00_38_0064 | "Hai đứa bình an vô sự là tốt rồi......"
+scn00_38_0065 | "Cháu xin lỗi vì đã làm dì phải lo lắng."
+scn00_38_0066 | "...... Tôi xin lỗi vì đã làm phiền mọi người. Cúi chào."
+scn00_38_0067 | "Cậu nhóc bình an vô sự thật là tốt quá. Bên ngoài dường như vụ bạo loạn đã lắng xuống rồi, rốt cuộc ở trong này đã xảy ra chuyện gì thế?"
+scn00_38_0068 | "Lũ Mutant Drone đang phát cuồng đã trở lại bình thường rồi. Trường hợp như thế này, hồi 'Ách Tai' cũng chỉ ghi nhận được một số lượng cực kỳ ít ỏi mà thôi."
+scn00_38_0069 | Tôi không rõ bên ngoài đang diễn ra chuyện gì, nhưng xem ra tình trạng phát cuồng của đám robot đã được dẹp yên.
+scn00_38_0070 | "Vừa rồi, dì đã thu nhận được một phản ứng Allelopathy mới. Có vẻ chính điều đó đã làm bước ngoặt giúp lũ Mutant Drone lấy lại sự tỉnh táo."
+scn00_38_0071 | "Là do em gái tôi làm đấy ạ. Đứa trẻ đó đã truyền tải cảm xúc hiện tại của tôi đến tất cả mọi người."
+scn00_38_0072 | "...... Con Jabberwock làm sao?"
+scn00_38_0073 | "Là CCR-02, thế hệ máy kế nhiệm của Cocoro đấy ạ."
+scn00_38_0074 | "...... Thế hệ kế nhiệm ư? Hả!?"
+scn00_38_0075 | "Bản thân tôi trước đó cũng không hề được thông báo về sự tồn tại của em ấy, nên tôi không rõ đầu đuôi sự tình chi tiết."
+scn00_38_0076 | "Máy kế nhiệm của Cocoro, tại sao lại mang hình dạng như thế chứ?"
+scn00_38_0077 | "Ai mà biết được chứ ạ. Em ấy bảo rằng toàn bộ mọi chuyện từ đầu đến cuối đều được lưu lại trong máy tính ở đây."
+scn00_38_0078 | "Toàn bộ bản ghi đều ở đây ư......"
+scn00_38_0079 | Dì Kirika nhìn chằm chằm vào máy tính rồi khẽ nuốt nước bọt.
+scn00_38_0080 | Đứng trước thứ mình hằng tìm kiếm bấy lâu, dì không giấu nổi vẻ căng thẳng lẫn phấn khích.
+scn00_38_0081 | "Jabber... à không, cái thứ gọi là CCR-02 đó đã làm gì thế? Kể hết cho bọn tôi nghe đi, tôi tò mò đến chết đi được đây này."
+scn00_38_0082 | "Cocoro, được chứ?"
+scn00_38_0083 | Tôi thì chẳng thể nào giải thích nổi dù chỉ một nửa những gì đã xảy ra.
+scn00_38_0084 | Cocoro gật đầu.
+scn00_38_0085 | "Đúng vậy ạ, tôi phải báo cáo đàng hoàng mới được. Nhất là với dì Kirika."
+scn00_38_0086 | "Ừ, nói cho dì nghe đi."
+scn00_38_0087 | Như để khoe cho dì Kirika đang lộ vẻ nghiêm túc thấy, Cocoro giơ bàn tay trái của mình lên.
+scn00_38_0088 | Rồi em khẽ xoay cổ tay một vòng, hướng mu bàn tay về phía trước.
+scn00_38_0089 | "......?"
+scn00_38_0090 | "Tôi và cậu Hinata đã chính thức đính hôn với nhau rồi ạ."
+scn00_38_0091 | "....... Hả?"
+scn00_38_0092 | "Cái gì cơ??"
+scn00_38_0093 | "...... Đây chính là bằng chứng ạ."
+scn00_38_0094 | Chiếc nhẫn trên ngón áp út bàn tay trái đang lấp lánh rạng ngời.
+scn00_38_0095 | "Đó... chẳng lẽ là nhẫn đính hôn của chị gái......"
+scn00_38_0096 | "Ờ thì...... đúng là chuyện như thế thật, nhưng tớ nghĩ điều bây giờ cần báo cáo cho dì Kirika là một chuyện khác cơ, Cocoro à."
+scn00_38_0097 | "Tôi lại làm sai chuyện gì rồi sao ạ?"
+scn00_38_0098 | "Tại sao vụ bạo loạn lại xảy ra, làm cách nào mà nó lắng xuống, và bé Cocoro có liên quan thế nào đến chuyện đó, bọn tôi muốn nghe về điều đó cơ."
+scn00_38_0099 | "Ra là vậy, là chuyện đó sao. Thất kính, thất kính. Ầm, chuyện kể ra thì dài lắm, xin quý khách hãy an tọa để lắng nghe một hồi......"
+scn00_38_0100 | "Lắng nghe...... ơ kìa...... a ư......"
+scn00_38_0101 | "Cocoro à?"
+scn00_38_0102 | "Tôi xin lỗi."
+scn00_38_0103 | Cocoro bỗng vụt chạy, lao ra khỏi phòng như thể đang trốn chạy.
+scn00_38_0104 | "Con bé sao thế nhỉ......"
+scn00_38_0105 | "Cháu xin phép một chút."
+scn00_38_0106 | Tôi bỏ lại dì Kirika và chú Kotaro, vội vã đuổi theo Cocoro.
+scn00_38_0107 | "......"
+scn00_38_0108 | "Này Cocoro..."
+scn00_38_0109 | Cocoro đang ở trong vườn bách thảo.
+scn00_38_0110 | Em lặng lẽ đứng ngắm trước những bông hoa Tuyết Trắng Mùa Hạ, chẳng nói một lời.
+scn00_38_0111 | "Vẫn còn là nụ hoa. May quá rồi."
+scn00_38_0112 | Nếu hoa nở trong lúc xảy ra bạo loạn, thì có lẽ chúng tôi đã lỡ mất cơ hội được ngắm nhìn rồi.
+scn00_38_0113 | "Cậu Hinata......"
+scn00_38_0114 | "Ừ, không sao đâu."
+scn00_38_0115 | "Tôi vẫn chưa nói gì mà."
+scn00_38_0116 | "Không cần nói tớ cũng hiểu mà. Cảm xúc của Cocoro ấy."
+scn00_38_0117 | "......"
+scn00_38_0118 | "Ánh mắt đầy vẻ hoài nghi đó là sao thế nhỉ?"
+scn00_38_0119 | "Rõ ràng là rất đáng nghi ngờ ạ. Cậu làm sao mà hiểu được chứ."
+scn00_38_0120 | "Có thể không hoàn toàn chính xác, nhưng tớ có thể cảm nhận được phần nào."

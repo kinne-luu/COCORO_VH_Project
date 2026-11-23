@@ -1,0 +1,60 @@
+scn00_28_0241 | "...?"
+scn00_28_0242 | Bên trong chứa đủ thứ đồ đạc, không rõ là chiếc hộp gì đây nhỉ.
+scn00_28_0243 | "Đây là hộp chứa đồ thất lạc ạ. Những đồ đánh rơi trong vườn bách thảo đều được gom lại ở đây. Có thể món đồ cậu Hinata đánh rơi cũng nằm trong này đấy."
+scn00_28_0244 | 'Cảm ơn cậu nhé.'
+scn00_28_0245 | Tôi lần lượt lục lọi đồ đạc bên trong chiếc thùng các-tông.
+scn00_28_0246 | Bút bi, móc chìa khóa, khăn tay rồi cả găng tay, toàn là những món đồ rất dễ bị đánh rơi.
+scn00_28_0247 | Không có rồi...
+scn00_28_0248 | "Không tìm thấy sao ạ?"
+scn00_28_0249 | "...(Gật đầu)"
+scn00_28_0250 | "Vậy sao, tiếc thật đấy."
+scn00_28_0251 | Thế nhưng, ngắm nhìn đủ loại đồ thất lạc thế này cũng khá thú vị.
+scn00_28_0252 | Từ những món kinh điển cho tới mô hình nhân vật hoạt hình robot nổi tiếng, một chiếc giày trẻ con bị tuột, bình giữ nhiệt, rồi cả chiếc ô gấp màu hồng rực rỡ.
+scn00_28_0253 | Mỗi một món đồ ở đây chắc hẳn đều từng gắn liền với cuộc sống thường nhật của một ai đó.
+scn00_28_0254 | Trước khi cơn "Ách Tai" ập đến và làm đảo lộn tất cả.
+scn00_28_0255 | "...?"
+scn00_28_0256 | Cái gì thế này nhỉ?
+scn00_28_0257 | Bên trong có một món đồ được bọc giấy gói cẩn thận, trông chẳng khác nào một hộp quà tặng.
+scn00_28_0258 | Kích thước khá lớn, khi cầm lên tay thấy nặng trịch.
+scn00_28_0259 | Xét theo hình dáng và sức nặng này, tôi đoán có lẽ là một cuốn sách.
+scn00_28_0260 | ...Hả?
+scn00_28_0261 | Nhìn thấy dòng chữ ghi bên ngoài lớp giấy gói, tim tôi bỗng giật thót một cái.
+scn00_28_0262 | ...Gửi Hinata.
+scn00_28_0263 | Đúng là tên của tôi được nắn nót trên đó.
+scn00_28_0264 | Chỉ là trùng hợp ngẫu nhiên thôi sao? Không...
+scn00_28_0265 | Nét chữ nắn nót nghiêm cẩn này trông quen thuộc vô cùng.
+scn00_28_0266 | Chính là chữ viết tay của cha tôi.
+scn00_28_0267 | Như vậy có nghĩa đây là đồ cha đánh rơi sao?
+scn00_28_0268 | Và đây... là món quà cha chuẩn bị cho tôi ư?
+scn00_28_0269 | Nhìn kỹ lại, trên một góc của lớp giấy gói có vết ố thâm đen.
+scn00_28_0270 | Tựa như dấu vết để lại khi một bàn tay nhuốm máu chạm vào.
+scn00_28_0271 | "Cậu Hinata...?"
+scn00_28_0272 | "..."
+scn00_28_0273 | Tôi mở lớp giấy gói ra và lấy món đồ bên trong.
+scn00_28_0274 | Đây là...
+scn00_28_0275 | Bên trong là một cuốn từ điển thực vật cổ kính.
+scn00_28_0276 | Bìa sách này, tôi nhớ rất rõ. Đó chính là thứ mà hồi học tiểu học tôi từng khao khát có được.
+scn00_28_0277 | Vốn là cuốn bách khoa toàn thư thực vật xuất bản tại nước Anh dưới thời Nữ hoàng Victoria, với những hình vẽ minh họa tinh xảo và tuyệt đẹp, từ khi biết tới sự tồn tại của nó trên mạng, tôi đã luôn mơ ước được sở hữu.
+scn00_28_0278 | Giá cuốn sách rất đắt, tiền tiêu vặt của tôi không tài nào mua nổi, mà vì cha vốn không mấy hài lòng trước việc tôi thích trồng hoa nên tôi cũng chẳng thể vòi vĩnh cha mẹ mua cho.
+scn00_28_0279 | Cha mua tặng cho mình sao...?
+scn00_28_0280 | Tại sao chứ?
+scn00_28_0281 | Mà khoan, rốt cuộc tại sao cuốn sách lại nằm ở nơi này?
+scn00_28_0282 | Lẽ ra cha chẳng bao giờ thèm bén mảng tới vườn bách thảo cơ mà...
+scn00_28_0283 | Chuyện này là sao đây, tâm trạng tôi lúc này chẳng khác nào một nhà thám hiểm vừa khai quật được cổ vật lạc thời đại OOPArt trong tàn tích cổ xưa.
+scn00_28_0284 | "Ghi nhận thân nhiệt sụt giảm. Cậu Hinata, cậu có sao không ạ?"
+scn00_28_0285 | "...(Gật đầu)"
+scn00_28_0286 | Sự việc ngoài dự liệu này khiến tôi bàng hoàng vượt quá mức bối rối thông thường, rơi vào hỗn loạn tột độ.
+scn00_28_0287 | "Đó chính là món đồ cậu Hinata đánh rơi sao ạ?"
+scn00_28_0288 | "...(Lắc đầu)"
+scn00_28_0289 | "Vậy thì món đó không phải là đồ của cậu Hinata rồi."
+scn00_28_0290 | Tôi lại lắc đầu thêm một lần nữa.
+scn00_28_0291 | 'Không phải thứ tôi đang tìm.'
+scn00_28_0292 | 'Nhưng có vẻ như đây là món quà dành tặng cho tôi.'
+scn00_28_0293 | "?"
+scn00_28_0294 | 'Hình như là do cha tôi đánh rơi ở đây.'
+scn00_28_0295 | Tôi phải giải thích rõ ràng, bằng không dưới góc nhìn của Cocoro, trông tôi sẽ chẳng khác nào kẻ đang toan chiếm đoạt đồ thất lạc của người khác.
+scn00_28_0296 | "Món đồ cậu tìm kiếm vẫn chưa thấy đúng không ạ."
+scn00_28_0297 | 'Ừ, cảm ơn cậu nhiều nhé.'
+scn00_28_0298 | "Vậy thì tôi xin phép mang thùng đồ này đi cất lại."
+scn00_28_0299 | Cocoro bê chiếc thùng các-tông đã bỏ lại món đồ cha tôi đánh rơi mang trả về văn phòng nhân viên.
+scn00_28_0300 | Tại sao cha lại mua món đồ như thế này cơ chứ...

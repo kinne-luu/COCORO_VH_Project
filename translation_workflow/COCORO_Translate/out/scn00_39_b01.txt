@@ -1,0 +1,60 @@
+scn00_39_0001 | "Ư ưm......"
+scn00_39_0002 | Bị đánh thức bởi một mùi thơm ngào ngạt khẽ mơn man nơi cánh mũi, tôi mở mắt tỉnh giấc.
+scn00_39_0003 | Nghe thấy tiếng động khẽ khàng của tôi, Cocoro
+scn00_39_0004 | "A, cậu dậy rồi đấy à."
+scn00_39_0005 | liền lạch bạch chạy từ trong bếp ra.
+scn00_39_0006 | "Cậu Hinata, chào buổi sáng ạ."
+scn00_39_0007 | "Ừ...... chào buổi sáng. Oáp a a~~~"
+scn00_39_0008 | "Một cái ngáp thật dài. Tuy tôi giống con người đến mức gần như vô hạn, nhưng tôi lại không thể ngáp được."
+scn00_39_0009 | "Tôi cũng muốn ngáp thử xem sao."
+scn00_39_0010 | "Cứ thử làm xem sao. Lúc buồn ngủ hay khi thấy chán chường ấy."
+scn00_39_0011 | "Phù...... Oa oa a a a~~~~~~"
+scn00_39_0012 | "Thế nào ạ?"
+scn00_39_0013 | "Ừm, vì quá đỗi dễ thương nên cho 100 điểm."
+scn00_39_0014 | "Tôi nhận được trọn 100 điểm rồi nhé."
+scn00_39_0015 | "Hít hít...... Có mùi gì khét khét thì phải?"
+scn00_39_0016 | "? Hả... ôi chết rồi, nguy to rồi!!"
+scn00_39_0017 | Cocoro cuống cuồng chạy thục mạng vào bếp.
+scn00_39_0018 | "...... Hức hức."
+scn00_39_0019 | Xem ra là không kịp trở tay rồi.
+scn00_39_0020 | "Tin buồn. Trứng cuộn đã cháy khét lẹt thành than rồi......"
+scn00_39_0021 | "Sau khi có lại thị giác, tôi đã dự định sẽ nấu một bữa sáng hoàn hảo để khởi đầu ngày mới và mang lại vị ngon tuyệt vời cho cậu Hinata, vậy mà......"
+scn00_39_0022 | "Cháy một chút cũng không sao đâu mà. Chỉ cần là đồ Cocoro nấu thì món gì tớ ăn cũng thấy ngon cả."
+scn00_39_0023 | Tôi rời khỏi nệm, đi rửa mặt rồi ngồi vào bàn ăn sáng.
+scn00_39_0024 | "Xin cậu đừng gượng ép ăn hết nhé. Có nguy cơ gây hại cho sức khỏe đấy ạ."
+scn00_39_0025 | "Gạt phần bị cháy đi là ăn được thôi. Mời cả nhà cùng ăn."
+scn00_39_0026 | "Nhai nhai...... nhóp nhép...... hình như...... ngọt ngọt?"
+scn00_39_0027 | "? Xin phép cậu nhé."
+scn00_39_0028 | Cocoro cũng nếm thử một miếng bên trong của phần trứng cuộn.
+scn00_39_0029 | "Thế này là...... có vẻ tôi đã nhầm muối với đường mất rồi. Đúng là bị thông tin thị giác đánh lừa mà."
+scn00_39_0030 | "Lại dính lỗi kinh điển thường thấy nữa rồi."
+scn00_39_0031 | "Hương vị hoàn toàn trái ngược nhau, cớ sao bề ngoài trông lại giống nhau đến thế cơ chứ! Đây rõ ràng là một cái bẫy hèn hạ!"
+scn00_39_0032 | "Tớ cũng thích ăn trứng cuộn vị ngọt mà."
+scn00_39_0033 | Nếu không nghĩ nó là món trứng cuộn thông thường, thì ăn cũng ngon ngọt tựa như bánh bông lan vậy.
+scn00_39_0034 | "Ăn cùng cà phê thì hợp lắm đấy."
+scn00_39_0035 | "Xin mời cậu!"
+scn00_39_0036 | Cocoro đắc ý dâng tách cà phê ra trước mặt tôi.
+scn00_39_0037 | "...... Ừm, ngon lắm!"
+scn00_39_0038 | "Phù."
+scn00_39_0039 | "Thì trình độ pha cà phê ngon chuẩn mực của tôi đã được luyện thành thạo từ lâu rồi mà."
+scn00_39_0040 | "Một khi đã kết hôn với tôi rồi, cậu hãy chuẩn bị tinh thần mỗi sáng thức dậy đều được thưởng thức cà phê hảo hạng đi nhé."
+scn00_39_0041 | Có sự chuẩn bị tinh thần khiến người ta hạnh phúc đến thế này sao.
+scn00_39_0042 | Dùng xong bữa sáng, chúng tôi chuẩn bị ra ngoài.
+scn00_39_0043 | Dù nói là chuẩn bị, nhưng thực ra cũng chỉ có đánh răng rửa mặt và thay bộ đồ ngủ ra mà thôi.
+scn00_39_0044 | Sửa soạn nhanh chóng xong xuôi, vừa định bước chân ra khỏi phòng thì,
+scn00_39_0045 | "Xin cậu chờ một chút đã."
+scn00_39_0046 | "Sao thế?"
+scn00_39_0047 | "Suỵt. Tôi đang dò xét tình hình bên ngoài."
+scn00_39_0048 | Có vẻ như em ấy đã bật độ nhạy của cảm biến thính giác lên mức tối đa để nghe ngóng mọi tiếng động dội lại từ bên ngoài.
+scn00_39_0049 | "Tầm này đang không có người qua lại. Nào, chúng ta đi thôi."
+scn00_39_0050 | Xem chừng Cocoro vẫn thấy vô cùng ngượng ngùng e ngại khi phải giáp mặt mọi người trong thị trấn.
+scn00_39_0051 | Dù sao thì chuyện Cocoro là robot cũng đã bị toàn thể cư dân trong thị trấn biết tỏng rồi còn đâu.
+scn00_39_0052 | Vì thế nên em cứ tìm cách tránh né việc chạm mặt người khác.
+scn00_39_0053 | Nếu là Cocoro trước kia, chắc em đã chẳng bận tâm.
+scn00_39_0054 | Dẫu có ai đó đối xử lạnh nhạt chỉ vì em là một cỗ máy robot, em hẳn cũng chỉ nghĩ rằng mọi sự vốn dĩ là như thế mà đón nhận nó.
+scn00_39_0055 | Nhưng giờ đây, em đã biết rằng mình sở hữu một trái tim có thể bị tổn thương bởi sự cự tuyệt và thái độ lạnh lùng của con người.
+scn00_39_0056 | "Nào nào, mau nhanh chân lên cậu ơi."
+scn00_39_0057 | Bị Cocoro liên tục hối thúc và nắm tay kéo đi, tôi bước chân ra ngoài.
+scn00_39_0058 | "Gâu gâu!!"
+scn00_39_0059 | "Suỵt! Trật tự đi nào chó ơi. Sẽ gây chú ý đấy."
+scn00_39_0060 | "Gâu gâu gâu gâu!!!"

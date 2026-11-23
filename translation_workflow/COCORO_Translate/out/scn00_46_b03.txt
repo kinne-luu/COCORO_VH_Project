@@ -1,0 +1,41 @@
+scn00_46_0121 | "Không phải, đó là Cocoro."
+scn00_46_0122 | <Cocoro không phải là em... Em là...>
+scn00_46_0123 | <Em là... Shirayuki!>
+scn00_46_0124 | <Em và chị là hai cá thể tách biệt. Không hề giống nhau.>
+scn00_46_0125 | Ngay khoảnh khắc con bé nói dứt câu, trên màn hình mở ra các thư mục dữ liệu.
+scn00_46_0126 | Hai thư mục mang tên "COCORO" và "SHIRAYUKI" liên tục được tải lên hàng loạt tệp dữ liệu.
+scn00_46_0127 | "Những tệp dữ liệu này là gì thế..."
+scn00_46_0128 | "...Ký ức sao? Của cả hai người..."
+scn00_46_0129 | "Cả hai... ý cháu là của Cocoro và Shirayuki sao?"
+scn00_46_0130 | "Cocoro từng bảo rằng Shirayuki luôn dõi theo mình. Chuyện đó không phải là nhìn bằng mắt thường, mà là..."
+scn00_46_0131 | "Dõi theo bộ nhớ sao?"
+scn00_46_0132 | Shirayuki từng đồng nhất bản thân với Cocoro, và luôn luôn nhìn trộm vào nội tâm của chị ấy.
+scn00_46_0133 | Con bé đã ngộ nhận những trải nghiệm và cảm xúc của Cocoro thành những trải nghiệm của chính bản thân mình.
+scn00_46_0134 | <...Bên này là của chị... còn bên này là của em...>
+scn00_46_0135 | Vừa rụt rè e thẹn, Shirayuki vừa phân chia các dữ liệu ký ức vào từng thư mục riêng biệt.
+scn00_46_0136 | "Shirayuki luôn ngưỡng mộ Cocoro. Em ấy luôn khao khát được trở thành chị ấy, đến mức tự đồng nhất mình với Cocoro..."
+scn00_46_0137 | Cả khi nãy cũng vậy...
+scn00_46_0138 | <Mùa hè... mùa hoa vô giá...>
+scn00_46_0139 | "?"
+scn00_46_0140 | <Tôi... đã rất hạnh phúc...>
+scn00_46_0141 | "Shirayuki... em đang nói gì thế?"
+scn00_46_0142 | <...Ôi, đẹp xiết bao... Ước gì tôi có thể cùng ngắm cảnh này với cậu...>
+scn00_46_0143 | "Lúc đó cháu đã thấy kỳ lạ rồi. Tự hỏi tại sao Shirayuki lại biết được lời nhắn mà Cocoro để lại..."
+scn00_46_0144 | Shirayuki trước giờ luôn gọi tôi là 'cậu Hinata', y hệt như cách mà Cocoro vẫn gọi.
+scn00_46_0145 | "Con bé đã nhìn trộm vào bộ nhớ của Cocoro rồi liên tục lưu giữ lại thành ký ức của chính mình sao..."
+scn00_46_0146 | "Nhưng tại sao lúc này con bé lại phân biệt được đó không phải là ký ức của mình chứ?"
+scn00_46_0147 | "Là vì em ấy đã được đặt tên đấy ạ. Nhờ vậy em ấy mới có thể phân biệt rõ ràng giữa bản thân và Cocoro."
+scn00_46_0148 | Nhờ phúc lành mà Cocoro trao tặng, con bé đã có thể tự công nhận sự tồn tại của chính mình giữa thế giới này.
+scn00_46_0149 | <...Đây là dữ liệu ký ức của chị. Dù không phải là toàn bộ...>
+scn00_46_0150 | "Không có dữ liệu trước thời điểm 'Ách Tai' nhỉ. Nhưng như thế thì không sao cả, máy tính chủ đã có sẵn bản sao lưu phần đó rồi."
+scn00_46_0151 | "...Vậy có nghĩa là..."
+scn00_46_0152 | "Chúng ta có thể khôi phục lại ký ức cho Cocoro rồi!"
+scn00_46_0153 | "Vậy thì Cocoro... sẽ trở lại như xưa sao ạ?"
+scn00_46_0154 | "Ừ."
+scn00_46_0155 | "Cảm ơn em nhiều lắm, Shirayuki!!!!!!"
+scn00_46_0156 | Không kìm nén nổi cảm xúc dâng trào, tôi ôm chầm lấy Shirayuki bế bổng lên.
+scn00_46_0157 | <Em... có giúp ích được gì không ạ?>
+scn00_46_0158 | "Có chứ, em đã giúp đỡ rất nhiều. Nhờ có em mà Cocoro có thể được cứu rồi. Thực sự cảm ơn em nhiều lắm."
+scn00_46_0159 | <Hihi, thích quá đi.>
+scn00_46_0160 | Chỉ cần ký ức vẫn còn, thì cô ấy sẽ không bao giờ chết.
+scn00_46_0161 | Đúng y như những gì Cocoro từng nói.

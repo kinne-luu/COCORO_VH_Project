@@ -1,0 +1,41 @@
+scn00_47_0180 | "Tớ sẽ... trở về thành phố Tsukumo."
+scn00_47_0181 | "Dù phải đợi đến lúc nơi này được tái thiết hoàn toàn, nhưng tớ muốn giúp đỡ công việc của dì Kirika."
+scn00_47_0182 | Công cuộc tái thiết đã bắt đầu. Người dân cũng đang dần dà quay trở lại, và rồi nơi này sẽ được tái phát triển.
+scn00_47_0183 | "Chỉ có thế thôi á?"
+scn00_47_0184 | "Không chỉ có thế đâu. Cocoro này."
+scn00_47_0185 | <Vâng?>
+scn00_47_0186 | "Tôi xin trao lời thề nguyện tương lai cùng cậu."
+scn00_47_0187 | "Có phải là cầu hôn không nhỉ... hồi hộp quá đi."
+scn00_47_0188 | "Nhất định tôi sẽ kiến tạo nên một thế giới nơi Cocoro có thể an tâm chung sống. Dù có thể sẽ mất nhiều thời gian..."
+scn00_47_0189 | <Cậu Hinata...>
+scn00_47_0190 | "Chính vì điều đó, tôi nhất định sẽ quay trở lại thị trấn này."
+scn00_47_0191 | "Tớ cũng sẽ góp sức nữa! Nhất định chúng ta sẽ tái thiết thành phố Tsukumo thành một nơi tuyệt vời hơn trước kia cho xem!"
+scn00_47_0192 | "Chuẩn luôn!"
+scn00_47_0193 | "Em cũng sẽ giúp một tay nữa, chị Coco."
+scn00_47_0194 | <Cảm ơn mọi người nhiều lắm...>
+scn00_47_0195 | "Vào lúc đó... chính vào thời khắc ấy..."
+scn00_47_0196 | Tôi đưa bàn tay chạm nhẹ lên màn hình.
+scn00_47_0197 | Cocoro cũng áp bàn tay mình trùng lên bàn tay tôi.
+scn00_47_0198 | <Là lời hẹn ước... phải không ạ?>
+scn00_47_0199 | "Ừ, là lời ước hẹn."
+scn00_47_0200 | Đó là một bản giao ước không có điều khoản ràng buộc pháp lý.
+scn00_47_0201 | Nó chỉ được dựng xây dựa trên sự tin tưởng lẫn nhau.
+scn00_47_0202 | Cũng chính vì thế, việc giữ trọn lời hứa mới thực sự mang ý nghĩa thiêng liêng.
+scn00_47_0203 | <...Tôi biết chắc chắn rằng cậu Hinata nhất định sẽ giữ trọn lời ước hẹn.>
+scn00_47_0204 | <Tới lúc đó, xin hãy cho phép tôi được khoác lên mình chiếc váy cưới nhé.>
+scn00_47_0205 | "Ừ, hãy cho tôi được ngắm nhìn thêm một lần nữa, hình ảnh Cocoro rạng ngời trong bộ váy cô dâu."
+scn00_47_0206 | <...Hức... vâng...>
+scn00_47_0207 | <...Kirika, tôi có một thỉnh cầu này.>
+scn00_47_0208 | "Chuyện gì thế cháu?"
+scn00_47_0209 | <Xin hãy điều chỉnh cơ thể mới của tôi... thành một thân hình người lớn bốc lửa quyến rũ, để đứng bên cạnh cậu Hinata trông thật xứng đôi vừa lứa được không ạ.>
+scn00_47_0210 | <...Đặc biệt là vòng một ấy ạ...>
+scn00_47_0211 | "Haha, ừ nhỉ. Để dì hỏi xem gu sở thích của Hinata thế nào nhé."
+scn00_47_0212 | "Ơ kìa, thôi đi mà, như bây giờ là quá tuyệt vời rồi!"
+scn00_47_0213 | "Mặt đỏ bừng cả lên kìa, đồ dê xồm!"
+scn00_47_0214 | "Nhưng mà thế cũng được chứ sao? Cocoro chắc cũng muốn trưởng thành lên mà."
+scn00_47_0215 | "Em cũng muốn được ngắm chị Coco phiên bản người lớn lắm đó nha~"
+scn00_47_0216 | Cây cỏ đơm hoa... là để trao gửi yêu thương và đơm hoa kết trái.
+scn00_47_0217 | Đóa hoa khi đã thấu hiểu tình yêu rồi sẽ kết trái và gieo mầm hạt giống.
+scn00_47_0218 | Để tiếp nối sự sống trao truyền tới tương lai.
+scn00_47_0219 | <Tôi nóng lòng mong chờ tương lai ấy quá chừng, cậu Hinata ạ.>
+scn00_47_0220 | "Ừ, tôi cũng vậy, Cocoro."

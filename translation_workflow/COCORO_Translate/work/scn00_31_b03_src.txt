@@ -1,0 +1,46 @@
+# scene=scn00_31 batch=3/4 dòng 121-162 / 205
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_31_0121 | 霧香(Kirika) | 「一度与えられてしまった感情を上書きできないから、固定化されてしまう」 | "That's why the emotions they received can't be overwritten. They've become locked." | “被赋予的感情无法再被覆盖掉，已经固定在了它们身上”
+scn00_31_0122 | 霧香(Kirika) | 「だから４年経った今も、ミュータントドローンは同じ行動を取り続けてる」 | "And that explains why the mutant drones have continued to behave the same way for the past four years." | “所以4年后的今天，变异无人机们也依旧在进行着同样的行为”
+scn00_31_0123 | 光太郎(Kotaro) | 「なるほど……」 | "I see..." | “原来如此……”
+scn00_31_0124 | 霧香(Kirika) | 「三峯陽子博士亡き後、感情回路にそんなバグがあるとは誰も気付かないままＣＣＲ－０１の研究は続けられた」 | "After Dr. Mitsumine Yoko passed away, nobody was able to detect the bug in the emotional circuitry, so development of the CCR-01 continued." | “三峯阳子博士去世后，人们全然不知感情回路中有这种Bug的情况下继续着CCR-01的研究”
+scn00_31_0125 | 霧香(Kirika) | 「しかし、いくら続けてもはっきりした事は何も分からない。最初から問題があったのよ。だって心の実在を誰も証明できないんですもの」 | "But no matter how much research they did, they never found any conclusive results. That's because there was a problem from the outset—nobody can prove that the soul really exists." | “但是，无论再怎么研究也没研究出个所以然，因为打一开始就存在问题啊，毕竟谁都无法证明人心是真实存在的”
+scn00_31_0126 | 霧香(Kirika) | 「データを解析しようにも、感情回路自体が理解の外。困った研究者たちはＣＣＲ－０１のメモリーをデリートし、実験を最初からやり直す事にした」 | "The emotional circuits themselves were beyond the researchers' understanding, even when they tried to analyze the data. As a last resort, they decided to delete the CCR-01's memory and restart the experiment from the beginning." | “就算想对数据进行解析，但光是感情回路本身就已经超出理解范围了。所以迷茫的研究者们决定删除CCR-01的记忆，重新开始实验”
+scn00_31_0127 | 霧香(Kirika) | 「しかし、それが最悪の事態を引き寄せてしまった」 | "However, that decision led to the worst-case scenario." | “但是，这就引发了最坏的结果”
+scn00_31_0128 | 光太郎(Kotaro) | 「『厄災』………？」 | "The Calamity...?" | “‘灾厄’……？”
+scn00_31_0129 | 霧香(Kirika) | 「ええ」 | "Indeed." | “嗯”
+scn00_31_0130 | 霧香(Kirika) | 「自分が廃棄……つまり消されてしまうと知ったＣＣＲ－０１は、ＳＯＳを発した」 | "When CCR-01 learned that it would be disposed of—erased, basically—it emitted an SOS signal." | “直到自己要被废弃……也就是要被消灭的CCR-01，发出了SOS信号”
+scn00_31_0131 | 霧香(Kirika) | 「断末魔の悲痛な叫びはアレロパシーとなって、ネットワークを駆け巡った」 | "Its cry of despair turned into allelopathy and spread through the network." | “临死前的惨叫成为了化感作用，在网络上肆虐开来”
+scn00_31_0132 | 霧香(Kirika) | 「瞬く間に感染は拡大、世界中のＡＩに未発達な負の感情を植え付ける結果となった」 | "The infection spread in the blink of an eye, affecting AI all over the world and instilling them with negative feelings." | “感染范围瞬间扩大，演变成了世界上所有的AI都被植入了尚未开发出来的负面感情”
+scn00_31_0133 | 光太郎(Kotaro) | 「なんてこった……」 | "That's awful..." | “怎么会这样……”
+scn00_31_0134 | 光太郎(Kotaro) | 「でもそれでココロちゃんが責められるのは、少々理不尽じゃないですか？」 | "Still, don't you think it's a bit unfair to blame Cocoro-chan for everything?" | “但是因此就责怪心也有点不讲道理吧？”
+scn00_31_0135 | 霧香(Kirika) | 「どうして？」 | "Why do you think so?" | “为什么？”
+scn00_31_0136 | 光太郎(Kotaro) | 「だって、あの娘はそう造られて、消されそうになったから悲鳴をあげただけだ」 | "Because she did exactly what she was built to do. She expressed her fear when she was about to be erased. That's all." | “毕竟，她只是被制造了出来，在要被消灭的时候发出了惨叫而已”
+scn00_31_0137 | 霧香(Kirika) | 「自分のあげた悲鳴がセカイを変えてしまうなんて、知りもしなかったでしょうね……」 | "Right, she couldn't have known that her scream would end up changing the entire world..." | “她应该也不知道自己发出的惨叫将会改变世界吧……”
+scn00_31_0138 | 光太郎(Kotaro) | 「人が造った物の責任は、人が負うべきだ」 | "It's the people who made her that should be held responsible for their creation." | “人类造物的责任应该由人类承担”
+scn00_31_0139 | 霧香(Kirika) | 「ええ……」 | "Right..." | “嗯……”
+scn00_31_0140 | 光太郎(Kotaro) | 「すいません、言い過ぎました」 | "I'm sorry. I overstepped." | “对不起，我说得有点过了”
+scn00_31_0141 | 霧香(Kirika) | 「ううん、その通りよ。姉さんも、そう思っていたはず。ただ……」 | "No, you're absolutely right. I'm sure my sister would have agreed. It's just..." | “没有，你说的没错，姐姐应该也是这么想的，只不过……”
+scn00_31_0142 | 霧香(Kirika) | 「姉さんが、アレロパシーの可能性に気付いていなかったとは思えない。こんな重大なバグを見逃すなんて……」 | "I can't imagine that she wasn't aware of the possibility that the allelopathy would occur. She wouldn't overlook such a critical bug." | “我不认为姐姐会没注意到发生化感作用的可能性，她不可能放过这么严重的Bug……”
+scn00_31_0143 | 光太郎(Kotaro) | 「バグを修正する前に、亡くなられたんじゃ」 | "Isn't it that she passed away before she had the chance to fix it?" | “会不会是还没来得及修正Bug就先去世了”
+scn00_31_0144 | 霧香(Kirika) | 「……あるいは、死期が近づくのを[さと]悟って、研究の完成を急いだか」 | "...Either that, or she rushed ahead with the development because she realized she didn't have long." | “……或者，是知道自己死期将近了，急着完成这个研究”
+scn00_31_0145 | 霧香(Kirika) | 「今となっては確かめようもないわね」 | "We'll never know, though." | “现在也没办法去确认了啊”
+scn00_31_0146 | 霧香(Kirika) | 「それに、これは全部、仮説にすぎない。ただ一つ、ココロがアレロパシーの発信源だとしたら、あの娘だけ影響を受けていなかった理由も分かる」 | "All we can do is speculate. But one thing is certain—if Cocoro is really the source of the allelopathy, that would explain why she wasn't affected by it." | “而且，这一切都只是假说。不过如果心真的是化感作用的信号源，那她不受影响的原因也就清楚了”
+scn00_31_0147 | 霧香(Kirika) | 「単純な話よ。自分が発していたんだもの」 | "It's simply because she was emitting it herself." | “简单来说就是，因为这是自己发出的信号”
+scn00_31_0148 | 光太郎(Kotaro) | 「ひなた少年は……辛いっすね」 | "It'd be difficult for Hinata to hear that." | “日向少年……应该很难过吧”
+scn00_31_0149 | 霧香(Kirika) | 「あの子がココロを連れてきた時、私がちゃんと対処すべきだった」 | "I should have handled things better when he first brought Cocoro to me." | “他把心带过来的时候我就应该好好处理一下的”
+scn00_31_0150 | 霧香(Kirika) | 「私はここに、『厄災』を終わらせると決意して来たというのに……ロボット研究者失格だわ」 | "I came to this city to end the Calamity once and for all... Yet I utterly failed to carry out my duties as a robotics researcher." | “我明明是抱着终结‘灾厄’的决意来到这里的……作为机器人研究者太失职了啊”
+scn00_31_0151 | 霧香(Kirika) | 「ううん、そうじゃない……。あの子の保護者として失格だった」 | "Not just that... I failed to do my duty as Hinata's guardian, too." | “不，不是这样……是作为他的监护人太失职了”
+scn00_31_0152 | 霧香(Kirika) | 「……ごめんなさい、姉さん」 | "...I'm so sorry, Yoko." | “……对不起，姐姐”
+scn00_31_0153 | - | …………。 | ... | …………
+scn00_31_0154 | - | 植木鉢の花を、ジッと見つめていた。 | I gaze at the potted plant. | 我凝视着花盆里的花。
+scn00_31_0155 | - | 最初は綺麗だと思っていたものが、だんだんとなんだか分からなくなっていく。 | At first, I thought its flowers were beautiful, but the longer I look at them, the less sure I become. | 从最初感觉很漂亮，到后来逐渐什么都理解不了了。
+scn00_31_0156 | - | 美しいとは何か、花とは何か、なぜ見つめていたのか……。 | What is beauty? What are flowers? Why am I looking at them...? | 美丽是什么，花是什么，我又为什么一直凝视着……
+scn00_31_0157 | 風音(Kazane) | 「ひなたー、いるー？　入るぞー」 | "Hinata! Are you there? I'm coming in, okay?" | “日向——，你在吗——？　我进来了啊——”
+scn00_31_0158 | 風音(Kazane) | 「お、いたいた。起きてたんだ」 | "Oh, there you are. Good, you're awake." | “噢，找到了找到了，已经起床了啊”
+scn00_31_0159 | ひなた(Hinata) | 「……（コクン）」 | "*nod*..." | “……（点头）”
+scn00_31_0160 | 風音(Kazane) | 「腹減ってんじゃない？　ほい、差し入れ」 | "Are you hungry? I brought you a little something." | “饿了没有？　给你，慰问品”
+scn00_31_0161 | - | 風音が食べ物を机に置く。 | She puts a container of food on the table. | 风音将食物放在桌子上。
+scn00_31_0162 | - | 空腹だったが、食欲はなかった。 | My stomach is empty, but I don't have an appetite. | 肚子空空的，但却没有食欲。

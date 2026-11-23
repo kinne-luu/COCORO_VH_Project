@@ -1,0 +1,63 @@
+# scene=scn00_24 batch=2/5 dòng 60-118 / 259
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_24_0060 | 霧香(Kirika) | 「どうにか方法を探りたくて、ココロのメモリーにアクセスしようとしているのだけど、セキュリティが強固でできない」 | "I'm still trying to figure out how to access Cocoro's memory, but the security is quite strong." | “虽然我试图访问心的记忆，想在里面找找方法，但她的安全系统太坚固了”
+scn00_24_0061 | 霧香(Kirika) | 「入れたのは、メンテナンスのログまで」 | "I've only been able to access the maintenance log so far." | “最多只能看到维护记录”
+scn00_24_0062 | 霧香(Kirika) | 「そのログによると、セントラルの中枢にメンテナンスルームがあるみたいね」 | "According to this log, her maintenance area is located in the middle of Central." | “记录里显示，中心区中枢貌似是有维护室的”
+scn00_24_0063 | ひなた(Hinata) | 「じゃあ、そこにココロを連れていけばボディを直してあげられるの？」 | "So if we take Cocoro there, we could fix her body?" | “那把心带到那里去就能修复她的身体了吗？”
+scn00_24_0064 | 霧香(Kirika) | 「可能性はある、という程度ね」 | "Maybe. It's a possibility, at least." | “可能性是有的，但也只是可能性”
+scn00_24_0065 | - | セントラルも『厄災』でダメージを負ったはず。 | Central was hit the hardest by the Calamity. | 中心区也因‘灾厄’而遭到了破坏。
+scn00_24_0066 | - | けど、地下の発電所や充電施設は生きているとココロは話していた。 | But Cocoro told me that the underground power plant and her recharging station were still operational. | 不过，心说过地下的发电站和充电设施还活着。
+scn00_24_0067 | - | だが、ココロを連れていくにしても問題がある。 | It would be extremely dangerous to try to take her there, though. | 但是，就算把心带过去了也还有别的问题。
+scn00_24_0068 | 霧香(Kirika) | 「セントラルエリアは、ミュータントドローンの巣窟よ」 | "The Central Area is infested with mutant drones." | “中心区就是变异无人机的巢穴啊”
+scn00_24_0069 | - | あの凶悪な警備ロボットが、まだ多数生き残っているはず。さらに、 | Imagine having to go up against more than one of those violent security robots... And not just them... | 那里应该还活动着很多那种凶恶的安保机器人，再加上。
+scn00_24_0070 | ひなた(Hinata) | 「……ジャバウォックもいる」 | "...The Jabberwock is there, too." | “……贾巴沃克也在那里”
+scn00_24_0071 | - | 獣のような得体の知れないミュータントドローン。 | It's larger than any other mutant drone, and far more powerful as well. | 形似野兽且身份不明的变异无人机。
+scn00_24_0072 | - | あの後、駆除隊が後を追ったが、セントラルエリアに逃げ込まれてしまったらしい。 | After I escaped with Cocoro, the extermination squad resumed their chase, but apparently they lost track of it in the Central Area. | 在那之后，驱除队虽然紧随其后，但貌似还是让它逃进了中心区。
+scn00_24_0073 | ひなた(Hinata) | 「あれはいったい何なの？」 | "Just what  that thing?" | “它到底是什么东西？”
+scn00_24_0074 | 霧香(Kirika) | 「分からない。資料にもないロボットよ。恐らく、ココロのように極秘で開発されていたんでしょうね」 | "I don't know. There's no data whatsoever on that robot. I suspect it was developed in secret, just like Cocoro." | “我不知道，资料里也没有这种机器人。恐怕是和心一样极密开发出来的吧”
+scn00_24_0075 | ひなた(Hinata) | 「あんな不気味な姿のロボットを？」 | "Who would develop such a ghastly looking robot?" | “开发那么渗人的机器人？”
+scn00_24_0076 | - | 兵器か何かだろうか。それにしても[いびつ]歪だ。 | It might be some sort of weapon, but still, it looks like something out of a nightmare. | 应该是武器之类的吧，但也太扭曲了。
+scn00_24_0077 | 霧香(Kirika) | 「……何か用途があったはずだけど、今はまだ分からないわ」 | "...It may have had a purpose, but there's no way to tell now." | “……它应该也是有某种用途的，但现在还不知道”
+scn00_24_0078 | 霧香(Kirika) | 「もう少し調べてみるけど、目を覚ました後のココロが心配だわ。もし次、フルパワーを使ったら、ボディはもたないと思っていい」 | "I'll try looking into it a bit more, but I'm more worried about whether Cocoro will be all right when she wakes up. Her body might not be able to withstand using her full power again." | “我虽然想再去调查一下，但有些担心醒过来之后的心。如果再用一次全力模式，她的身体应该就撑不住了”
+scn00_24_0079 | ひなた(Hinata) | 「……わかった」 | "...Yeah." | “……我知道了”
+scn00_24_0080 | - | 俺たちの心配をよそに、ココロは安らかな表情で眠り続けていた。 | As we fuss about her, Cocoro sleeps peacefully beside us. | 心却不顾我们的担心，依旧安详地沉睡着。
+scn00_24_0081 | - | ……………… | ...... | ………………
+scn00_24_0082 | - | ………… | ... | …………
+scn00_24_0083 | - | もぞもぞ……もぞ…… | Rustle... Rustle, rustle... | 蠕动……蠕动……
+scn00_24_0084 | - | …………ぎゅっ………… | Squeeze... | …………抱住…………
+scn00_24_0085 | ココロ(Cocoro) | 「……これは……切り傷……？　……ふむ……」 | "He's injured... Is this a cut? Hmm..." | “……这是……割伤……？　……唔呣……”
+scn00_24_0086 | ひなた(Hinata) | 「…………うぅぅ…………くるしい…………」 | "Urghh... I can't breathe..." | “…………呜…………好难受…………”
+scn00_24_0087 | ココロ(Cocoro) | 「？　どこか痛めたのですか？」 | "Huh? Does it hurt somewhere?" | “？　是有哪里痛吗？”
+scn00_24_0088 | ひなた(Hinata) | 「……息が……でき……ない……」 | "I... can't breathe..." | “……呼吸……不了……”
+scn00_24_0089 | ココロ(Cocoro) | 「どうしてでしょう……呼吸器系の病気でしょうか。すぐに診療を受ける事をおすすめします」 | "Why not? Do you have a respiratory illness? In that case, I recommend that you seek medical attention." | “为什么呢……是呼吸系统的疾病吗，我建议立刻去进行诊疗”
+scn00_24_0090 | - | ………… | ... | …………
+scn00_24_0091 | ひなた(Hinata) | 「むぐぐぐ…………ハッ」 | "Mmmgh... Hahh!" | “呣咕咕咕…………哈”
+scn00_24_0092 | - | 自分が寝ぼけている事にやっと気が付いた俺は、急に目を覚ました。 | I finally realize that I'm still half-asleep, and I snap to my senses. | 我终于意识到自己是睡迷糊了，于是赶紧睁开了眼。
+scn00_24_0093 | ひなた(Hinata) | 「こ、ココロっ……むぐ……息ができないっ」 | "C-Cocoro... Mmgh... You're strangling me!" | “心……呣咕……我无法呼吸了”
+scn00_24_0094 | - | 鼻と口を柔らかくて温かいもので塞がれていた。 | Something warm and soft is covering both my nose and mouth. | 鼻口都被柔软温暖的东西堵住了。
+scn00_24_0095 | ココロ(Cocoro) | 「？　おっと、失礼。そこに呼吸器があったのですね。うっかりです」 | "Huh? Oh, my apologies. I didn't realize I was covering your respirators. Oops." | “？　哦呀，抱歉，呼吸器在这里来着对吧，我太不小心了”
+scn00_24_0096 | ひなた(Hinata) | 「ぷはっ！！？　ハァ、ハァ……ココロ！　寝てる俺を抱きしめないでっ」 | "Bwahhh!!? Hahh, hahh... Cocoro! Don't hug me like that when I'm sleeping!" | “噗哈！！？　哈，哈……心！　别趁我睡觉抱住我”
+scn00_24_0097 | ココロ(Cocoro) | 「いけませんでしたか？　てっきり嬉しいものと思っていました」 | "Did I do something bad? I thought it would make you happy." | “不可以吗？　我还以为你会开心”
+scn00_24_0098 | ひなた(Hinata) | 「うっ……まあ、嬉しい時もあるけど、うっかりで窒息死させられたらたまらないよ」 | "Umm... Well, it did in some aspects, but I'd rather you didn't accidentally strangle me to death." | “呜……有时候倒也确实会开心，但我可不想一不小心被憋死啊”
+scn00_24_0099 | ココロ(Cocoro) | 「大丈夫です、もう学習しました。これからは呼吸器の位置に気を付けてだっこします」 | "It's all right. I've learned that I need to pay more attention to the location of your respirators in the future." | “没事，我已经知道了，今后我抱过去的时候会注意呼吸器官位置的”
+scn00_24_0100 | - | だっこされたい欲と、ココロの『大丈夫』を信頼していいか疑う気持ちとがせめぎ合う。 | On one hand, I'd love for her to hug me more, but on the other hand, I'm not sure if I can trust her. | 想被拥抱的欲望和怀疑心口中的‘没事’是否值得相信的心情相互对抗着。
+scn00_24_0101 | ひなた(Hinata) | 「ココロ、目が覚めたんだね」 | "Cocoro, when did you wake up?" | “心，你醒过来了啊”
+scn00_24_0102 | ココロ(Cocoro) | 「いま目を覚ましたのはひなたさんですよ？」 | "You're the one who just woke up, Hinata-san." | “刚刚醒过来的可是日向先生啊？”
+scn00_24_0103 | ひなた(Hinata) | 「そうだけど、俺は君が目覚めるのを待ってて、ここで寝ちゃってたんだ」 | "I did, but I fell asleep while I was waiting for you to wake up." | “说的倒也没错，但我是为了等你醒过来才睡在这里的”
+scn00_24_0104 | ココロ(Cocoro) | 「まぁ、それはご心配をおかけしました。ここに陳謝します、ぺこり」 | "I'm sorry for worrying you. Allow me to apologize. My apologies." | “这还真是让您担心了，我对此十分抱歉，鞠躬”
+scn00_24_0105 | - | ココロはいつもと変わらない調子で話している。 | The way she's talking doesn't sound any different from usual. | 心说话的语气和以前一样没有变化。
+scn00_24_0106 | - | けど、 | However... | 但是。
+scn00_24_0107 | ココロ(Cocoro) | 「どっこいしょっ……ととっ」 | "Here we go... Oops!" | “嘿咻……哎呀”
+scn00_24_0108 | - | ベッドから立ち上がろうとして、バランスを崩す。 | When she tries to get off the bed, she loses her balance. | 她试图从床上站起来，却没能站稳。
+scn00_24_0109 | - | 動作が緩慢というか、明らかにぎこちない。 | Her movements are sluggish and stilted. | 与其说是动作缓慢，不如说动作明显很不自然。
+scn00_24_0110 | ひなた(Hinata) | 「ココロ……」 | "Cocoro..." | “心……”
+scn00_24_0111 | ココロ(Cocoro) | 「ワタシの事は気にしないでください。持病の関節痛が出ているだけですので。もう年でしょうか、最近肩こりもひどくて」 | "Please don't worry about me. I'm just experiencing some joint pain from a pre-existing condition. I must be getting old. My shoulders have been pretty stiff lately, too." | “请不要在意我，只是老毛病犯了关节比较痛而已。大概是因为已经上了年纪吧，最近肩膀酸痛也挺严重的”
+scn00_24_0112 | - | リミッターを解除してフルパワーを出した後遺症だろう。 | It must be the damage she sustained from when she disabled her limiter. | 这应该是解除限制进入全力模式的后遗症吧。
+scn00_24_0113 | - | それ以前から、ココロの様子はおかしかった。それは彼女がロボットだからだと思っていたけど、そうじゃなかったのかもしれない。 | But it's not just that. I'd noticed that Cocoro was moving strangely before, but I'd chalked it up to her being a robot. | 但在这之前心的样子就已经很奇怪了，我原以为这只是因为她是机器人，但现在看来或许并不是这样。
+scn00_24_0114 | - | よく何かにぶつかったり、おかしな失敗をするのは目が見えていなかったせいだ。 | Plus, she'd bump into things and make other clumsy mistakes because her vision was so bad. | 经常撞到东西和经常莫名其妙地失败，是因为眼睛看不见。
+scn00_24_0115 | - | メンテナンスをせずに何年も稼動し続けたせいで、他にもボディの不調が出ていたにちがいない。 | There's no doubt that her other parts are starting to malfunction, too, considering she's been in operation for years without proper maintenance. | 在没有维护的情况下连续运作了很多年，肯定也让她产生了其他的身体问题。
+scn00_24_0116 | ひなた(Hinata) | 「君は、目が見えていなかったんだね」 | "You've never been able to see properly, have you?" | “你眼睛看不见吧”
+scn00_24_0117 | ココロ(Cocoro) | 「？　見えていますよ」 | "Huh? I can see." | “？　能看见啊”
+scn00_24_0118 | ひなた(Hinata) | 「君の視覚をジャックした時、ほとんど何も映っていなかった」 | "When I hacked into your optical sensors, I could barely see anything." | “我在查看你的视角的时候，基本上什么都看不到”

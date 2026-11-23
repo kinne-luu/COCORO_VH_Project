@@ -1,0 +1,47 @@
+# scene=scn00_34 batch=5/5 dòng 242-284 / 284
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_34_0242 | 大地(Daichi) | 「俺も連れてってください！」 | "Please, take me with you!" | “也带上我吧！”
+scn00_34_0243 | 光太郎(Kotaro) | 「ダメだ。気持ちは分かるが、一緒に来たところで、足手まといでしかない」 | "No. I get how you feel, but you'd only get in our way." | “不行，我明白你的心情，但你跟来也只会拖后腿”
+scn00_34_0244 | 光太郎(Kotaro) | 「それより街へ戻って、現状を皆に伝えるんだ。そして、なるべく屋内の安全な場所に、住民を避難させてやってくれ」 | "Go back to town and tell everyone what's happening. Make them evacuate into structurally sound buildings and keep the doors locked." | “你现在更应该回到街上将现状告知大家。然后，让居民们尽量在屋子里的安全场所进行避难”
+scn00_34_0245 | 大地(Daichi) | 「わかりました」 | "All right." | “我明白了”
+scn00_34_0246 | 大地(Daichi) | 「あいつらをよろしくお願いします。あいつが……ココロが悪いロボットなわけないんで。じゃあ！」 | "I'll trust you to save Hinata and Cocoro, then... I don't believe that she's a bad robot, so please...!" | “他们就拜托你们了。那家伙……心不可能是个坏机器人，再见了！”
+scn00_34_0247 | 霧香(Kirika) | 「…………」 | "..." | “…………”
+scn00_34_0248 | 光太郎(Kotaro) | 「行きましょう、主任。駆除隊と警備ロボットがやりあってくれているうちに」 | "Let's go, Chief. While the squad and the security robots are going after each other." | “走吧主任，趁驱除队还在和安保机器人纠缠”
+scn00_34_0249 | 霧香(Kirika) | 「ええ……」 | "Right..." | “嗯……”
+scn00_34_0250 | ＣＣＲ－０２(Jabberwock) | 『もう……ダイジョ……うぶ……キテ』 | "It's... o...kay now... Come." | ‘已经……没事……了……跟我来’
+scn00_34_0251 | - | 襲ってきた警備ロボットを排除したＣＣＲ－０２が、俺を施設の奥にある一室へと導いた。 | After clearing a path through the attacking security robots, CCR-02 leads me to a room in the back of a research facility. | 解决掉了袭来了安保机器人后，CCR-02将我带到了位于设施深处的一个房间里。
+scn00_34_0252 | ひなた(Hinata) | （ここは……） | (What is this place...?) | （这里是……）
+scn00_34_0253 | ＣＣＲ－０２(Jabberwock) | 『メン……テナンス……ルーム……ワタシたち……の……シュウリを……す……ル』 | "Main...tenance... room... To... fix... us." | ‘维护……室……能……用来……修理……我们’
+scn00_34_0254 | - | ここはセントラルエリアにある研究棟の内部。 | We're deep in the interior of one of the research facilities in the Central Area. | 这里是位于中心区的研究楼内部。
+scn00_34_0255 | ひなた(Hinata) | （ここの設備を使えば、ココロのメンテナンスができるじゃないか） | (Maybe this place is also equipped to carry out maintenance on Cocoro.) | （用这里的设施，不就能对心进行维护了吗）
+scn00_34_0256 | - | しかし、広さなどを見ている限り、セントラルの全てのロボットのメンテをここでしているわけじゃなさそうだ。 | The room isn't very big, though. I can't imagine that maintenance for  the robots in Central was carried out here. | 但是，看这个规模，应该不是中心区所有机器人都会在这里进行维护。
+scn00_34_0257 | - | 恐らくはココロのための設備だろう。ココロは極秘プロジェクトとして開発が進められていた。 | It must've been built just for Cocoro. She  being developed as part of a top-secret project, after all. | 这大概是专门为心建立的设施吧，心是作为极密计划进行着开发。
+scn00_34_0258 | ＣＣＲ－０２(Jabberwock) | 『アソコ……』 | "There..." | ‘那里……’
+scn00_34_0259 | ひなた(Hinata) | 「……？」 | "...?" | “……？”
+scn00_34_0260 | ひなた(Hinata) | （ココロ！） | (Cocoro!) | （心！）
+scn00_34_0261 | - | そこにココロがいた。 | She's here. | 心就在那里。
+scn00_34_0262 | - | ヒューマノイドは呼吸をしない。目を閉じてジッとしていると、生きているのか死んでいるかも分からない。 | Humanoids don't breathe, so if they sit still with their eyes closed, there's no way to tell whether they're dead or alive. | 仿生人不会呼吸，所以闭上眼睛一言不发的时候，根本看不出来是死是活。
+scn00_34_0263 | - | 『ココロは無事なの？』 | "Is Cocoro okay?" | ‘心没事吗？’
+scn00_34_0264 | ＣＣＲ－０２(Jabberwock) | 『ぶ……ジ……』 | "O...kay..." | ‘没……事……’
+scn00_34_0265 | ＣＣＲ－０２(Jabberwock) | 『コワ……れ……カケ……。デモ……ワ……タシ……が……できるだけ……ナオし……た』 | "She's... very... da...maged. But... I re...paired... her... the best... I... could." | ‘差点……就……坏了……。但……我……尽……可能……修理了……一下’
+scn00_34_0266 | - | 『君にここの設備が使えるの？』 | "You know how to use the equipment here?" | ‘你能使用这里的设备吗？’
+scn00_34_0267 | ＣＣＲ－０２(Jabberwock) | 『……ツカ……え……る……ヨウ……にシタ』 | "I... made it... so... that... I... could... use... it." | ‘……我……让……它……能……为我……所用了’
+scn00_34_0268 | - | 使えるようにした？ | What does that mean? | 让它能为我所用了？
+scn00_34_0269 | - | まるで、使えなかったはずのものを、どうにかしたみたいな言い方だ。 | It sounds like she didn't know how to use it, but she tried anyway and figured it out. | 就好像是在说，想办法让原本用不了的东西变得能用了一样。
+scn00_34_0270 | - | でも、そうか。ココロを直してくれたんだ。 | But... I see. She tried to fix Cocoro. | 不过，这样啊，心被修好了啊。
+scn00_34_0271 | ひなた(Hinata) | （……よかった） | (I'm so glad...) | （……太好了）
+scn00_34_0272 | - | トラックではねられ負ったはずの外傷がない。 | There's no visible signs of the external damage she sustained when that truck hit her. | 被卡车撞出的外伤也没了。
+scn00_34_0273 | - | しかし、それは見た目の話で、完全に修理できたわけではないんだろう。 | But I can't see what's inside her. Any internal damage is probably still there in some capacity. | 但是，也只是看起来修好了，应该还不算完全修好了吧。
+scn00_34_0274 | - | 『ココロは眠っているの？』 | "Is Cocoro asleep?" | ‘心是在睡觉吗？’
+scn00_34_0275 | - | …………。 | ... | …………
+scn00_34_0276 | - | ＣＣＲ－０２は答えない。 | CCR-02 doesn't answer. | CCR-02没有回答。
+scn00_34_0277 | ＣＣＲ－０２(Jabberwock) | 『めざメを……キョヒ……し……てる』 | "She's... refu...sing to... wake... up." | ‘她在……抗拒……着……醒来’
+scn00_34_0278 | - | 目覚めを拒否？ | Refusing? | 抗拒着醒来？
+scn00_34_0279 | - | ココロは機能停止したがっていた。 | Cocoro said she wanted to shut down. | 心想要停止运行。
+scn00_34_0280 | - | ボディのダメージを修復できても、本人に目覚める意志がなければリブートはできないという事か。 | Is it impossible to reboot her while she's rejecting it, even if her body has been repaired? | 意思是即便修复了身体的损伤，但如果本人没有想要醒来的想法就无法重新启动么。
+scn00_34_0281 | - | 『君はどうして俺を、ここへ連れてきてくれたの』 | "Why did you bring me here?" | ‘你为什么将我带到这里来’
+scn00_34_0282 | - | お姉ちゃん――ココロを助けてほしいと言っていたが。 | She said she wanted me to save Cocoro—her sister. | 它说过希望我能救救姐姐——救救心。
+scn00_34_0283 | ＣＣＲ－０２(Jabberwock) | 『ひなた……さん……なら…………オねえちゃ……ん……を……つれモドせ……る』 | "Hinata-san... You... may be... able... to... bring her... back." | ‘日向……先生……的话…………就能……把……姐姐……带回来’
+scn00_34_0284 | ＣＣＲ－０２(Jabberwock) | 『おネガ……い……おネエ……ちゃん……をた……スケ……て』 | "Please... Save... my... sis...ter..." | ‘拜托……你……了……救救……姐姐……吧’

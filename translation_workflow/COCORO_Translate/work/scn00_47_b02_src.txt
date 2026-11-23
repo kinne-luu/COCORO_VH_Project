@@ -1,0 +1,64 @@
+# scene=scn00_47 batch=2/4 dòng 61-120 / 220
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_47_0061 | - | 霧香さんがいきなり俺に飛びついてきたから、抱き留めてよしよししてあげる。 | Kirika-san suddenly leaps into my arms. I brace to catch her and pat her on the head. | 雾香小姐突然就朝我扑了过来，我便抱住了她摸了摸她的头。
+scn00_47_0062 | 霧香(Kirika) | 「ひなたぁぁぁぁつらかったよぉぉぉぉぉ」 | "Hinataaaaa! Life's so haaaard!" | “日向——————我好辛苦啊————————”
+scn00_47_0063 | ひなた(Hinata) | 「よしよし、霧香さんは頑張ってるよ。えらいえらい」 | "It's okay. You're doing your best, Kirika-san. You're doing amazing." | “好啦好啦，雾香小姐已经很努力了，真棒真棒”
+scn00_47_0064 | 霧香(Kirika) | 「すんすんすんすん」 | "*sniff* *sniff* *sniff* *sniff*..." | “嗅嗅嗅嗅”
+scn00_47_0065 | ひなた(Hinata) | 「汗臭いからすんすんしないで」 | "Don't sniff me. I'm sweaty!" | “全都汗臭味就别闻了”
+scn00_47_0066 | 霧香(Kirika) | 「じっとしてなさい！　私はストレスが溜まっているのよ！　はぁぁ～～可愛い甥っ子のスメル……」 | "Stay still! I'm super stressed right now! Hahhh! It's my cute little nephew's scent..." | “不要动！　我可是积攒了不少压力啊！　哈～～可爱外甥的气味……”
+scn00_47_0067 | 光太郎(Kotaro) | 「コーヒーの味だけで、よくわかりましたね」 | "I'm impressed you could tell by the flavor of the coffee." | “真亏你只凭咖啡的味道就知道他来了啊”
+scn00_47_0068 | 霧香(Kirika) | 「私の味の好みを１００％理解してるのは、ひなたとココロだけですもの」 | "Hinata and Cocoro are the only ones who understand my preferences a hundred percent." | “毕竟能100\%理解我喜欢什么味道的人，只有日向和心啊”
+scn00_47_0069 | 霧香(Kirika) | 「？　あら、大勢お客さんがいるのね」 | "Oh? Why're there so many visitors today?" | “？　哎呀，客人这么多啊”
+scn00_47_0070 | ひなた(Hinata) | 「みんなも逢いたいってさ」 | "Everyone else wants to see her, too." | “大家也都说想见她”
+scn00_47_0071 | 風音(Kazane) | 「おじゃましまーす」 | "Hope you don't mind having us!" | “打扰啦”
+scn00_47_0072 | 大地(Daichi) | 「どもっす」 | "Hello." | “你好”
+scn00_47_0073 | こさめ(Kosame) | 「おじゃまします」 | "Excuse me." | “打扰了”
+scn00_47_0074 | 霧香(Kirika) | 「ええ、そうね。きっとあの娘も喜ぶわ」 | "Oh, I see. I'm sure she'll be happy to see you all." | “嗯，是啊，那个姑娘肯定也会很开心的”
+scn00_47_0075 | - | 霧香さんは俺から離れてキリッとした顔に戻ると、もう一口コーヒーを味わった。 | Kirika-san lets go of me and shifts straight back to her usual self as she takes another sip of coffee. | 雾香小姐从我身上离开后脸上也恢复成了以往的干练表情，然后再次品尝了一口咖啡。
+scn00_47_0076 | - | それから、モニタに向かって何やら入力していく。 | Then, she turns to the computer and types something. | 之后，便转向显示器开始输入起了什么。
+scn00_47_0077 | - | 何をしているか解らないので、俺たちはただ黙ってそれを見守った。 | We lesser minds don't understand what she's doing, so all we can do is watch. | 由于不知道她在做什么，我们就只是默默地在一旁看着。
+scn00_47_0078 | 霧香(Kirika) | 「じゃあ、いくわよ」 | "All right, here goes..." | “那我就开始了哦”
+scn00_47_0079 | - | モニタに人の姿が映った。 | A figure appears on the monitor. | 屏幕上出现了一个人影。
+scn00_47_0080 | - | 俺もよく知る少女の姿。 | It's a girl I know all too well. | 那是我非常熟悉的少女。
+scn00_47_0081 | ひなた(Hinata) | 「ココロ……」 | "Cocoro..." | “心……”
+scn00_47_0082 | - | …………。 | ... | …………
+scn00_47_0083 | - | 少女の目がこちらへ向いた。 | She turns to look our way. | 少女的眼睛转向了我。
+scn00_47_0084 | - | それと連動して、モニタに取り付けられていたカメラがこちらへ向く。 | When she does, the camera attached to the monitor turns in our direction as well. | 安装在显示器上的摄像头也跟着转了过来。
+scn00_47_0085 | ひなた(Hinata) | 「……俺が分かるかい？」 | "...Do you know who I am?" | “……知道我是谁吗？”
+scn00_47_0086 | ココロ(Cocoro) | 『……』 | <...> | ‘……’
+scn00_47_0087 | - | ココロはジッと俺を見つめる。まるで、俺が誰か思い出そうとしているように。 | Cocoro quietly looks at me, as if she's trying to remember who I am. | 心一言不发地看着我，好像就快回忆起我是谁了一样。
+scn00_47_0088 | 霧香(Kirika) | 「記憶の読み込みにエラーがあるのかもしれないわ」 | "There might be an error with loading her memory." | “可能是记忆的读取出现了错误”
+scn00_47_0089 | ひなた(Hinata) | 「ココロ……俺だよ、ほら、いつものように名前を呼んでよ」 | "Cocoro... It's me. Try calling my name like you always do." | “心……是我啊，来吧，像往常一样叫叫我的名字吧”
+scn00_47_0090 | - | コクン――ココロが頷いた。 | Cocoro nods. | 心点了点头。
+scn00_47_0091 | - | 思い出してくれた？ | Does she remember? | 是想起来了吗？
+scn00_47_0092 | ココロ(Cocoro) | 『……（ぱくぱく）……』 | <...> | ‘……（阿巴阿巴）……’
+scn00_47_0093 | こさめ(Kosame) | 「ココちゃんが何か言ってる」 | "Coco-chan looks like she's saying something." | “心儿好像在说些什么”
+scn00_47_0094 | 風音(Kazane) | 「ひなたの名前？」 | "Hinata's name?" | “是在叫日向的名字吗？”
+scn00_47_0095 | 大地(Daichi) | 「ミュートになってんじゃね？」 | "Maybe she's muted?" | “是静音了吗？”
+scn00_47_0096 | 霧香(Kirika) | 「おかしいわね、そんなはずは……」 | "That's strange... I checked it..." | “真奇怪啊，应该没有啊……”
+scn00_47_0097 | ココロ(Cocoro) | 『ピ……ピピ……』 | <Beep... Beep beep...> | ‘哔……哔哔……’
+scn00_47_0098 | ココロ(Cocoro) | 『ピィィーーピピガガガガガガーーーーー！！！』 | <Biiing! Pshhhkkkrrr ​kakingkaking tsh​chch​ skreee!!!> | ‘哔——哔哔咔咔咔咔咔————————！！！’
+scn00_47_0099 | ひなた(Hinata) | 「うわっ！？　な、なに今の声！！？」 | "Whoa! Wh-What was that noise!?" | “呜哇！？　这、这是什么声音！！？”
+scn00_47_0100 | 光太郎(Kotaro) | 「言語能力にバグが発生してるんじゃ」 | "Maybe her language processor is malfunctioning?" | “是不是语言能力出现Bug了？”
+scn00_47_0101 | 霧香(Kirika) | 「でも、こちらの言葉は理解できてるようだし……」 | "But she seems to be able to understand us." | “但是，她好像能理解我们说的话……”
+scn00_47_0102 | ココロ(Cocoro) | 『あ、今のはロボットジョークです。『昔のモデムかーい』とつっこんでくださればキレイにオチていました』 | <Oh, that was just a robot joke. If you'd just responded with a "What are you, a dial-up modem!?" it would have been perfect.> | ‘啊，刚刚那个是机器人玩笑。只要有人吐槽‘你是以前的调制解调器吗’就能完美谢幕了’
+scn00_47_0103 | - | …………。 | ... | …………
+scn00_47_0104 | - | シーン。空気が凍り付く。 | An awkward silence follows. | 空气冻结了。
+scn00_47_0105 | ココロ(Cocoro) | 『あれ？　……ワタシはまた間違えましたか？』 | <Huh? Did I make another mistake?> | ‘咦？　……我又做错什么了吗？’
+scn00_47_0106 | ひなた(Hinata) | 「ドキドキさせないでよっっ！！！！！」 | "Don't scare us like that!!!" | “别吓我啊！！！！！”
+scn00_47_0107 | 風音(Kazane) | 「あんたねぇ……」 | "You dummy..." | “你真的是……”
+scn00_47_0108 | 霧香(Kirika) | 「やれやれ、空気を読む能力はまだまだね……」 | "Jeez, it seems like your ability to read the room needs some work..." | “哎呀哎呀，察言观色的能力还差得远啊……”
+scn00_47_0109 | こさめ(Kosame) | 「ココちゃんらしいよ」 | "But that was  Coco-chan." | “很有心儿的风格哦”
+scn00_47_0110 | 大地(Daichi) | 「ああ、まったくだ」 | "Yeah, you could say that." | “嗯，说得没错”
+scn00_47_0111 | - | びっくりはしたが、確信が持てた。 | I was worried for a second, but now I know for sure. | 虽然被吓了一跳，但我也因此确信了。
+scn00_47_0112 | ひなた(Hinata) | 「ほんとにココロなんだね……」 | "You really are Cocoro, aren't you?" | “你真的是心啊……”
+scn00_47_0113 | ココロ(Cocoro) | 『断定はしかねますが、９９％あなたのココロです』 | <I can't be entirely certain, but I'm 99 percent certain that I am indeed your Cocoro.> | ‘虽然很难断定完全一致，但99\%是你的心’
+scn00_47_0114 | ココロ(Cocoro) | 『ただ、メモリーを読み込むのに時間がかかるため、会話にラグが発生します。ご了承ください』 | <However, it's taking some time to load my memory, so you may experience some lag during conversations. My apologies for the inconvenience.> | ‘不过，由于需要花费时间来读取记忆，所以对话时会出现卡顿，还请大家理解一下’
+scn00_47_0115 | ひなた(Hinata) | 「……ありがとう、霧香さん」 | "Thank you, Kirika-san." | “……谢谢你，雾香小姐”
+scn00_47_0116 | - | 俺は思わず泣き崩れ、霧香さんの膝に顔をうずめた。 | I collapse in tears and bury my face in Kirika-san's lap. | 我不禁嚎啕大哭了起来，将脸埋在了雾香小姐的腿上。
+scn00_47_0117 | 霧香(Kirika) | 「ううん、いいのよ。私こそ、おかげで夢を諦めないで済む」 | "It's fine. Thanks to you, I won't have to give up on my dreams." | “不用谢，我才应该道谢，毕竟现在我不用放弃梦想了”
+scn00_47_0118 | ココロ(Cocoro) | 『ちょちょちょーーーい。そこはワタシにすがりつく場面ではないでしょうか、ズルイですよ霧香』 | <Hang on a second! Shouldn't he be clinging on to  right now!? This is unfair, Kirika.> | ‘等等等——一下，这种时候不应该是抱住我的画面吗，太卑鄙了雾香！’
+scn00_47_0119 | 霧香(Kirika) | 「あなたにはすがりつけないでしょ」 | "That's physically impossible right now." | “也没办法去抱住你啊”
+scn00_47_0120 | ココロ(Cocoro) | 『むぐぐ……ひなたさん、今すぐこちら側へ来てください』 | <Mmgh... Hinata-san, come over to this side right now.> | ‘呣咕咕……日向先生，请立刻来我这边’

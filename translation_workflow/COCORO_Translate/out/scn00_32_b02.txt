@@ -1,0 +1,60 @@
+scn00_32_0061 | <Ra vậy... Ừ... đúng thế thật nhỉ.>
+scn00_32_0062 | Từ chiếc loa phát ra một giọng nói nghẹn ngào, yếu ớt.
+scn00_32_0063 | Bực mình thật.
+scn00_32_0064 | Một con người từng lạnh lùng và áp đặt đến nhường ấy, tại sao giờ lại cất lên cái giọng điệu đó chứ?
+scn00_32_0065 | Cứ như thể...
+scn00_32_0066 | Chẳng phải giống hệt như tôi mỗi lần phải đối diện với bố hay sao!
+scn00_32_0067 | Trong cơn bốc đồng tôi suýt nữa đã nhấn nút cúp máy, nhưng ngón tay kịp dừng lại trong gang tấc.
+scn00_32_0068 | Bởi vì tôi nhớ ra mình vẫn còn điều muốn hỏi.
+scn00_32_0069 | <Con đã tìm thấy món đồ bị bỏ quên ở vườn bách thảo.>
+scn00_32_0070 | <Món đồ bị bỏ quên... sao?>
+scn00_32_0071 | <Cuốn sách bách khoa. Có dòng chữ ghi: Dành tặng Hinata.>
+scn00_32_0072 | <Dành tặng Hinata............ A...>
+scn00_32_0073 | <Đó là cái gì?>
+scn00_32_0074 | <...Đó là món quà sinh nhật... bố chuẩn bị cho con.>
+scn00_32_0075 | <Nó đã qua từ lâu lắm rồi.>
+scn00_32_0076 | <Bố đã mua nó, nhưng lại không thể trao tận tay con. Cứ muốn tìm dịp nào đó để tặng, nên lúc nào bố cũng mang theo bên mình...>
+scn00_32_0077 | Ngớ ngẩn thật đấy.
+scn00_32_0078 | Một người lớn đàng hoàng mà lại không dám trao món quà sinh nhật mua cho con mình, cứ phải kè kè mang theo người suốt như thế.
+scn00_32_0079 | Vừa nặng, vừa vướng víu, lại luôn phải đối diện với sự thật rằng mình đã không thể trao nó đi.
+scn00_32_0080 | <Cứ để lên bàn có phải hơn không.>
+scn00_32_0081 | <Bố cũng từng nghĩ đến việc đó, nhưng bố muốn trao tận tay con. Bởi vì món quà ấy... chính là lời sám hối của bố.>
+scn00_32_0082 | Đột nhiên tôi chẳng còn hiểu nổi bố nữa.
+scn00_32_0083 | Tại sao con người này lại tỏ ra nhún nhường trước mặt tôi như vậy?
+scn00_32_0084 | Tại sao không tiếp tục thái độ độc đoán, áp đặt như thuở nào?
+scn00_32_0085 | Muốn trực tiếp trao quà sinh nhật để sám hối ư?
+scn00_32_0086 | Hoàn toàn không khớp với người cha trong ký ức của tôi.
+scn00_32_0087 | <Đầu dây bên kia có thật sự là bố không vậy?>
+scn00_32_0088 | <Người bố mà con biết uy quyền và áp đặt hơn nhiều.>
+scn00_32_0089 | ...
+scn00_32_0090 | Bàn tay đang định gõ tiếp câu sau bỗng khựng lại.
+scn00_32_0091 | <Bố luôn coi thường con.>
+scn00_32_0092 | <Sao con không đến võ đường? Mau đến nhờ thầy rèn giũa lại cái tinh thần yếu đuối ấy đi.>
+scn00_32_0093 | <Đừng nghịch hoa cỏ nữa, chỉ tổ khiến con thêm ủy mị mà thôi.>
+scn00_32_0094 | <Vừa phải thôi, đừng có hơi tí là nhõng nhẽo với mẹ con nữa!>
+scn00_32_0095 | Chỉ cần nhắm mắt lại, vô số lời lẽ từng khiến tôi thu mình sợ hãi lại ùa về.
+scn00_32_0096 | <Đến nước này rồi thì xin bố đừng tỏ ra mình là một người cha tốt nữa.>
+scn00_32_0097 | Nếu không, bản thân tôi của những năm tháng ấy sẽ chẳng thể nào được siêu thoát.
+scn00_32_0098 | ...
+scn00_32_0099 | Bố vẫn im lặng.
+scn00_32_0100 | <......>
+scn00_32_0101 | Bố đang khóc ư...?
+scn00_32_0102 | Đừng có đùa chứ, tưởng giờ này khóc lóc là sẽ được tha thứ hay sao...
+scn00_32_0103 | <Bố... từng là một kẻ hèn yếu.>
+scn00_32_0104 | Hả...
+scn00_32_0105 | <Bố kết hôn dù biết thời gian sống của Yoko chẳng còn bao lâu. Bởi vì nếu số mệnh đã định bố sẽ mất mẹ con, thì bố chỉ muốn ở bên cạnh mẹ dù chỉ nhiều hơn một giây một phút.>
+scn00_32_0106 | <Để hiện thực hóa lý tưởng của Yoko, bố đã đề ra Dự án Utopia. Bố muốn tạo ra một tương lai nơi công trình nghiên cứu của mẹ con có thể phát huy giá trị.>
+scn00_32_0107 | <Chỉ vì bố muốn lưu giữ dấu ấn sự sống của Yoko mãi cho đến tận tương lai...>
+scn00_32_0108 | Dự án Utopia vốn là để hiện thực hóa lý tưởng của mẹ sao...?
+scn00_32_0109 | Lần đầu tiên tôi được nghe chuyện này.
+scn00_32_0110 | Tôi không hề biết, và cũng chưa bao giờ muốn biết về bố trước khi gặp mẹ. Tôi đã luôn đinh ninh rằng từ xưa ông ta vốn đã là một kẻ lạnh lùng và độc đoán.
+scn00_32_0111 | <Bố đã luôn cố gắng gồng mình để trở nên mạnh mẽ. Bởi bố biết ngày bố mất đi Yoko đang từng khắc từng giây cận kề.>
+scn00_32_0112 | <Và rồi... bố đã áp đặt sự mạnh mẽ đó lên cả Hinata. Vì bố nghĩ rằng con sẽ phải chịu tổn thương sâu sắc khôn cùng.>
+scn00_32_0113 | <Bố tìm mọi cách tách con ra khỏi hoa cỏ và thú làm vườn mà mẹ yêu thích, bắt con đến võ đường để rèn luyện ý chí.>
+scn00_32_0114 | <Ý bố muốn nói tất cả là vì con sao?>
+scn00_32_0115 | <......Không, không phải thế đâu.>
+scn00_32_0116 | Như vắt kiệt sức lực, bố nghẹn ngào phủ nhận.
+scn00_32_0117 | <Chỉ là... bố không muốn nhìn thấy con bị tổn thương và khóc lóc.>
+scn00_32_0118 | <Bởi khi chứng kiến cảnh tượng ấy, bố có thể dễ dàng mường tượng ra bản thân sẽ suy sụp và bất lực đến nhường nào khi chẳng làm được gì cho con.>
+scn00_32_0119 | <Rốt cuộc là... bố chỉ không muốn bản thân mình phải chịu tổn thương mà thôi.>
+scn00_32_0120 | ......

@@ -1,0 +1,24 @@
+# Python & OS junk
+__pycache__/
+*.py[cod]
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Secrets / Environment
+.env
+.env.*
+*.key
+*.pem
+
+# Backup / Temp files
+*.bak
+temp_*
+~$*
+
+# Raw game assets exceeding GitHub 100MB/repo limits (cannot be pushed directly to Git)
+Exported_Videos/
+CG/
+image/
+extracted_data/
+Music/

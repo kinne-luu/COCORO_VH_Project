@@ -1,0 +1,60 @@
+scn00_48_0061 | <Có lời nhắn từ người ấy gửi tới ngài ạ. Rằng 'Nhớ đừng có quên lấy món đồ đó đấy nhé'.>
+scn00_48_0062 | "Chết rồi, suýt nữa thì quên!?"
+scn00_48_0063 | <Phản ứng vừa rồi của ngài, tôi cũng vừa chuyển tiếp sang cho người ấy rồi đấy ạ.>
+scn00_48_0064 | "Đừng mà, bị mắng chết mất!?"
+scn00_48_0065 | "Tóm lại là khẩn trương lên giùm tôi với, xin cô đấy. Hôm nay là một ngày vô cùng trọng đại mà!"
+scn00_48_0066 | <Tôi sẽ cố gắng xử lý linh hoạt cho xe chạy bám sát nút tốc độ luật định nhé.>
+scn00_48_0067 | Ý thức tuân thủ pháp luật nghiêm minh đối với AI chẳng có gì khác ngoài một đức tính mẫu mực. Tôi càng thêm vững tin vào sản phẩm của công ty mình.
+scn00_48_0068 | <Nghe nói cậu Hinata sẽ đến muộn một chút ạ.>
+scn00_48_0069 | "Vì có chuyến công tác đột xuất mà, cũng đành chịu thôi."
+scn00_48_0070 | <Những công việc như thế đáng lẽ phải giao lại cho nhân viên chứ. Dù sao người ta cũng là Giám đốc kia mà.>
+scn00_48_0071 | "Dì cũng bảo nó thế đấy chứ. Nhưng mà cái tính nó không tự tay làm thì không chịu được."
+scn00_48_0072 | <Thật là hết nói nổi luôn ấy nhỉ.>
+scn00_48_0073 | "Thôi đành chịu vậy, chúng ta cùng đợi cho đến khi Hinata quay về nhé?"
+scn00_48_0074 | <Dạ không cần thiết phải thế đâu ạ. Ngày nào chẳng gặp mặt nhau rồi, đến nước này còn câu nệ gì nữa.>
+scn00_48_0075 | "...Vậy à. Thế thì dì bắt đầu nhé."
+scn00_48_0076 | <Trăm sự nhờ cả vào dì ạ.>
+scn00_48_0077 | "Xin lỗi vì cháu đến muộn ạ!!!!"
+scn00_48_0078 | <Mừng anh đã về, anh Hinata.>
+scn00_48_0079 | "Shirayuki... Anh về rồi đây."
+scn00_48_0080 | Đón tôi ở cửa chỉ có một mình Shirayuki.
+scn00_48_0081 | "Dì Kirika đâu rồi em?"
+scn00_48_0082 | <Dì Kirika về nhà một chuyến để chuẩn bị cho chuyện sau này rồi ạ.>
+scn00_48_0083 | <Em được giao nhiệm vụ trông nhà, nên cứ ngồi đợi anh Hinata về trong cô đơn buồn thiu đây này.>
+scn00_48_0084 | "Thế à, anh xin lỗi nhé."
+scn00_48_0085 | Shirayuki hiện đang là linh vật đại diện của công ty chúng tôi với tư cách là 'chú chó robot biết nói'.
+scn00_48_0086 | Từng là nguồn cơn phát sinh thảm họa 'Ách Tai', sau đó con bé đã trải qua một cuộc điều tra toàn diện và kỹ lưỡng.
+scn00_48_0087 | Bản thân Shirayuki cũng đã hết lòng hợp tác trong suốt quá trình ấy.
+scn00_48_0088 | Nhờ vậy mà việc làm sáng tỏ chân tướng của 'Ách Tai' đã tiến triển nhanh hơn nhiều so với dự tính.
+scn00_48_0089 | Hiện tại, chức năng truyền thông không dây đã được gỡ bỏ hoàn toàn, con bé trở thành một robot độc lập chỉ có thể giao tiếp trực tiếp qua giọng nói và đang làm trợ lý thư ký cho dì Kirika.
+scn00_48_0090 | "...Ủa??"
+scn00_48_0091 | <Có chuyện gì sao anh?>
+scn00_48_0092 | "Không... Anh chỉ đang thắc mắc là không thấy 'cô ấy' đâu cả. Chuyển đi nơi khác rồi sao?"
+scn00_48_0093 | <À. Nếu là chị em thì chị ấy không còn ở đây nữa đâu ạ.>
+scn00_48_0094 | "Hả!?"
+scn00_48_0095 | <Vừa nãy chị ấy đã tỉnh lại rồi đi ra ngoài mất rồi.>
+scn00_48_0096 | ...
+scn00_48_0097 | Ánh nắng rực rỡ chói chang xuyên qua mái vòm kính rọi xuống.
+scn00_48_0098 | Một làn gió dịu dàng khẽ thổi qua, làm lay động những tán lá xanh rì tươi tốt.
+scn00_48_0099 | Đã trở về rồi. Mùa hoa vô giá của tôi...
+scn00_48_0100 | "Cocoro!"
+scn00_48_0101 | "?"
+scn00_48_0102 | Vừa nhìn thấy bóng hình cô ấy, tôi liền lao tới ôm chầm lấy cô vào lòng.
+scn00_48_0103 | "Cậu Hinata?"
+scn00_48_0104 | "Đúng rồi, là tôi đây. Cậu quên tôi rồi sao?"
+scn00_48_0105 | "Ngày nào tôi cũng nhìn thấy cậu qua camera và trò chuyện cùng cậu mà. Thế nhưng..."
+scn00_48_0106 | Cocoro chăm chú ngắm nhìn tôi thật kỹ, rồi đưa tay khẽ chạm lên gò má tôi.
+scn00_48_0107 | "Có thể chạm vào được rồi..."
+scn00_48_0108 | "Ừ."
+scn00_48_0109 | Tôi cũng áp bàn tay mình lên gò má của Cocoro.
+scn00_48_0110 | "Có thể được chạm vào rồi..."
+scn00_48_0111 | "Ừ."
+scn00_48_0112 | "Quả nhiên, được nhìn ngắm bằng chính đôi mắt của mình, lắng nghe bằng chính đôi tai của mình và chạm vào bằng chính bàn tay mình, cảm giác thật đặc biệt biết bao."
+scn00_48_0113 | "Ừ..."
+scn00_48_0114 | Trong giây lát, chúng tôi im lặng nhìn nhau đắm đuối như muốn khắc sâu từng khoảnh khắc này vào tận đáy lòng.
+scn00_48_0115 | Để đi được đến ngày hôm nay, quãng đường thực sự dài biết mấy...
+scn00_48_0116 | "Chào mừng cậu đã trở về, Cocoro."
+scn00_48_0117 | "Tôi đã về rồi đây, cậu Hinata."
+scn00_48_0118 | Hôm nay là ngày Cocoro chính thức thức tỉnh.
+scn00_48_0119 | Đã bao nhiêu năm trôi qua kể từ ngày ấy rồi nhỉ, thành lập công ty và bị cuốn vào vòng xoáy công việc bận rộn mỗi ngày, tôi cùng dì Kirika vẫn luôn nỗ lực khôi phục lại cơ thể cho Cocoro.
+scn00_48_0120 | Công việc đó mấy hôm trước cuối cùng cũng hoàn tất, sau vô số lần thử nghiệm, ngày hôm nay chính là lúc Cocoro 'trú ngụ' trở lại vào cơ thể ấy.

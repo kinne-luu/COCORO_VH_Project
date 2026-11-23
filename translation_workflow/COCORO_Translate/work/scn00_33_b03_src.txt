@@ -1,0 +1,65 @@
+# scene=scn00_33 batch=3/7 dòng 124-184 / 428
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_33_0124 | 父(Dad) | 『他に……そう言えば』 | <Anything else...? Like what?> | ‘其他……说起来’
+scn00_33_0125 | - | 父さんが思い出そうと考え込む。 | Dad takes a moment to think. | 父亲像是在回忆着什么一样沉思了起来。
+scn00_33_0126 | 父(Dad) | 『ひなたを抱き上げた時、手から何か落ちたんだ』 | <When I lifted you, something fell from your hand.> | ‘我抱着日向的时候，你手上有什么东西掉了下去’
+scn00_33_0127 | 父(Dad) | 『ＣＣＲ－０１がそれを拾って返そうとした。でも、それが何か確かめると、返すのをやめて……盗もうとした』 | "The CCR-01 picked it up and was about to give it to me. But then, when the robot saw what it was, it stopped... And pocketed it." | ‘CCR-01捡起来之后想还给你，但在看清楚那是什么之后，便不想归还了……想要将其据为己有了’
+scn00_33_0128 | - | 『盗む？』 | "Pocketed?" | ‘据为己有？’
+scn00_33_0129 | - | 穏やかではない表現だ。 | He's making it sound like she stole from me. | 这可不是什么好词。
+scn00_33_0130 | 父(Dad) | 『あれは、母さんの形見だった』 | "It was a memento of your mom." | ‘那是你母亲的遗物’
+scn00_33_0131 | - | それって…… | Does he mean... | 那不就是……
+scn00_33_0132 | - | 『指輪？』 | "The ring?" | ‘戒指？’
+scn00_33_0133 | 父(Dad) | 『そう。なぜかおまえは母さんの指輪を持っていて、それが手から落ちたんだ』 | "That's right. For some reason, you had your mom's ring, and it fell from your hand." | ‘没错，不知为何你母亲的戒指在你手里，又从你手里掉了下去’
+scn00_33_0134 | - | それをココロは拾って、けど返さずに盗もうとした？ | And then Cocoro picked it up, and she took it for herself instead of returning it? | 然后心将其捡到后，却没有归还而是想要据为己有？
+scn00_33_0135 | 父(Dad) | 「返してくれ、この子の大切な物なんだ」 | "Give that back. It's important to him." | “快还回来，这是他很珍视的东西”
+scn00_33_0136 | ＣＣＲ－０１(CCR-01) | 「…………」 | "..." | “…………”
+scn00_33_0137 | 父(Dad) | 「さあ」 | "Give it back, now." | “来吧”
+scn00_33_0138 | - | 私はひなたを抱いた手を差し出して、返すよう[うなが]促した。 | With Hinata still in my arms, I held out my hand, urging her to give it back. | 我抱着日向伸出手，催促着她快点还给我。
+scn00_33_0139 | ＣＣＲ－０１(CCR-01) | 「……」 | "..." | “……”
+scn00_33_0140 | - | ぎゅっ―― | But instead... | 握紧——
+scn00_33_0141 | - | ＣＣＲ－０１は指輪を握り締めた手を背中に回し、目を逸らした。 | The CCR-01 clutched the ring tighter, hid it behind its back, and averted its eyes. | CCR-01将紧握着戒指的手放到了身后，并且移开了视线。
+scn00_33_0142 | - | 返したくないという風だった。 | It seemed to be signaling that it didn't want to return the ring. | 一副不想归还的样子。
+scn00_33_0143 | - | 理由は分からない。 | I couldn't understand why. | 不知道是什么原因。
+scn00_33_0144 | - | 緊急時で気が動転していたのもあったし、なぜかそんなＣＣＲ－０１を[あわ]哀れに感じて、それ以上返せと言えなかった。 | The whole situation made it difficult to think clearly, and for some reason I felt bad for the CCR-01, so I didn't pursue the matter any further. | 因为情况紧急我有些心神不宁，而且不知为何感觉CCR-01很可怜，便就没有再说让她归还这句话。
+scn00_33_0145 | - | ヒューマノイド相手に、おかしな話だと分かってはいるが……。 | I knew that it was ridiculous to pity a humanoid, yet... | 我明知道对仿生人说这种话很奇怪……
+scn00_33_0146 | 父(Dad) | 「それは預けておくよ。もしこの子が元気になったら、またここへ来るだろうから、返してあげてくれ」 | "Fine, hold on to it. When my son gets better, I'm sure he'll come back here again, so you can give it back to him then." | “那就先放在你那里吧，他恢复了之后应该还回来这里，到时候你再还给他吧”
+scn00_33_0147 | ＣＣＲ－０１(CCR-01) | 「……（コクン）」 | "*nod*..." | “……（点头）”
+scn00_33_0148 | 父(Dad) | 『あの時はまだ、『厄災』の全貌が見えていなかったから、なんとも思わなかったが、今にして思うと不思議な事だ』 | <At the time, I didn't think anything of it—I didn't know the full scope of the Calamity yet—but thinking back, it was really strange.> | ‘那时还不清楚‘灾厄’的全貌，所以我也没多想，现在想想感觉挺不可思议的’
+scn00_33_0149 | 父(Dad) | 『高度なＡＩを備えたロボットやコンピュータ、全てがおかしくなっていたのに、ＣＣＲ－０１だけはそうじゃなかった』 | <Everything else equipped with advanced AI was running amok, but for whatever reason the CCR-01 was fine.> | ‘拥有高智商AI的机器人和计算机全都变得十分奇怪，但CCR-01却并没有变成那样’
+scn00_33_0150 | 父(Dad) | 『あの娘がまだどこかにいるなら、『厄災』の原因究明の手がかりになるのかもしれないな……』 | <If it still exists somewhere, it might provide a clue in determining the cause of the Calamity.> | ‘如果她活着，或许能够成为探明‘灾厄’发生原因的线索吧……’
+scn00_33_0151 | - | 父の言葉には、自分はもうそこに関わる事ができないという後悔とも罪の意識とも取れるような感情が込められているようだった。 | My father's words seem to betray his regret, or perhaps guilt, about the fact that he can't be involved with research in the field anymore. | 父亲的话语中，似乎蕴含着自己已经无法再插手其中的后悔亦或是负罪感。
+scn00_33_0152 | 父(Dad) | 『なぁ、ひなた。もし帰ってくるというなら、全力でやり直したい』 | <Say, Hinata. If you ever feel like coming home, I would like for us to start over.> | ‘我说，日向，如果你回来我这里，我想全力和你重新搞好关系’
+scn00_33_0153 | 父(Dad) | 『おまえが私を[ゆる]赦し、もう一度チャンスをくれるというなら……』 | <If you could forgive me and give me another chance...> | ‘如果你能宽恕我，再给我一次机会……’
+scn00_33_0154 | - | 『うん』 | "Right." | ‘嗯’
+scn00_33_0155 | - | 俺は曖昧に返事する事しかできなかった。 | All I can muster is a vague response. | 我只能做出模糊的回答。
+scn00_33_0156 | - | 父さんと言葉を交わしたのは４年ぶりで、もう二度と会う事はないと思っていた。 | Four years have passed since I last talked to him, and I thought I would never see him again. | 这是我4年以来第一次和父亲交谈，我还以为已经再也不会见到他了。
+scn00_33_0157 | - | やり直すなんて可能性、考えた事もなかったから、すぐには気持ちの整理がつかない。 | I'd never considered the possibility of mending our relationship, so my mind's having trouble catching up to my feelings now. | 甚至想都没想过能有重归于好的可能性，所以没办法立刻整理好心情。
+scn00_33_0158 | 父(Dad) | 『じゃあ、また連絡する』 | <I'll call you again.> | ‘那就先这样，我之后会再联系你的’
+scn00_33_0159 | - | 通話が切れてからも、俺はしばらく受話器を見つめてぼうっとしていた。 | After the call ends, I stare blankly at the receiver for a while. | 通话结束后，我盯着话筒发了一会儿呆。
+scn00_33_0160 | - | 色んな事が一度に分かって混乱しているところへ、父の懺悔のような言葉。 | I'm still confused by everything I just learned, as well as by my dad's confessions. | 在我一口气知道了太多事而感到混乱的时候，父亲口中说着忏悔一般的话语。
+scn00_33_0161 | - | とても受け止めきれない。 | It's too much to take in right now. | 让我十分难以接受。
+scn00_33_0162 | - | しかし、驚いた事があった。母の形見の指輪を拾っていたのはココロだった。 | However, the biggest surprise was hearing that it was Cocoro who found my mom's ring. | 不过，让我感到震惊的是，捡走母亲遗物戒指的就是心。
+scn00_33_0163 | - | 俺が気付かずに紛失した物を、ココロが落とし物として拾っていた可能性は考えていた。 | I did consider that Cocoro might've found the ring at the garden. | 我也想过自己无意中遗失的物品，有可能是被心当做失物捡了回去。
+scn00_33_0164 | - | しかし、父の話では、ココロはそれが誰の物か分かっていながら、拾って返さなかったという。 | But if what my dad said is true, then she refused to give it back while knowing who it belonged to. | 但是，据父亲所说，心明知道这是谁的东西，但捡起来后却没有归还。
+scn00_33_0165 | ひなた(Hinata) | （そんな事あり得るのか……） | (Is that even possible?) | （这种事真的有可能吗……）
+scn00_33_0166 | - | ヒューマノイドの行動として異常だ。 | For a humanoid, that's abnormal behavior. | 这种行动对仿生人来说十分异常。
+scn00_33_0167 | - | アレロパシーの影響がココロにも出ていたんだろうか？ | Was Cocoro affected by the allelopathy after all? | 是化感作用对心也产生了影响吗？
+scn00_33_0168 | - | そうじゃなくて、ただ返したくなかったんだとしたら。 | Or did she simply not want to give it back? | 如果不是这样，而只是单纯不想归还。
+scn00_33_0169 | - | 指輪が持つ意味――結婚の約束――を知っていて、フィアンセの少年の手からこぼれ落ちた指輪を自分の物にしたかった。 | She knows what rings signify—a promise to get married. Did she want to keep the ring because it fell from the hand of her fiancé? | 那她就是知道持有戒指的意义——知道结婚这个约定——然后想要将少年未婚夫手中掉落的戒指据为己有。
+scn00_33_0170 | ひなた(Hinata) | （いや、ココロはテストに合格するため、結婚という証が欲しかっただけ。自分でそう認めていたじゃないか） | (No, Cocoro just wanted to get married because it would be proof that she passed her test. She admitted that herself.) | （不，心只是为了通过测试，希望得到结婚这个证明而已，并不是自己也认同这些吧）
+scn00_33_0171 | - | でも、どうしてもココロの態度と結びつかない。 | However, I'm having trouble getting that statement of hers to line up with her behavior. | 但是，我怎么都没法将其和心的态度联系起来。
+scn00_33_0172 | - | ココロが指輪を返そうとしなかった時、どんな態度だったか、どんな仕草でどんな表情を浮かべていたのかまで想像できる。 | How was she acting when she refused to return the ring? What kind of mannerisms and expressions did she show? I can imagine it all too easily. | 我能想象得到心在不想归还戒指的时候，摆出了什么样的态度，做出了什么样的动作，甚至浮现出了什么样的表情。
+scn00_33_0173 | - | 父の同情を買うために、計算してそんな表情を浮かべたのか？ | Did she act like that so she could gain Dad's sympathy? | 是为了博取父亲的同情，通过计算后才表现出了那种表情吗？
+scn00_33_0174 | ひなた(Hinata) | 「……ぅぅぅ……」 | "Uhh..." | “……呜呜呜……”
+scn00_33_0175 | ひなた(Hinata) | （分からないよ、ココロ……） | (I don't understand, Cocoro...) | （我不懂啊，心……）
+scn00_33_0176 | - | 考えても考えても、答えは出なかった。 | No matter how long I think about it, I can't come up with an answer. | 不管我怎么思考，都得不到答案。
+scn00_33_0177 | - | …………。 | ... | …………
+scn00_33_0178 | - | 眠るでもなく部屋で横になり、ずっと考えていた。 | I'm still lying in my room, thinking everything over. | 我躺在房间里却并没有睡觉，一直在进行着思考。
+scn00_33_0179 | - | 父の元へ帰った方がいいんだろうか。 | Would it be better if I went to live with my dad? | 是不是回到父亲身边比较好。
+scn00_33_0180 | - | 帰るべきなんだろう。 | I probably should. | 我也应该回去吧。
+scn00_33_0181 | - | あの通話だけで父とのわだかまりが消えるわけじゃない。これから一生かかっても、全ては解消できないかもしれない。 | The phone call alone wasn't enough for me to forgive my dad. I probably won't be able to fully forgive him for the rest of my life. | 光凭一通电话并不能消除我和父亲之间的隔阂，或许接下来一生都无法将其完全消除。
+scn00_33_0182 | - | でも、父の懺悔は勇気を必要とするものだったろう。 | But it must have taken a lot of courage for him to confess everything that he did. | 但是，父亲的忏悔应该是需要勇气的吧。
+scn00_33_0183 | - | それを無下にするのは、俺自身の価値観に合致しない。 | To dismiss it all outright would go against my personal values. | 对此视而不见不符合我的价值观。
+scn00_33_0184 | - | やり直しの機会はあるべきだ。例え、気乗りしなくても。 | I should at least give him a chance to try again, even if I'm not fully on board with it myself. | 应该会有重新来过的机会，即便，我并没有这种想法。

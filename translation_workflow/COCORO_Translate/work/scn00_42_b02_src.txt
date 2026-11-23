@@ -1,0 +1,64 @@
+# scene=scn00_42 batch=2/7 dòng 61-120 / 428
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_42_0061 | ココロ(Cocoro) | 「それは本当ですか？　証明可能ですか？」 | "Do you mean that? Can you substantiate your claim?" | “这是真的吗？　能够证明吗？”
+scn00_42_0062 | - | どうすれば、この感情を伝えられるだろう。 | How could I possibly convey to her what I'm feeling right now? | 要怎么样才能将我这份感情传达给她呢。
+scn00_42_0063 | - | 言葉じゃ無理だ。俺の言葉の解像度では、伝えきれない。 | Words won't do. I'm not eloquent enough to express this in words. | 言语是做不到的，仅靠言语那种程度的解析度是无法将感情全部传达给她的。
+scn00_42_0064 | ひなた(Hinata) | （どうしよう……どうしよう……なんて伝えればいい） | (How... How... How do I tell her?) | （怎么办……怎么办……要怎么传达给她才好）
+scn00_42_0065 | ココロ(Cocoro) | 「？　ひなたさん？？」 | "Hmm? Hinata-san?" | “？　日向先生？？”
+scn00_42_0066 | ひなた(Hinata) | 「？」 | "Huh?" | “？”
+scn00_42_0067 | - | ココロが困惑していた。その理由が俺には分からない。 | Cocoro looks confused. I'm not sure why. | 心有些困惑，我也知道她感到困惑的原因。
+scn00_42_0068 | ココロ(Cocoro) | 「……なぜ泣くのですか？　やっぱり似合っていませんでしたか？」 | "Why are you crying? Does the dress not suit me after all?" | “……为什么哭了？　果然我穿着还是不好看吗？”
+scn00_42_0069 | ひなた(Hinata) | （え、俺……泣いてる？） | (Huh? I'm... crying?) | （哎，我……哭了？）
+scn00_42_0070 | - | 気付かないうちに涙が[あふ]溢れていた。 | I didn't realize that tears were rolling down my face. | 不知不觉中泪水溢出了眼眶。
+scn00_42_0071 | - | 俺は花嫁衣装を着たココロを抱きしめた。 | I pull Cocoro, my bride, into my arms. | 我抱住了穿着婚纱的心。
+scn00_42_0072 | ひなた(Hinata) | 「あんまり綺麗で……感動しちゃってたみたい」 | "You're so beautiful that I... got emotional." | “太美丽了……美丽得我似乎都感动了”
+scn00_42_0073 | ひなた(Hinata) | 「君にプロポーズしてよかった」 | "I'm so glad I proposed to you." | “向你求婚了真是太好了”
+scn00_42_0074 | ココロ(Cocoro) | 「……よかった、悲しいんじゃなくて」 | "...I'm glad I didn't disappoint you." | “……太好了，这不是悲伤的眼泪”
+scn00_42_0075 | - | 俺はココロから離れて、もう一度よく見る。 | After we part, I have another good look at her. | 我离开了心，再次打量起了她。
+scn00_42_0076 | ひなた(Hinata) | 「ほんとに綺麗だ……」 | "You really look stunning..." | “真的好漂亮……”
+scn00_42_0077 | 風音(Kazane) | 「超似合ってるよね」 | "Yeah, it looks amazing on you!" | “超好看对吧”
+scn00_42_0078 | 霧香(Kirika) | 「いいなぁ……」 | "How nice..." | “真好啊……”
+scn00_42_0079 | 吉野(Yoshino) | 「気に入ってもらえてよかったわ」 | "I'm so glad that you like it." | “你喜欢就好”
+scn00_42_0080 | ひなた(Hinata) | 「ありがとうございます、吉野さん」 | "Thank you so much, Yoshino-san." | “谢谢你，吉野婆婆”
+scn00_42_0081 | ココロ(Cocoro) | 「ありがとうございます。ぺこり」 | "Thank you very much. Bow!" | “谢谢你，鞠躬”
+scn00_42_0082 | 吉野(Yoshino) | 「ううん、いいのよ。私も嬉しいんだから」 | "Don't worry about it. I'm happy to see it being worn, too." | “不必道谢啦，毕竟我也很开心啊”
+scn00_42_0083 | - | 今日は寸法の直しができたドレスを吉野さんが届けてくれて、試着をしているところだった。 | Today, Yoshino-san came by to deliver the dress that she'd finished adjusting so Cocoro could try it on. | 今天正好是吉野婆婆将改好尺寸的婚纱送来给心试穿的日子。
+scn00_42_0084 | - | 俺は着替えが終わるのを外で待っていたのだ。 | I was waiting outside in the meantime. | 我就就在外面等着她换好衣服。
+scn00_42_0085 | こさめ(Kosame) | 「ココちゃ～ん、私も見たいー！」 | "Coco-chaaan, I wanna see!" | “心儿～，我也想看——！”
+scn00_42_0086 | 犬(Dog) | 「ワン！！」 | "Woof!" | “汪！！”
+scn00_42_0087 | - | 外からこさめちゃんが呼んでいた。 | Kosame calls from outside. | 外面传来的小雨的呼喊声。
+scn00_42_0088 | ココロ(Cocoro) | 「こさめにも見せてあげていいですか？」 | "Can I go out to show Kosame?" | “可以让小雨也看看吗？”
+scn00_42_0089 | 吉野(Yoshino) | 「ええ、ええ、どうぞ」 | "Of course. Please do." | “可以，可以，去吧”
+scn00_42_0090 | 風音(Kazane) | 「[すそ]裾が汚れないよう持っといてあげる」 | "I'll hold up your train so it won't get dirty." | “为了不弄脏裙摆我来帮你拿起来吧”
+scn00_42_0091 | - | 俺と風音でドレスの裾が[す]擦らないよう持ちながら、下に降りていく。 | I help Kazane lift the back of the dress so it doesn't drag along the floor, and we make our way down the stairs. | 我和风音举着裙摆不让裙摆擦到地面，就这样走下了楼。
+scn00_42_0092 | こさめ(Kosame) | 「わぁ～～～～…………」 | "Wooooow..." | “哇～～～～…………”
+scn00_42_0093 | 光太郎(Kotaro) | 「ひゅぅぅ～～♪」 | "Whoo! %f$記号$;♪%fuser;" | “咻～～～♪”
+scn00_42_0094 | ココロ(Cocoro) | 「どうでしょうか」 | "What do you think?" | “怎么样”
+scn00_42_0095 | こさめ(Kosame) | 「とっても素敵！　ココちゃん、とってもとっても綺麗だよ！！」 | "It's beautiful! Coco-chan, you're such a pretty bride!!" | “非常漂亮！　心儿，真的非常非常漂亮！！”
+scn00_42_0096 | 光太郎(Kotaro) | 「見違えたなぁ。ちょっとオトナっぽくなったよ」 | "I almost didn't recognize you. You look like a real grown-up lady." | “真让人刮目相看啊，变得成熟一点了哦”
+scn00_42_0097 | ココロ(Cocoro) | 「えへへ、そうでしょうとも」 | "Hehehe, I bet I do." | “哎嘿嘿，是吧”
+scn00_42_0098 | 大地(Daichi) | 「なんだなんだ」 | "What's the commotion about?" | “怎么了怎么了”
+scn00_42_0099 | - | 店を手伝っていた大地も出てくる。 | Daichi pops out of the confectionery shop. | 在店里帮忙的大地也出来了。
+scn00_42_0100 | 大地(Daichi) | 「おおっ……！？　……おまえ、マジであのココロか？」 | "Ohh... Are you... Cocoro? Seriously?" | “噢噢……！？　……你真的是心吗？”
+scn00_42_0101 | ココロ(Cocoro) | 「デリカシーの欠片もないと判断できます」 | "I don't detect even a hint of delicacy in that reaction." | “我认为你这话一点都不体贴”
+scn00_42_0102 | こさめ(Kosame) | 「お兄ちゃん……」 | "Daichi..." | “哥哥……”
+scn00_42_0103 | 犬(Dog) | 「ワンワンワンワン！！」 | "Woof woof woof woof!!" | “汪汪汪汪！！”
+scn00_42_0104 | ココロ(Cocoro) | 「待て」 | "Wait." | “别动”
+scn00_42_0105 | - | じゃれつこうとした犬を、ココロが[するど]鋭く制する。 | The dog looks like he's about to jump up on to Cocoro, but she stops him with a sharp warning. | 心敏锐地制止了试图蹭过来的狗。
+scn00_42_0106 | - | 犬はピタッと止まってお座りをするが、うずうずしている。 | He freezes in place and obediently sits down, but his tail wags impatiently. | 狗虽然立刻停住坐了下来，但完全坐不住。
+scn00_42_0107 | ココロ(Cocoro) | 「このドレスをあなたの毛だらけにしたら、許しませんよ」 | "I'll never forgive you if you get dog hair all over this dress." | “如果这件婚纱上面沾上了你的毛发，我是不会原谅你的哦”
+scn00_42_0108 | 犬(Dog) | 「ワゥゥ……」 | "Awoo..." | “呜呜……”
+scn00_42_0109 | - | そんなやり取りをしているうちに、通行人が足を止め、人がだんだん集まってきた。 | As this banter is going on, more and more passersby stop and gather around Cocoro. | 在这期间，路过的人们也都停下来脚步围了过来。
+scn00_42_0110 | - | みんなココロのドレス姿に目を奪われて、口々に『綺麗』とか『可愛い』と漏らしている。 | Everyone is captivated by the bride, and comments like "Adorable!" and "Stunning!" rise from the crowd. | 大家都被心穿着婚纱的样子吸引住了目光，嘴中也不断说着‘漂亮’‘可爱’之类的词语。
+scn00_42_0111 | - | そして、それらつぶやきはココロの鋭敏な聴覚センサーによって全て拾われている。 | Cocoro's sharp auditory sensors are able to pick up each individual voice. | 然后，这些窃窃私语也全都被心敏锐的听觉传感器捕捉到了。
+scn00_42_0112 | ココロ(Cocoro) | 「えへへ……」 | "Teehee..." | “哎嘿嘿……”
+scn00_42_0113 | - | ココロが幸せそうにはにかみながら、そっと俺の腕を取って寄り[そ]添った。 | She blushes happily and casually links her arm with mine. | 心一脸幸福地害羞了起来，轻轻挽住了我的手臂。
+scn00_42_0114 | ココロ(Cocoro) | 「みなさんが口々に褒めてくださっています」 | "Everyone is giving me compliments." | “大家都在称赞我”
+scn00_42_0115 | ひなた(Hinata) | 「俺の自慢のフィアンセだよ」 | "I'm so proud of you, my fiancée." | “毕竟是我引以为傲的未婚妻啊”
+scn00_42_0116 | - | 集まった人だかりは、必ずしもココロに友好的だった人ばかりじゃない。 | Not all of these people have always been amicable toward Cocoro. | 聚集而来的人群中，也并非全是对心怀有善意的人。
+scn00_42_0117 | - | ココロがヒューマノイドだと知って、嫌悪感を見せていた人も中にはいるのだが、 | Some of them expressed shock and aversion when they found out she was a humanoid, but now... | 人群中也有一些在得知心是仿生人后便表现出厌恶感的人们。
+scn00_42_0118 | 住民Ｃ(Resident C) | 「あれって、こないだロボットだって言ってた娘じゃ……」 | "Hey, isn't that the girl they say is a robot...?" | “那不是前段时间说是机器人的那个姑娘吗……”
+scn00_42_0119 | 住民Ｄ(Resident D) | 「え、うそ……めっちゃ綺麗じゃん」 | "What? No way... She's super pretty!" | “哎，天呐……真漂亮”
+scn00_42_0120 | - | 今この瞬間だけは、誰しもがココロに見蕩れ、心を開いていた。 | The moment they see her, they're enchanted. | 但现在这个瞬间，无论是谁看到心都会被打动，都会敞开心扉。

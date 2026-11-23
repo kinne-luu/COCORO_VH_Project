@@ -1,0 +1,42 @@
+# scene=scn00_35 batch=5/5 dòng 239-276 / 276
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_35_0239 | - | \n\n\n\n\n\n\n\n『きっと、本当に伝えたい気持ちは伝えられないまま[か]枯れていく』 | \n\n\n\n\n\n\n\nI'm sure that any feelings I want to convey will wilt before I can ever get them out. | \n\n\n\n\n\n\n\n‘我肯定会一直无法传达出自己的真实情感，就这样枯萎下去’
+scn00_35_0240 | - | 鉛筆を置き、グズグズと泣く子ども。 | He put the pencil down and wiped his eyes as he sobbed. | 那个孩子放下铅笔抽泣了起来。
+scn00_35_0241 | - | 理解不能――理解不能――理解不能―― | Does not compute. Does not compute. Does not compute. | 无法理解——无法理解——无法理解——
+scn00_35_0242 | - | 思考回路が悲鳴を上げる。これ以上、この問題を解決しようとすると、オーバーフローを起こす危険性がある。エラーとして処理するべき。 | My thought processors were screaming at me. If I tried to solve this problem any longer, it would cause an overflow. I should process it as an error. | 思考回路发出了悲鸣，如果再继续试图解决这个问题，就会有过载的危险，应该将其当做错误来处理。
+scn00_35_0243 | - | そう考えた時、カチッとスイッチが切り替わる。 | The moment I thought that, it was like a switch was flipped inside me. | 就在我这样思考的时候，却突然被打开了什么开关。
+scn00_35_0244 | - | 感情回路から出力された言葉を、ワタシの手が文字に起こしていた。 | I took the pencil and wrote down the words that my emotional circuits had output. | 我的手将从感情回路中输出的言语转化成了文字。
+scn00_35_0245 | - | \n\n\n\n\n\n\n\n%R『どんな花が咲くのか見てみたいです』 | \n\n\n\n\n\n\n%RI'd love to see what kind of flower\n you'll bloom into. | \n\n\n\n\n\n\n\n%R‘我想看看你会开出什么样的花’
+scn00_35_0246 | 子ども(Child) | 「……？」 | "...?" | “……？”
+scn00_35_0247 | - | \n\n\n\n\n\n\n\n%R『もしかすると、花がどうして美しいか理解できるかもしれない』 | \n\n\n\n\n\n\n%RMaybe then I'll be able to understand\n why flowers are so beautiful. | \n\n\n\n\n\n\n\n%R‘说不定，就能理解花为什么美丽了’
+scn00_35_0248 | - | %n;『あなたの花。どうすれば咲かせられますか？』 | %n;What can I do to help your flower bloom? | %n;‘你的花，要怎样才能绽放呢？’
+scn00_35_0249 | - | 思考回路で理解しようとしてもできない。 | My thought processors failed to analyze these words. | 无法通过思考回路来理解。
+scn00_35_0250 | - | それは、純粋な『見てみたい』という感情から発せられた言葉だった。 | They were born from a pure desire of "wanting to see." | 这只是单纯从‘想看’这个感情中产生的话语。
+scn00_35_0251 | - | ワタシの言葉に驚いた様子の子どもは、泣きやんで、おずおずと頭をこちらへ向けた。 | My words seemed to surprise the child. He stopped crying and timidly turned his head toward me. | 那个孩子听到我的话后似乎很吃惊，他停止了哭泣，小心翼翼地将头转向我。
+scn00_35_0252 | - | \n\n\n\n\n\n\n\n『少しでいいんで、頭を撫でてもらえませんか？』 | \n\n\n\n\n\n\nCould you pat me on the head?\n Just a few times is fine. | \n\n\n\n\n\n\n\n‘只要一会儿就好，可以摸摸我的头吗？’
+scn00_35_0253 | ＣＣＲ－０１(CCR-01) | （なぜ？） | (Why?) | （为什么？）
+scn00_35_0254 | - | 理解不能――理解不能――理解不能―― | I don't understand... I don't understand... I don't understand... | 无法理解——无法理解——无法理解——
+scn00_35_0255 | - | 要求を断る理由はない。 | There was no reason to reject his request. | 我没有理由拒绝这个要求。
+scn00_35_0256 | - | けれど、頼まれたからそれに従うのでは、本当の意味で子どもの望みを[かな]叶える事にはならないように思えた。 | However, I thought that simply complying with the request because I was asked to wouldn't truly fulfill the child's needs. | 但是，我认为按照要求去做并不能真正意义上实现他的愿望。
+scn00_35_0257 | ＣＣＲ－０１(CCR-01) | （何をすべきかではなく、何をしたいかで行動を決定すべきです） | (I should choose my actions by what I  to do, rather than by what I  do.) | （不能根据该做什么，而是应该根据想做什么来决定行动）
+scn00_35_0258 | - | なぜそう考えたのか理解不能―― | I couldn't understand why I thought that way. | 无法理解自己为什么会这样思考——
+scn00_35_0259 | - | 感情回路はまるでブラックボックスで、何かを入力して出力される答えとの間の結びつきに、論理性が見いだせない事が珍しくない。 | My emotional circuitry was like a black box, and often there seemed to be no logical connection between the input and the output. | 感情回路就像是一个黑箱，输入和输出之间没有逻辑性关联的情况并不少见。
+scn00_35_0260 | - | でもそれに従うべきだ。なぜなら、この感情回路こそがワタシが他のロボットと異なる最も大きな特徴だったから。 | But I knew I should follow it, because my emotional circuits were my most unique feature. It distinguished me from other robots. | 即便如此我也应该遵从，因为这个感情回路正是我不同于其他机器人的最大特征。
+scn00_35_0261 | - | ギュッ―― | Squeeze... | 抱住——
+scn00_35_0262 | - | ワタシは子どもの頭部を抱きしめてから、可能な限り優しい手つきで撫でた。 | I wrapped my arms around the boy's head and patted his hair as gently as I could. | 我抱着那孩子的头，尽可能温柔地用手抚摸着他。
+scn00_35_0263 | - | 自分から要求したくせに、子どもは驚いて身を固くしていた。 | The boy flinched, which was odd, because he was the one who had requested this. | 明明是自己要求的，他却因为吃惊而僵住了。
+scn00_35_0264 | ＣＣＲ－０１(CCR-01) | 「優しく撫でてあげると、大きく立派な花が咲くと聞いた事があります」 | "I heard that, if you're gentle, you can make big, magnificent flowers bloom." | “我听说被温柔抚摸过后，就能开出又大又漂亮的花”
+scn00_35_0265 | - | ワタシは言い訳じみた事を言う。 | I didn't know if those words excused my actions. | 我就像是在给自己找借口。
+scn00_35_0266 | - | これもまた、感情回路が導き出した言葉だ。 | They were yet again based on the output of my emotional circuits. | 这也是情感回路导出的话语。
+scn00_35_0267 | - | ワタシは自分の行動が飛躍していて、おかしい事を自覚していた。彼が要求したのは撫でる事で、抱きしめてほしいとは言わなかった。 | I was aware that I was skipping several steps and that I was behaving strangely. All he had asked was for me to pat his head. He never asked me to hug him. | 我知道自己的行为有些跳跃，他要求的只是抚摸，并没有说想让我抱他。
+scn00_35_0268 | 子ども(Child) | 「……グスッ……」 | "*sniffle*..." | “……呜……”
+scn00_35_0269 | - | やがて子どもはリラックスし、ワタシに身を預けてきた。 | Eventually, the child relaxed in my arms and leaned against me. | 他最终还是放松了下来，将身体靠在了我怀里。
+scn00_35_0270 | ＣＣＲ－０１(CCR-01) | （よかった。ワタシの取った行動は誤りではなかったようです） | (Good. It seems like my actions weren't a mistake.) | （太好了，我采取的行动似乎没有错误）
+scn00_35_0271 | - | そして―― | And then... | 然后——
+scn00_35_0272 | 子ども(Child) | 「……ぁぅあ……あり……が…………とぅ……」 | "Th...ank... you..." | “……谢……谢谢…………你……”
+scn00_35_0273 | - | 子どもは絞り出すように、しゃがれた声を必死に発した。 | The boy spoke with a hoarse whisper. | 那孩子拼命挤出了这样一句话。
+scn00_35_0274 | - | その声はワタシの聴覚センサーによって拾われ、感情回路に入力され、 | My auditory sensors picked up the sound and ran it through my emotional circuits. | 这句话被我的听觉传感器识别到后，传入了我的感情回路中。
+scn00_35_0275 | ＣＣＲ－０１(CCR-01) | （……安心……でしょうか。それとも喜び……？） | (Is this... relief? Or am I happy?) | （……这是……安心么，还是喜悦……？）
+scn00_35_0276 | - | 名状しがたい感情を出力するのだった。 | I didn't know the name of the emotion that it output. | 然后感情回路中输出了难以名状的感情。

@@ -1,0 +1,61 @@
+scn00_35_0120 | "Tiếng khóc chào đời lịch sự quá nhỉ."
+scn00_35_0121 | "Dữ liệu được cài đặt mặc định như vậy ạ."
+scn00_35_0122 | "Đúng thế thật, từ nay về sau chúng ta hãy cùng học thêm thật nhiều lời chào hỏi nữa nhé."
+scn00_35_0123 | "...... Nơi đây là đâu vậy ạ?"
+scn00_35_0124 | "Đây là cơ sở nghiên cứu tối tân bậc nhất niềm tự hào của Trung tâm. Nơi đây tiến hành rất nhiều nghiên cứu để kiến tạo nên tương lai. Này, em có biết bản thân mình là ai không?"
+scn00_35_0125 | "Tôi là...... CCR-01."
+scn00_35_0126 | Đó là mã số hiệu của tôi. Nó đã được khắc sâu vào bộ nhớ từ trước khi tôi ra đời.
+scn00_35_0127 | "Mô hình thử nghiệm người máy tiệm cận con người đến mức tối đa. Năng lực cùng những tác động tiềm tàng đến xã hội loài người vẫn là ẩn số, và tôi được tạo ra để nghiên cứu những điều đó."
+scn00_35_0128 | "Vậy, tôi là ai nào?"
+scn00_35_0129 | "Tiến sĩ Mitsumine Yoko. Nhà nghiên cứu chế tạo robot tự xưng là thiên tài, và là người đã phát triển ra tôi."
+scn00_35_0130 | "Giỏi lắm. Ngoan thật đấy. Nào nào, để ta xoa đầu khen thưởng nhé."
+scn00_35_0131 | "......"
+scn00_35_0132 | "Những lúc như thế này, em phải mỉm cười e thẹn một chút chứ. Đứa con ở nhà của ta lúc nào cũng làm thế cả."
+scn00_35_0133 | "...... Tôi đã ghi nhận học hỏi."
+scn00_35_0134 | "Thế nào, cảm nghĩ của em khi được sinh ra trên thế giới này ra sao?"
+scn00_35_0135 | "Cảm nghĩ...... khi được sinh ra...... trên thế giới."
+scn00_35_0136 | Đó là một câu hỏi thật khó.
+scn00_35_0137 | Tôi chỉ vừa mới ra đời cách đây ít phút, đối với bản thân hay thế giới bên ngoài, tôi chỉ nắm được những thông tin cơ bản đã được nạp sẵn từ trước.
+scn00_35_0138 | "...... Tôi rất mong chờ được trở thành một sự tồn tại có ích cho con người."
+scn00_35_0139 | Trả lời như vậy là chuẩn mực nhất, dữ liệu trong não bộ của tôi đã chỉ dẫn như thế.
+scn00_35_0140 | Thế nhưng Tiến sĩ dường như không mấy hài lòng với phản hồi đó, bà khẽ thở dài.
+scn00_35_0141 | "Vậy ta hỏi câu tiếp theo nhé."
+scn00_35_0142 | "Xin mời bà."
+scn00_35_0143 | "Em hãy nhìn cái này xem."
+scn00_35_0144 | "Đây là...... một bông hoa phải không ạ?"
+scn00_35_0145 | Tiến sĩ gật đầu.
+scn00_35_0146 | "Con người chúng ta khi nhìn ngắm những đóa hoa đều cảm thấy chúng thật đẹp. Còn em thì sao?"
+scn00_35_0147 | "Tôi có thể suy đoán rằng...... nó đẹp."
+scn00_35_0148 | "Vậy hãy trả lời ta."
+scn00_35_0149 | "Vì sao hoa lại đẹp đẽ đến thế?"
+scn00_35_0150 | "............"
+scn00_35_0151 | "...... (lắc đầu)"
+scn00_35_0152 | "Cử chỉ đó có nghĩa là gì vậy cà?"
+scn00_35_0153 | "Tôi không hiểu ạ."
+scn00_35_0154 | "Em không hiểu điều gì cơ? Lý do vì sao hoa lại đẹp ư?"
+scn00_35_0155 | "Không phải ạ. 'Đẹp' rốt cuộc là cái gì vậy ạ?"
+scn00_35_0156 | Trong khi đưa ra câu trả lời, mạch cảm xúc của tôi lại phát đi những tín hiệu tiêu cực.
+scn00_35_0157 | Tôi học được rằng không đáp ứng được kỳ vọng của con người là một điều không tốt.
+scn00_35_0158 | "...... Tôi vô cùng xin lỗi."
+scn00_35_0159 | "Đúng là một câu hỏi hơi khó quá nhỉ. Không sao đâu, từ giờ chúng ta sẽ cùng nhau học nhé."
+scn00_35_0160 | "Tôi đã hiểu, học hỏi là sở trường của tôi."
+scn00_35_0161 | Thấy tôi trả lời thật thà, Tiến sĩ khẽ đưa tay vuốt nhẹ mái tóc tôi.
+scn00_35_0162 | "Hì hì, đứa trẻ này nhất định sẽ thấu hiểu được vì sao hoa lại đẹp cho mà xem. Dẫu sao thì em cũng là kiệt tác vĩ đại nhất của ta cơ mà."
+scn00_35_0163 | Tôi liền nở một nụ cười e ấp ngượng ngùng. Đó là thành quả học tập mà tôi vừa lĩnh hội ban nãy.
+scn00_35_0164 | "Điều duy nhất khiến ta tiếc nuối... chính là không thể tận mắt chứng kiến tương lai do chính em kiến tạo nên."
+scn00_35_0165 | Khoảng nửa năm trôi qua kể từ ngày tôi mở mắt chào đời trên cõi đời này.
+scn00_35_0166 | Tôi được tin người phát triển ra tôi, Tiến sĩ Mitsumine Yoko, đã qua đời.
+scn00_35_0167 | Bấy lâu nay không thấy bóng dáng bà đâu, hóa ra lý do là như vậy.
+scn00_35_0168 | Con người sẽ chết.
+scn00_35_0169 | Cái chết rốt cuộc là gì?
+scn00_35_0170 | "Liệu có bao giờ tôi phải chết không?"
+scn00_35_0171 | Dù cơ thể có hư hại, dù toàn bộ linh kiện có vỡ vụn ra thành trăm mảnh, nhưng chỉ cần bản thiết kế còn đó thì người ta vẫn có thể tái tạo ra tôi một lần nữa.
+scn00_35_0172 | Liệu điều đó có được gọi là cái chết hay không?
+scn00_35_0173 | Hay đối với tôi, cái chết lại mang một dáng hình hoàn toàn khác?
+scn00_35_0174 | Dù thế nào đi nữa, cái chết vốn là đặc quyền của những sinh mệnh có sự sống, nên tôi suy đoán rằng có lẽ Tiến sĩ Mitsumine Yoko đã rất hạnh phúc.
+scn00_35_0175 | Vào thời điểm ấy, tôi đang ở vườn bách thảo.
+scn00_35_0176 | Có vẻ như tôi được phát triển trong vòng tối mật, nên không thể công khai sự tồn tại của mình ra ngoài.
+scn00_35_0177 | Mặt khác, tôi lại buộc phải tiếp xúc với con người để học hỏi cảm xúc từ họ.
+scn00_35_0178 | Vườn bách thảo vốn không có quá nhiều người qua lại, vả lại những người lui tới đây đa phần đều có tính cách hòa nhã, trầm tĩnh.
+scn00_35_0179 | Đối với một kẻ khao khát muốn biết vì sao hoa lại đẹp đẽ như tôi thì đây quả là một nơi vô cùng lý tưởng.
+scn00_35_0180 | Tôi ở nơi này dưới danh nghĩa là con gái của một nhà nghiên cứu, vì quá nhút nhát không thể đến trường học nên đến đây làm nhân viên tình nguyện viên.

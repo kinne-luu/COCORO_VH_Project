@@ -1,0 +1,58 @@
+# scene=scn00_28 batch=6/6 dòng 301-354 / 354
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_28_0301 | - | 思い当たる節があるとすれば、俺の誕生日だ。 | The only occasion I can think of would be for my birthday. | 要说节日的话，就是我的生日。
+scn00_28_0302 | - | 当時、市長として忙しい日々を送っていた父は、俺の誕生日にも家にいなかった。 | After he became mayor, my dad was always busy. He wasn't even home for my birthday. | 当时，身为市长日理万机的父亲，在我生日那天并没有回家。
+scn00_28_0303 | ひなた(Hinata) | （……いや、いなかったのは俺か） | (...Then again, I wasn't home for it, either.) | （……不，没回家的是我）
+scn00_28_0304 | - | 植物園から帰ると、冷蔵庫にケーキが入っていたのを覚えている。俺は食べなかったが。 | I remember finding a cake in the fridge after I got back from the garden. I didn't eat any of it. | 我记得从植物园回去后，发现冰箱里有一个蛋糕，但我并没有吃。
+scn00_28_0305 | - | これはもしかすると、渡しそびれた誕生日プレゼントだったんじゃないだろうか。 | But could this really be a birthday gift that my dad didn't get the chance to give to me? | 这难道是没能交给我的生日礼物吗。
+scn00_28_0306 | - | けど、じゃあどうしてここに？ | Why would it be ? | 但是又为什么会在这里？
+scn00_28_0307 | - | ラッピングに残っていた血の跡は？ | And what's with that bloodstain on the wrapping paper? | 包装上残留的血迹又是怎么回事？
+scn00_28_0308 | ひなた(Hinata) | （『厄災』の夜……父さんがここにいた？） | (Was Dad here on the night of the Calamity?) | （‘灾厄’之夜……父亲就在这里？）
+scn00_28_0309 | - | 飛んだまま停止していたドローンが着陸する音で、俺は振り返った。 | My drone, which had been hovering stationary in the air, lands behind me. I turn to look at it. | 我听到在空中悬停的无人机着陆的声音后回过了头。
+scn00_28_0310 | - | いつの間にかココロが戻ってきていた。 | I hadn't realized Cocoro was back. | 心不知何时已经回来了。
+scn00_28_0311 | ココロ(Cocoro) | 「…………」 | "..." | “…………”
+scn00_28_0312 | - | ココロがジッとこっちを見つめていた。 | She's quietly staring at me. | 心死死地盯着我。
+scn00_28_0313 | - | その瞳は、ぞっとするほど冷たい。 | The cold look in her eyes sends a chill down my spine. | 那双眼睛，冰冷得令人毛骨悚然。
+scn00_28_0314 | ココロ(Cocoro) | 「用は済みましたね。ではここを出ましょう。危険がないとも限りませんから」 | "We've finished our business here, right? Then let's leave. Our safety isn't guaranteed here." | “已经没事了吧，那么就离开这里吧，毕竟这里随时都会有危险”
+scn00_28_0315 | - | 声にも感情の色がない。 | There's no emotion in her voice. | 声音中不带一丝感情色彩。
+scn00_28_0316 | - | わかった――そう伝えようと彼女の手を取ろうとするが、するっとすり抜けるようにココロは俺から離れて先に歩き出す。 | I reach for her hand to reply with an "okay," but she pulls it back and starts walking away. | 我知道了——正当我想将这句话传达给她而试图牵住她的手时，但心却一下子抽走了手，远远地走在我前面。
+scn00_28_0317 | ひなた(Hinata) | （……ココロ？） | (Cocoro?) | （……心？）
+scn00_28_0318 | - | 追いついて、来た時のように手を握ろうとするが、ココロはそれを避けるように少し早足に俺の前を行く。 | I catch up with her and try to grab her hand again, wanting to walk hand-in-hand like when we came here. However, Cocoro takes a few quick steps ahead and dodges me. | 虽然我想追上她，像来时那样握住她的手，但心却像是在躲避我一般快步走在我前面。
+scn00_28_0319 | - | 部屋へ帰り着くまでココロの手は握れなかったし、一度も振り返らなかった。 | She doesn't let me hold her hand at all on our way home, and she won't look at me, either. | 直到回到房间，我都没能握到心的手，心也没有回过一次头。
+scn00_28_0320 | - | 部屋に戻ってきてから、俺は図鑑を見ていた。 | Back home, I have a look through the encyclopedia. | 回到房间后，我便看起了图鉴。
+scn00_28_0321 | - | これがほんとに、父さんから俺へのプレゼントなんだとして、 | If this is really a gift my father got for me... | 假设这真是父亲给我的礼物。
+scn00_28_0322 | ひなた(Hinata) | （なんであんなところにあったんだ） | (What was it doing at the garden?) | （但又为什么会出现在那个地方？）
+scn00_28_0323 | - | それに、包み紙に残った血の跡。 | And that dark stain on the wrapping paper... | 而且包装上还残留着血迹。
+scn00_28_0324 | - | 血のついた手で触ったように見える。 | It looked as if somebody touched it with bloody hands. | 看上去就像是被沾了血的手摸过一般。
+scn00_28_0325 | - | 俺は額を指でなぞる。 | I run my fingers over my forehead. | 我用手指摸着额头。
+scn00_28_0326 | - | 見た目にはもうほとんど分からないが、触ると縫い跡の感触がある。 | The scar has healed up nicely. It's barely visible anymore, but I can still feel where the stitches were. | 虽然已经基本看不出来了，但摸上去却依旧有缝合的触感。
+scn00_28_0327 | ひなた(Hinata) | （父さんが『厄災』の夜、植物園にいた……？） | (Was my dad at the garden on the night of the Calamity...?) | （‘灾厄’那夜，父亲在植物园里……？）
+scn00_28_0328 | - | ずっと不思議だった。気を失った俺をいったい誰が助けてくれたのかと。 | I've always wondered who carried me to safety after I lost consciousness. | 我一直都没想明白，到底是谁救了失去意识的我。
+scn00_28_0329 | - | 父さんだった？ | Was it Dad? | 是父亲吗？
+scn00_28_0330 | - | そんなはずはない。 | It couldn't be... | 不应该是这样。
+scn00_28_0331 | - | だったらなぜ、何も言わなかった。 | If it was, why has he never mentioned it? | 如果是这样，他又为何什么都没说。
+scn00_28_0332 | ひなた(Hinata) | （訳が分からない……） | (I don't get it...) | （太莫名其妙了……）
+scn00_28_0333 | - | 父さんとの事は、もう吹っ切れたつもりでいた。 | I've completely cut all ties with my dad. Kirika-san assumed the role of my guardian by taking me in. | 我原本以为和父亲之间的事已经彻底了结了。
+scn00_28_0334 | - | 霧香さんに引き取られる時に、親子の縁を切ったつもりでいたから。 | And I thought I was completely okay with that. | 毕竟我在被雾香小姐收养时，就打算断绝父子关系。
+scn00_28_0335 | - | でも、実は心の奥底に深く沈める事で、見て見ぬふりをしているだけだ。 | But I was just trying to avoid examining my own emotions by burying them deep inside my heart. | 但是，我其实只是将其深埋心底，装作看不见而已。
+scn00_28_0336 | - | だから九十九市に戻ってきた時、『あの市長の息子だ』と言われて、俺は不機嫌になるのを隠せなかった。 | That's why it was so hard to hide my discomfort when I first came back to Tsukumo City and people started calling me "that mayor's son." | 所以当我回到九十九市的时候，所以在听到有人说‘他是那个市长的儿子’的时候，也没能掩饰住自己不爽的情绪。
+scn00_28_0337 | - | 今、父の意味不明な行動の痕跡を見付けてしまって、ひどく困惑していた。 | And now that I've found evidence of my father doing something I never imagined he would do, I'm terribly confused. | 现在，我在发现父亲不明所以的行动轨迹后，感到十分困惑。
+scn00_28_0338 | ココロ(Cocoro) | 「ひなたさん」 | "Hinata-san." | “日向先生”
+scn00_28_0339 | ひなた(Hinata) | 「……？」 | "...?" | “……？”
+scn00_28_0340 | ココロ(Cocoro) | 「そろそろ眠りにつく時間ではないかと。明日の活動にも[さ]差し[さわ]障りますので、読書は一時中断すべきと進言します」 | "It's almost time for bed. You won't be able to function properly tomorrow without sleep, so I recommend that you stop reading now." | “差不多到睡觉时间了，为了防止影响到明天的活动，我建议暂时中断读书”
+scn00_28_0341 | ひなた(Hinata) | 「……ぁぅぁぅ……」 | "Ah, uh..." | “……啊呜啊呜……”
+scn00_28_0342 | ひなた(Hinata) | （そうだね） | (You're right.) | （是啊）
+scn00_28_0343 | - | ココロが布団を[し]敷いてくれる。 | Cocoro has laid out my futon for me. | 心为我铺好了床铺。
+scn00_28_0344 | ココロ(Cocoro) | 「では、おやすみなさい」 | "Good night." | “那么就晚安了”
+scn00_28_0345 | ひなた(Hinata) | （あれ？　ココロの布団は？） | (Huh? What about your futon?) | （咦？　心的床铺呢？）
+scn00_28_0346 | ココロ(Cocoro) | 「ワタシはあちらで眠ります。今夜は充電をしておきたいので」 | "I'll sleep over there. I need to recharge tonight." | “我会在那边睡觉，我今晚想充电”
+scn00_28_0347 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_28_0348 | - | ここのところ、充電している姿を見せたがらなかったのに。 | I thought she didn't want to recharge herself in front of me... | 明明最近都不想让我看到她充电的样子。
+scn00_28_0349 | ココロ(Cocoro) | 「では、あらためまして、おやすみなさいませ」 | "Good night for real, now." | “那么，我在对您说一次，晚安”
+scn00_28_0350 | - | ココロは部屋の電気を消すと、壁際に直立したままスリープ状態に入った。 | Cocoro turns off the light and enters sleep mode while standing up near the wall. | 心关掉房间里的灯后，便站在墙边进入了睡眠模式。
+scn00_28_0351 | - | まるでロボットみたいだ。 | Almost like she's a robot. | 就像是机器人一样。
+scn00_28_0352 | ひなた(Hinata) | （まるでもなにも、ココロは……） | (No, wait, Cocoro  a...) | （像不像的，心本来就是……）
+scn00_28_0353 | - | 父の事で頭がいっぱいだったのもあって、俺は深く考えず眠りについた。 | With my mind still preoccupied with thoughts about my father, I fall into a deep sleep. | 我现在满脑子都是关于父亲的事，所以没多想就睡去了。
+scn00_28_0354 | - | 翌朝、俺が目覚めた時には、ココロはいなくなっていた。 | When I wake up the next morning, Cocoro is gone. | 第二天早上，当我醒来时，心已经不见了。

@@ -1,0 +1,68 @@
+# scene=scn00_48 batch=3/4 dòng 121-184 / 223
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_48_0121 | ひなた(Hinata) | 「ごめん、遅刻しちゃった」 | "I'm so sorry for being late." | “对不起，我来晚了”
+scn00_48_0122 | ココロ(Cocoro) | 「あなたのそういった気質は理解していますし、ナビちゃんからずっと行動記録が送られてきていました」 | "I already know that you're susceptible to lateness, and Navi-chan has been sending me updates on your whereabouts." | “我清楚你就是这种性格的人，而且小导航也一直都在将你的行动轨迹发送给我”
+scn00_48_0123 | ココロ(Cocoro) | 「出張、お疲れ様でした」 | "You must be tired from the business trip." | “出差辛苦了”
+scn00_48_0124 | ひなた(Hinata) | 「だからって、ひどいじゃないか。目覚める瞬間を見たかったのに！」 | "Still, that doesn't excuse me from being late to your awakening! I wanted to see it!" | “但这样也太过分了吧，我明明还想看看你睁开眼的瞬间呢！”
+scn00_48_0125 | ココロ(Cocoro) | 「１秒でも早く、味わいたかったんです。セカイの美しさを」 | "I just couldn't wait another second to experience the beauty of the world again." | “我想尽快感受世界的美丽，哪怕早1秒也好”
+scn00_48_0126 | ひなた(Hinata) | 「どう、感触のあるセカイは？」 | "So, how does it feel to be physically present in the world again?" | “能够触摸到的世界如何？”
+scn00_48_0127 | ココロ(Cocoro) | 「いいですね、グッドです」 | "It feels good. Great, actually." | “真好啊，很Good”
+scn00_48_0128 | - | ふにふにと、俺の頬を触りながら言う。 | She repeatedly pinches my cheeks as she speaks. | 她一边捏着我的脸颊一边说道。
+scn00_48_0129 | ココロ(Cocoro) | 「ずっと触れたかった……ふふ、ひなたさんだ」 | "I've been waiting so long to touch you again... Hehe, it's the real Hinata-san..." | “我一直都想摸摸……嘿嘿，真的是日向先生”
+scn00_48_0130 | ひなた(Hinata) | 「やめてよ、くすぐったいって」 | "Stop it, that tickles." | “快住手啦，很痒啊”
+scn00_48_0131 | ココロ(Cocoro) | 「むー」 | "Boo..." | “呣——”
+scn00_48_0132 | ひなた(Hinata) | 「どうかした？」 | "Is something wrong?" | “怎么了？”
+scn00_48_0133 | ココロ(Cocoro) | 「少し、背が伸びましたね」 | "I just noticed. You've grown a bit taller." | “你稍微长高了一点呢”
+scn00_48_0134 | ひなた(Hinata) | 「あー……あの頃はまだ、成長期の途中だったから」 | "Oh... Yeah, I was still growing back then." | “啊……毕竟那时我还处于成长期中啊”
+scn00_48_0135 | ココロ(Cocoro) | 「それに……オトナっぽくなりました」 | "And... You've become more manly." | “而且……也变得成熟了”
+scn00_48_0136 | ひなた(Hinata) | 「ずっと見てただろ」 | "You've been watching me all along, haven't you?" | “你不是一直都在看着我吗”
+scn00_48_0137 | - | ココロはバーチャル空間にいて、毎日顔を合わせていたし、実のところ我が社の業務をかなりの割合、手伝ってくれていた。 | While Cocoro lived in that virtual space, we saw each other every day. She actually played a significant role in our company's work and helped us out a great deal. | 心在虚拟空间里每天都会和我见面，而且实际上我们公司很大一部分业务都是她在帮忙。
+scn00_48_0138 | ココロ(Cocoro) | 「ワタシも少しオトナっぽくなったと思いませんか？」 | "Don't you think I've matured a little, too?" | “你不觉得我也变得稍微成熟了一点吗？”
+scn00_48_0139 | ココロ(Cocoro) | 「霧香によく言っておきましたから、豊満なオトナのボディにするようにと」 | "I've made sure to remind Kirika over and over to give me a more voluptuous body." | “我可是经常对雾香说，让她给我做一个丰满成熟的身体”
+scn00_48_0140 | - | 豊満とはほど遠いが、多少のマイナーチェンジはされていた。 | I wouldn't exactly describe her new look as "voluptuous," but there have definitely been some minor adjustments. | 虽然距离丰满还很遥远，但还是稍微有一些局部改变。
+scn00_48_0141 | ひなた(Hinata) | 「最高だよ」 | "You look amazing." | “非常棒啊”
+scn00_48_0142 | ココロ(Cocoro) | 「でしょうとも」 | "I bet I do." | “我就知道”
+scn00_48_0143 | ココロ(Cocoro) | 「ぴぴぴ、ぴぴぴ、そろそろ時間です」 | "Beep beep, beep beep... It's almost time." | “哔哔哔，哔哔哔，差不多要到时间了”
+scn00_48_0144 | ひなた(Hinata) | 「なに、急にっ」 | "What was that?" | “怎么了，这么突然”
+scn00_48_0145 | ココロ(Cocoro) | 「リマインダーです。予定の１５分前です」 | "A reminder. We've got fifteen minutes until it's time." | “这是一个提醒，我定在了预定事项的15分钟前”
+scn00_48_0146 | ひなた(Hinata) | 「やめてよそれ、心臓に悪いから……」 | "Can you stop doing that? It's bad for my heart..." | “你快别这样了，这样对心脏不太好……”
+scn00_48_0147 | ココロ(Cocoro) | 「例の物は用意してくれましたか？」 | "Did you bring the thing?" | “那个东西准备好了吗？”
+scn00_48_0148 | ひなた(Hinata) | 「ちゃんと回収してきたよ」 | "Yeah, I went and grabbed it." | “已经回收了”
+scn00_48_0149 | ココロ(Cocoro) | 「そうですか。……ムフフ」 | "Good... Ehehe..." | “这样啊……呣嘿嘿”
+scn00_48_0150 | ひなた(Hinata) | 「じゃあ、準備しに戻ろうか。もうすぐみんな集まってきちゃう」 | "Let's head back and get ready. Everyone will be here soon." | “那就回去准备一下吧，一会儿大家就要来了”
+scn00_48_0151 | - | ココロのボディを復元するのに必要な最後のパーツが届き、組み上がった日。 | A few days ago, the last part we needed to restore Cocoro's body arrived, so we installed it immediately. | 那是在心修复身体所需最后一个零件抵达并将其组装上去的日子。
+scn00_48_0152 | - | モニタの中にいるココロに、俺はなにげなく[たず]尋ねた。 | Cocoro was watching our progress via the monitor, so I casually asked her... | 我随口对屏幕中的心问道。
+scn00_48_0153 | ひなた(Hinata) | 「目覚めたら、最初に何がしたい？」 | "What do you want to do first after you wake up?" | “你醒过来之后，第一件事想做什么？”
+scn00_48_0154 | - | するとココロは、迷わずこう答えた。 | She answered without hesitation. | 然后心便毫不犹豫地回到道。
+scn00_48_0155 | ココロ(Cocoro) | 『結婚式がしたいです』 | "I want to have a wedding." | “我想举办婚礼”
+scn00_48_0156 | - | おそらく史上初の快挙か、さもなくば愚行か、今日ここで人とヒューマノイドの結婚式が執り行われようとしていた。 | Whether this will go down in history as a groundbreaking event or a moment of sheer folly, I'll never know, but today, the first wedding between a human and a humanoid is about to take place. | 这或许是历史上第一次的壮举，亦或是愚行，今天这里将举办人类和仿生人的婚礼。
+scn00_48_0157 | 司会者(Officiant) | 「それでは続いて、新婦入場」 | "Next, the bride will make her entrance." | “那么接下来，我们有请新娘入场”
+scn00_48_0158 | - | 通路を抜け新婦が姿を現すと、列席者から『おお～』と感嘆の声が漏れた。 | When the bride appears in the back of the aisle, a collective gasp of admiration rises from the guests. | 当新娘走上红毯后，出席者们纷纷发出了‘哦哦～’的感叹声。
+scn00_48_0159 | ココロ(Cocoro) | 「ムフン、ワタシの晴れ姿をやっと皆さんにお見せできました」 | "Hehe, I can finally show off my most beautiful form to everyone." | “嗯哼，终于是让大家看到我盛装打扮的样子了”
+scn00_48_0160 | - | 得意げに、満足げにココロは祝福する人々の間を歩いてきて、俺の隣りに並ぶ。 | With a satisfied look on her face, Cocoro smugly walks down the aisle between the guests and stops when she reaches my side. | 一脸得意且心满意足的心从前来祝福我们的人群之间走过，来到了我的身边。
+scn00_48_0161 | 司会者(Officiant) | 「では、証人となってくださる皆様へ、誓いの言葉をお願いします。まずは新郎様から」 | "Now, I'll ask you to say your vows in front of everybody that has assembled to be your witnesses. The groom will go first." | “那么，接下来就有请二位向各位见证者们许下誓言，先从新郎开始吧”
+scn00_48_0162 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_48_0163 | - | ココロを見つめ無言になる俺を、皆が見守る。 | The guests watch over us as I take a deep breath and look Cocoro in the eyes. | 大家注视着默默看向心的我。
+scn00_48_0164 | ひなた(Hinata) | 「昔、ココロが約束してくれた事があります」 | "Many years ago, Cocoro made a promise to me." | “曾经，心和我做了一个约定”
+scn00_48_0165 | ひなた(Hinata) | 「俺に、帰る場所を作ってくれるって」 | "She promised she would create a home for me to return to." | “要为我制造一个归宿”
+scn00_48_0166 | ひなた(Hinata) | 「一度は失われた故郷、九十九市は今、ツクモ市として生まれ変わりました」 | "Previously destroyed, our hometown of Tsukumo City has now been reborn as New Tsukumo City." | “我这个一度不复存在的故乡，九十九市，现在已经重生成了次百市”
+scn00_48_0167 | ひなた(Hinata) | 「そこに俺の帰りたかった場所があります。今この瞬間――ふたりで交わした約束が叶う日」 | "Within this city, there's a place I've always wanted to return to. And now, at this very moment, the promise we made has been fulfilled." | “这里有我想要回去的地方。现在这个瞬间——在我们二人一同许下的约定实现之日”
+scn00_48_0168 | ひなた(Hinata) | 「これから先の未来、俺はこの場所を守っていくと誓います。ココロとふたりで」 | "I promise that I will protect the future of this place forevermore, hand in hand with Cocoro." | “我发誓，今后我会和心两个人一起守护这里”
+scn00_48_0169 | 司会者(Officiant) | 「では、新婦様」 | "Next, the bride will recite her vows." | “那么，新娘请”
+scn00_48_0170 | ココロ(Cocoro) | 「ワタシはひなたさんの帰る場所を、作ってあげられたんですね」 | "I'm glad I was able to create a place for Hinata-san to come home to." | “我为日向先生制造出了归宿呢”
+scn00_48_0171 | ココロ(Cocoro) | 「ヒトではない、ふつつかなワタシですが、ひなたさんとあたたかな家庭を作り、守っていくと誓います」 | "I may not be human, and I'm still learning, but I promise I'll build a warm home with Hinata-san and protect it." | “我发誓，小女子不才，自己不是人类，但我还是要和日向先生一同构建出温暖的家庭，并守护这个家庭”
+scn00_48_0172 | 司会者(Officiant) | 「皆様、拍手をお願いします」 | "Everyone, please give them a round of applause." | “各位，请鼓掌”
+scn00_48_0173 | 風音(Kazane) | 「ひなたー！　ココロちゃーん！　おめでとう！！！」 | "Hinata! Cocoro-chaaaan! Congratulations!" | “日向——！　心——！　恭喜你们！！！”
+scn00_48_0174 | こさめ(Kosame) | 「ココちゃん、キレイだよー」 | "Coco-chan, you look stunning!" | “心儿，你很漂亮哦——”
+scn00_48_0175 | 大地(Daichi) | 「やっとか……よかったな、ひなた！」 | "It's about damn time... Good for you, Hinata!" | “终于是走到这一步了啊……太好了，日向！”
+scn00_48_0176 | - | この日のために集まってきてくれた皆の声が耳に届く。 | I can hear the voices of all my loved ones who've gathered on this special day. | 为了这一天而聚集在这里的大家的声音都传到了我的耳中。
+scn00_48_0177 | - | みんな大人になり、それぞれの道を歩んでいた。 | They've all grown up and gone their own ways. | 大家都已经长大了，踏上了各自的道路。
+scn00_48_0178 | - | 風音はツクモ市の職員として働いている。 | Kazane works at the city hall here in town as a civil servant. | 风音在做着次百市公务员的工作。
+scn00_48_0179 | - | 未来の市長候補として、今は困ってる街の住民たちのために日々奮闘している。 | She's currently running for mayor, and she dedicates her days to helping residents of the city who may be struggling. | 作为未来的市长候补，现在也依旧每天都在为了有困难的居民们而奋斗着。
+scn00_48_0180 | - | 大地は実家のケーキ屋を[つ]継ぎ、店を繁盛させている。 | Daichi took over his family's confectionery shop, and the business is thriving. | 大地继承了家里的蛋糕店，并将其发展了起来。
+scn00_48_0181 | - | 今や市内に３つの店舗を構える人気店だ。 | It now has three locations throughout the city. | 他家的店现在已经是在市内拥有3家店铺的人气店了。
+scn00_48_0182 | - | クレープに始まったココちゃん印のスイーツシリーズが、店の看板メニューだった。 | The Coco-chan brand dessert series, which started with crepes but quickly branched out into other items, is the store's signature line of products. | 以可丽饼为首的心儿款甜点系列已经成为了店里的招牌。
+scn00_48_0183 | - | こさめちゃんは、うちの会社で事務の仕事をしながら、被験者という形でサイボーグ手術を受け、また歩けるようになった。 | Kosame-chan has been doing administrative work at our company, and she recently underwent experimental cybernetic surgery. As a result, she's now able to walk again. | 小雨则是一边在我们公司做着文职工作，一边以实验者的身份接受了赛博改造手术，现在已经能再次走路了。
+scn00_48_0184 | - | ココロのボディにも使われている技術を転用したもので、こさめちゃんはそのモニタとして、新しい技術の開発に協力してくれている。 | The cybernetic implants Kosame-chan received were adapted from the technology used in Cocoro's body. The data from those trials greatly contributed to the development of new medical technology. | 因为这运用了心身体上使用的技术，所以小雨便以监视器的身份协助着新技术的开发。

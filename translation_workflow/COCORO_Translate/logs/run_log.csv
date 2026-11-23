@@ -1,0 +1,727 @@
+time,cmd,scene,batch,status,detail
+2026-11-19T10:26:45,extract,scn00_00,1,ok,11 dòng
+2026-11-19T10:27:26,check,scn00_00,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T10:27:45,merge,scn00_00,1,ok,11 dòng
+2026-11-19T10:28:39,extract,scn00_01,1,ok,61 dòng
+2026-11-19T10:29:32,check,scn00_01,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T10:29:50,merge,scn00_01,1,ok,61 dòng
+2026-11-19T10:30:24,extract,scn00_01,2,ok,25 dòng
+2026-11-19T10:30:59,check,scn00_01,2,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T10:31:15,merge,scn00_01,2,ok,25 dòng
+2026-11-19T10:36:16,check,scn00_00,1,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T10:36:19,check,scn00_01,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T10:36:23,check,scn00_01,2,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T10:36:39,merge,scn00_00,1,ok,11 dòng
+2026-11-19T10:36:59,merge,scn00_01,1,ok,61 dòng
+2026-11-19T10:36:59,merge,scn00_01,2,ok,25 dòng
+2026-11-19T10:37:40,extract,scn00_02,1,ok,60 dòng
+2026-11-19T10:38:38,check,scn00_02,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T10:38:57,merge,scn00_02,1,ok,60 dòng
+2026-11-19T10:39:27,extract,scn00_02,2,ok,60 dòng
+2026-11-19T10:40:18,check,scn00_02,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T10:40:37,merge,scn00_02,2,ok,60 dòng
+2026-11-19T10:41:07,extract,scn00_02,3,ok,60 dòng
+2026-11-19T10:42:08,check,scn00_02,3,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T10:42:30,merge,scn00_02,3,ok,60 dòng
+2026-11-19T10:42:55,extract,scn00_02,4,ok,59 dòng
+2026-11-19T10:43:53,check,scn00_02,4,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T10:44:22,merge,scn00_02,4,ok,59 dòng
+2026-11-19T10:45:08,extract,scn00_02,5,ok,51 dòng
+2026-11-19T10:45:53,check,scn00_02,5,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T10:46:16,merge,scn00_02,5,ok,51 dòng
+2026-11-19T10:49:25,extract,scn00_03,1,ok,58 dòng
+2026-11-19T10:59:27,check,scn00_03,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T10:59:52,merge,scn00_03,1,ok,58 dòng
+2026-11-19T11:00:16,extract,scn00_03,2,ok,57 dòng
+2026-11-19T11:02:39,extract,scn00_03,3,ok,61 dòng
+2026-11-19T11:02:45,extract,scn00_03,4,ok,43 dòng
+2026-11-19T11:14:46,check,scn00_03,2,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T11:14:57,check,scn00_03,3,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T11:15:07,check,scn00_03,4,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T11:17:25,merge,scn00_03,2,ok,57 dòng
+2026-11-19T11:18:01,merge,scn00_03,3,ok,61 dòng
+2026-11-19T11:18:32,merge,scn00_03,4,ok,43 dòng
+2026-11-19T11:27:56,extract,scn00_04,1,ok,60 dòng
+2026-11-19T11:28:15,extract,scn00_04,2,ok,60 dòng
+2026-11-19T11:28:15,extract,scn00_04,3,ok,61 dòng
+2026-11-19T11:28:15,extract,scn00_04,4,ok,61 dòng
+2026-11-19T11:28:15,extract,scn00_04,5,ok,59 dòng
+2026-11-19T11:28:15,extract,scn00_04,6,ok,26 dòng
+2026-11-19T11:43:54,check,scn00_03,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T11:44:09,check,scn00_04,1,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T11:44:26,check,scn00_04,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T11:44:40,check,scn00_04,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T11:45:15,merge,scn00_03,1,ok,58 dòng
+2026-11-19T11:45:52,merge,scn00_04,1,ok,60 dòng
+2026-11-19T11:45:52,merge,scn00_04,2,ok,60 dòng
+2026-11-19T11:45:52,merge,scn00_04,3,ok,61 dòng
+2026-11-19T11:57:32,check,scn00_04,4,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T11:57:54,check,scn00_04,5,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T11:58:06,check,scn00_04,6,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T11:58:33,merge,scn00_04,1,ok,60 dòng
+2026-11-19T11:58:33,merge,scn00_04,2,ok,60 dòng
+2026-11-19T11:58:33,merge,scn00_04,3,ok,61 dòng
+2026-11-19T11:58:33,merge,scn00_04,4,ok,61 dòng
+2026-11-19T11:58:33,merge,scn00_04,5,ok,59 dòng
+2026-11-19T11:58:33,merge,scn00_04,6,ok,26 dòng
+2026-11-19T11:59:57,extract,scn00_05,1,ok,59 dòng
+2026-11-19T11:59:57,extract,scn00_05,2,ok,60 dòng
+2026-11-19T11:59:57,extract,scn00_05,3,ok,80 dòng
+2026-11-19T12:11:22,check,scn00_05,1,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T12:20:47,check,scn00_05,1,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T12:20:57,check,scn00_05,2,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T12:21:07,check,scn00_05,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T12:21:20,merge,scn00_05,1,ok,59 dòng
+2026-11-19T12:21:20,merge,scn00_05,2,ok,60 dòng
+2026-11-19T12:21:20,merge,scn00_05,3,ok,80 dòng
+2026-11-19T12:22:36,extract,scn00_06,1,ok,60 dòng
+2026-11-19T12:22:36,extract,scn00_06,2,ok,60 dòng
+2026-11-19T12:22:36,extract,scn00_06,3,ok,60 dòng
+2026-11-19T12:22:36,extract,scn00_06,4,ok,60 dòng
+2026-11-19T12:22:36,extract,scn00_06,5,ok,60 dòng
+2026-11-19T12:22:36,extract,scn00_06,6,ok,71 dòng
+2026-11-19T12:32:36,check,scn00_05,1,FAIL,2 lỗi; 1 cảnh báo
+2026-11-19T12:32:44,check,scn00_05,2,FAIL,2 lỗi; 2 cảnh báo
+2026-11-19T12:32:52,check,scn00_05,3,FAIL,2 lỗi; 1 cảnh báo
+2026-11-19T12:33:11,check,scn00_05,1,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T12:33:19,check,scn00_05,2,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T12:33:26,check,scn00_05,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T12:33:42,check,scn00_06,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T12:33:48,check,scn00_06,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T12:33:54,check,scn00_06,3,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T12:35:13,merge,scn00_05,1,ok,59 dòng
+2026-11-19T12:35:13,merge,scn00_05,2,ok,60 dòng
+2026-11-19T12:35:13,merge,scn00_05,3,ok,80 dòng
+2026-11-19T12:35:32,merge,scn00_06,1,ok,60 dòng
+2026-11-19T12:35:32,merge,scn00_06,2,ok,60 dòng
+2026-11-19T12:35:32,merge,scn00_06,3,ok,60 dòng
+2026-11-19T12:40:44,extract,scn00_07,1,ok,60 dòng
+2026-11-19T12:40:50,extract,scn00_07,2,ok,72 dòng
+2026-11-19T12:40:57,extract,scn00_08,1,ok,61 dòng
+2026-11-19T12:41:03,extract,scn00_08,2,ok,59 dòng
+2026-11-19T12:41:09,extract,scn00_08,3,ok,70 dòng
+2026-11-19T12:50:22,extract,scn00_07,1,ok,60 dòng
+2026-11-19T12:50:30,extract,scn00_07,2,ok,72 dòng
+2026-11-19T12:52:36,check,scn00_07,1,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T12:52:42,check,scn00_07,2,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T12:53:11,check,scn00_05,1,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T12:53:22,check,scn00_05,2,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T12:54:21,check,scn00_05,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T12:57:27,merge,scn00_05,1,ok,59 dòng
+2026-11-19T12:57:27,merge,scn00_05,2,ok,60 dòng
+2026-11-19T12:57:27,merge,scn00_05,3,ok,80 dòng
+2026-11-19T12:57:50,check,scn00_08,1,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T12:58:44,check,scn00_08,2,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T12:58:49,check,scn00_08,3,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T12:59:32,merge,scn00_07,1,ok,60 dòng
+2026-11-19T12:59:32,merge,scn00_07,2,ok,72 dòng
+2026-11-19T13:01:24,merge,scn00_08,1,ok,61 dòng
+2026-11-19T13:01:24,merge,scn00_08,2,ok,59 dòng
+2026-11-19T13:01:24,merge,scn00_08,3,ok,70 dòng
+2026-11-19T13:13:28,check,scn00_06,4,PASS,0 lỗi; 5 cảnh báo
+2026-11-19T13:13:44,check,scn00_06,5,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T13:13:59,check,scn00_06,6,PASS,0 lỗi; 5 cảnh báo
+2026-11-19T13:14:28,merge,scn00_06,1,ok,60 dòng
+2026-11-19T13:14:28,merge,scn00_06,2,ok,60 dòng
+2026-11-19T13:14:28,merge,scn00_06,3,ok,60 dòng
+2026-11-19T13:14:28,merge,scn00_06,4,ok,60 dòng
+2026-11-19T13:14:28,merge,scn00_06,5,ok,60 dòng
+2026-11-19T13:14:28,merge,scn00_06,6,ok,71 dòng
+2026-11-19T13:48:17,check,scn00_09,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T13:48:29,check,scn00_09,2,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T13:48:43,check,scn00_09,3,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T13:49:12,merge,scn00_09,1,ok,59 dòng
+2026-11-19T13:49:12,merge,scn00_09,2,ok,60 dòng
+2026-11-19T13:49:12,merge,scn00_09,3,ok,60 dòng
+2026-11-19T13:50:13,merge,scn00_09,1,ok,59 dòng
+2026-11-19T13:50:13,merge,scn00_09,2,ok,60 dòng
+2026-11-19T13:50:13,merge,scn00_09,3,ok,60 dòng
+2026-11-19T13:53:57,check,scn00_09,4,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T13:54:07,check,scn00_09,5,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T13:54:26,check,scn00_09,6,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T13:54:40,extract,scn00_10,1,ok,60 dòng
+2026-11-19T13:54:47,extract,scn00_10,2,ok,59 dòng
+2026-11-19T13:54:54,merge,scn00_09,1,ok,59 dòng
+2026-11-19T13:54:54,merge,scn00_09,2,ok,60 dòng
+2026-11-19T13:54:54,merge,scn00_09,3,ok,60 dòng
+2026-11-19T13:54:54,merge,scn00_09,4,ok,60 dòng
+2026-11-19T13:54:54,merge,scn00_09,5,ok,60 dòng
+2026-11-19T13:54:54,merge,scn00_09,6,ok,48 dòng
+2026-11-19T13:55:17,extract,scn00_10,3,ok,60 dòng
+2026-11-19T13:55:41,extract,scn00_10,4,ok,60 dòng
+2026-11-19T13:55:46,extract,scn00_10,5,ok,28 dòng
+2026-11-19T13:57:10,check,scn00_10,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T13:57:12,check,scn00_10,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T13:57:19,check,scn00_10,2,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T13:57:21,check,scn00_10,2,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T13:57:26,check,scn00_10,3,PASS,0 lỗi; 6 cảnh báo
+2026-11-19T13:57:34,check,scn00_10,4,PASS,0 lỗi; 5 cảnh báo
+2026-11-19T13:57:34,check,scn00_10,3,PASS,0 lỗi; 6 cảnh báo
+2026-11-19T13:57:39,check,scn00_10,5,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T13:58:31,check,scn00_10,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T13:58:42,check,scn00_10,2,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T13:58:52,check,scn00_10,3,PASS,0 lỗi; 6 cảnh báo
+2026-11-19T14:01:11,merge,scn00_10,1,ok,60 dòng
+2026-11-19T14:01:11,merge,scn00_10,2,ok,59 dòng
+2026-11-19T14:01:11,merge,scn00_10,3,ok,60 dòng
+2026-11-19T14:01:11,merge,scn00_10,4,ok,60 dòng
+2026-11-19T14:01:11,merge,scn00_10,5,ok,28 dòng
+2026-11-19T14:02:04,check,scn00_10,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T14:05:16,check,scn00_10,4,PASS,0 lỗi; 5 cảnh báo
+2026-11-19T14:05:25,check,scn00_10,5,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T14:06:08,check,scn00_11,1,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T14:06:19,check,scn00_11,2,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T14:06:26,merge,scn00_10,1,ok,60 dòng
+2026-11-19T14:06:26,merge,scn00_10,2,ok,59 dòng
+2026-11-19T14:06:26,merge,scn00_10,3,ok,60 dòng
+2026-11-19T14:06:26,merge,scn00_10,4,ok,60 dòng
+2026-11-19T14:06:26,merge,scn00_10,5,ok,28 dòng
+2026-11-19T14:06:53,check,scn00_11,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T14:08:24,merge,scn00_10,1,ok,60 dòng
+2026-11-19T14:08:24,merge,scn00_10,2,ok,59 dòng
+2026-11-19T14:08:24,merge,scn00_10,3,ok,60 dòng
+2026-11-19T14:08:24,merge,scn00_10,4,ok,60 dòng
+2026-11-19T14:08:24,merge,scn00_10,5,ok,28 dòng
+2026-11-19T14:11:02,merge,scn00_10,1,ok,60 dòng
+2026-11-19T14:11:02,merge,scn00_10,2,ok,59 dòng
+2026-11-19T14:11:02,merge,scn00_10,3,ok,60 dòng
+2026-11-19T14:11:02,merge,scn00_10,4,ok,60 dòng
+2026-11-19T14:11:02,merge,scn00_10,5,ok,28 dòng
+2026-11-19T14:11:32,merge,scn00_11,1,ok,60 dòng
+2026-11-19T14:11:32,merge,scn00_11,2,ok,59 dòng
+2026-11-19T14:11:32,merge,scn00_11,3,ok,49 dòng
+2026-11-19T14:23:39,check,scn00_12,1,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T14:23:55,check,scn00_12,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T14:24:14,check,scn00_12,3,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T14:24:48,merge,scn00_12,1,ok,60 dòng
+2026-11-19T14:24:48,merge,scn00_12,2,ok,60 dòng
+2026-11-19T14:24:48,merge,scn00_12,3,ok,60 dòng
+2026-11-19T14:25:17,check,scn00_12,1,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T14:29:20,merge,scn00_12,1,ok,60 dòng
+2026-11-19T14:29:20,merge,scn00_12,2,ok,60 dòng
+2026-11-19T14:29:20,merge,scn00_12,3,ok,60 dòng
+2026-11-19T14:29:20,merge,scn00_12,4,ok,59 dòng
+2026-11-19T14:29:20,merge,scn00_12,5,ok,56 dòng
+2026-11-19T14:48:16,check,scn00_13,1,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T14:48:30,check,scn00_13,2,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T14:48:43,check,scn00_13,3,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T14:49:14,merge,scn00_13,1,ok,60 dòng
+2026-11-19T14:49:48,merge,scn00_13,2,ok,60 dòng
+2026-11-19T14:50:18,merge,scn00_13,3,ok,47 dòng
+2026-11-19T14:52:23,extract,scn00_14,1,ok,58 dòng
+2026-11-19T14:52:35,extract,scn00_14,2,ok,59 dòng
+2026-11-19T14:52:47,extract,scn00_14,3,ok,60 dòng
+2026-11-19T14:52:58,extract,scn00_14,4,ok,62 dòng
+2026-11-19T14:53:08,extract,scn00_14,5,ok,48 dòng
+2026-11-19T15:05:51,check,scn00_14,1,PASS,0 lỗi; 6 cảnh báo
+2026-11-19T15:06:01,check,scn00_14,2,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T15:06:12,check,scn00_14,3,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T15:06:33,merge,scn00_14,1,ok,58 dòng
+2026-11-19T15:06:56,merge,scn00_14,2,ok,59 dòng
+2026-11-19T15:07:13,merge,scn00_14,3,ok,60 dòng
+2026-11-19T15:13:46,check,scn00_14,4,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T15:13:56,check,scn00_14,5,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T15:14:21,merge,scn00_14,4,ok,62 dòng
+2026-11-19T15:14:50,merge,scn00_14,5,ok,48 dòng
+2026-11-19T15:18:40,check,scn00_15,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T15:18:51,check,scn00_15,2,PASS,0 lỗi; 5 cảnh báo
+2026-11-19T15:19:05,check,scn00_15,3,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T15:19:32,merge,scn00_15,1,ok,60 dòng
+2026-11-19T15:20:01,merge,scn00_15,2,ok,59 dòng
+2026-11-19T15:20:29,merge,scn00_15,3,ok,60 dòng
+2026-11-19T15:23:06,check,scn00_15,4,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T15:23:16,check,scn00_15,5,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T15:23:29,check,scn00_15,6,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T15:23:44,merge,scn00_15,4,ok,60 dòng
+2026-11-19T15:24:10,merge,scn00_15,5,ok,60 dòng
+2026-11-19T15:24:35,merge,scn00_15,6,ok,59 dòng
+2026-11-19T15:26:50,check,scn00_15,7,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T15:27:11,merge,scn00_15,7,ok,58 dòng
+2026-11-19T15:35:23,merge,scn00_16,1,ok,60 dòng
+2026-11-19T15:35:23,merge,scn00_16,2,ok,60 dòng
+2026-11-19T15:35:23,merge,scn00_16,3,ok,60 dòng
+2026-11-19T15:54:15,merge,scn00_16,4,ok,36 dòng
+2026-11-19T16:08:33,merge,scn00_17,1,ok,59 dòng
+2026-11-19T16:08:33,merge,scn00_17,2,ok,59 dòng
+2026-11-19T16:08:33,merge,scn00_17,3,ok,60 dòng
+2026-11-19T16:10:07,merge,scn00_17,1,ok,59 dòng
+2026-11-19T16:10:07,merge,scn00_17,2,ok,59 dòng
+2026-11-19T16:10:07,merge,scn00_17,3,ok,60 dòng
+2026-11-19T16:17:14,merge,scn00_17,1,ok,59 dòng
+2026-11-19T16:17:14,merge,scn00_17,2,ok,59 dòng
+2026-11-19T16:17:14,merge,scn00_17,3,ok,60 dòng
+2026-11-19T16:17:14,merge,scn00_17,4,ok,61 dòng
+2026-11-19T16:17:14,merge,scn00_17,5,ok,30 dòng
+2026-11-19T16:18:51,merge,scn00_18,1,ok,60 dòng
+2026-11-19T16:18:51,merge,scn00_18,2,ok,60 dòng
+2026-11-19T16:18:51,merge,scn00_18,3,ok,60 dòng
+2026-11-19T16:19:03,merge,scn00_17,1,ok,59 dòng
+2026-11-19T16:19:03,merge,scn00_17,2,ok,59 dòng
+2026-11-19T16:19:03,merge,scn00_17,3,ok,60 dòng
+2026-11-19T16:19:03,merge,scn00_17,4,ok,61 dòng
+2026-11-19T16:19:03,merge,scn00_17,5,ok,30 dòng
+2026-11-19T16:21:45,merge,scn00_18,4,ok,79 dòng
+2026-11-19T16:25:03,merge,scn00_19,1,ok,60 dòng
+2026-11-19T16:25:03,merge,scn00_19,2,ok,60 dòng
+2026-11-19T16:25:03,merge,scn00_19,3,ok,60 dòng
+2026-11-19T16:25:03,merge,scn00_19,4,ok,57 dòng
+2026-11-19T16:32:16,check,scn00_20,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T16:32:28,check,scn00_20,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T16:32:40,check,scn00_20,3,PASS,0 lỗi; 5 cảnh báo
+2026-11-19T16:32:54,merge,scn00_20,1,ok,60 dòng
+2026-11-19T16:32:54,merge,scn00_20,2,ok,60 dòng
+2026-11-19T16:32:54,merge,scn00_20,3,ok,60 dòng
+2026-11-19T16:33:38,check,scn00_20,4,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T16:33:48,check,scn00_20,5,PASS,0 lỗi; 6 cảnh báo
+2026-11-19T16:34:34,merge,scn00_20,4,ok,60 dòng
+2026-11-19T16:35:03,merge,scn00_20,5,ok,79 dòng
+2026-11-19T16:38:18,check,scn00_20,4,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T16:38:25,check,scn00_20,5,PASS,0 lỗi; 6 cảnh báo
+2026-11-19T16:41:48,merge,scn00_20,1,ok,60 dòng
+2026-11-19T16:41:48,merge,scn00_20,2,ok,60 dòng
+2026-11-19T16:41:48,merge,scn00_20,3,ok,60 dòng
+2026-11-19T16:41:48,merge,scn00_20,4,ok,60 dòng
+2026-11-19T16:41:48,merge,scn00_20,5,ok,79 dòng
+2026-11-19T18:40:19,check,scn00_21,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T18:40:29,merge,scn00_21,1,ok,60 dòng
+2026-11-19T18:40:44,check,scn00_21,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T18:40:48,check,scn00_21,2,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T18:40:53,check,scn00_21,3,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T18:41:09,merge,scn00_21,1,ok,60 dòng
+2026-11-19T18:41:22,merge,scn00_21,2,ok,60 dòng
+2026-11-19T18:41:35,merge,scn00_21,3,ok,60 dòng
+2026-11-19T18:43:41,merge,scn00_20,1,ok,60 dòng
+2026-11-19T18:43:41,merge,scn00_20,2,ok,60 dòng
+2026-11-19T18:43:41,merge,scn00_20,3,ok,60 dòng
+2026-11-19T18:43:41,merge,scn00_20,4,ok,60 dòng
+2026-11-19T18:43:41,merge,scn00_20,5,ok,79 dòng
+2026-11-19T18:44:30,check,scn00_21,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T18:44:34,check,scn00_21,2,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T18:44:58,check,scn00_21,3,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T18:45:00,merge,scn00_21,1,ok,60 dòng
+2026-11-19T18:45:00,merge,scn00_21,2,ok,60 dòng
+2026-11-19T18:45:00,merge,scn00_21,3,ok,60 dòng
+2026-11-19T18:45:51,check,scn00_21,4,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T18:46:40,check,scn00_21,5,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T18:47:25,check,scn00_21,6,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T18:47:46,merge,scn00_21,1,ok,60 dòng
+2026-11-19T18:47:46,merge,scn00_21,2,ok,60 dòng
+2026-11-19T18:47:46,merge,scn00_21,3,ok,60 dòng
+2026-11-19T18:47:46,merge,scn00_21,4,ok,62 dòng
+2026-11-19T18:47:46,merge,scn00_21,5,ok,60 dòng
+2026-11-19T18:47:46,merge,scn00_21,6,ok,54 dòng
+2026-11-19T19:56:33,check,scn00_22,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T19:56:38,check,scn00_22,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T19:56:43,check,scn00_22,3,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T19:56:45,check,scn00_22,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T19:56:50,check,scn00_22,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T19:56:55,check,scn00_22,3,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T19:57:01,merge,scn00_22,1,ok,59 dòng
+2026-11-19T19:57:01,merge,scn00_22,2,ok,59 dòng
+2026-11-19T19:57:01,merge,scn00_22,3,ok,60 dòng
+2026-11-19T19:57:37,check,scn00_23,4,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T19:57:51,merge,scn00_23,4,ok,61 dòng
+2026-11-19T19:58:17,check,scn00_22,1,FAIL,1 lỗi; 0 cảnh báo
+2026-11-19T19:58:27,check,scn00_22,1,FAIL,1 lỗi; 0 cảnh báo
+2026-11-19T19:58:47,check,scn00_23,5,PASS,0 lỗi; 6 cảnh báo
+2026-11-19T19:59:00,merge,scn00_23,5,ok,60 dòng
+2026-11-19T19:59:51,check,scn00_22,4,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T19:59:56,check,scn00_22,5,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T20:00:01,check,scn00_22,6,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T20:00:08,check,scn00_23,6,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T20:00:28,merge,scn00_23,6,ok,61 dòng
+2026-11-19T20:01:00,merge,scn00_22,4,ok,60 dòng
+2026-11-19T20:01:00,merge,scn00_22,5,ok,41 dòng
+2026-11-19T20:01:00,merge,scn00_22,6,ok,42 dòng
+2026-11-19T20:01:00,check,scn00_22,4,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T20:01:18,check,scn00_23,1,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T20:02:04,merge,scn00_23,4,ok,61 dòng
+2026-11-19T20:02:45,check,scn00_23,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T20:03:44,merge,scn00_22,4,ok,60 dòng
+2026-11-19T20:03:44,merge,scn00_22,5,ok,41 dòng
+2026-11-19T20:03:44,merge,scn00_22,6,ok,42 dòng
+2026-11-19T20:04:05,check,scn00_23,3,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T20:04:25,merge,scn00_23,1,ok,59 dòng
+2026-11-19T20:04:47,merge,scn00_23,2,ok,60 dòng
+2026-11-19T20:05:22,merge,scn00_23,3,ok,60 dòng
+2026-11-19T20:06:04,check,scn00_23,7,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T20:06:12,check,scn00_23,8,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T20:07:01,merge,scn00_23,7,ok,59 dòng
+2026-11-19T20:07:31,merge,scn00_23,8,ok,53 dòng
+2026-11-19T20:19:25,check,scn00_24,4,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T20:19:39,check,scn00_24,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T20:19:40,merge,scn00_24,4,ok,41 dòng
+2026-11-19T20:20:46,merge,scn00_24,4,ok,41 dòng
+2026-11-19T20:20:57,check,scn00_24,2,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T20:21:14,check,scn00_24,5,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T20:21:32,merge,scn00_24,5,ok,41 dòng
+2026-11-19T20:21:40,check,scn00_26,1,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T20:21:54,check,scn00_24,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T20:22:14,merge,scn00_24,1,ok,59 dòng
+2026-11-19T20:22:47,check,scn00_25,1,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T20:23:27,check,scn00_26,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T20:23:46,check,scn00_25,2,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T20:24:06,check,scn00_24,4,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T20:24:11,check,scn00_24,5,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T20:24:11,check,scn00_26,3,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T20:24:44,check,scn00_25,3,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T20:25:26,check,scn00_26,4,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T20:25:43,merge,scn00_26,1,ok,60 dòng
+2026-11-19T20:25:44,merge,scn00_26,2,ok,60 dòng
+2026-11-19T20:25:44,merge,scn00_26,3,ok,60 dòng
+2026-11-19T20:25:44,merge,scn00_26,4,ok,31 dòng
+2026-11-19T20:25:55,check,scn00_25,4,PASS,0 lỗi; 5 cảnh báo
+2026-11-19T20:26:12,merge,scn00_25,1,ok,60 dòng
+2026-11-19T20:26:12,merge,scn00_25,2,ok,60 dòng
+2026-11-19T20:26:12,merge,scn00_25,3,ok,59 dòng
+2026-11-19T20:26:12,merge,scn00_25,4,ok,70 dòng
+2026-11-19T20:26:53,merge,scn00_25,1,ok,60 dòng
+2026-11-19T20:26:53,merge,scn00_25,2,ok,60 dòng
+2026-11-19T20:26:53,merge,scn00_25,3,ok,59 dòng
+2026-11-19T20:26:53,merge,scn00_25,4,ok,70 dòng
+2026-11-19T20:34:18,merge,scn00_24,1,ok,59 dòng
+2026-11-19T20:34:18,merge,scn00_24,2,ok,59 dòng
+2026-11-19T20:34:18,merge,scn00_24,3,ok,59 dòng
+2026-11-19T20:34:18,merge,scn00_24,4,ok,41 dòng
+2026-11-19T20:34:18,merge,scn00_24,5,ok,41 dòng
+2026-11-19T20:36:15,merge,scn00_26,1,ok,60 dòng
+2026-11-19T20:36:15,merge,scn00_26,2,ok,60 dòng
+2026-11-19T20:36:15,merge,scn00_26,3,ok,60 dòng
+2026-11-19T20:36:15,merge,scn00_26,4,ok,31 dòng
+2026-11-19T20:37:12,extract,scn00_25,1,ok,60 dòng
+2026-11-19T20:37:17,extract,scn00_25,2,ok,60 dòng
+2026-11-19T20:37:22,extract,scn00_25,3,ok,59 dòng
+2026-11-19T20:37:27,extract,scn00_25,4,ok,70 dòng
+2026-11-19T20:38:45,merge,scn00_25,1,ok,60 dòng
+2026-11-19T20:38:45,merge,scn00_25,2,ok,60 dòng
+2026-11-19T20:38:45,merge,scn00_25,3,ok,59 dòng
+2026-11-19T20:38:45,merge,scn00_25,4,ok,70 dòng
+2026-11-19T20:48:55,check,scn00_27,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T20:49:52,check,scn00_27,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T20:51:03,check,scn00_27,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T20:52:01,check,scn00_27,4,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T20:52:21,merge,scn00_27,1,ok,59 dòng
+2026-11-19T20:52:21,merge,scn00_27,2,ok,60 dòng
+2026-11-19T20:52:21,merge,scn00_27,3,ok,59 dòng
+2026-11-19T20:52:21,merge,scn00_27,4,ok,27 dòng
+2026-11-19T20:54:26,check,scn00_28,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T20:55:31,check,scn00_28,2,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T20:56:36,check,scn00_28,3,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T20:57:43,check,scn00_28,4,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T20:58:41,check,scn00_28,5,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T20:59:47,check,scn00_28,6,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T21:00:04,merge,scn00_28,1,ok,61 dòng
+2026-11-19T21:00:04,merge,scn00_28,2,ok,60 dòng
+2026-11-19T21:00:04,merge,scn00_28,3,ok,59 dòng
+2026-11-19T21:00:04,merge,scn00_28,4,ok,60 dòng
+2026-11-19T21:00:04,merge,scn00_28,5,ok,60 dòng
+2026-11-19T21:00:04,merge,scn00_28,6,ok,54 dòng
+2026-11-19T21:02:30,check,scn00_29,1,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:03:57,check,scn00_29,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:05:02,check,scn00_29,3,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:05:30,merge,scn00_29,1,ok,60 dòng
+2026-11-19T21:05:30,merge,scn00_29,2,ok,58 dòng
+2026-11-19T21:05:30,merge,scn00_29,3,ok,46 dòng
+2026-11-19T21:09:56,check,scn00_30,1,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:11:14,check,scn00_30,2,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T21:12:29,check,scn00_30,3,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T21:14:09,check,scn00_30,4,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T21:15:19,check,scn00_30,5,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T21:15:59,check,scn00_30,6,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T21:16:41,check,scn00_30,7,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:17:15,merge,scn00_30,1,ok,60 dòng
+2026-11-19T21:17:15,merge,scn00_30,2,ok,60 dòng
+2026-11-19T21:17:15,merge,scn00_30,3,ok,60 dòng
+2026-11-19T21:17:15,merge,scn00_30,4,ok,60 dòng
+2026-11-19T21:17:15,merge,scn00_30,5,ok,60 dòng
+2026-11-19T21:17:15,merge,scn00_30,6,ok,42 dòng
+2026-11-19T21:17:15,merge,scn00_30,7,ok,42 dòng
+2026-11-19T21:18:56,check,scn00_31,1,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T21:19:57,check,scn00_31,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:20:48,check,scn00_31,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:21:36,check,scn00_31,4,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T21:22:02,merge,scn00_31,1,ok,60 dòng
+2026-11-19T21:22:02,merge,scn00_31,2,ok,60 dòng
+2026-11-19T21:22:02,merge,scn00_31,3,ok,42 dòng
+2026-11-19T21:22:02,merge,scn00_31,4,ok,43 dòng
+2026-11-19T21:23:31,check,scn00_32,1,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T21:24:42,check,scn00_32,2,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T21:25:39,check,scn00_32,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:26:06,merge,scn00_32,1,ok,60 dòng
+2026-11-19T21:26:06,merge,scn00_32,2,ok,60 dòng
+2026-11-19T21:26:06,merge,scn00_32,3,ok,55 dòng
+2026-11-19T21:27:30,check,scn00_33,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T21:28:26,check,scn00_33,2,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:29:29,check,scn00_33,3,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T21:31:30,check,scn00_33,4,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:32:30,check,scn00_33,5,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T21:33:19,check,scn00_33,5,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T21:33:36,check,scn00_33,6,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T21:34:23,check,scn00_33,6,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T21:34:37,check,scn00_33,7,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T21:35:19,check,scn00_33,7,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T21:36:03,check,scn00_34,1,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T21:37:06,check,scn00_34,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:37:09,check,scn00_34,1,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T21:38:28,check,scn00_34,3,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:38:31,check,scn00_34,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:39:28,check,scn00_34,4,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:39:29,check,scn00_34,3,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:40:20,check,scn00_34,5,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T21:40:22,check,scn00_34,4,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:41:04,check,scn00_34,5,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:41:36,check,scn00_35,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:42:21,check,scn00_35,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:42:38,check,scn00_35,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:43:18,check,scn00_35,2,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T21:44:13,check,scn00_35,3,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:44:14,check,scn00_35,3,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:45:17,check,scn00_35,4,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:45:18,check,scn00_35,4,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:46:08,check,scn00_35,5,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:46:10,check,scn00_35,5,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:46:49,merge,scn00_33,1,ok,60 dòng
+2026-11-19T21:46:49,merge,scn00_33,2,ok,63 dòng
+2026-11-19T21:46:49,merge,scn00_33,3,ok,61 dòng
+2026-11-19T21:46:49,merge,scn00_33,4,ok,60 dòng
+2026-11-19T21:46:49,merge,scn00_33,5,ok,60 dòng
+2026-11-19T21:46:49,merge,scn00_33,6,ok,61 dòng
+2026-11-19T21:46:49,merge,scn00_33,7,ok,63 dòng
+2026-11-19T21:47:19,merge,scn00_34,1,ok,60 dòng
+2026-11-19T21:47:19,merge,scn00_34,2,ok,60 dòng
+2026-11-19T21:47:19,merge,scn00_34,3,ok,61 dòng
+2026-11-19T21:47:19,merge,scn00_34,4,ok,60 dòng
+2026-11-19T21:47:19,merge,scn00_34,5,ok,43 dòng
+2026-11-19T21:47:45,merge,scn00_35,1,ok,59 dòng
+2026-11-19T21:47:45,merge,scn00_35,2,ok,60 dòng
+2026-11-19T21:47:45,merge,scn00_35,3,ok,61 dòng
+2026-11-19T21:47:45,merge,scn00_35,4,ok,58 dòng
+2026-11-19T21:47:45,merge,scn00_35,5,ok,38 dòng
+2026-11-19T21:48:19,check,scn00_36,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:49:39,check,scn00_36,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:50:42,check,scn00_36,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:51:38,check,scn00_36,4,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:53:10,check,scn00_37,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:54:24,check,scn00_37,2,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:55:29,check,scn00_37,3,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:56:05,check,scn00_36,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:56:11,check,scn00_37,4,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:57:00,check,scn00_37,5,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:57:04,check,scn00_45,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T21:57:35,check,scn00_40,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T21:57:54,check,scn00_36,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:58:02,check,scn00_36,2,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:58:10,check,scn00_36,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:58:11,check,scn00_45,2,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:58:18,check,scn00_36,4,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:58:33,check,scn00_37,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:58:42,check,scn00_37,2,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:58:43,check,scn00_40,2,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:58:49,check,scn00_37,3,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T21:58:56,check,scn00_37,4,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:59:03,check,scn00_37,5,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T21:59:21,check,scn00_38,1,FAIL,1 lỗi; 1 cảnh báo
+2026-11-19T21:59:26,merge,scn00_36,1,ok,56 dòng
+2026-11-19T21:59:26,merge,scn00_36,2,ok,60 dòng
+2026-11-19T21:59:26,merge,scn00_36,3,ok,61 dòng
+2026-11-19T21:59:26,merge,scn00_36,4,ok,64 dòng
+2026-11-19T21:59:44,check,scn00_46,1,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T21:59:55,check,scn00_38,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:00:01,merge,scn00_37,1,ok,60 dòng
+2026-11-19T22:00:01,merge,scn00_37,2,ok,60 dòng
+2026-11-19T22:00:02,merge,scn00_37,3,ok,60 dòng
+2026-11-19T22:00:02,merge,scn00_37,4,ok,40 dòng
+2026-11-19T22:00:02,merge,scn00_37,5,ok,41 dòng
+2026-11-19T22:00:41,check,scn00_46,2,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T22:00:45,check,scn00_40,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T22:01:03,check,scn00_38,2,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:01:24,check,scn00_46,3,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:01:48,check,scn00_40,4,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T22:02:08,check,scn00_38,3,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:02:36,check,scn00_47,1,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T22:02:58,check,scn00_40,5,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T22:03:15,check,scn00_38,4,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:03:33,check,scn00_47,2,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T22:04:01,check,scn00_40,6,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:04:38,check,scn00_38,5,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T22:04:47,check,scn00_47,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T22:04:54,check,scn00_40,7,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:05:03,check,scn00_38,5,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:05:35,check,scn00_47,4,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:05:40,check,scn00_38,6,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:06:23,check,scn00_41,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:06:48,check,scn00_48,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:07:10,check,scn00_39,1,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T22:07:29,check,scn00_41,2,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:07:34,check,scn00_39,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:07:51,check,scn00_48,2,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T22:08:50,check,scn00_41,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T22:08:52,check,scn00_39,2,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:09:03,check,scn00_48,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T22:10:03,check,scn00_41,4,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T22:10:04,check,scn00_48,4,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T22:10:15,check,scn00_39,3,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:10:40,check,scn01_01,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:11:24,check,scn00_41,5,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:11:44,check,scn00_39,4,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:12:43,check,scn00_39,5,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:12:54,check,scn00_42,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T22:13:54,check,scn00_39,6,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:14:03,check,scn00_42,2,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:15:15,check,scn00_42,3,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T22:15:37,check,scn00_40,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:16:50,check,scn00_42,4,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T22:16:55,check,scn00_40,2,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:17:18,merge,scn00_45,1,ok,60 dòng
+2026-11-19T22:17:18,merge,scn00_45,2,ok,54 dòng
+2026-11-19T22:17:45,check,scn00_42,5,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T22:18:04,merge,scn00_46,1,ok,60 dòng
+2026-11-19T22:18:04,merge,scn00_46,2,ok,60 dòng
+2026-11-19T22:18:04,merge,scn00_46,3,ok,41 dòng
+2026-11-19T22:18:47,check,scn00_40,3,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:18:49,check,scn00_42,6,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T22:18:56,merge,scn00_48,1,ok,60 dòng
+2026-11-19T22:18:56,merge,scn00_48,2,ok,60 dòng
+2026-11-19T22:18:56,merge,scn00_48,3,ok,64 dòng
+2026-11-19T22:18:56,merge,scn00_48,4,ok,39 dòng
+2026-11-19T22:19:34,merge,scn01_01,1,ok,9 dòng
+2026-11-19T22:20:06,check,scn00_40,4,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:20:18,check,scn00_42,7,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T22:20:42,merge,scn00_47,1,ok,60 dòng
+2026-11-19T22:20:42,merge,scn00_47,2,ok,60 dòng
+2026-11-19T22:20:43,merge,scn00_47,3,ok,59 dòng
+2026-11-19T22:20:43,merge,scn00_47,4,ok,41 dòng
+2026-11-19T22:22:03,check,scn00_43,1,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:22:37,check,scn00_40,5,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:22:49,merge,scn00_45,1,ok,60 dòng
+2026-11-19T22:22:49,merge,scn00_45,2,ok,54 dòng
+2026-11-19T22:23:30,check,scn00_43,2,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:23:55,check,scn00_40,6,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:24:15,check,scn00_40,7,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:24:42,check,scn00_43,3,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T22:25:28,check,scn00_43,4,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T22:26:54,check,scn00_44,1,PASS,0 lỗi; 2 cảnh báo
+2026-11-19T22:27:53,check,scn00_44,2,PASS,0 lỗi; 4 cảnh báo
+2026-11-19T22:28:51,check,scn00_44,3,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T22:29:47,check,scn00_44,4,PASS,0 lỗi; 3 cảnh báo
+2026-11-19T22:31:10,check,scn00_45,1,PASS,0 lỗi; 1 cảnh báo
+2026-11-19T22:32:16,check,scn00_45,2,PASS,0 lỗi; 0 cảnh báo
+2026-11-19T22:35:09,merge,scn00_40,1,ok,59 dòng
+2026-11-19T22:35:09,merge,scn00_40,2,ok,60 dòng
+2026-11-19T22:35:09,merge,scn00_40,3,ok,60 dòng
+2026-11-19T22:35:09,merge,scn00_40,4,ok,59 dòng
+2026-11-19T22:35:09,merge,scn00_40,5,ok,60 dòng
+2026-11-19T22:35:09,merge,scn00_40,6,ok,61 dòng
+2026-11-19T22:35:09,merge,scn00_40,7,ok,35 dòng
+2026-11-19T22:35:30,merge,scn00_41,1,ok,60 dòng
+2026-11-19T22:35:30,merge,scn00_41,2,ok,60 dòng
+2026-11-19T22:35:30,merge,scn00_41,3,ok,60 dòng
+2026-11-19T22:35:30,merge,scn00_41,4,ok,60 dòng
+2026-11-19T22:35:30,merge,scn00_41,5,ok,74 dòng
+2026-11-19T22:35:50,merge,scn00_42,1,ok,60 dòng
+2026-11-19T22:35:50,merge,scn00_42,2,ok,60 dòng
+2026-11-19T22:35:50,merge,scn00_42,3,ok,60 dòng
+2026-11-19T22:35:50,merge,scn00_42,4,ok,60 dòng
+2026-11-19T22:35:50,merge,scn00_42,5,ok,60 dòng
+2026-11-19T22:35:50,merge,scn00_42,6,ok,60 dòng
+2026-11-19T22:35:50,merge,scn00_42,7,ok,68 dòng
+2026-11-19T22:36:09,merge,scn00_43,1,ok,60 dòng
+2026-11-19T22:36:09,merge,scn00_43,2,ok,60 dòng
+2026-11-19T22:36:09,merge,scn00_43,3,ok,60 dòng
+2026-11-19T22:36:09,merge,scn00_43,4,ok,44 dòng
+2026-11-19T22:36:32,merge,scn00_44,1,ok,60 dòng
+2026-11-19T22:36:32,merge,scn00_44,2,ok,59 dòng
+2026-11-19T22:36:32,merge,scn00_44,3,ok,60 dòng
+2026-11-19T22:36:32,merge,scn00_44,4,ok,36 dòng
+2026-11-19T22:36:57,merge,scn00_45,1,ok,60 dòng
+2026-11-19T22:36:57,merge,scn00_45,2,ok,54 dòng
+2026-11-19T22:37:31,merge,scn00_38,1,ok,60 dòng
+2026-11-19T22:37:31,merge,scn00_38,2,ok,60 dòng
+2026-11-19T22:37:31,merge,scn00_38,3,ok,60 dòng
+2026-11-19T22:37:31,merge,scn00_38,4,ok,60 dòng
+2026-11-19T22:37:31,merge,scn00_38,5,ok,60 dòng
+2026-11-19T22:37:31,merge,scn00_38,6,ok,26 dòng
+2026-11-19T22:37:55,merge,scn00_39,1,ok,60 dòng
+2026-11-19T22:37:55,merge,scn00_39,2,ok,60 dòng
+2026-11-19T22:37:55,merge,scn00_39,3,ok,60 dòng
+2026-11-19T22:37:55,merge,scn00_39,4,ok,60 dòng
+2026-11-19T22:37:55,merge,scn00_39,5,ok,40 dòng
+2026-11-19T22:37:55,merge,scn00_39,6,ok,41 dòng
+2026-11-19T22:40:34,merge,scn00_39,1,ok,60 dòng
+2026-11-19T22:40:34,merge,scn00_39,2,ok,60 dòng
+2026-11-19T22:40:34,merge,scn00_39,3,ok,60 dòng
+2026-11-19T22:40:34,merge,scn00_39,4,ok,60 dòng
+2026-11-19T22:40:34,merge,scn00_39,5,ok,40 dòng
+2026-11-19T22:40:34,merge,scn00_39,6,ok,41 dòng
+2026-11-19T22:45:34,merge,scn00_34,1,ok,60 dòng
+2026-11-19T22:45:34,merge,scn00_34,2,ok,60 dòng
+2026-11-19T22:45:34,merge,scn00_34,3,ok,61 dòng
+2026-11-19T22:45:34,merge,scn00_34,4,ok,60 dòng
+2026-11-19T22:45:34,merge,scn00_34,5,ok,43 dòng
+2026-11-19T22:45:47,merge,scn00_35,1,ok,59 dòng
+2026-11-19T22:45:47,merge,scn00_35,2,ok,60 dòng
+2026-11-19T22:45:47,merge,scn00_35,3,ok,61 dòng
+2026-11-19T22:45:47,merge,scn00_35,4,ok,58 dòng
+2026-11-19T22:45:47,merge,scn00_35,5,ok,38 dòng
+2026-11-19T22:46:00,merge,scn00_36,1,ok,56 dòng
+2026-11-19T22:46:00,merge,scn00_36,2,ok,60 dòng
+2026-11-19T22:46:00,merge,scn00_36,3,ok,61 dòng
+2026-11-19T22:46:00,merge,scn00_36,4,ok,64 dòng
+2026-11-19T22:46:13,merge,scn00_37,1,ok,60 dòng
+2026-11-19T22:46:13,merge,scn00_37,2,ok,60 dòng
+2026-11-19T22:46:13,merge,scn00_37,3,ok,60 dòng
+2026-11-19T22:46:13,merge,scn00_37,4,ok,40 dòng
+2026-11-19T22:46:13,merge,scn00_37,5,ok,41 dòng
+2026-11-19T22:46:26,merge,scn00_38,1,ok,60 dòng
+2026-11-19T22:46:26,merge,scn00_38,2,ok,60 dòng
+2026-11-19T22:46:26,merge,scn00_38,3,ok,60 dòng
+2026-11-19T22:46:26,merge,scn00_38,4,ok,60 dòng
+2026-11-19T22:46:26,merge,scn00_38,5,ok,60 dòng
+2026-11-19T22:46:26,merge,scn00_38,6,ok,26 dòng
+2026-11-19T22:46:38,merge,scn00_39,1,ok,60 dòng
+2026-11-19T22:46:38,merge,scn00_39,2,ok,60 dòng
+2026-11-19T22:46:39,merge,scn00_39,3,ok,60 dòng
+2026-11-19T22:46:39,merge,scn00_39,4,ok,60 dòng
+2026-11-19T22:46:39,merge,scn00_39,5,ok,40 dòng
+2026-11-19T22:46:39,merge,scn00_39,6,ok,41 dòng
+2026-11-19T22:46:51,merge,scn00_40,1,ok,59 dòng
+2026-11-19T22:46:51,merge,scn00_40,2,ok,60 dòng
+2026-11-19T22:46:51,merge,scn00_40,3,ok,60 dòng
+2026-11-19T22:46:51,merge,scn00_40,4,ok,59 dòng
+2026-11-19T22:46:51,merge,scn00_40,5,ok,60 dòng
+2026-11-19T22:46:51,merge,scn00_40,6,ok,61 dòng
+2026-11-19T22:46:51,merge,scn00_40,7,ok,35 dòng
+2026-11-19T22:47:03,merge,scn00_41,1,ok,60 dòng
+2026-11-19T22:47:03,merge,scn00_41,2,ok,60 dòng
+2026-11-19T22:47:03,merge,scn00_41,3,ok,60 dòng
+2026-11-19T22:47:03,merge,scn00_41,4,ok,60 dòng
+2026-11-19T22:47:03,merge,scn00_41,5,ok,74 dòng
+2026-11-19T22:47:16,merge,scn00_42,1,ok,60 dòng
+2026-11-19T22:47:16,merge,scn00_42,2,ok,60 dòng
+2026-11-19T22:47:16,merge,scn00_42,3,ok,60 dòng
+2026-11-19T22:47:16,merge,scn00_42,4,ok,60 dòng
+2026-11-19T22:47:16,merge,scn00_42,5,ok,60 dòng
+2026-11-19T22:47:16,merge,scn00_42,6,ok,60 dòng
+2026-11-19T22:47:16,merge,scn00_42,7,ok,68 dòng
+2026-11-19T22:47:29,merge,scn00_43,1,ok,60 dòng
+2026-11-19T22:47:29,merge,scn00_43,2,ok,60 dòng
+2026-11-19T22:47:29,merge,scn00_43,3,ok,60 dòng
+2026-11-19T22:47:29,merge,scn00_43,4,ok,44 dòng
+2026-11-19T22:47:42,merge,scn00_44,1,ok,60 dòng
+2026-11-19T22:47:42,merge,scn00_44,2,ok,59 dòng
+2026-11-19T22:47:42,merge,scn00_44,3,ok,60 dòng
+2026-11-19T22:47:42,merge,scn00_44,4,ok,36 dòng
+2026-11-19T22:47:55,merge,scn00_45,1,ok,60 dòng
+2026-11-19T22:47:55,merge,scn00_45,2,ok,54 dòng
+2026-11-19T22:48:07,merge,scn00_46,1,ok,60 dòng
+2026-11-19T22:48:07,merge,scn00_46,2,ok,60 dòng
+2026-11-19T22:48:07,merge,scn00_46,3,ok,41 dòng
+2026-11-19T22:48:20,merge,scn00_47,1,ok,60 dòng
+2026-11-19T22:48:20,merge,scn00_47,2,ok,60 dòng
+2026-11-19T22:48:20,merge,scn00_47,3,ok,59 dòng
+2026-11-19T22:48:20,merge,scn00_47,4,ok,41 dòng
+2026-11-19T22:48:33,merge,scn00_48,1,ok,60 dòng
+2026-11-19T22:48:33,merge,scn00_48,2,ok,60 dòng
+2026-11-19T22:48:33,merge,scn00_48,3,ok,64 dòng
+2026-11-19T22:48:33,merge,scn00_48,4,ok,39 dòng
+2026-11-19T22:48:45,merge,scn01_01,1,ok,9 dòng

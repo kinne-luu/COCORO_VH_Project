@@ -1,0 +1,60 @@
+scn00_32_0001 | Điện thoại... từ bố sao??
+scn00_32_0002 | Trong cơn bàng hoàng trống rỗng, tôi đăm đăm nhìn vào ống nghe đặt trước mặt.
+scn00_32_0003 | "Dùng cái này đi."
+scn00_32_0004 | Daichi đưa cho tôi một chiếc bàn phím cũ có thể kết nối với điện thoại không dây.
+scn00_32_0005 | Chỉ cần gõ chữ vào đây, giọng đọc máy móc sẽ nói thay lời tôi.
+scn00_32_0006 | Đây là công cụ dành cho những người không thể cất tiếng nói như tôi.
+scn00_32_0007 | "...A... ư... a..."
+scn00_32_0008 | Cảm ơn cậu.
+scn00_32_0009 | "Không có gì."
+scn00_32_0010 | Vừa đáp, Daichi vừa nháy mắt ra hiệu với Kazane.
+scn00_32_0011 | "Có chuyện gì thì cứ gọi nhé. Tớ sẽ chạy sang ngay."
+scn00_32_0012 | Kazane cùng Daichi rời khỏi phòng, để lại một mình tôi trong không gian tĩnh lặng.
+scn00_32_0013 | Trước mắt tôi là chiếc điện thoại.
+scn00_32_0014 | Ở đầu dây bên kia chính là bố.
+scn00_32_0015 | Người cha mà kể từ sau thảm họa Ách Tai, tôi thậm chí còn chưa từng gặp mặt chứ đừng nói đến chuyện trò tử tế.
+scn00_32_0016 | ...
+scn00_32_0017 | Vào lúc tâm trạng đang suy sụp thế này, tôi chẳng hề muốn nói chuyện với bố một chút nào.
+scn00_32_0018 | Hay là cứ thế cúp máy đi cho xong?
+scn00_32_0019 | Ngón tay tôi đã đặt lên nút ngắt cuộc gọi.
+scn00_32_0020 | "......"
+scn00_32_0021 | Trên bàn có một cuốn bách khoa toàn thư.
+scn00_32_0022 | Món quà sinh nhật của tôi, được gói trong lớp giấy bọc vấy máu và bị lãng quên trong hòm đồ thất lạc ở vườn bách thảo.
+scn00_32_0023 | Tại sao cuốn sách này lại nằm ở đó?
+scn00_32_0024 | Người cha vốn luôn lạnh nhạt với tôi, tại sao lại chuẩn bị quà tặng cho tôi?
+scn00_32_0025 | Đây cũng là cơ hội để tôi làm rõ điều đó.
+scn00_32_0026 | Tôi rời ngón tay khỏi nút ngắt kết nối rồi cắm dây bàn phím vào.
+scn00_32_0027 | Chuyển ống nghe sang chế độ loa ngoài, tôi bắt đầu gõ từng ký tự trên bàn phím.
+scn00_32_0028 | <Vâng.>
+scn00_32_0029 | Âm thanh máy móc vang lên.
+scn00_32_0030 | Một khoảng im lặng ngắn ngủi. Tôi có thể cảm nhận được sự bối rối từ đầu dây bên kia.
+scn00_32_0031 | <Hinata... con đấy à?>
+scn00_32_0032 | <Vâng.>
+scn00_32_0033 | <Lẽ nào con... lại mất giọng...?>
+scn00_32_0034 | <Vâng.>
+scn00_32_0035 | Cứ như một từ ngữ đã được cài đặt sẵn từ trước, tôi lặp đi lặp lại chữ "Vâng".
+scn00_32_0036 | Tôi không muốn nhập thêm bất kỳ từ ngữ nào chứa đựng sắc thái cảm xúc hơn thế.
+scn00_32_0037 | Tôi không muốn phải đối diện với bố.
+scn00_32_0038 | <Dì Kirika vừa liên lạc với bố.>
+scn00_32_0039 | Dì Kirika sao...?
+scn00_32_0040 | <Dì ấy bảo tình hình của con đang rất tồi tệ, muốn bố đón con về.>
+scn00_32_0041 | Hả...?
+scn00_32_0042 | <Chuyện đó là sao?>
+scn00_32_0043 | <Trông dì ấy có vẻ suy sụp nặng nề nên bố cũng không gặng hỏi sự tình. Nhưng mà, ra là vậy... Con lại không nói được nữa rồi sao.>
+scn00_32_0044 | Bố dường như đã hiểu ra vấn đề sau lời giải thích đó.
+scn00_32_0045 | ...
+scn00_32_0046 | Sự im lặng gượng gạo lại bao trùm.
+scn00_32_0047 | <...Dì Kirika mong con quay trở về sống với bố. Bố cũng muốn như vậy. Nếu như... con chịu tha thứ cho bố.>
+scn00_32_0048 | <Đừng có mà tự tiện quyết định.>
+scn00_32_0049 | Tôi gõ phím như một phản xạ tự nhiên.
+scn00_32_0050 | Dù lập tức hối hận vì lời lẽ quá gay gắt, nhưng mối ác cảm dành cho bố đã nhanh chóng xóa tan cảm giác ấy.
+scn00_32_0051 | <Đúng... là vậy nhỉ.>
+scn00_32_0052 | Chắc hẳn bố cũng bất ngờ khi nhận được liên lạc đột ngột từ dì Kirika, nên vẫn chưa kịp nghĩ xem nên xử trí ra sao.
+scn00_32_0053 | Nói cách khác, chẳng phải điều đó đồng nghĩa với việc bố đã gọi cho tôi trước cả khi kịp suy tính thiệt hơn sao?
+scn00_32_0054 | Riêng với người bố đó thì đời nào có chuyện như vậy...
+scn00_32_0055 | Chắc chắn ông ta vẫn chỉ đang bận tâm đến thể diện xã hội như hồi còn làm thị trưởng mà thôi.
+scn00_32_0056 | Hoặc là đang bị trói buộc bởi những quy tắc sống nghiêm ngặt tự đặt ra như giới luật của bản thân.
+scn00_32_0057 | <Con cúp máy được chưa.>
+scn00_32_0058 | ...
+scn00_32_0059 | <...Bố muốn nói chuyện thêm một chút. Không được sao con?>
+scn00_32_0060 | <Chẳng có gì để nói cả.>

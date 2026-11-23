@@ -1,0 +1,46 @@
+# scene=scn00_30 batch=6/7 dòng 301-342 / 384
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_30_0301 | - | ジャバウォックの動きが速く、駆除隊は捉えきれない。 | The Jabberwock moves too fast for any of the men to land a hit. | 贾巴沃克的行动十分迅速，驱除队完全追不上。
+scn00_30_0302 | 駆除隊隊長(Extermination Squad Leader) | 「くっ……今のうちに」 | "Ggh... Now's my chance." | “咕……趁现在”
+scn00_30_0303 | - | 隊長が銃を抜き、ココロへ向けた。 | The squad leader pulls out his gun and points it at Cocoro. | 队长拔出枪指向了心。
+scn00_30_0304 | ひなた(Hinata) | （やめろ！） | (Stop!) | （住手！）
+scn00_30_0305 | - | 俺は咄嗟にココロの前に立って両手を広げた。 | I step out in front of Cocoro and spread my arms wide. | 我刹那间站在了心面前张开了手臂。
+scn00_30_0306 | - | 隊長は構わずトリガーを引く。 | That doesn't stop the squad leader from pulling the trigger, though. | 队长却毫不犹豫地扣下来扳机。
+scn00_30_0307 | - | ジャバウォックが俺たちの前に着地し、銃弾を一身に受け止めた。 | At the same time, the Jabberwock lands in front of us, shielding us with its body and taking the hit. | 贾巴沃克跳到了我们身前，用身体挡住了子弹。
+scn00_30_0308 | ジャバウォック(Jabberwock) | 『グルルルル……』 | "Grrr..." | ‘咕噜噜噜噜……’
+scn00_30_0309 | 駆除隊隊長(Extermination Squad Leader) | 「[かば]庇っているのか……やはり同類。いいぞ、まとめて仕留め――うがっ！！？」 | "It's protecting that other one... They're all the same, after all. Great, let's just blast them togeth— Gahh!?" | “你在保护她吗……你们果然是同类，行啊，那就一起干掉——呜呃！！？”
+scn00_30_0310 | - | ココロが隊長の胸ぐらを[つか]掴み、吊し上げていた。 | Cocoro grabs the squad leader by his collar and lifts him up in the air. | 心抓着队长的领子将他拎了起来。
+scn00_30_0311 | 駆除隊隊長(Extermination Squad Leader) | 「ぐぅぅ……放せ、このっこのっ」 | "Ghhh... Let me go... You little...!" | “咕……放开我，松手松手”
+scn00_30_0312 | - | 隊長がココロの腕を振り払おうと暴れるが、びくともしない。 | He flails about, trying to pry off Cocoro's hand, but she doesn't budge. | 队长挣扎着试图甩开心的手，但却没有任何作用。
+scn00_30_0313 | ココロ(Cocoro) | 「……警告は……しました。これ以上ワタシたちを……傷つけるというなら……反撃……を行います」 | "I warned you... that I would counterattack... if you hurt us... any further." | “……我已经……警告过了。如果继续……伤害我的话……我就会……进行反击”
+scn00_30_0314 | 駆除隊隊長(Extermination Squad Leader) | 「誰か……こいつを……撃てッ」 | "Someone... Shoot this one...!" | “来人……朝这家伙……开枪”
+scn00_30_0315 | ジャバウォック(Jabberwock) | 『ガアアアアアアアアアアアアアアアアアアッッッ！！！！！』 | "Gahhhhhhhhhhhh!!!" | ‘嘎哦————————————！！！！！’
+scn00_30_0316 | - | ジャバウォックが咆哮を上げ、隊長の命令を[か]掻き消した。 | The Jabberwock howls again, drowning out the squad leader's orders. | 贾巴沃克的咆哮声抹消了队长的命令。
+scn00_30_0317 | ひなた(Hinata) | （ダメだココロッ、やめるんだ！！） | (Don't, Cocoro! Stop that!) | （不可以啊心，快住手！！）
+scn00_30_0318 | - | 人を傷つけたロボットは、排除される。たとえミュータントドローンでなくても。 | Robots who harm humans will be exterminated—they don't have to be mutant drones for that rule to apply. | 伤害了人类的机器人就会被除掉，即便是仿生人也一样。
+scn00_30_0319 | - | ココロは二度と人の社会に受け入れられなくなる。 | Cocoro would never be accepted into human society that way. | 心就再也无法被人类社会接纳了。
+scn00_30_0320 | ひなた(Hinata) | 「……ぅぅ……ぁぅぅ……」 | "Uh... Ah..." | “……呜呜……啊呜……”
+scn00_30_0321 | - | 言葉にならない[うめ]呻きを発する俺を、ココロが見た。 | Cocoro looks at me as I groan, struggling to form any words. | 心看着呻吟着说不出话的我。
+scn00_30_0322 | ココロ(Cocoro) | 「……わかりました」 | "All right." | “……我明白了”
+scn00_30_0323 | - | ココロが隊長を放した。 | She lets go of the squad leader. | 心放开了队长。
+scn00_30_0324 | 駆除隊隊長(Extermination Squad Leader) | 「ガハッ、ごほっ、ごほっ……このクソロボット！！！　今すぐスクラップにしてやる！！！！！」 | "Gahh! *cough* *cough*...! This damn robot almost killed me!!! I'll turn you into scrap right here and now!!!" | “咳哈，咳咳，咳咳……你这个臭机器人！！！　我现在就要拆了你！！！！！”
+scn00_30_0325 | - | 俺はココロの手を取った。 | I grab Cocoro's hand. | 我拉住了心的手。
+scn00_30_0326 | - | 『にげよう』 | Let's run. | ‘快跑吧’
+scn00_30_0327 | ひなた(Hinata) | （ここにいちゃいけない） | (We can't stay here!) | （不能继续待在这里了）
+scn00_30_0328 | - | 今ならジャバウォックが盾になってくれる。 | The Jabberwock will probably shield us until we get somewhere safe. | 现在贾巴沃克会当我们的肉盾。
+scn00_30_0329 | ココロ(Cocoro) | 「逃げる？　どうしてですか？　ワタシは何も悪い事はしていません。自分の身を守っただけです」 | "Run? But why? I didn't do anything wrong. I only protected my own existence." | “逃跑？　为什么？　我什么坏事都没有做，我只是在保护自己而已”
+scn00_30_0330 | ひなた(Hinata) | （それでもだ！　それでも……ロボットというだけで君は……） | (But still...! Still... Because you're a robot, they'll...) | （即便如此也是一样！　即便如此……光是机器人这个身份，你就……）
+scn00_30_0331 | - | 『くじょされる』 | They'll exterminate you. | ‘会被驱除掉’
+scn00_30_0332 | - | ココロは悟ったように頷いて、俺の手を振りほどいた。 | Cocoro nods in understanding, and she shakes my hand away. | 心仿佛领悟到了什么似的点了点头，甩开了我的手。
+scn00_30_0333 | ココロ(Cocoro) | 「ワタシはワタシの廃棄を望みます」 | "Being disposed of is what I want." | “我希望自己被废弃”
+scn00_30_0334 | ココロ(Cocoro) | 「本当は霧香に、秘密裏に処分していただくつもりでしたが、もうそうする意味はなくなりました」 | "I intended to ask Kirika to do it in secret, but it seems like it's meaningless to hide it anymore." | “我原本是想让雾香暗中处理掉我，但现在也没有这么做的意义了”
+scn00_30_0335 | ココロ(Cocoro) | 「ここにいる全員に、ワタシがヒトでない事がばれてしまいましたから」 | "Everyone here already knows that I'm not human." | “毕竟这里的所有人，都已经知道我是不是人类的事了”
+scn00_30_0336 | - | ココロは見えない目で、周囲を見回す。 | Cocoro scans our surroundings with her unseeing eyes. | 心用看不见东西的眼睛看向四周。
+scn00_30_0337 | - | 視線を受けた人たちは、後ろめたげに目を逸らす。 | People avert their gazes when she looks in their general direction. | 目光所到之处，人们都内疚的移开了视线。
+scn00_30_0338 | こさめ(Kosame) | 「……」 | "..." | “……”
+scn00_30_0339 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_30_0340 | こさめ(Kosame) | 「ッ……ココちゃん」 | "Ah... Coco-chan." | “……心儿”
+scn00_30_0341 | ココロ(Cocoro) | 「ワタシというエラーが存在してしまっているせいで、セカイに迷惑をかけています」 | "The existence of an error like me is causing trouble for the world." | “我这个错误的存在，给世界添麻烦了”
+scn00_30_0342 | ココロ(Cocoro) | 「隊長さん」 | "Mr. Squad Leader." | “队长先生”

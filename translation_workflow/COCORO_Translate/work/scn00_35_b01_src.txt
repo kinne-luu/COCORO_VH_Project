@@ -1,0 +1,63 @@
+# scene=scn00_35 batch=1/5 dòng 1-59 / 276
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_35_0001 | 風音(Kazane) | 「ミュータントドローンが迫ってきてる！　南口をバリケードで固めて！！」 | "The mutant drones are closing in! Reinforce the south exit barricade!!" | “变异无人机在逼近了！　用路障加强一下南口的防御！！”
+scn00_35_0002 | 住民Ａ(Resident A) | 「くそう……４年前のようにはさせねえぞっ！！」 | "Shit... We can't let them mess up the town again like four years ago!" | “可恶……我可不会让你们像4年前那样肆意妄为！！”
+scn00_35_0003 | 町内会長(Neighborhood Chief) | 「駆除隊は何をしているんだ……」 | "Where's the extermination squad when you need them...?" | “驱除队在干什么啊……”
+scn00_35_0004 | 風音(Kazane) | 「あいつらには期待できない。あたしたちを守るためにいるわけじゃないから」 | "Don't count on them. They're not here to protect us." | “指望不上那些家伙，毕竟他们可不是为了保护我们才来的”
+scn00_35_0005 | 風音(Kazane) | 「自分たちの街は、自分たちで守らないと」 | "This is  town. We'll have to protect it ourselves." | “我们自己的城市，就由我们自己来守护”
+scn00_35_0006 | 町内会長(Neighborhood Chief) | 「そうだったね……。よし、みなさんバリケードを造りましょう」 | "You're right... Everyone, help build up the barricade!" | “是啊……好嘞，大家一起来制造路障吧”
+scn00_35_0007 | こさめ(Kosame) | 「風音ちゃん、私も何か手伝う」 | "Kazane-chan, let me help, too." | “风音，我也来帮忙吧”
+scn00_35_0008 | 風音(Kazane) | 「こさめ、あぶないっ。なんでこっち来てんの！」 | "Kosame! What are you even doing here? It's too dangerous!" | “小雨，这里很危险，你为什么跑过来了啊！”
+scn00_35_0009 | こさめ(Kosame) | 「いつもお世話になってるばっかりで、私も何かしたいんだもん」 | "Everyone is always taking care of me, so I want to do something, too." | “我总是一味地受到大家的帮助，所以也想为大家做点什么啊”
+scn00_35_0010 | 住民Ａ(Resident A) | 「おい、お嬢ちゃん！　邪魔だから引っ込んでな！」 | "Hey, kid! Stay back and get out of the way!" | “喂，小姑娘！　不要碍事快躲到一边去吧！”
+scn00_35_0011 | こさめ(Kosame) | 「ぁぅ……」 | "Aw..." | “啊呜……”
+scn00_35_0012 | 風音(Kazane) | 「子どもたちが避難するのを誘導してあげて」 | "Can you make sure the other kids get somewhere safe?" | “你去带孩子们避难吧”
+scn00_35_0013 | こさめ(Kosame) | 「でも」 | "But..." | “可是”
+scn00_35_0014 | 風音(Kazane) | 「こさめももうお姉ちゃんでしょ。不安がってる小さい子らを、安心させてあげて。それだってとっても大事な役割だよ」 | "You're a big girl now, aren't you? The little kids are scared. They need you to look after them. That's a really important job, you know?" | “小雨已经是姐姐了对吧，那就去安抚好感到不安的小孩子们吧。这也是很重要的任务哦”
+scn00_35_0015 | こさめ(Kosame) | 「……うん、わかった！」 | "Okay, got it!" | “……嗯，我知道了！”
+scn00_35_0016 | 風音(Kazane) | 「さあ、今のうちにバリケードを組んで、あいつらが入ってこられないようにするんだよ！」 | "Come on, let's build up the barricade and make sure they can't get into town!" | “好了，趁现在赶紧设置路障，将那些家伙们拦在外面！”
+scn00_35_0017 | 小さい子(Child) | 「うわぁ！？」 | "Wahh!" | “呜哇！？”
+scn00_35_0018 | 風音(Kazane) | 「どうした！？」 | "What's wrong?" | “怎么了！？”
+scn00_35_0019 | 風音(Kazane) | 「ミュータントドローン！？　いったいどこから！！」 | "A mutant drone!? Where did that one come from?" | “变异无人机！？　到底是从哪里冒出来的！！”
+scn00_35_0020 | こさめ(Kosame) | 「こっちへいらっしゃい！」 | "Here, this way!" | “快来这里！”
+scn00_35_0021 | 小さい子(Child) | 「こさめちゃんっ」 | "Kosame-chan!" | “小雨”
+scn00_35_0022 | 風音(Kazane) | 「間に合わない！？」 | "He's not gonna make it!" | “来不及了！？”
+scn00_35_0023 | 大地(Daichi) | 「おらぁぁぁぁぁ！！！！！」 | "Take thiiiiiis!!!" | “啊啊啊啊啊啊啊！！！！”
+scn00_35_0024 | 風音(Kazane) | 「え……大地！！？」 | "Huh...? Daichi!?" | “哎……大地！！？”
+scn00_35_0025 | こさめ(Kosame) | 「お兄ちゃんっ」 | "Daichi!" | “哥哥”
+scn00_35_0026 | 大地(Daichi) | 「いててて……無事かこさめ」 | "Ouch... Are you okay, Kosame?" | “疼疼疼疼……你没事吧小雨”
+scn00_35_0027 | こさめ(Kosame) | 「うん」 | "Yeah." | “嗯”
+scn00_35_0028 | 風音(Kazane) | 「あんたこそ、大丈夫なの！？」 | "How about !? Are you hurt!?" | “你才是，没事吧！？”
+scn00_35_0029 | 大地(Daichi) | 「どうにかな……。今度は自分で、こさめを守る事ができたぜ」 | "I'm fine... At least I could protect Kosame myself this time." | “还行吧……这次我靠自己保护住小雨了”
+scn00_35_0030 | 住民Ａ(Resident A) | 「こいつ、まだ動くぞ！」 | "It's still moving!" | “这家伙还在动！”
+scn00_35_0031 | 風音(Kazane) | 「こさめ、その子を安全なところへ連れてってあげて！」 | "Kosame, take that boy somewhere safe!" | “小雨，将这个孩子带到安全的地方去！”
+scn00_35_0032 | こさめ(Kosame) | 「うん、わかった！　おいで、一緒に逃げよ」 | "Okay, got it! Come with me. We can go together, okay?" | “嗯，我知道了！　来，和我一起逃吧”
+scn00_35_0033 | 大地(Daichi) | 「どいてろ、もう一発お見舞いしてやる！」 | "Clear the way! I'll hit it again!" | “闪开，让我再给它来一下！”
+scn00_35_0034 | 風音(Kazane) | 「待って。脚が折れて動けないみたい」 | "Wait. It looks like its legs are broken. It can't attack anymore." | “等下，它好像脚断了动不了了”
+scn00_35_0035 | 大地(Daichi) | 「それでも俺たちを攻撃しようと動いてやがるのか……。なんて奴らだ」 | "It's still dead set on , though... Those things are tough." | “即便如此也想要起身攻击我们吗……真搞不懂这些家伙”
+scn00_35_0036 | 風音(Kazane) | 「まるで何かに怯えてるみたい……」 | "It's almost as if they're scared of something..." | “就像是恐惧着什么一样……”
+scn00_35_0037 | 大地(Daichi) | 「いったんこっちは大丈夫そうだな。俺は車を使ってバリケードにしてくる」 | "Looks like we're okay over here. I'll use the van to block the road." | “这里暂时应该没问题了吧，我把车开过去当路障了”
+scn00_35_0038 | 風音(Kazane) | 「うん、お願い」 | "Please do." | “嗯，拜托你了”
+scn00_35_0039 | 風音(Kazane) | 「……ひなた、こっちはあたしらでなんとかする。だからココロちゃんを頼んだよ」 | "We'll take care of things here, so Cocoro-chan's in your hands, Hinata..." | “……日向，我们这里能靠自己撑住，所以心就拜托你了啊”
+scn00_35_0040 | - | 俺は端末からココロにアクセスを試みていた。 | I'm trying to access Cocoro's memory using one of the devices in the room. | 我尝试通过终端访问心。
+scn00_35_0041 | ひなた(Hinata) | （ダメだ、拒否される） | (It's no use. She's rejecting me.) | （不行，被拒绝了）
+scn00_35_0042 | ＣＣＲ－０２(CCR-02) | 『……しんこくナ……ダメージ……はシュウフクし……た。ナノ……に……メ……ざめ……ない』 | "I... re...paired... the most... serious... damage. But... she... still... won't... wake... up." | ‘……严重的……损伤……已经被……修理好了。但……她却……不……醒过……来’
+scn00_35_0043 | ＣＣＲ－０２(CCR-02) | 『よんで……モ……コタえ……な……イ』 | "She won't... answer... to... my... calls." | ‘叫她……也……不回答……我’
+scn00_35_0044 | - | 端末からリブートの命令を送るが、なんのリアクションもない。 | I send a reboot command from the device, but nothing happens. | 我试着从终端发送重启命令，但心却没有任何反应。
+scn00_35_0045 | - | 『どうして命令がキャンセルされるんだ』 | "Why are my commands being canceled?" | ‘为什么命令被取消了’
+scn00_35_0046 | ＣＣＲ－０２(CCR-02) | 『し……こうカイ……ろを……オーバーふろーさ……せてル』 | "She's... causing... an over...flow... error... in her... thought processors..." | ‘她让……自……己的……思考回……路……过载了’
+scn00_35_0047 | - | 『思考回路をオーバーフロー？』 | "How is that possible?" | ‘思考回路过载？’
+scn00_35_0048 | ＣＣＲ－０２(CCR-02) | 『コタえ……で……ない……トイを……し……つづケル』 | "By... ask...ing... herself... an unanswer...able question..." | ‘一直在……思考着……尚未……得出……答案的……疑问’
+scn00_35_0049 | - | 答えの出ない疑問を考え続ける事で、わざとオーバーフローさせているのか。 | Is she intentionally overflowing her thought processors by thinking about a question she can't answer? | 通过不断思考得不出答案的疑问，故意让自己过载了么。
+scn00_35_0050 | - | 思考回路のリソースを使い尽くしているので、命令を送っても次の処理にいけず、フリーズ状態を作り出している。 | That would take up all of her thought processors' resources, so she'd be unable to process any new commands. | 因为思考回路的资源已经用尽了，所以就算发送命令也无法让她进行下一步的处理，就陷入了死机的状态。
+scn00_35_0051 | - | 『ココロをリブートさせる方法はないの？』 | "Isn't there another way to make her reboot?" | ‘有能让心重启的方法吗？’
+scn00_35_0052 | ＣＣＲ－０２(CCR-02) | 『２つ……アル』 | "There are... two." | ‘有……2个’
+scn00_35_0053 | ＣＣＲ－０２(CCR-02) | 『１つ……は……メモリーのショキ……か』 | "One:... Format...ting... her... memory." | ‘1个……是……将记忆初始……化’
+scn00_35_0054 | - | メモリーの初期化だって？ | Formatting her memory? | 将记忆初始化？
+scn00_35_0055 | - | 『そんな事をしたら、ココロが消えてしまう』 | "If we did that, Cocoro would be erased." | ‘这么做的话，心会消失的’
+scn00_35_0056 | - | それは、ココロが稼動を始めてから今日までの経験を、想い出を、全て無くしてしまうという事。 | That would mean deleting all the memories and experiences she gained since she first started operating. | 这意味着，心开始运行至今的经历、回忆全都会烟消云散。
+scn00_35_0057 | - | メモリーが真っさらになったココロはココロと呼べるんだろうか？ | Would she still be "Cocoro" if her memory was wiped? | 记忆变成全新状态的心还是心吗？
+scn00_35_0058 | - | 『もう１つは』 | "What's the other method?" | ‘另1个呢’
+scn00_35_0059 | ＣＣＲ－０２(CCR-02) | 『トイに……コタえ……ヲ……あたエル』 | "Answer... her... question." | ‘将疑问……的……答案……告诉她’

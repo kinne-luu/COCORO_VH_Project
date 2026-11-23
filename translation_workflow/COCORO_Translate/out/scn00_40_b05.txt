@@ -1,0 +1,60 @@
+scn00_40_0239 | "Phù......"
+scn00_40_0240 | Liệu có bị phản tác dụng không nhỉ......
+scn00_40_0241 | Tôi vốn muốn chủ động bày tỏ rõ thái độ của mình trước, để xoay chuyển bầu không khí ngượng ngùng đang bao quanh Cocoro.
+scn00_40_0242 | Thế nhưng chẳng biết chừng mình lại vừa vô tình khiến Cocoro phải chịu thêm tổn thương và buồn lòng.
+scn00_40_0243 | Giữa lúc tôi đang chìm đắm trong cảm giác bất lực rầu rĩ, từ phía sau, bàn tay vẫn đang đan chặt của Cocoro khẽ giật giật kéo tay tôi lại.
+scn00_40_0244 | "?"
+scn00_40_0245 | "Cậu Hinata...... à ừm."
+scn00_40_0246 | Cocoro ngập ngừng bẽn lẽn như muốn giãi bày điều gì đó, rồi
+scn00_40_0247 | em bất ngờ lao tới ôm chầm lấy tôi thật chặt.
+scn00_40_0248 | "Oái. Sao thế em??"
+scn00_40_0249 | "...... Dạ không...... chỉ là tôi không biết phải làm sao để diễn tả cảm xúc này cho cậu hiểu mà thôi."
+scn00_40_0250 | "Tớ làm cậu thấy bất an à......?"
+scn00_40_0251 | Vùi sâu gương mặt vào lồng ngực tôi, Cocoro khẽ lắc đầu.
+scn00_40_0252 | "Không đâu...... không phải thế đâu ạ."
+scn00_40_0253 | "Tôi thấy hạnh phúc lắm. Vì cậu Hinata đã dõng dạc nói ra những lời như thế trước mặt tất cả mọi người."
+scn00_40_0254 | "Tôi... yêu cậu Hinata nhiều lắm."
+scn00_40_0255 | "Cocoro......"
+scn00_40_0256 | "Cảm xúc ngập tràn này, tôi chẳng biết phải làm thế nào nữa. Cho nên... xin lỗi cậu nhé, cho tôi cứ ôm cậu như thế này thêm một lát được không?"
+scn00_40_0257 | "Ừm. Tớ cũng yêu em nhiều lắm, Cocoro à."
+scn00_40_0258 | Tôi vòng tay ôm chặt lấy tấm thân bé nhỏ của Cocoro, hai đứa cứ thế đắm chìm trong hơi ấm của nhau một hồi lâu.
+scn00_40_0259 | Sau đó, hai đứa cứ êm đềm bên nhau trong phòng, chớp mắt một cái trời đã ngả bóng hoàng hôn.
+scn00_40_0260 | "...... Cũng sắp đến lúc phải chuẩn bị bữa tối rồi nhỉ."
+scn00_40_0261 | "Nếu là chuyện đó, xin hãy giao trọn cho tôi ạ."
+scn00_40_0262 | "Hai đứa mình cùng nấu chung đi. Nấu cả phần cho Cocoro nữa."
+scn00_40_0263 | Có một người cùng ta chia sẻ món ăn và tấm tắc khen ngon. Chỉ chừng ấy thôi cũng đủ khiến bữa cơm trở nên đượm vị ngọt ngào hơn gấp bội phần.
+scn00_40_0264 | "Cùng nhau nấu...... nấu cả phần cho tôi nữa...... tôi thích lắm."
+scn00_40_0265 | "Phải rồi, đây chính là cảm xúc mang tên 'yêu thích'. Khối CPU đang đập rộn ràng bỗng nóng ran lên, hệ thống làm mát không sao giải nhiệt kịp khiến toàn thân tôi không ngừng tỏa nhiệt phừng phừng."
+scn00_40_0266 | "Nguy to rồi, mau uống chút trà lúa mạch hạ nhiệt đi nào!"
+scn00_40_0267 | Tôi lấy bình trà lúa mạch từ trong tủ lạnh ra rồi rót đầy vào cốc đưa cho em.
+scn00_40_0268 | "Ực ực ực............ phù u u. Trà lúa mạch mát lạnh thấm đượm vào khắp cơ thể đang nóng bừng của tôi rồi."
+scn00_40_0269 | "May mà chưa bị quá nhiệt chập mạch đấy."
+scn00_40_0270 | Trong lúc tôi cầm quạt nan phe phẩy quạt mát cho Cocoro vẫn còn hơi nóng,
+scn00_40_0271 | "Hinata ơiii, bé Cocoro ơiii, có nhà không đấyyy?"
+scn00_40_0272 | Bên ngoài vang lên tiếng réo gọi của Kazane.
+scn00_40_0273 | "Có nhà đâyyy!"
+scn00_40_0274 | Vừa nghe tôi đáp lời, Kazane liền chạy bước lên cầu thang.
+scn00_40_0275 | "Làm phiền hai đứa tí nhéee."
+scn00_40_0276 | Đi ngay đằng sau cậu ấy là một người phụ nữ lớn tuổi trông có vẻ quen mặt.
+scn00_40_0277 | Ai thế nhỉ......?
+scn00_40_0278 | Dường như sắp nhớ ra đến nơi nhưng tôi lại chẳng tài nào gọi thành tên được.
+scn00_40_0279 | "Đây là bà Yoshino nè."
+scn00_40_0280 | "Cháu chào bà Yoshino ạ. Cháu là Cocoro."
+scn00_40_0281 | "Chào buổi tối nhé, bé Cocoro."
+scn00_40_0282 | "?"
+scn00_40_0283 | Nghe giọng nói của bà Yoshino, Cocoro nghiêng đầu thắc mắc.
+scn00_40_0284 | "Giọng nói này nghe rất quen tai. Hình như trước đây cháu từng chào hỏi bà rồi thì phải."
+scn00_40_0285 | "Đúng rồi đúng rồi. Cháu vẫn còn nhớ cơ đấy à. Hồi đó cháu đã chào bà một câu thật là to và đầy năng lượng luôn đó."
+scn00_40_0286 | %130;<Cháu tên là Cocoro ạ. Kể từ hôm nay cháu sẽ được mọi người ở đây giúp đỡ chỉ bảo. Rất mong được mọi người quan tâm chiếu cố! Cúi đầu chào thật sâu ạ!!!>
+scn00_40_0287 | <Cháu tên là bé Cocoro đấy à. Cái tên nghe dễ thương làm sao ấy nhỉ.>
+scn00_40_0288 | "Aaa, là bà cụ hồi đó!!!"
+scn00_40_0289 | Đó chính là bà cụ tốt bụng đã vui vẻ đáp lời Cocoro vào cái ngày em mới đặt chân tới khu phố mua sắm Tsukumo, khi em hăng hái chào hỏi thật to để chứng minh "tính người" của mình.
+scn00_40_0290 | "Bà Yoshino bảo có quà muốn tặng cho hai người đấy."
+scn00_40_0291 | "Quà tặng sao ạ??"
+scn00_40_0292 | "Nếu không chê, bà rất muốn bé Cocoro mặc thử món đồ này."
+scn00_40_0293 | Bà Yoshino mỉm cười đôn hậu, lấy ra từ trong chiếc túi lớn một tấm vải màu trắng mềm mại bồng bềnh. Tôi liền đưa tay phụ giúp bà trải rộng nó ra.
+scn00_40_0294 | "Đây là......"
+scn00_40_0295 | "Tôi biết thứ này. Bộ y phục lộng lẫy trắng tinh khôi và bồng bềnh này, chính là trang phục cô dâu mặc trong ngày thành hôn... gọi là váy cưới."
+scn00_40_0296 | "Ừ...... đúng thế thật."
+scn00_40_0297 | Đó đích thực không thể sai vào đâu được, một chiếc váy cưới trắng tinh khôi tuyệt đẹp.
+scn00_40_0298 | "Bà Yoshino bảo muốn bé Cocoro khoác lên mình chiếc váy này đấy."

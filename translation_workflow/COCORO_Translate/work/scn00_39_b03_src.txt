@@ -1,0 +1,64 @@
+# scene=scn00_39 batch=3/6 dòng 121-180 / 321
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_39_0121 | 霧香(Kirika) | 「ええ……」 | "Yeah..." | “嗯……”
+scn00_39_0122 | - | モニタを睨みながら霧香さんが生返事をする。 | Kirika-san is back to staring at her monitor already, so she only gives a half-hearted response. | 盯着显示器的雾香小姐心不在焉地回答道。
+scn00_39_0123 | - | メンテナンスを終えると、またデータの解析作業に戻っていた。 | The moment she finished Cocoro's maintenance, she went back to analyzing the data. | 在维护结束后，她便回到了数据的解析作业中。
+scn00_39_0124 | ひなた(Hinata) | 「あまり[こん]根を詰めすぎないでね。はいこれ、どうぞ」 | "Don't work too hard, okay? Here, take a break." | “别太拼命了哦，来，给你这个”
+scn00_39_0125 | - | 机にミルクたっぷりのコーヒーを置くと、霧香さんはやっとこっちを見てくれた。 | I put a cup of coffee, with plenty of milk in it, on her desk. When I do, Kirika-san finally looks at me. | 在我将加了许多牛奶的咖啡放在桌子上后，雾香小姐总算是看向了我。
+scn00_39_0126 | 霧香(Kirika) | 「……そうね、少し休憩しましょ」 | "You're right. I could use a break." | “……是啊，我稍微休息一会儿吧”
+scn00_39_0127 | - | カップを手に取り、コーヒーを一口飲む。 | She picks up the cup and takes a sip. | 她拿起咖啡喝了一口。
+scn00_39_0128 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_39_0129 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_39_0130 | 霧香(Kirika) | 「なによ、ふたりしてジッと見て」 | "What? Why are you both staring at me?" | “干嘛，你们两个为什么一直盯着我看”
+scn00_39_0131 | ひなた(Hinata) | 「ううん、別に」 | "No reason." | “不，没什么”
+scn00_39_0132 | 霧香(Kirika) | 「……あら？　豆変えた？　なんだかいつもと味が違って感じるわね」 | "Hmm? Did you use different coffee beans? This tastes different." | “……哎呀？　是换了豆子吗？　感觉和平时的味道不太一样啊”
+scn00_39_0133 | ひなた(Hinata) | 「豆は同じだよ。でも、淹れ方をちょっと変えたかも」 | "The beans are the same. But it was prepared a little differently." | “豆子是同一种，不过，冲泡方法可能有点变化”
+scn00_39_0134 | ココロ(Cocoro) | 「……（ウンウン）」 | "*nod* *nod*..." | “……（嗯嗯）”
+scn00_39_0135 | 霧香(Kirika) | 「けど美味しい♪」 | "It's different, but it's good. %f$記号$;♪%fuser;" | “不过很美味♪”
+scn00_39_0136 | ひなた・ココロ(Cocoro & Hinata) | 「イエ～～イ！」 | "Yaaaay!" | “耶～～！”
+scn00_39_0137 | - | 俺とココロは笑顔でハイタッチする。 | Cocoro and I give each other a high five, broad smiles on our faces. | 我和心笑着击了个掌。
+scn00_39_0138 | 霧香(Kirika) | 「えっ、なになに？？」 | "Huh? What's going on?" | “哎，怎么回事？？”
+scn00_39_0139 | ひなた(Hinata) | 「それ淹れたのココロだよ」 | "Cocoro's the one who made that coffee." | “这是心泡的哦”
+scn00_39_0140 | 霧香(Kirika) | 「え、そうなの？」 | "Huh? Really?" | “哎，是这样吗？”
+scn00_39_0141 | ココロ(Cocoro) | 「霧香の好みや健康状態を考慮し、少しアレンジを加えました。ドヤ」 | "I made a few adjustments to my usual style in consideration of your preferences and physical condition. Amazing, right?" | “考虑到雾香小姐的喜好和健康状态，我稍微进行了一点加工，怎样”
+scn00_39_0142 | 霧香(Kirika) | 「驚いた。とっても美味しいわ。ありがとう、ココロ」 | "I'm surprised, really. It's delicious. Thank you, Cocoro." | “真让人吃惊，咖啡非常美味，谢谢你，心”
+scn00_39_0143 | ココロ(Cocoro) | 「どういたしまして。フフフ、このまま腕を磨いてヒューマノイド界初のバリスタを目指しましょうか」 | "You're very welcome. Hehehe, at this rate, I might perfect my skills and become the world's first humanoid barista." | “不用谢。呵呵呵，要不就这样继续磨练技术，朝着仿生人界第一个咖啡大师努力呢”
+scn00_39_0144 | - | ココロはご満悦だ。 | Cocoro puts on a smug grin. | 心满心欢喜。
+scn00_39_0145 | - | 喜ぶココロを見て微笑んでいた霧香さんだったが、だんだんと表情が[くも]曇っていく。 | Kirika-san smiles when she sees Cocoro's glee, but then her expression quickly clouds over. | 雾香小姐看到心开心的样子后微笑了起来，但表情却又逐渐笼罩上了乌云。
+scn00_39_0146 | 霧香(Kirika) | 「……あなたには、本当に心があるのね」 | "...You really  have a soul, don't you?" | “……你真的拥有人心啊”
+scn00_39_0147 | ココロ(Cocoro) | 「実感はありませんし、心の実在を証明するのは極めて困難です」 | "I don't feel any different, and it would be extremely difficult to prove that it's true." | “我没有什么实感，证明心的存在也十分困难”
+scn00_39_0148 | ココロ(Cocoro) | 「ですが、そうですね……あるとするなら、ひなたさんが見付けてくれました」 | "However... Yes... If I truly do have one, then Hinata-san is the one who found it for me." | “不过，这么说吧……如果我真的拥有人心，那便是日向先生为我找到的”
+scn00_39_0149 | - | ココロはそう言って、胸に手を当てる。 | Cocoro presses her hand against her chest. | 心这么说着，将手放在了胸前。
+scn00_39_0150 | 霧香(Kirika) | 「私は見誤ってしまった。あなたに謝らないといけない」 | "I owe you an apology for misjudging you." | “是我看错了，我必须得向你道歉”
+scn00_39_0151 | - | [うつむ]俯く霧香さんを、ココロは困った様子で見ていたが、 | Kirika-san bows her head, and Cocoro seems unsure how to respond. She freezes for a moment, but then... | 心一脸困惑地看着低下了头的雾香小姐。
+scn00_39_0152 | ココロ(Cocoro) | 「よしよし、元気を出してください」 | "Please cheer up, okay? You're a good girl." | “好啦好啦，请打起精神来”
+scn00_39_0153 | - | いつか俺の真似をしてそうしたように、ココロはぽんぽんと優しく霧香さんの頭を撫でた。 | Cocoro pats Kirika-san on the head, just like I did to Cocoro that one time. | 心模仿着之前的我，温柔地抚摸着雾香小姐的头。
+scn00_39_0154 | 霧香(Kirika) | 「うっ……ぅぅ……ぅぅぅ…………」 | "Uh... Nngh... Nnnngh..." | “呜……呜呜……呜呜呜……”
+scn00_39_0155 | 霧香(Kirika) | 「ココロ～～～～～～ふぇえええええ～～～～～～～～ん」 | "Cocorooooo! Wahhhhhhhhhhhhhhhhhhh!" | “心～～～～～～呜哇哇哇哇～～～～～～”
+scn00_39_0156 | - | 霧香さんがそのままココロの胸に抱きついて幼女化する。 | Kirika-san buries her face in Cocoro's chest as if she's a little girl clinging to her mom. | 雾香小姐就这样在心的怀中幼女化了。
+scn00_39_0157 | ココロ(Cocoro) | 「よしよし、いい子いい子」 | "It's okay, you're a good girl." | “好啦好啦，乖宝宝乖宝宝”
+scn00_39_0158 | 霧香(Kirika) | 「ぐすっ……ぐすっ……ごめんねココロぉ」 | "*sniffle* *sniffle*... I'm sorry, Cocoroooo!" | “呜呜……呜呜……对不起啊心”
+scn00_39_0159 | ひなた(Hinata) | （いとも容易く霧香さんを幼女化させてしまった） | (She effortlessly got Kirika-san to revert to her spoiled little girl mode.) | （十分轻易地就让雾香小姐幼女化了）
+scn00_39_0160 | - | こんな事、普通のロボットには不可能だ。すごいぞココロ。 | No normal robot would be able to do that. Cocoro really  incredible. | 普通的机器人是不可能做到这种事的。真厉害啊心。
+scn00_39_0161 | ひなた(Hinata) | 「ところで、ココロの事、何か分かった？」 | "So, did you learn anything new about Cocoro?" | “话说回来，有什么关于心的发现吗？”
+scn00_39_0162 | - | 霧香さんは過去の研究データから、『厄災』の原因やここで行われていた研究内容について調査を進めている。 | Kirika-san has been reviewing historical data from the research that took place here, looking for clues related to the Calamity. | 雾香小姐正在从过去的研究数据中，对‘灾厄’的原因和这里曾经进行过的研究内容进行着调查。
+scn00_39_0163 | - | それらをレポートにして偉い人に報告するのが、霧香さんの仕事だ。 | It's her job to write up reports and present her findings to her superiors. | 将这些总结成报告交给上面的人就是雾香小姐的工作。
+scn00_39_0164 | 霧香(Kirika) | 「うん……。まだ推測の域を出ない部分が多いけど、だんだんと見えてきたわ」 | "Well... I still haven't been able to confirm all my hypotheses, but I'm starting to get somewhere." | “嗯……虽然还有很多部分处于推测阶段，但已经基本上有眉目了”
+scn00_39_0165 | 霧香(Kirika) | 「ＣＣＲプロジェクト……つまり、ココロの開発プロジェクトは、ユートピア構想の根幹だったみたい」 | "The CCR project... The project to develop Cocoro was the foundation of the Utopia Initiative, it seems." | “CCR计划……也就是心的开发计划，似乎是乌托邦构想的根本”
+scn00_39_0166 | 霧香(Kirika) | 「ううん、その派生から生まれたのがユートピア構想だった……という方が正しいわね」 | "No... It would be more accurate to say that the Utopia Initiative was derived from the project." | “不，应该是这个计划派生出来了乌托邦构想……这样说比较正确”
+scn00_39_0167 | - | ユートピア構想はＡＩやロボットの社会進出によって、豊かな世界を実現しようというものだった。 | The Utopia Initiative was meant to create a prosperous world by giving robots and AI important roles in society. | 乌托邦构想旨在通过让AI和机器人融入社会，来实现丰富多彩的世界。
+scn00_39_0168 | - | 人のようなロボットの設計思想に始まり、ヒューマノイドが存在し、人を助ける社会を創ろうという、より大きな構想へと発展していったのか。 | So, it started with a conceptual design of a humanlike robot and evolved into a larger vision of a society where humanoids assist people in all aspects of life? | 是想以类人机器人的设计理念为开端，创造一个存在着仿生人，并对人类有益的社会，从而发展成更加宏大的构想么。
+scn00_39_0169 | ひなた(Hinata) | 「父さんは母さんの影響を受けて、ユートピア構想を実現しようとしたのか……」 | "Did Dad try to realize the Utopia Initiative because Mom's ideals influenced him?" | “爸爸是受妈妈影响，才想要实现乌托邦构想的吗……”
+scn00_39_0170 | 霧香(Kirika) | 「姉さんのメモが残されていたわ」 | "I found some notes that Yoko wrote." | “姐姐的笔记也还留着呢”
+scn00_39_0171 | - | 霧香さんが画面を見せてくれる。 | Kirika-san shows me the screen. | 雾香小姐将画面展示给我看。
+scn00_39_0172 | - | \n\n\n\n\n\n\n\n『発達したＡＩはいずれ人を必要としなくなり、やがて社会を支配、管理するようになる』 | \n\n\n\n\n\nIf AI develops beyond a certain point, it will eventually stop requiring human intervention. At that point, it could end up in control of society. | \n\n\n\n\n\n\n\n‘发展成熟的AI就不再需要人类了，最终还会试图支配管理社会’
+scn00_39_0173 | - | %n;『そうなる前に、『愛』を持ったロボットを生み出さないといけない』 | %n;Before we reach that point, we must develop robots that are capable of "love." | %n;‘所以在这之前，必须要孕育出拥有‘爱’的机器人’
+scn00_39_0174 | ひなた(Hinata) | 「人のサポートじゃなく、ＡＩがＡＩのための社会を作り、動かしていくようになるの……？」 | "She thought that AI would develop to serve its own interests rather than supporting the lives of humans?" | “AI会不再辅佐人类，而是试图制造出适合AI的社会，并使其运作起来吗……？”
+scn00_39_0175 | 霧香(Kirika) | 「可能性は充分にあるわ。そしてそれは、そう遠くない未来に起こるかもしれない」 | "She could be right. It  happen in the not-too-distant future." | “可能性很高，而且，很有可能会发生在不远的将来”
+scn00_39_0176 | - | 今までは人がＡＩやロボットを開発、生産してきた。 | Until now, AI and robots have been developed and created by humans. | 迄今为止都是人类在对AI和机器人进行开发生产。
+scn00_39_0177 | - | しかし、ＡＩがＡＩを、ロボットがロボットを開発、生産するようになる未来はもうすぐそこまで来ていた――『厄災』が起こらなければ。 | However, a future where AI can develop AIs of its own accord, and where robots can develop and create robots on their own, was not out of the question—if not for the Calamity. | 可是，AI和机器人对AI和机器人进行开发生产的未来很快就会到来——如果不是发生了‘灾厄’的话。
+scn00_39_0178 | - | そうなった時、ＡＩが人を管理する社会になるならまだましな方で、最悪、不要と判断され排除されるかもしれない。 | In a future like that, the most preferable scenario would be that AI controlled and managed human society. In the worst case, they could deem humans entirely unnecessary and eradicate us. | 到了那时，如果只是变成了AI对人类进行管理的社会还算好的，最坏的情况，AI可能会认为人类是不需要的，从而对人类进行清除。
+scn00_39_0179 | - | その先に待っているのは、ＡＩと人との戦争だろう。 | In that case, an all-out war between AI and humans would be unavoidable. | 再往后等待着我们的就是AI和人类的战争了吧。
+scn00_39_0180 | 霧香(Kirika) | 「でももし、ＡＩが私たち人と共有できる根源的な概念『愛』を持っていたらどうなるかしら」 | "But what if AI and humans had a fundamental concept they shared—'love'?" | “但是，如果AI能够拥有我们人类共有的根源性概念‘爱’，结果又会如何呢”

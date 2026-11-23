@@ -1,0 +1,60 @@
+scn00_28_0062 | "..."
+scn00_28_0063 | "Có chuyện gì sao ạ?"
+scn00_28_0064 | "...(Lắc đầu)"
+scn00_28_0065 | Ngước mắt nhìn lên, trần nhà đã vỡ toác từ bao giờ.
+scn00_28_0066 | Ký ức của tôi về đêm hôm đó chỉ còn lại những mảnh ghép mờ ảo.
+scn00_28_0067 | Ở bên ngoài, tôi nhìn thấy những người lớn đang hoảng loạn tột độ và bầy robot an ninh mất kiểm soát đang phát cuồng.
+scn00_28_0068 | Vì quá sợ hãi, tôi đã chạy trốn trở lại vườn bách thảo rồi nấp tại nơi này.
+scn00_28_0069 | Thế rồi, một tiếng va chạm kinh hoàng vang lên, kính vỡ tan tành, vầng trán toác ra trong câm lặng và dòng máu tuôn trào nhuộm đỏ tầm mắt tôi...
+scn00_28_0070 | Đến khi tỉnh lại, tôi đã thấy mình nằm trên giường bệnh.
+scn00_28_0071 | Bộ quần áo có lẽ dính đầy máu đã được thay ra, và kỷ vật quý giá của mẹ mà tôi hằng nâng niu cũng biến mất không dấu vết.
+scn00_28_0072 | Dù đã hỏi đi hỏi lại các cô y tá nhiều lần, nhưng dường như ngay từ lúc được đưa vào bệnh viện, kỷ vật ấy đã không còn bên người tôi nữa rồi.
+scn00_28_0073 | Vậy thì hoặc là đánh rơi trong lúc chuyển viện, bằng không thì chắc chắn nó phải nằm lại ở nơi này.
+scn00_28_0074 | ...Không thấy đâu cả.
+scn00_28_0075 | Mái nhà dù đã nứt vỡ, nhưng xung quanh vẫn được vòm kính che chắn nên gió hầu như chẳng thể lùa vào.
+scn00_28_0076 | Nơi này hẳn cũng chẳng có ai ra vào, nên tôi từng nghĩ nếu đánh rơi ở đây thì biết đâu sẽ tìm lại được.
+scn00_28_0077 | 'Hình như tôi đã đánh rơi một món đồ ở đây.'
+scn00_28_0078 | "Đồ đánh rơi sao...?"
+scn00_28_0079 | Chỉ có duy nhất Cocoro là hầu như ngày nào cũng ghé qua đây để chăm sóc cỏ cây.
+scn00_28_0080 | "Tôi không rõ nữa, tôi chưa từng nhìn thấy thứ gì như vậy cả."
+scn00_28_0081 | Mắt của Cocoro bắt đầu không nhìn rõ từ bao giờ vậy nhỉ?
+scn00_28_0082 | Hồi ấy, vào những ngày tôi và cậu ấy gặp nhau mỗi ngày ở chốn này, mắt cậu ấy vẫn nhìn rất rõ.
+scn00_28_0083 | Góc nghiêng chăm chú ngắm nhìn từng bức ký họa của tôi, và ánh mắt say đắm mà tôi hướng về cậu ấy khi đó, tôi vẫn còn nhớ như in.
+scn00_28_0084 | "Cậu Hinata, tôi muốn kiểm tra tình trạng của hoa Tuyết Trắng Mùa Hạ, tôi mượn flycam của cậu một lát có được không?"
+scn00_28_0085 | Tôi lấy chiếc flycam từ trong ba lô ra đưa cho cậu ấy.
+scn00_28_0086 | Chỉ cần khởi động xong, phần còn lại Cocoro có thể tự mình điều khiển.
+scn00_28_0087 | Sử dụng camera của flycam, Cocoro quan sát những nụ hoa Tuyết Trắng Mùa Hạ đang chớm nở.
+scn00_28_0088 | "Tôi đánh giá xác suất hoa nở trong mùa hè năm nay là trên 99%."
+scn00_28_0089 | Thế nhưng dù hoa có nở, Cocoro cũng không thể tận mắt ngắm nhìn bằng chính đôi mắt của mình.
+scn00_28_0090 | 'Những lúc chăm sóc hoa một mình, cậu làm thế nào?'
+scn00_28_0091 | "Nếu ghé sát lại gần đến tầm này thì bằng cách nào đó tôi vẫn có thể nhìn được ạ."
+scn00_28_0092 | Cocoro ghé sát tới mức chóp mũi gần như chạm vào nụ hoa để nhìn.
+scn00_28_0093 | Dường như cơ chế điều chỉnh tiêu cự bị hỏng hóc, thành ra không hẳn là cậu ấy hoàn toàn mù lòa.
+scn00_28_0094 | "Hơn nữa, tôi còn được trang bị các loại cảm biến khác, chỉ cần chạm thử vào thế này là ít nhiều có thể nhận biết được."
+scn00_28_0095 | Hóa ra là vậy. Cậu ấy đã kiểm tra tình trạng hoa Tuyết Trắng Mùa Hạ vào mỗi buổi sáng bằng cách đó sao.
+scn00_28_0096 | 'Làm thế nào mới có thể chữa lành mắt cho Cocoro được?'
+scn00_28_0097 | "Thiết bị bảo trì nằm ở Khu Vực Trung Tâm. Tuy nhiên, hiện tại nó đã ngừng hoạt động rồi."
+scn00_28_0098 | 'Nghĩa là không sửa được sao?'
+scn00_28_0099 | "Vâng."
+scn00_28_0100 | Cocoro quả quyết khẳng định.
+scn00_28_0101 | 'Tôi muốn Cocoro được tận mắt ngắm nhìn hoa Tuyết Trắng Mùa Hạ.'
+scn00_28_0102 | Cocoro thoáng lộ vẻ bối rối.
+scn00_28_0103 | "Cậu Hinata đã biết thân phận thực sự của tôi rồi. Vì vậy, tôi xin được nói thật."
+scn00_28_0104 | "Tôi không hề muốn ngắm hoa Tuyết Trắng Mùa Hạ."
+scn00_28_0105 | Hả...?
+scn00_28_0106 | ...Đằng nào thì tôi cũng đâu thể hiểu được vẻ đẹp của hoa lá.
+scn00_28_0107 | Đó là câu nói Cocoro từng thốt ra trước đây.
+scn00_28_0108 | "Chỉ cần đóa hoa này nở, vị hôn phu sẽ tới đón tôi. Khi ấy tôi có thể kết hôn."
+scn00_28_0109 | 'Nhưng thế thì...'
+scn00_28_0110 | "Vâng. Cho tới thời điểm đó, chỉ cần tôi có thể lừa được rằng mình là con người là quá đủ rồi."
+scn00_28_0111 | Lừa dối ư...
+scn00_28_0112 | "...A... ư..."
+scn00_28_0113 | Những lời muốn giãi bày cứ nghẹn ứ nơi cổ họng chẳng thể thốt nên lời.
+scn00_28_0114 | "Có chuyện gì thế ạ?"
+scn00_28_0115 | Cocoro dịu dàng cất tiếng hỏi han rồi xòe bàn tay ra trước mặt tôi.
+scn00_28_0116 | \n\n\n\n\n\n\n\n'Để rồi đi vào cõi chết sao?'
+scn00_28_0117 | "..."
+scn00_28_0118 | Cocoro thoáng hiện vẻ kinh ngạc trên gương mặt.
+scn00_28_0119 | Rốt cuộc thì đó là chuyện cậu ấy chưa từng kể cho tôi nghe.
+scn00_28_0120 | "Chính xác là ngừng hoạt động. Vì vậy, tôi không cần phải tận mắt ngắm nhìn hoa Tuyết Trắng Mùa Hạ làm gì."
+scn00_28_0121 | "Đằng nào cũng sắp sửa ngừng hoạt động rồi, đem đi sửa chữa chỉ tổ lãng phí tài nguyên mà thôi."

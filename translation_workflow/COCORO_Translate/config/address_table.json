@@ -1,0 +1,117 @@
+{
+  "_ghi_chu": "status: confirmed = có trích dẫn thoại chính thức; proposed = đề xuất theo quan hệ, bạn nên chốt. phase: early / late / after. Script chỉ chèn các cặp có mặt trong batch.",
+  "pairs": [
+    {
+      "speaker": "Hinata", "listener": "Cocoro",
+      "jp": "gọi ココロ; dùng 君",
+      "vi": { "early": "tôi – cậu", "late": "anh – em", "after": "anh – em" },
+      "tone": "điềm tĩnh, dịu dàng, kiên nhẫn",
+      "status": "confirmed (JP) / proposed (VI)"
+    },
+    {
+      "speaker": "Cocoro", "listener": "Hinata",
+      "jp": "tự xưng ワタシ + です・ます; về sau gọi あなた",
+      "vi": { "early": "tôi – cậu (lịch sự, hơi máy móc)", "late": "em – anh", "after": "em – anh" },
+      "tone": "đầu game không nhận ra Hinata là vị hôn phu",
+      "status": "confirmed (JP) / proposed (VI)"
+    },
+    {
+      "speaker": "Hinata", "listener": "Kazane",
+      "jp": "hồi nhỏ 風音; hiện tại 竜崎",
+      "vi": { "present": "tôi – cậu, gọi 'Ryuzaki'", "flashback": "tôi – cậu, gọi 'Kazane'" },
+      "tone": "giữ khoảng cách nhẹ do chuyện quá khứ",
+      "status": "confirmed (cách gọi) / proposed (đại từ)"
+    },
+    {
+      "speaker": "Kazane", "listener": "Hinata",
+      "jp": "hồi nhỏ ひなた; hiện tại 三峯",
+      "vi": { "present": "tôi – cậu, gọi 'Mitsumine'", "flashback": "tôi – cậu, gọi 'Hinata'" },
+      "tone": "bặm trợn, sảng khoái kiểu chị đại, không yểu điệu",
+      "status": "confirmed (cách gọi) / proposed (đại từ; guide còn cho phép tớ – cậu)"
+    },
+    {
+      "speaker": "Hinata", "listener": "Daichi",
+      "jp": "bạn cũ bằng tuổi",
+      "vi": { "default": "tôi – cậu" },
+      "tone": "điềm tĩnh, ít đôi co",
+      "status": "proposed"
+    },
+    {
+      "speaker": "Daichi", "listener": "Hinata",
+      "jp": "tự xưng 俺, giọng xua đuổi",
+      "vi": { "hostile": "tao – mày", "cold": "tôi – cậu" },
+      "tone": "cộc lốc, thù địch vì Kosame bị liệt chân",
+      "status": "confirmed (俺) / proposed (VI)"
+    },
+    {
+      "speaker": "Hinata", "listener": "Kosame",
+      "jp": "thân thiết như anh em hàng xóm",
+      "vi": { "default": "anh – em, gọi 'Kosame'" },
+      "tone": "nhẹ nhàng, ân cần",
+      "status": "proposed"
+    },
+    {
+      "speaker": "Kosame", "listener": "Hinata",
+      "jp": "quý mến, quấn quýt",
+      "vi": { "default": "em – anh, gọi 'anh Hinata'" },
+      "tone": "vẫn quý Hinata dù anh trai ghét",
+      "status": "proposed"
+    },
+    {
+      "speaker": "Kosame", "listener": "Kazane",
+      "jp": "風音ちゃん",
+      "vi": { "default": "em – chị, gọi 'chị Kazane'" },
+      "tone": "ngưỡng mộ, tin tưởng tuyệt đối",
+      "status": "confirmed (JP) / proposed (VI)"
+    },
+    {
+      "speaker": "Daichi", "listener": "Kosame",
+      "jp": "anh trai yêu thương",
+      "vi": { "default": "anh – em, gọi 'Kosame'" },
+      "tone": "ấm áp, lo lắng, chiều chuộng (đổi tông hẳn so với khi nói với Hinata)",
+      "status": "proposed"
+    },
+    {
+      "speaker": "Kosame", "listener": "Daichi",
+      "jp": "em gái làm nũng người nhà",
+      "vi": { "default": "em – anh, gọi 'anh' / 'anh Daichi'" },
+      "tone": "thoải mái, hơi nũng nịu hoặc bướng nhẹ",
+      "status": "proposed"
+    },
+    {
+      "speaker": "Hinata", "listener": "Kirika",
+      "jp": "霧香さん",
+      "vi": { "default": "cháu – dì, gọi 'dì Kirika'" },
+      "tone": "KHÔNG dịch thành 'cô' (bên nội)",
+      "status": "confirmed (JP) / proposed (VI)"
+    },
+    {
+      "speaker": "Kirika", "listener": "Hinata",
+      "jp": "bình thường 〜だわ; khi mệt trẻ con hóa",
+      "vi": { "default": "dì – cháu (hoặc gọi Hinata)" },
+      "tone": "2 chế độ: sắc sảo/dịu dàng lúc tỉnh táo; nhõng nhẽo lúc kiệt sức",
+      "status": "proposed"
+    },
+    {
+      "speaker": "Kotaro", "listener": "Kirika",
+      "jp": "機月主任",
+      "vi": { "default": "tôi – Trưởng nhóm Kizuki" },
+      "tone": "tôn trọng cấp bậc nhưng vẫn bông đùa, thân thiện",
+      "status": "confirmed (JP) / proposed (VI)"
+    },
+    {
+      "speaker": "Kotaro", "listener": "Hinata",
+      "jp": "おまえさん / 甥っ子さん",
+      "vi": { "default": "anh – cậu, gọi 'cậu' / 'cậu cháu trai'" },
+      "tone": "hơi suồng sã, vui tính, lấy lòng để tiếp cận Kirika",
+      "status": "confirmed (JP) / proposed (VI)"
+    },
+    {
+      "speaker": "Hinata", "listener": "Kotaro",
+      "jp": "người lớn thuộc Đội điều tra",
+      "vi": { "default": "em – anh, gọi 'anh Kotaro' / 'anh Murakumo'" },
+      "tone": "lịch sự, hơi cảnh giác/ngán ngẩm nhẹ",
+      "status": "proposed"
+    }
+  ]
+}

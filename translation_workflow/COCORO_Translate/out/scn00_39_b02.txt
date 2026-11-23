@@ -1,0 +1,60 @@
+scn00_39_0061 | Chú chó mừng rỡ quấn quýt nhào tới đùa nghịch với Cocoro.
+scn00_39_0062 | "Đồ đáng ghét, con dã thú không hiểu tiếng người này."
+scn00_39_0063 | Cocoro dáo dác nhìn ngó xung quanh, nhưng vì trời còn sớm nên đường phố vẫn chưa có bóng người qua lại.
+scn00_39_0064 | "Phù......"
+scn00_39_0065 | "Tớ nghĩ cậu cứ tự nhiên như trước giờ là được rồi mà."
+scn00_39_0066 | "Không thể thế được đâu ạ. Thân phận robot của tôi rất có thể sẽ gieo rắc nỗi sợ hãi cho mọi người."
+scn00_39_0067 | Vừa nơm nớp để ý ánh mắt của người khác, Cocoro vừa nắm tay tôi rảo bước thật nhanh trên con phố.
+scn00_39_0068 | "Dì Kirika ơi, tụi cháu tới rồi đây."
+scn00_39_0069 | "...... lầm bầm lẩm bẩm......"
+scn00_39_0070 | "Dì Kirika ơiii."
+scn00_39_0071 | "......? Ô kìa, Hinata đấy à."
+scn00_39_0072 | Dì Kirika mải mê nhìn chằm chằm vào màn hình máy tính đăm chiêu suy nghĩ, lúc này mới chịu ngẩng mặt lên.
+scn00_39_0073 | "Chào buổi sáng, dì Kirika. Hôm nay không phải khám sức khỏe tổng quát con người mà là đợt đại tu kiểm tra robot, phiền dì giúp đỡ cho tôi nhé."
+scn00_39_0074 | Có vẻ dì Kirika suốt từ hôm qua đến giờ vẫn giam mình trong này để phân tích khối dữ liệu còn sót lại trên hệ thống máy tính.
+scn00_39_0075 | Lý do dì có thể làm được điều đó là vì với tư cách Chủ nhiệm đội điều tra, dì Kirika vốn đã có sẵn khóa giải mã an ninh của nơi đây.
+scn00_39_0076 | Hôm nay, dì Kirika dự định sẽ tận dụng trang thiết bị tại đây để tiến hành bảo dưỡng định kỳ cho Cocoro.
+scn00_39_0077 | Trải qua cuộc đột kích của Đội Tiêu Trừ và việc giải trừ bộ hạn chế để chiến đấu, những tổn hại trên thân thể Cocoro là khôn xiết, khiến việc bảo dưỡng trở nên vô cùng cấp bách.
+scn00_39_0078 | "Vậy thì chúng ta bắt tay vào việc ngay thôi nào."
+scn00_39_0079 | "Tình hình thế nào rồi hở dì Kirika?"
+scn00_39_0080 | "Tất cả những biện pháp xử lý mà trang thiết bị ở đây có thể làm được thì đều đã làm xong từ trước rồi..."
+scn00_39_0081 | Cảm biến thị giác của Cocoro quả thực đã hồi phục.
+scn00_39_0082 | Đúng như dự đoán, cỗ máy CCR-02 khi mang Cocoro đi đã kịp thời tiến hành các bước sơ cứu cho em.
+scn00_39_0083 | "Vậy là Cocoro không sao rồi đúng không dì?"
+scn00_39_0084 | "...... Dì đã bảo rồi mà, là những xử lý mà thiết bị ở đây có thể làm thôi."
+scn00_39_0085 | "Nếu so với con người thì những hư hỏng ở mức độ phải nhập viện cấp cứu ngay lập tức, sơ sơ qua mắt dì cũng thấy có tới ba... bốn chỗ rồi."
+scn00_39_0086 | "Thay thế linh kiện thì có thể xử lý được, nhưng ngặt nỗi vấn đề là chúng ta không có cách nào kiếm đâu ra những linh kiện đó cả."
+scn00_39_0087 | Cocoro là mẫu thử nghiệm bí mật tuyệt đối, linh kiện thay thế hầu hết chẳng thể nào dùng đồ bán đại trà trên thị trường để lắp vào được.
+scn00_39_0088 | Chưa kể, những nhà xưởng từng nhận thầu chế tạo loại linh kiện chuyên biệt đó cũng đã biến mất không còn tung tích trong mớ hỗn loạn của 'Ách Tai'.
+scn00_39_0089 | "Sao lại như thế......"
+scn00_39_0090 | "Chỉ cần cố gắng tiết kiệm năng lượng tối đa, không để các bộ phận bị hỏng phải gánh thêm tổn hại nữa, thì dì nghĩ tạm thời con bé vẫn sẽ ổn..."
+scn00_39_0091 | "Thế nhưng, nếu lần sau lại xảy ra chuyện gì, thì hậu quả sẽ là không thể cứu vãn đâu."
+scn00_39_0092 | Nghĩa là cơ thể của Cocoro có thể phát sinh sự cố bất cứ lúc nào sao......
+scn00_39_0093 | Liệu có điều gì mình có thể làm cho em ấy không......
+scn00_39_0094 | Cảm nhận rõ sự bất lực của bản thân, tôi chỉ biết siết chặt nắm đấm run rẩy.
+scn00_39_0095 | <Không sao đâu mà, cậu Hinata.>
+scn00_39_0096 | Tiếng nói của Cocoro vang lên không phải từ em, mà là phát ra từ loa của màn hình máy tính dì Kirika đang nhìn.
+scn00_39_0097 | Vì thân thể đang trong quá trình bảo dưỡng nên không thể cử động, em đã kết nối đường truyền để truyền giọng nói qua đây.
+scn00_39_0098 | <Thân xác của tôi nói chung đều chỉ là những linh kiện thay thế. Trường hợp xấu nhất, chỉ cần cấy ghép chức năng não bộ của tôi sang thân thể của robot an ninh là được......>
+scn00_39_0099 | "Làm thế sẽ bị Hinata ghét bỏ đấy nhé."
+scn00_39_0100 | <Hả>
+scn00_39_0101 | "Cháu thử tưởng tượng cảnh cùng ngồi bên bàn ăn sáng với một con robot an ninh xem."
+scn00_39_0102 | <Cậu Hinata, thực đơn sáng nay gồm có natto, trứng ốp la giăm bông, đậu phụ và canh miso rong biển ạ~>
+scn00_39_0103 | "Mời cả nhà xơi cơm~ Nhai nhóp nhép ngon quá đi mất~"
+scn00_39_0104 | <Tôi cũng xin phép xơi cơm ạ... định nói thế mà nhận ra mình làm gì có mồm đâu cơ chứ, hi hi☆>
+scn00_39_0105 | "Ha ha ha, Cocoro lúc nào cũng dí dỏm tinh nghịch hết sức nhỉ~"
+scn00_39_0106 | "D... Dù Cocoro có mang hình hài thế nào đi nữa, tớ vẫn sẽ yêu thương em!"
+scn00_39_0107 | "Giọng cháu đang run bần bật lên kìa."
+scn00_39_0108 | <Giọng cậu đang run rẩy thật kìa.>
+scn00_39_0109 | "Đối với một humanoid thì 'ngoại hình giống con người' cũng là một phần nhân cách vô cùng quan trọng. Không thể tùy tiện thế nào cũng xong được đâu."
+scn00_39_0110 | "Hơn nữa, nếu coi thân xác là chiếc bình chứa, thì tâm hồn ít nhiều cũng chịu ảnh hưởng bởi hình thái của chiếc bình ấy. Thể xác và tinh thần không hề tách rời nhau đâu."
+scn00_39_0111 | "Đặc biệt là Cocoro chỉ vừa mới hình thành bản ngã, nếu thay đổi thân xác thì không ai lường trước được điều gì sẽ xảy ra."
+scn00_39_0112 | <Quả đúng là thân thể robot an ninh tuy rắn rỏi khỏe khoắn thật, nhưng vòng eo lại thô kệch chẳng có đường cong, khó lòng gọi là quyến rũ được.>
+scn00_39_0113 | <Lòng người vốn dĩ dễ đổi thay. Tôi phải chăm chút trau chuốt cho vẻ ngoài của mình hơn nữa, phấn đấu trở thành một humanoid được cậu Hinata yêu thương trọn đời mới được.>
+scn00_39_0114 | Mình cũng phải cẩn thận giữ gìn phong độ mới được.
+scn00_39_0115 | Cocoro đã có một trái tim. Em không còn giống như những cỗ máy thông thường luôn răm rắp phục tùng dù có bất cứ chuyện gì xảy ra nữa.
+scn00_39_0116 | Không biết mẫu người có vẻ ngoài mà Cocoro thích sẽ trông như thế nào nhỉ......
+scn00_39_0117 | Lần tới mình phải khéo léo dò hỏi thăm dò mới được.
+scn00_39_0118 | "Hôm nay đến đây là xong rồi. Cháu có thể ngồi dậy được rồi đấy."
+scn00_39_0119 | "Cảm ơn dì rất nhiều, dì Kirika."
+scn00_39_0120 | "Hôm nay dì Kirika vẫn tiếp tục cắm trại ở đây cả ngày ạ?"

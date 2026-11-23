@@ -1,0 +1,60 @@
+scn00_39_0121 | "Ừ......"
+scn00_39_0122 | Vừa nhìn chằm chằm vào màn hình, dì Kirika vừa ậm ừ trả lời cho có lệ.
+scn00_39_0123 | Vừa hoàn tất việc bảo dưỡng cho Cocoro xong, dì lại lập tức quay về với công việc phân tích dữ liệu.
+scn00_39_0124 | "Dì đừng làm việc lao lực quá sức nhé. Nước của dì đây ạ, cháu mời dì."
+scn00_39_0125 | Đặt tách cà phê ngập tràn sữa lên bàn làm việc, dì Kirika rốt cuộc mới chịu ngước mắt nhìn tôi.
+scn00_39_0126 | "...... Cháu nói phải, dì nghỉ ngơi một chút vậy."
+scn00_39_0127 | Dì cầm tách lên, khẽ nhấp một ngụm cà phê.
+scn00_39_0128 | "......"
+scn00_39_0129 | "......"
+scn00_39_0130 | "Sao thế, hai đứa cứ chằm chằm nhìn dì làm gì vậy?"
+scn00_39_0131 | "Dạ đâu có, không có gì đâu ạ."
+scn00_39_0132 | "...... Ơ kìa? Cháu đổi loại hạt cà phê à? Dì thấy hương vị khác hẳn mọi ngày đấy nhé."
+scn00_39_0133 | "Vẫn là hạt cà phê cũ thôi ạ. Nhưng có lẽ cách pha chế đã được thay đổi một chút."
+scn00_39_0134 | "...... Dạ vâng."
+scn00_39_0135 | "Nhưng mà ngon tuyệt cú mèo♪"
+scn00_39_0136 | "Yeahhh~~!"
+scn00_39_0137 | Tôi và Cocoro nở nụ cười rạng rỡ, đập tay ăn mừng.
+scn00_39_0138 | "Ơ, cái gì thế, chuyện gì vậy??"
+scn00_39_0139 | "Tách đó là do chính tay Cocoro pha đấy ạ."
+scn00_39_0140 | "Hả, thật thế sao?"
+scn00_39_0141 | "Dựa trên sở thích cùng tình trạng sức khỏe của dì Kirika, tôi đã biến tấu đôi chút. Thấy tôi đỉnh chưa nào."
+scn00_39_0142 | "Bất ngờ thật đấy. Ngon lắm luôn. Cảm ơn cháu nhé, Cocoro."
+scn00_39_0143 | "Không có chi ạ. Hì hì, cứ đà nâng cao tay nghề này, khéo tôi phải hướng tới mục tiêu trở thành barista đầu tiên của giới humanoid mất thôi."
+scn00_39_0144 | Cocoro lộ rõ vẻ khoái chí tự đắc.
+scn00_39_0145 | Nhìn vẻ vui sướng của Cocoro, dì Kirika mỉm cười, nhưng rồi nét mặt dì dần dần chùng xuống ủ rũ.
+scn00_39_0146 | "...... Cháu thực sự có một trái tim con người nhỉ."
+scn00_39_0147 | "Bản thân tôi không có cảm giác rõ rệt, và việc chứng minh sự tồn tại thực sự của trái tim cũng là điều vô cùng khó khăn."
+scn00_39_0148 | "Nhưng mà, đúng vậy đấy ạ...... Nếu quả thực nó có tồn tại, thì chính là nhờ cậu Hinata đã tìm ra nó cho tôi."
+scn00_39_0149 | Nói đoạn, Cocoro khẽ đặt bàn tay lên trước ngực mình.
+scn00_39_0150 | "Dì đã nhìn nhận sai lầm. Dì nợ cháu một lời xin lỗi chân thành."
+scn00_39_0151 | Thấy dì Kirika cúi gằm mặt xuống, Cocoro bối rối ngập ngừng một lát, rồi,
+scn00_39_0152 | "Ngoan nào ngoan nào, xin dì hãy vui vẻ phấn chấn lên nhé."
+scn00_39_0153 | Như bắt chước lại hành động ngày trước của tôi, Cocoro dịu dàng xoa xoa vỗ về lên đầu dì Kirika.
+scn00_39_0154 | "Hức...... ư ư...... oaaaa............"
+scn00_39_0155 | "Cocoro ơiiiiii~~~~ hu oa oa oa oa a a a~~~~~"
+scn00_39_0156 | Dì Kirika cứ thế sà thẳng vào lòng Cocoro ôm chặt lấy em, biến thành một bé gái mít ướt.
+scn00_39_0157 | "Ngoan nào ngoan nào, bé ngoan bé ngoan."
+scn00_39_0158 | "Hức hức...... sụt sịt...... dì xin lỗi cháu nhiều lắm, Cocoro ơiii."
+scn00_39_0159 | Em ấy đã khiến dì Kirika hóa thành cô bé con một cách dễ như trở bàn tay.
+scn00_39_0160 | Điều thế này, một robot bình thường tuyệt đối không thể nào làm được. Quả là cừ khôi thật đấy, Cocoro.
+scn00_39_0161 | "Nhân tiện thì, dì có tìm hiểu thêm được điều gì về Cocoro chưa ạ?"
+scn00_39_0162 | Dì Kirika đang lần giở lại các dữ liệu nghiên cứu trong quá khứ để điều tra nguyên nhân gây ra 'Ách Tai' cũng như nội dung những cuộc thí nghiệm từng diễn ra tại đây.
+scn00_39_0163 | Tổng hợp tất cả những điều đó thành báo cáo để đệ trình lên cấp trên chính là nhiệm vụ của dì Kirika.
+scn00_39_0164 | "Ừ...... Dù phần lớn vẫn chưa vượt ra khỏi phạm vi suy đoán, nhưng mọi chuyện đã dần dần hé lộ rồi."
+scn00_39_0165 | "Dự án CCR... tức dự án phát triển Cocoro, dường như chính là nền móng cốt lõi của Dự án Utopia."
+scn00_39_0166 | "À không, nói chính xác hơn thì Dự án Utopia được sinh ra từ sự phái sinh của dự án này mới đúng."
+scn00_39_0167 | Dự án Utopia vốn hướng đến việc hiện thực hóa một thế giới phồn vinh thông qua sự tham gia sâu rộng của AI và robot vào đời sống xã hội.
+scn00_39_0168 | Khởi nguồn từ triết lý thiết kế một cỗ máy robot mang hình hài và đặc tính như con người, rồi từng bước phát triển thành một viễn cảnh vĩ mô hơn: xây dựng một xã hội nơi các humanoid hiện diện để đồng hành, giúp đỡ nhân loại.
+scn00_39_0169 | "Cha đã chịu ảnh hưởng sâu sắc từ mẹ, rồi dốc sức hiện thực hóa Dự án Utopia sao......"
+scn00_39_0170 | "Dì đã tìm thấy một cuốn sổ ghi chú của chị gái để lại."
+scn00_39_0171 | Dì Kirika xoay màn hình cho tôi xem.
+scn00_39_0172 | \n\n\n\n\n\n\n\n<Trí tuệ nhân tạo khi phát triển đến một mức độ nào đó rồi sẽ không còn cần tới con người nữa, và sau cùng sẽ quay sang thống trị và quản trị toàn bộ xã hội>
+scn00_39_0173 | %n;<Trước khi viễn cảnh ấy xảy ra, chúng ta nhất định phải tạo ra được những cỗ máy robot biết "yêu thương">
+scn00_39_0174 | "Không còn phụng sự con người, mà AI sẽ tự kiến tạo và vận hành một xã hội dành riêng cho chính AI sao......?"
+scn00_39_0175 | "Khả năng đó là hoàn toàn có thể xảy ra. Và nó có thể ập đến trong một tương lai chẳng hề xa xôi chút nào."
+scn00_39_0176 | Từ trước đến nay, con người luôn là chủ thể nghiên cứu phát triển và sản xuất ra AI cùng robot.
+scn00_39_0177 | Thế nhưng, một tương lai nơi AI tự phát triển ra AI, robot tự dây chuyền sản xuất ra robot đã ở ngay trước mắt... nếu như thảm kịch 'Ách Tai' không bất ngờ giáng xuống.
+scn00_39_0178 | Đến khi ấy, nếu chỉ dừng lại ở một xã hội mà con người bị AI quản thúc thì vẫn còn là may mắn; kịch bản tồi tệ nhất là con người bị phán xét là sinh vật thừa thãi và bị tiêu diệt tận diệt.
+scn00_39_0179 | Đón chờ ở phía cuối con đường đó, không gì khác ngoài một cuộc đại chiến sinh tử giữa AI và loài người.
+scn00_39_0180 | "Thế nhưng, nếu AI cũng sở hữu 'tình yêu'... một khái niệm cội nguồn căn bản có thể đồng điệu, sẻ chia với loài người chúng ta, thì mọi chuyện sẽ ra sao nhỉ?"

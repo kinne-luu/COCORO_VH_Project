@@ -1,0 +1,60 @@
+scn00_40_0120 | "Tớ không sao đâu. Nào, mau tưới nước cho hoa thôi."
+scn00_40_0121 | "Vâng ạ."
+scn00_40_0122 | "Nước mát của các bạn đây, món khoái khẩu đúng không nào. Hãy quang hợp thật nhiều và nở hoa thật khỏe khoắn tươi tắn nhé."
+scn00_40_0123 | "Nhân tiện thì tôi sẽ tưới đẫm nước xung quanh cho ướt sũng luôn. Độ ẩm tăng cao biết đâu chừng sáng mai hoa sẽ nở rộ đấy."
+scn00_40_0124 | Nhìn Cocoro hồn nhiên rạng rỡ mong ngóng ngày Tuyết Trắng Mùa Hạ đơm hoa, lòng tôi dâng trào cảm giác ấm áp và mỉm cười trìu mến.
+scn00_40_0125 | Khi chúng tôi rời khỏi vườn bách thảo để trở về khu phố mua sắm thì trời cũng đã quá trưa.
+scn00_40_0126 | Vào tầm giờ này thì dù muốn tránh né ánh nhìn của người khác cũng là điều không thể.
+scn00_40_0127 | "...... Hức...... Hay là chúng ta chờ đến khi trời tối hẳn rồi hẵng về được không, cậu Hinata?"
+scn00_40_0128 | "Chờ ở đâu được chứ. Bụng tớ đang đói meo rồi đây này."
+scn00_40_0129 | Nghĩ bụng đằng nào thì sớm muộn cũng phải chạm mặt mọi người, tôi liền nắm tay Cocoro dắt đi.
+scn00_40_0130 | Đúng lúc ấy, ngay phía trước cửa nhà chúng tôi lại đang có một đám đông tụ tập.
+scn00_40_0131 | "Gâu gâu!!"
+scn00_40_0132 | Chú chó trông thấy Cocoro liền tíu tít vẫy đuôi.
+scn00_40_0133 | Suỵt! Mau im lặng đi nào!
+scn00_40_0134 | "? A, Hinata, bé Cocoro."
+scn00_40_0135 | Vừa thấy Kazane ngoảnh mặt nhìn sang, Cocoro liền thoăn thoắt nép mình nấp ngay sau lưng tôi.
+scn00_40_0136 | "Có chuyện gì thế, sao mọi người lại tụ tập đông đủ thế này?"
+scn00_40_0137 | "Vụ náo loạn hôm trước khiến khu phố bị hư hại không ít, nên bọn tớ đang bàn nhau phân chia công việc để sửa chữa tái thiết lại ấy mà."
+scn00_40_0138 | Xem ra mọi người đang cùng nhau thảo luận kế hoạch tu sửa những tàn phá do lũ Mutant Drone gây ra.
+scn00_40_0139 | "Cho tớ phụ một tay với nhé, dù sao tớ cũng đang ở nhờ thị trấn của mọi người mà."
+scn00_40_0140 | "...... Ư."
+scn00_40_0141 | "N... Nếu là như vậy, thì xin hãy... cho... cho tôi được phụ giúp... một tay với ạ..."
+scn00_40_0142 | "Sao thế hả bé Cocoro?"
+scn00_40_0143 | "...... Dạ không...... không có gì đâu ạ."
+scn00_40_0144 | Thấy mọi ánh mắt đều đổ dồn về phía mình, Cocoro rụt rè lùi lại e sợ.
+scn00_40_0145 | Bầu không khí bỗng im bặt như tờ, chắc chắn không chỉ đơn thuần là do thái độ ngượng ngùng của Cocoro.
+scn00_40_0146 | Mọi người sau khi biết Cocoro là robot, hẳn đang lúng túng chẳng biết phải đối xử tiếp xúc với em thế nào cho phải.
+scn00_40_0147 | Nguồn cơn dẫn đến sự bối rối hoang mang này một phần là do lỗi của tôi.
+scn00_40_0148 | "Cháu có chuyện này cần phải xin lỗi tất cả mọi người."
+scn00_40_0149 | "Gì thế, sao tự nhiên lại nói vậy?"
+scn00_40_0150 | "Trước đây tớ từng giới thiệu Cocoro là cô bé họ hàng của tớ, nhưng thực ra không phải như thế."
+scn00_40_0151 | "Cô bé này là......"
+scn00_40_0152 | Phải diễn đạt thế nào để giải thích mà không khiến mọi người hiểu lầm hay có định kiến đây?
+scn00_40_0153 | Trong lúc tôi còn đang ngập ngừng khó xử, thì từ giữa đám đông, một người phụ nữ trông rất quen mặt bước ra phía trước.
+scn00_40_0154 | "Cháu là...... đúng là cháu rồi, cô bé từng làm tình nguyện viên ở vườn bách thảo phải không."
+scn00_40_0155 | Đó là cô Tanaka, cựu nhân viên của vườn bách thảo mà ngày mới chân ướt chân ráo trở về thị trấn, Kazane đã dẫn tôi tới gặp để dò hỏi tung tích của Cocoro.
+scn00_40_0156 | "...... A, dạ vâng, chào cô ạ."
+scn00_40_0157 | "Cô là cô Tanaka đúng không ạ. Đã lâu lắm rồi không được gặp cô."
+scn00_40_0158 | "Cháu vẫn bình an vô sự thế này, tốt quá rồi......"
+scn00_40_0159 | "......"
+scn00_40_0160 | Cocoro lộ vẻ ngượng ngùng không được tự nhiên.
+scn00_40_0161 | Hồi đó cô Tanaka từng bảo rằng mọi người ở vườn bách thảo đều được thông báo Cocoro là con gái của một nhân viên trong viện nghiên cứu.
+scn00_40_0162 | "Trước khi để cô hồi tưởng kỷ niệm xưa, tôi có một chuyện buộc phải giải thích rõ ràng. Tôi không phải là con người. Tôi là......"
+scn00_40_0163 | "Cô có nghe mọi người nói rồi, nghe bảo cháu là robot phải không?"
+scn00_40_0164 | Cô Tanaka chăm chú ngắm nhìn Cocoro từ đầu đến chân.
+scn00_40_0165 | "Trông chẳng giống chút nào cả...... thật sự là như thế sao cháu?"
+scn00_40_0166 | "....... Vâng ạ, tôi là một humanoid có tiếng là sở hữu đặc tính giống hệt con người."
+scn00_40_0167 | "Thích thật đấy, cháu chẳng hề thay đổi chút nào. Còn cô từ dạo ấy đến giờ thì tóc bạc thêm bao nhiêu rồi này."
+scn00_40_0168 | Thấy cô Tanaka vui vẻ cười đùa xòa, Cocoro lúng túng chẳng biết nên đáp lại thế nào.
+scn00_40_0169 | Thế rồi, cô Tanaka bước lại gần bên cạnh Cocoro, ân cần nắm lấy đôi bàn tay nhỏ bé của em.
+scn00_40_0170 | "Hồi đó cảm ơn cháu nhiều lắm nhé."
+scn00_40_0171 | "Hồi đó là khi nào vậy ạ?"
+scn00_40_0172 | "Chính là cái ngày xảy ra 'Ách Tai' đấy. Cô thì chiều tối đã về nhà trước nên không bị làm sao, nhưng hôm ấy vẫn còn nhiều nhân viên ở lại làm việc."
+scn00_40_0173 | "Mọi người chẳng hiểu chuyện gì đang xảy ra nên không kịp chạy thoát thân, chính cháu đã ra tay cứu giúp họ......"
+scn00_40_0174 | <Nào, xin mời bác hãy mau chạy đi thôi ạ.>
+scn00_40_0175 | <Ngoài kia còn những con robot khác đang phát cuồng nữa sao?>
+scn00_40_0176 | <Gay go thật đấy...... Đúng rồi. Này, ngươi lại đây.>
+scn00_40_0177 | <Ngươi hãy hộ tống vị này đến nơi an toàn đi. Rõ chưa hả?>
+scn00_40_0178 | <Thế này thì sẽ an toàn hơn đôi chút rồi. Mau lên, bác nhanh chân lên nào.>
+scn00_40_0179 | <Cảm ơn cháu nhé.>

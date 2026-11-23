@@ -1,0 +1,67 @@
+# scene=scn00_33 batch=7/7 dòng 366-428 / 428
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_33_0366 | ひなた(Hinata) | （それも美しさだ。けど、ココロに響くだろうか） | (That's part of their beauty, too. But would that reverberate with Cocoro?) | （这也是一种美丽，可是，这真能触动到心吗）
+scn00_33_0367 | - | 俺は、風音が淹れてくれていたコーヒーを一口飲んだ。 | I take a sip of the coffee that Kazane made for me. | 我喝了一口风音为我泡的咖啡。
+scn00_33_0368 | ひなた(Hinata) | 「……ぅぅ」 | "...Mmgh." | “……呜呜”
+scn00_33_0369 | - | 気遣いで淹れてくれたものに文句を言うのもなんだけど、あまり美味しいと言えるものではなかった。 | I can't complain because she was kind enough to make it for me, but it's not exactly what I'd call tasty. | 虽然是因为体谅我而专门为我泡的所以我也不好说什么，但确实称不上美味。
+scn00_33_0370 | - | そういえば、ココロが出て行こうとした朝、淹れてくれていたコーヒーは…… | That reminds me... That coffee Cocoro made for me the morning she tried to leave... | 说起来，心想要离开的那天早上，为我泡的咖啡……
+scn00_33_0371 | ひなた(Hinata) | （……美味しかった） | (It was the best...) | （……很美味）
+scn00_33_0372 | - | ……。 | ... | ……
+scn00_33_0373 | - | 俺はハッとなって、鉢植えの花を見た。 | With a small gasp, I look back at the flowers. | 我突然回过味来了，看向了种在花盆里的花。
+scn00_33_0374 | ひなた(Hinata) | （花は…………そうだったのか！！？） | (The flowers... Now I get it!!) | （花……原来是这样吗！！？）
+scn00_33_0375 | - | カップを置くと、俺は弾かれたように起き上がった。 | I put my coffee cup down and spring to my feet. | 我放下杯子，整个人弹了起来。
+scn00_33_0376 | こさめ(Kosame) | 「ひなたさん」 | "Hinata-san?" | “日向”
+scn00_33_0377 | 犬(Dog) | 「ワンワン！」 | "Woof, woof!" | “汪汪！”
+scn00_33_0378 | 大地(Daichi) | 「どうしたんだ、ひなた。血相を変えて」 | "What's got you so worked up, Hinata?" | “怎么了，日向，怎么表情都变了”
+scn00_33_0379 | ひなた(Hinata) | 「……ぁぅぁぅ……！！！」 | "Ah, uh, ah, uh...!!!" | “……啊呜啊呜……！！！”
+scn00_33_0380 | 大地(Daichi) | 「すまんが、何言ってるかわかんねーよ」 | "Sorry, I don't get what you're trying to say." | “抱歉，我听不懂你在说啥”
+scn00_33_0381 | - | 『ココロにもう一度逢わなきゃいけない！』 | "I have to see Cocoro!" | ‘我必须要再去见一次心！’
+scn00_33_0382 | 大地(Daichi) | 「なんだって？」 | "What?" | “为什么？”
+scn00_33_0383 | こさめ(Kosame) | 「ココちゃんに……？」 | "You're going to see Coco-chan...?" | “去见心儿……？”
+scn00_33_0384 | - | 『コーヒーが美味しかったんだ』 | "Her coffee was good." | ‘咖啡很美味啊’
+scn00_33_0385 | - | みんな意味が分からず、ぽかんとする。 | The others give me blank stares, unsure of what I'm getting at. | 没人理解句话的意思，所有人都一脸迷茫。
+scn00_33_0386 | - | けど、俺の必死さは伝わったようだ。 | But they seem to understand that I'm in a hurry, at least. | 不过，我不顾一切的态度似乎是传达给他们了。
+scn00_33_0387 | 大地(Daichi) | 「わかった、車を出してやる」 | "All right. I'll go get the van." | “我知道了，我去把车开出来”
+scn00_33_0388 | - | 大地が、店の配達や仕入れで使う車を出そうとしてくれる。 | Daichi grabs the keys to the van his family uses for deliveries and supplying the store. | 大地准备去把店里用来送货进货的车开出来。
+scn00_33_0389 | - | 『免許なんて持ってたの？』 | "You have a license?" | ‘你有驾照吗？’
+scn00_33_0390 | 大地(Daichi) | 「ここをどこだと思ってる」 | "You think there's a license center around here?" | “你以为这里是什么地方”
+scn00_33_0391 | - | つまり無免許だけど、必要に迫られて運転をしている、と。 | In other words, he doesn't have a license, but he's been driving out of necessity. | 意思是没有驾照，但有必要的话还是能开的。
+scn00_33_0392 | こさめ(Kosame) | 「ひなたさん、ココちゃんに逢いに行くの？」 | "Hinata-san, are you really going to see Coco-chan?" | “日向先生，你是要去见心儿吗？”
+scn00_33_0393 | ひなた(Hinata) | 「……（コクン）」 | "*nod*..." | “……（点头）”
+scn00_33_0394 | こさめ(Kosame) | 「……私、ココちゃんにひどい態度を取っちゃったの。謝りたい」 | "I've been really mean to her, so I want to apologize." | “……我对心儿摆出了一副很过分的态度，也想去向她道歉”
+scn00_33_0395 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_33_0396 | - | こさめちゃんはたぶん『私も一緒に行きたい』という言葉を、ぐっと呑み込んだんだろう。 | She's implying that she'd like to come with me, but she must have refrained from saying so outright out of consideration. | 小雨大概是将‘我也想一起去’这句话咽了回去吧。
+scn00_33_0397 | - | 足手まといになると思って。 | She's probably afraid of getting in our way. | 觉得自己会拖我们的后退。
+scn00_33_0398 | 駆除隊(Extermination Squad Member) | 「おい、どこへ行く気だ。部屋へ戻れ！」 | "Hey, where do you think you're going? Go back to your room!" | “喂，你想去哪，给我回房间里去！”
+scn00_33_0399 | 犬(Dog) | 「ワンワンワンワン！！！」 | "Woof woof woof woof!!!" | “汪汪汪汪！！！”
+scn00_33_0400 | 大地(Daichi) | 「んだよ、俺たちの勝手だろう！」 | "What? We're free to go wherever we want." | “干嘛，你管得着吗！”
+scn00_33_0401 | 駆除隊(Extermination Squad Member) | 「おまえらはどうでもいい。そこのそいつは部屋から出すなと命令を受けている！」 | "I don't care about you, but  kid's been ordered not to leave his room." | “你们想怎么做都随便，但我收到了命令不许那边那个家伙出门！”
+scn00_33_0402 | 大地(Daichi) | 「なんの権限で言ってんだ？」 | "Oh? Under whose authority?" | “你有什么权力说这种话啊？”
+scn00_33_0403 | こさめ(Kosame) | 「そーだそーだ！」 | "He's right!" | “就是——就是——！”
+scn00_33_0404 | 犬(Dog) | 「ワンワン！　ワンワン！」 | "Woof woof! Woof woof!" | “汪汪！　汪汪！”
+scn00_33_0405 | 駆除隊(Extermination Squad Member) | 「ええい、邪魔をするようなら、おまえら全員、エリア９９から強制退去させるぞ！」 | "Dammit! If you keep interfering with our work, I'll have you all evicted from Area 99!" | “废话少说，你们如果想从中作梗，就都会被强制赶出99区！”
+scn00_33_0406 | 大地(Daichi) | 「そんな[おど]脅しがいつまでも通じると思うなよ。おい、行くぞひなた」 | "Don't think you can scare us. Come on, let's go, Hinata." | “你别以为这种威胁可以一直吓到我们啊，喂，咱们走日向”
+scn00_33_0407 | 駆除隊(Extermination Squad Member) | 「待て」 | "Wait!" | “慢着”
+scn00_33_0408 | - | 駆除隊が車のドアを手で押さえて開けられないようにする。 | The man blocks Daichi from getting into the van. | 驱除队的人用手按住了车门防止我们打开。
+scn00_33_0409 | - | 強行突破しようにも、とても力じゃかなわない。 | I don't think we're strong enough to force our way through. | 就算想要强行突破，也不是他们的对手。
+scn00_33_0410 | ひなた(Hinata) | （一度、引き下がるしかないか……） | (I guess we have to give up for now...) | （只能先撤退了吗……）
+scn00_33_0411 | - | 夜中にこっそり抜け出す方がいいだろう。 | Maybe we'll have better luck trying to sneak out at night. | 晚上再偷偷跑出来应该会比较好吧。
+scn00_33_0412 | - | そう思っていると、駆除隊の通信機に通信が入った。 | Just then, the man's walkie-talkie beeps. | 就在我思考的时候，驱除队的对讲机中传来了呼叫。
+scn00_33_0413 | 駆除隊(Extermination Squad Member) | 「はい……はい……えっ？　りょ、了解しました！　おい、行くぞっ」 | "Yes? Yes... Huh? R-Roger! Hey, we gotta go!" | “是……是……哎？　明、明白！　喂，走了”
+scn00_33_0414 | - | 駆除隊が慌ててどこかへ走っていく。 | The extermination squad members suddenly run away. | 驱除队的人们慌慌张张地跑开了。
+scn00_33_0415 | 大地(Daichi) | 「なんだ、あいつら」 | "What's up with them?" | “那些家伙们怎么回事”
+scn00_33_0416 | こさめ(Kosame) | 「お兄ちゃん、ひなたさん、今がチャンスだよ」 | "Daichi, Hinata-san, now's your chance." | “哥哥，日向先生，现在就是好机会哦”
+scn00_33_0417 | 犬(Dog) | 「ワン！」 | "Woof!" | “汪！”
+scn00_33_0418 | - | 車に乗り込もうとしていると、道の向こうから風音が走ってきた。 | As we're about to get into the van, Kazane comes running toward us from the other side of the road. | 就在我们准备上车的时候，风音从道路另一头跑了过来。
+scn00_33_0419 | 風音(Kazane) | 「大変だーーーーーーーーーーーっっ！！！！！」 | "Guys! Guuuuuys!!!" | “不好了————————！！！！！”
+scn00_33_0420 | 大地(Daichi) | 「慌ててどうした」 | "Why're you in such a hurry?" | “你怎么慌慌张张的”
+scn00_33_0421 | 風音(Kazane) | 「ハァ、ハァ、ハァ……大変なんだよ……」 | "Hahh, hahh, hahh... It's an emergency..." | “哈，哈，哈……不好了啊……”
+scn00_33_0422 | 大地(Daichi) | 「だから何が」 | "What's going on?" | “所以说是什么不好了啊”
+scn00_33_0423 | 風音(Kazane) | 「セントラルエリアからミュータントドローンが押し寄せてきてる……」 | "Mutant drones are rushing into town from the Central Area." | “中心区里涌过来了一群变异无人机……”
+scn00_33_0424 | 大地(Daichi) | 「なんだって！！？」 | "What!!?" | “你说什么！！？”
+scn00_33_0425 | ひなた(Hinata) | （まさか……） | (That can't be...) | （难道说……）
+scn00_33_0426 | - | 『厄災』の夜の記憶が脳裏に[よぎ]過る。 | Memories of the Calamity are still fresh in my mind. | ‘灾厄’之夜的记忆闪过脑海。
+scn00_33_0427 | 風音(Kazane) | 「早く、みんなを避難させないと！」 | "We have to evacuate, and fast!" | “得快点让大家去避难！”
+scn00_33_0428 | - | 最悪の事態が起ころうとしていた。 | Is another disaster about to unfold? | 最糟糕的情况即将发生。

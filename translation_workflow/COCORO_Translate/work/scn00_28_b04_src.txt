@@ -1,0 +1,64 @@
+# scene=scn00_28 batch=4/6 dòng 181-240 / 354
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_28_0181 | ココロ(Cocoro) | 「……呼吸器の位置は把握済みです」 | "...I'm aware of where your respirators are." | “……我已经掌握呼吸器官的位置了”
+scn00_28_0182 | ココロ(Cocoro) | 「なぜ[ふさ]塞ごうと思ったのかは不明。エラーによるバグである可能性が濃厚です」 | "Yet I blocked them, and I don't know why. It's very likely a bug caused by an error." | “想要将其堵住的原因不明，很有可能是因错误引发的Bug”
+scn00_28_0183 | ココロ(Cocoro) | 「……ぅぅぅぅぅぅ」 | "Uhhh..." | “……呜呜呜呜”
+scn00_28_0184 | ココロ(Cocoro) | 「ンっ――」 | "Mmh..." | “嗯——”
+scn00_28_0185 | - | もう一度、唇を押しつけてきた。 | She pushes her lips against mine again. | 她再次将嘴唇贴了上来。
+scn00_28_0186 | - | 柔らかな唇から、彼女がぷるぷると震えている振動が伝わってくる。 | I can feel that she's trembling through her soft lips. | 我从这柔软的嘴唇中，感受到了她的颤抖。
+scn00_28_0187 | - | 無理な姿勢のためか、もっと別の要因か。 | Is it because she's straining to reach up, or is there another reason? | 是因为强行摆出了这个姿势呢，还是有其他原因呢。
+scn00_28_0188 | - | 永遠にこうしていたい――という願いも[むな]虚しく、ココロが俺から離れた。 | No matter how much I wish that we could stay this way forever, Cocoro eventually pulls back again. | 我想一直这样下去——但这愿望也只是徒然，心还是离开了我。
+scn00_28_0189 | ココロ(Cocoro) | 「エマージェンシー。ひなたさんとこの距離を維持するのは危険と判断、ただちに離脱します」 | "Emergency. It's dangerous to remain this close to Hinata-san—withdrawing immediately." | “紧急情况，判断出和日向先生维持这个距离会很危险，立刻进行脱离”
+scn00_28_0190 | ココロ(Cocoro) | 「ごめんなさいっ」 | "I'm sorry!" | “对不起”
+scn00_28_0191 | - | ココロはダッシュで逃げていってしまった。 | Cocoro sprints away from me. | 心飞快地逃掉了。
+scn00_28_0192 | - | 俺はココロを抱きしめていた姿勢のままその場で固まり、しばらく身動きが取れなかった。 | I'm still frozen in the same pose as when I was hugging her, and for a moment, I can't move. | 我维持着抱住心的姿势凝固在了原地，一时之间没能做出动作。
+scn00_28_0193 | ひなた(Hinata) | （……ぷにぷにだった……） | (...So soft.) | （……软软的）
+scn00_28_0194 | - | ココロの唇は、自慢のふくらはぎのように柔らかく、もぎたてのサクランボのように瑞々しかった。 | Her lips were as soft as those calves she's so proud of—maybe even softer— and succulent like freshly picked cherries. | 心的嘴唇和她自夸的小腿一样柔软，像是刚刚采摘的樱桃一般水嫩。
+scn00_28_0195 | ひなた(Hinata) | （ココロ、どこに行っちゃったんだろう） | (I wonder where she went...) | （心到底去哪里了啊）
+scn00_28_0196 | - | まるで恥ずかしくなって逃げ出したように見えたから、追いかけない方がいいと思いつつ、それとなく捜してみたが見当たらなかった。 | To me, it looked like she ran away out of embarrassment, so I figured she wouldn't want me to follow, but I really don't see her anywhere anymore. | 她看上去似乎是因为害羞才逃跑的，我虽然觉得还是不去追她比较好，但不经意间找了她一下却也没能找到。
+scn00_28_0197 | ひなた(Hinata) | （まあ、ここはココロにとって庭みたいな場所だから、迷子になる事はないだろうけど） | (Well, this place is like Cocoro's backyard, so she won't get lost in here, at least.) | （算了，这里就像心的后花园一样，所以她应该是不会迷路吧）
+scn00_28_0198 | - | 視力を失った後も、一人ここで植物たちの手入れをしていた。 | Even after losing her sight, she was able to continue taking care of the garden by herself. | 她在丧失视力后，依旧独自一人在这里照顾着植物们。
+scn00_28_0199 | - | その孤独な数年間を思うと、胸が苦しくなる。 | My chest tightens at the thought that she spent several years here in complete solitude. | 一想到这孤独的数年时间，我就感觉胸口发闷。
+scn00_28_0200 | - | ココロを待つ間、俺は落とし物を捜していた。 | While I wait for Cocoro to come back, I have another look around for my lost memento. | 我一边等着心，一边寻找着遗失的物品。
+scn00_28_0201 | - | 昔、ココロに渡そうとした母の形見だ。 | I'd wanted to give it to Cocoro when I was a kid. | 那是我以前想要送给心的，我母亲的遗物。
+scn00_28_0202 | ひなた(Hinata) | （俺にはココロに心がないなんて思えないよ） | (I just can't seem to convince myself that she doesn't have any emotions.) | （我不认为心没有人心）
+scn00_28_0203 | - | もしそれを見付けてあげられたら、きっとココロは救われる。 | If only I could find it. Then, I could set her free. | 如果我能帮心找到人心，她就肯定能够获得救赎。
+scn00_28_0204 | - | ウソの約束にすがらなくてもよくなる。 | She wouldn't have to cling to a false promise any longer. | 她也就不用再去依靠虚假的约定了。
+scn00_28_0205 | - | でも、その方法が分からない。心の実在を科学的に証明する方法は、まだない。 | But I don't know how. There's no scientific explanation that can prove the existence of the soul. | 但是，我并不知道该怎么做，现在还没有能够证明人心存在的科学方法。
+scn00_28_0206 | - | 少なくとも、俺の知る限りでは。 | At least, not that I know of. | 起码我所知范围内没有。
+scn00_28_0207 | ひなた(Hinata) | （俺にできる事は、約束を本当にする事だけだ。そのために、母さんの形見を見付けないと……） | (All I can do is make my false promise a true one. That's why I need Mom's memento...) | （我能做到的，只有将约定变为现实。为此，我必须要找到妈妈的遗物……）
+scn00_28_0208 | - | そして、その時全てを打ち明けよう。 | When I give it to her, I'll tell her everything. | 然后，到那时就将一切都坦白出来吧。
+scn00_28_0209 | - | 新しい約束で、古い約束を上書きしよう。 | I'll overwrite the old promise with a new one. | 将新的约定覆盖旧的约定吧。
+scn00_28_0210 | ひなた(Hinata) | 「……ッ……」 | "...!" | “…………”
+scn00_28_0211 | - | 落ちているガラスの破片を拾おうとして、指先を切ってしまった。 | I carefully pick up a shard of broken glass, but I still cut my fingertip on the edge. | 我试图捡起掉落的玻璃碎片时不小心将手指割伤了。
+scn00_28_0212 | - | 赤い血がぷくりと膨らむように[にじ]滲んで、流れていく。 | A red dot forms on my skin, growing bigger until it spills over. | 鲜红的血液一下子渗出，流了下来。
+scn00_28_0213 | ココロ(Cocoro) | 「怪我をしたのではないですか？」 | "Are you injured?" | “怎么受伤了啊？”
+scn00_28_0214 | ひなた(Hinata) | 「……？」 | "...?" | “……？”
+scn00_28_0215 | ココロ(Cocoro) | 「すぐに手当をします」 | "I will treat your injury right away." | “我会立刻进行处理”
+scn00_28_0216 | ひなた(Hinata) | 「……ぁぅぁぅ」 | "Ah, ah..." | “……啊呜啊呜”
+scn00_28_0217 | ココロ(Cocoro) | 「いいえ、破傷風になっては危険です」 | "No, it would be bad if you got tetanus." | “不，如果变成破伤风就危险了。”
+scn00_28_0218 | - | ココロが絆創膏を指に巻いてくれる。いつも持ち歩いてるんだろうか。 | Cocoro pulls out a bandage and wraps it around my finger. Does she always carry those around? | 心用创可贴缠住了我的手指。她应该是一直带在身上吧。
+scn00_28_0219 | ひなた(Hinata) | 「ぁぅぅ……」 | "Uhh..." | “啊呜呜……”
+scn00_28_0220 | ひなた(Hinata) | （ありがとう、ココロ） | (Thank you, Cocoro.) | （谢谢你，心）
+scn00_28_0221 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_28_0222 | ココロ(Cocoro) | 「ひなたさんの指先は大切なものです。言葉が話せなくても、ワタシに気持ちを伝えてくれます」 | "Your finger is important, Hinata-san. It allows you to convey your feelings to me when you can't use your voice." | “日向先生的指尖非常重要，即便不能说话也可以将想法传达给我”
+scn00_28_0223 | - | ココロは絆創膏を巻いた指を大事そうに両手でそっと包んで、[いの]祈るように言った。 | Cocoro gently holds my bandaged hand in both her hands, as if she's praying for it to heal. | 心小心翼翼地用双手轻轻包住了我缠着创可贴的手指，像是在祈祷一般说道。
+scn00_28_0224 | - | 俺はその指先で、ココロに言葉を伝える。 | Then, I use my finger to convey more words to her. | 我能够用这个指尖将言语传达给心。
+scn00_28_0225 | - | 『もうおちついた』 | It's better already. | ‘已经冷静下来了吗’
+scn00_28_0226 | ココロ(Cocoro) | 「はうッ……まだエラーは処理できていません」 | "Ahh... I haven't processed that error yet." | “哈呜……还没有处理掉错误”
+scn00_28_0227 | ココロ(Cocoro) | 「ワタシはもうおしまいです。本来なら緊急メンテナンスが必要な状態です」 | "It's almost the end for me... Emergency maintenance is long overdue." | “我已经完蛋了，现在原本是需要进行紧急维护的状态”
+scn00_28_0228 | ココロ(Cocoro) | 「あぅぅ……」 | "Ah..." | “啊呜呜……”
+scn00_28_0229 | - | うろたえているココロを見てて、つい笑ってしまう。 | Seeing Cocoro all flustered like that makes me chuckle. | 我看着惊慌失措的心，不由得笑了起来。
+scn00_28_0230 | ココロ(Cocoro) | 「どうして笑うのですか？　ぽんこつなワタシがそんなに滑稽ですか？」 | "Why are you laughing? Is it so funny that I'm a total piece of scrap?" | “为什么要笑？　破烂的我有这么滑稽吗？”
+scn00_28_0231 | - | 『ごめん　かわいかったからつい』 | Sorry. I just thought you were cute. | ‘抱歉　太可爱了所以一不小心就’
+scn00_28_0232 | ココロ(Cocoro) | 「かわ……いい……」 | "Cute..." | “可……爱……”
+scn00_28_0233 | ココロ(Cocoro) | 「もったいないです、もったいないです、ワタシめのようなちょっとヒトっぽいだけのロボットに、そのようなお言葉はっ」 | "Your words are wasted... wasted on me. I'm a robot who just so happens to be a little humanlike. I don't deserve any praise." | “太浪费了，太浪费了，对我这种只是有一点点像人类的机器人不应该用这种词语来形容”
+scn00_28_0234 | ココロ(Cocoro) | 「ぅぅ……ひなたさんが変な事を言って、ロボットを迫害してきますっ。ひなたさんはロボット迫害主義者ですっ」 | "Ugh... You're oppressing me by saying strange things. You're a robot oppressor, Hinata-san." | “呜呜……日向先生在说怪话迫害机器人，日向先生机器人迫害主义者”
+scn00_28_0235 | - | 『ことばがつよい』 | That's a major accusation. | ‘语气太强烈了’
+scn00_28_0236 | - | 誰かに聞かれたら、とんでもない誤解を生みそうだ。 | If anybody heard her, they might get the wrong impression of me. | 如果被谁听到了，感觉会产生不得了的误解。
+scn00_28_0237 | ココロ(Cocoro) | 「失礼しました。動揺でボキャブラリーにまでエラーが出ています、しばらくコミュニケーションを取らない事をおすすめします」 | "My apologies. Even my dictionary is giving me errors because I'm overwhelmed, so I recommend that you not communicate with me for a while." | “抱歉，动摇导致语言库也出现了错误，建议暂时不要和我进行沟通”
+scn00_28_0238 | - | 『どこにいってたの』 | Where did you go? | ‘你去哪里了’
+scn00_28_0239 | ココロ(Cocoro) | 「そうでした。これをひなたさんに渡そうと……」 | "Oh, right. I wanted to give you this..." | “对了，要把这个交给日向先生……”
+scn00_28_0240 | - | ココロが足元にあった段ボール箱を俺に見せる。 | There's a cardboard box at her feet. She opens it to show me the contents. | 心示意我去看她脚边的纸箱。

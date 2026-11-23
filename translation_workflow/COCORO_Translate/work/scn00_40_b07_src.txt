@@ -1,0 +1,39 @@
+# scene=scn00_40 batch=7/7 dòng 360-394 / 394
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_40_0360 | 風音(Kazane) | 「ちょいちょいちょい、ここにもいるだろう？」 | "Hey, aren't you forgetting someone here?" | “慢着慢着慢着，这里不也有一个吗？”
+scn00_40_0361 | ココロ(Cocoro) | 「風音も認めてくださるのですか？」 | "You would accept our marriage, Kazane?" | “风音也认同我们的婚姻吗？”
+scn00_40_0362 | 風音(Kazane) | 「あたぼうよ。ココロちゃんはもう友達だしな」 | "Of course. You're my friend, Cocoro-chan." | “这还用说吗，毕竟我和心已经是朋友了啊”
+scn00_40_0363 | ココロ(Cocoro) | 「風音…………ちゅき」 | "Kazane... I wub you." | “风音…………喜欢”
+scn00_40_0364 | 風音(Kazane) | 「ん～～～～かわゆいねぇ。よしよし、あたしもちゅきだぞー」 | "Awwww, you're so adorbs! C'mere and lemme love you too!" | “嗯～～～～～真可爱啊。好乖好乖，我也喜欢你哦——”
+scn00_40_0365 | 風音(Kazane) | 「でもさぁ、結婚式どうすんだ？」 | "When are you gonna have the wedding though?" | “不过，婚礼要怎么办？”
+scn00_40_0366 | ココロ(Cocoro) | 「ドレスができしだい、すぐにやりたいです」 | "I'd like for it to be as soon as possible once the dress is ready." | “我想等婚纱一做好就立刻举办”
+scn00_40_0367 | - | よっぽど気に入ったらしい。 | It seems that she  likes the dress. | 看上去她很中意那件婚纱。
+scn00_40_0368 | 風音(Kazane) | 「ひなたは、ほら……。夏休み、もうすぐ終わっちゃうだろ？」 | "Hinata might, y'know... I mean, your summer break's almost over, isn't it?" | “日向呢……暑假不是快要结束了吗？”
+scn00_40_0369 | ひなた(Hinata) | 「一度、学校に戻らないといけないかもしれない。その間、ココロを誰かに預かってもらおうと思ってた」 | "Yeah, I might have to go back to school first. I was thinking of having Cocoro stay with someone else in the meantime." | “我可能得先回一趟学校，那段时间我想先将心交给别人照看”
+scn00_40_0370 | ココロ(Cocoro) | 「ひなたさんと離ればなれになるのですか……？」 | "I'll have to live separately from you, Hinata-san...?" | “我要和日向先生分开了吗……？”
+scn00_40_0371 | ひなた(Hinata) | 「しばらく寂しい思いをさせちゃうかもだけど、ここになら友達もいるだろう？」 | "It'll be lonely for a while, but you've got your friends here, don't you?" | “虽然可能有段时间会让你感到寂寞，但你在这里不也有朋友吗？”
+scn00_40_0372 | ココロ(Cocoro) | 「しゅん……」 | "Boo..." | “失落……”
+scn00_40_0373 | - | ココロが露骨に落ち込んでしまった。 | Cocoro doesn't make any attempt to hide her displeasure. | 心肉眼可见地消沉了。
+scn00_40_0374 | ひなた(Hinata) | 「だからその前にできたらなって」 | "So I was hoping we could hold the wedding before I leave." | “所以我就想要不在那之前先把婚礼办了”
+scn00_40_0375 | - | 結婚式と言っても、大々的なものを考えていたわけじゃない。 | It's not as if I was thinking of having a grand, extravagant wedding or anything. | 说是婚礼，但我其实也没想举办得多么盛大。
+scn00_40_0376 | - | 子どものごっこ遊びみたいになっちゃうかもだけど、俺とココロが愛を誓い合う儀式ができればそれでいい。 | It might look like kids playing house if it's just our friends at the wedding, but as long as Cocoro and I can say our vows, that's more than enough for me. | 虽然可能会变得像小孩子过家家一样，但只要能成为让我我和心相互誓约爱情的仪式就够了。
+scn00_40_0377 | 風音(Kazane) | 「でも式場に使えそうな場所がなぁ」 | "There aren't many places in town that would make for a good venue, though..." | “但问题是举行仪式的场地啊”
+scn00_40_0378 | - | 九十九市は大きな街だったので、式場や教会もあったが、『厄災』で全て廃墟となった。 | Tsukumo used to be a large city, with its own event halls and churches, but almost everything was ruined during the Calamity. | 九十九市曾经是一座很大的城市，所以也有礼堂和教会，但全都因为‘灾厄’变成了废墟。
+scn00_40_0379 | ひなた(Hinata) | 「植物園でできないかな」 | "Couldn't we have it at the botanical garden?" | “不能去植物园吗”
+scn00_40_0380 | 風音(Kazane) | 「植物園？　あのセントラルのとこの？」 | "What? You mean in Central?" | “植物园？　中心区的那个？”
+scn00_40_0381 | ひなた(Hinata) | 「俺とココロが出逢った場所だから」 | "It's the place where Cocoro and I first met." | “那里毕竟是我和心相遇的地方”
+scn00_40_0382 | 風音(Kazane) | 「確かに、綺麗かもなぁ。ガラス張りで光も入ってきて……。でも、勝手に使っていいのかな」 | "That would be beautiful... It's bright, too, with plenty of light shining in through the glass dome... But would it be okay for us to use it?" | “那里确实也挺漂亮的，全是玻璃所以光线也很好……但是，这能擅自使用吗”
+scn00_40_0383 | - | 廃墟同然で放置されているとはいえ、勝手に使うのはまずいか。 | The place may be all but abandoned, but that doesn't mean we can just do whatever we want in there. | 虽说已经像废墟一样被放置不管了，但擅自去使用还是不太好啊。
+scn00_40_0384 | ココロ(Cocoro) | 「ならば許可を取ればよろしいかと」 | "Wouldn't it simply be a matter of asking for permission?" | “那只要获得许可不就行了”
+scn00_40_0385 | 風音(Kazane) | 「誰に？」 | "Asking who, though?" | “向谁？”
+scn00_40_0386 | ひなた(Hinata) | 「……あ、そうか」 | "Ah, good question." | “……啊，这样啊”
+scn00_40_0387 | ココロ(Cocoro) | 「そうです。現在、セントラルエリアの管理者は霧香が代行しています。その程度の許可なら、霧香に出せるのではないかと」 | "Right. Currently, Kirika is the acting administrator of the Central Area. I believe she has the authority to grant permission for a small-scale event such as this." | “是的，现在，中心区的管理者是由雾香在代理。这种程度的许可，雾香应该是可以给出的”
+scn00_40_0388 | ひなた(Hinata) | 「よし、聞いてみよう」 | "All right, let's ask her." | “好，我去问问吧”
+scn00_40_0389 | 風音(Kazane) | 「いいじゃんいいじゃん、面白くなりそう！　あたしも準備手伝うから！」 | "Sounds great! I'm sure it'll be a blast! I'll help with the planning!" | “不错嘛，感觉会很有意思！　我也会来帮忙准备的！”
+scn00_40_0390 | ひなた(Hinata) | 「いいの？」 | "Really?" | “可以吗？”
+scn00_40_0391 | 風音(Kazane) | 「あたぼうよ！　まかせときなって！　そうとなったら、さっそく動かないと……じゃーな、また明日！」 | "Of course! You can count on me! I'll have to get going to make sure everything's perfect... See you tomorrow!" | “那还用问吗！　就交给我吧！　既然如此，就得赶紧干活了……那就明天见了！”
+scn00_40_0392 | - | 風音は駆け足で帰っていった。 | Kazane practically runs out the door. | 风音跑着回去了。
+scn00_40_0393 | ひなた(Hinata) | 「ほんとに忙しい奴だな……」 | "She sure keeps herself busy..." | “真是个忙碌的家伙啊……”
+scn00_40_0394 | ココロ(Cocoro) | 「頼もしいヒトですね」 | "I believe that's what you'd call a 'dependable person.'" | “也是个值得依靠的人呢”

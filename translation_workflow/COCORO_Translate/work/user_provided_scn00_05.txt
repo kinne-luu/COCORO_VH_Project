@@ -1,0 +1,154 @@
+scn00_05_0001 | "Sao lại có trẻ con ở chỗ này?"
+scn00_05_0002 | "Trẻ con? ...Ơ kìa, sao nhóc lại ở đây!?"
+scn00_05_0003 | Đó là chú đội viên vừa mới chở tôi về thị trấn lúc nãy.
+scn00_05_0004 | "Bạn này bị lạc đường, nên cháu..."
+scn00_05_0005 | Tôi buột miệng bịa ra một cái cớ đầy gượng gạo.
+scn00_05_0006 | "Cậu đang nói tôi đấy ạ? Tôi đâu có bị lạc..."
+scn00_05_0007 | Suỵt, im nào.
+scn00_05_0008 | "Đã rõ, tôi sẽ giữ im lặng."
+scn00_05_0009 | "...Vâng, có hai đứa trẻ. Có vẻ chúng bị lạc đường."
+scn00_05_0010 | Chú ấy đang báo cáo qua bộ đàm.
+scn00_05_0011 | Có vẻ như họ vẫn chưa nhận ra cô bé này là robot...
+scn00_05_0012 | Ngay cả họ chắc cũng chưa từng thấy một humanoid nào tinh xảo đến mức này.
+scn00_05_0013 | Nhận được báo cáo, Đội trưởng Đội Tiêu Trừ liền bước tới.
+scn00_05_0014 | "Này Kotaro! Tao đã bảo mày chở thằng nhóc này về rồi cơ mà?"
+scn00_05_0015 | "Tôi chở về đàng hoàng rồi mà."
+scn00_05_0016 | "Thế sao nó lại lù lù ở đây!"
+scn00_05_0017 | "Em biết thế nào được ạ."
+scn00_05_0018 | Ông đội trưởng nhìn chúng tôi với ánh mắt đầy nghi hoặc.
+scn00_05_0019 | "...À, hay chúng mày là lũ mót phế liệu hả? Lúc nãy cũng thấy lén la lén lút ở khu nội đô rồi. Mò vào đây để ăn trộm chứ gì."
+scn00_05_0020 | "Thôi kệ. Giải chúng đi. Trói lại cho khỏi chạy..."
+scn00_05_0021 | "Cái gì, có chuyện gì thế!"
+scn00_05_0022 | "Chúng ta bị tập kích, đang giao chiến! Là Mutant Drone!"
+scn00_05_0023 | Đội Tiêu Trừ giờ chẳng còn tâm trí đâu mà bận tâm đến mấy đứa trẻ đi lạc vào hiện trường nữa.
+scn00_05_0024 | "Nhân lúc này mau trốn thôi."
+scn00_05_0025 | "Tôi không thể đi được."
+scn00_05_0026 | "Mấy người đó đến đây để dùng súng bắn cậu đấy. Cậu cũng hiểu đây là tình huống khẩn cấp rồi phải không?"
+scn00_05_0027 | "..."
+scn00_05_0028 | "Nào, nhanh lên."
+scn00_05_0029 | Tôi nắm lấy cổ tay mảnh khảnh của cô bé humanoid kéo đi, nhưng trái hẳn với vẻ bề ngoài, lực của cậu ấy mạnh đến mức không hề nhúc nhích.
+scn00_05_0030 | "Tôi không thể đi được."
+scn00_05_0031 | Thái độ cứng nhắc và chẳng biết linh hoạt này đúng chuẩn là một cỗ máy.
+scn00_05_0032 | "Tuy nhiên, tôi đã hiểu nơi này rất nguy hiểm. Xin cậu hãy mau chóng sơ tán đi."
+scn00_05_0033 | "...Tôi hiểu rồi."
+scn00_05_0034 | ...Suy cho cùng cậu ấy cũng chỉ là robot. Dù có bị tiêu trừ thì cũng chẳng cảm thấy gì đâu.
+scn00_05_0035 | Lặn lội đến tận nơi này rồi liều mạng tìm cách bảo vệ cậu ấy, tự dưng tôi thấy mình thật giống một thằng ngốc.
+scn00_05_0036 | Tôi định bụng sẽ tự mình thoát thân.
+scn00_05_0037 | Thế nhưng, một bóng đen khổng lồ bỗng càn quét qua hàng cây rồi xuất hiện, chắn ngang lối đi mất rồi.
+scn00_05_0038 | "Robot bảo vệ của Khu Trung Tâm sao!?"
+scn00_05_0039 | Hòn đảo từng là trái tim của Dự án Utopia này vốn được canh giữ bởi những cỗ robot bảo vệ tối tân nhất.
+scn00_05_0040 | Dù không được trang bị hỏa lực, nhưng chúng là những robot chiến đấu kiên cố và nhanh nhạy không hề kém cạnh drone quân sự.
+scn00_05_0041 | Do đặc thù nhiệm vụ, chúng có khả năng kháng vũ khí chống robot rất cao. Ngoài chống đạn và chống nổ, chắc chắn chúng còn được trang bị cả biện pháp chống điện giật. Cũng vì thế mà Đội Tiêu Trừ đang phải chật vật xoay xở.
+scn00_05_0042 | "Đã 4 năm trôi qua kể từ Ách Tai rồi, sao nó vẫn còn hoạt động được chứ..."
+scn00_05_0043 | "Dưới tầng ngầm có trạm sạc. Nhà máy phát điện vẫn đang vận hành nên chúng hoàn toàn có thể nạp lại năng lượng."
+scn00_05_0044 | Khu Trung Tâm được trang bị cơ sở vật chất đầy đủ để có thể tự cung tự cấp ngay cả khi bị cô lập hoàn toàn với thế giới bên ngoài.
+scn00_05_0045 | Ngoài hệ thống pin mặt trời trên sân thượng, nếu nhớ không nhầm thì dưới lòng đất còn có cả một nhà máy điện thủy triều, và có vẻ như nó vẫn đang hoạt động tốt.
+scn00_05_0046 | "...Vậy là những cỗ robot bảo vệ bị nhiễm virus rồi biến thành Mutant vẫn còn nhan nhản ở đây sao."
+scn00_05_0047 | Thế thì cũng dễ hiểu tại sao hòn đảo này lại bị phong tỏa.
+scn00_05_0048 | "Bằng mọi giá phải chặn bước tiến của nó lại!!!"
+scn00_05_0049 | Bị cỗ robot bảo vệ quần cho tơi tả, Đội Tiêu Trừ bắt đầu dạt về phía chúng tôi.
+scn00_05_0050 | Đám người đó sắp sửa giẫm đạp lên bồn hoa trồng Tuyết Trắng Mùa Hạ.
+scn00_05_0051 | "Không được."
+scn00_05_0052 | Cô bé lập tức lao ra che chở cho những bông hoa.
+scn00_05_0053 | "Vướng chân quá, tránh ra!"
+scn00_05_0054 | "Á!"
+scn00_05_0055 | Bị xô mạnh ra, cô bé ngã xuống đất.
+scn00_05_0056 | Thế nhưng, cậu ấy đã bảo vệ được bồn hoa.
+scn00_05_0057 | "...May quá."
+scn00_05_0058 | "Cậu có sao không!?"
+scn00_05_0059 | "Nếu cậu hỏi tôi, thì tôi không sao cả."
+scn00_05_0060 | Cỗ robot bảo vệ điên cuồng đâm sầm vào khung thép trên vách mái vòm, tạo nên một chấn động dữ dội.
+scn00_05_0061 | Cú va chạm làm kính trên trần vỡ toác rồi rơi ập xuống.
+scn00_05_0062 | "Nguy hiểm..."
+scn00_05_0063 | Trước cả khi kịp suy nghĩ, tôi đã lao tới lấy thân mình che phủ cho cậu ấy.
+scn00_05_0064 | Một cơn đau âm ỉ chạy dọc qua trán tôi.
+scn00_05_0065 | Mảnh kính rơi trúng làm rách da rồi sao?
+scn00_05_0066 | Không, chẳng có giọt máu nào chảy ra cả.
+scn00_05_0067 | Ngày hôm đó... vào đêm xảy ra Ách Tai, tôi cũng đã ở nơi này.
+scn00_05_0068 | Và rồi, cũng giống hệt như lúc này, trán tôi đã hứng trọn những mảnh kính rơi xuống, máu chảy đầm đìa đến mức ngất lịm đi.
+scn00_05_0069 | Ký ức về đêm kinh hoàng ấy vừa ùa về cùng với cảm giác đau đớn hệt như thật.
+scn00_05_0070 | "Cậu có... bị đứt ở đâu không?"
+scn00_05_0071 | "..."
+scn00_05_0072 | Cô bé cứ thế ngước nhìn tôi đang nằm đè lên che chở cho mình bằng ánh mắt đầy vẻ kỳ lạ.
+scn00_05_0073 | Cỗ robot bảo vệ lại một lần nữa húc mạnh vào tường.
+scn00_05_0074 | Từ mái vòm kính đã rạn nứt, những mảnh vỡ lại tiếp tục trút xuống.
+scn00_05_0075 | Lần này, chúng thực sự rơi thẳng xuống ngay trên đỉnh đầu tôi.
+scn00_05_0076 | Không né kịp mất!
+scn00_05_0077 | Mà nếu tôi né ra thì sẽ rơi trúng cô bé này.
+scn00_05_0078 | "...Xin hãy cúi thấp đầu xuống."
+scn00_05_0079 | Cô bé ôm ghì lấy đầu tôi, xoay người đổi tư thế rồi dùng chính tấm lưng mình hứng trọn cơn mưa mảnh kính đang trút xuống.
+scn00_05_0080 | "Cậu làm cái gì thế!?"
+scn00_05_0081 | "Lúc nãy, cậu đã bảo vệ tôi đúng không?"
+scn00_05_0082 | Cô bé vẫn giữ nguyên tư thế ôm chặt lấy đầu tôi mà hỏi.
+scn00_05_0083 | "Hả...? Ừ... đúng vậy."
+scn00_05_0084 | "...Tuy tôi là con người, nhưng chút va chạm cỡ này chẳng nhằm nhò gì với tôi đâu."
+scn00_05_0085 | Nói rồi, cậu ấy phủi những mảnh kính vỡ vương trên lưng xuống nhẹ tênh như thể chỉ đang phủi bụi.
+scn00_05_0086 | ...
+scn00_05_0087 | Giữa hơi ấm ấy, tôi chợt cảm nhận được một mùi hương vô cùng thân thuộc.
+scn00_05_0088   | \n\n\n\n\n\n\n\n<Một chút thôi cũng được, chị có thể xoa đầu em được không ạ?>
+scn00_05_0089 | Khi ấy tôi đã lấy hết can đảm để làm nũng với một người.
+scn00_05_0090 | Và rồi, người ấy đã ôm tôi vào lòng.
+scn00_05_0091 | ...Chị từng nghe nói rằng nếu dịu dàng vuốt ve chúng, hoa sẽ nở thật to và thật đẹp đấy.
+scn00_05_0092 | Cứ như thể hơi ấm của một ai đó chính là điều kiện để đơm hoa, một đứa trẻ ngỡ đã héo tàn khi còn chưa kịp hé nụ như tôi, vào ngày hôm ấy, đã có thể cất lên tiếng nói của mình một lần nữa.
+scn00_05_0093 | "...Giờ thì cậu đã thấy nơi này nguy hiểm thế nào rồi chứ? Thế nên làm ơn đi. Cùng trốn khỏi đây với tôi nhé."
+scn00_05_0094 | "Nếu là để tự vệ trong tình huống khẩn cấp, cậu hoàn toàn có thể bỏ qua các mệnh lệnh thông thường mà."
+scn00_05_0095 | "Vâng, tôi có thể. Thế nhưng..."
+scn00_05_0096 | Cô bé humanoid trầm ngâm một thoáng như để tìm từ ngữ thích hợp.
+scn00_05_0097 | "...Thế nhưng tôi muốn ở lại nơi này."
+scn00_05_0098 | Muốn ở lại sao?
+scn00_05_0099 | Cách dùng từ nghe cứ như thể được xuất phát từ cảm xúc thật sự vậy.
+scn00_05_0100 | "Tại sao?"
+scn00_05_0101 | "Vì tôi đã hứa rồi."
+scn00_05_0102 | "Tuy nhìn tôi thế này thôi, chứ tôi đã có vị hôn phu rồi đấy."
+scn00_05_0103 | Cô bé nói với giọng điệu có phần tự hào.
+scn00_05_0104 | "Việc có vị hôn phu chính là bằng chứng không thể chối cãi chứng minh tôi là con người."
+scn00_05_0105 | "Người ấy đã hứa rằng khi nào loài hoa kia nở sẽ đến đây ngắm cùng tôi."
+scn00_05_0106 | "Vậy nên tôi muốn ở lại đây để chờ đợi."
+scn00_05_0107 | <...Nếu như chúng ta có thể gặp lại nhau. Chị hãy cưới em nhé.>
+scn00_05_0108 | Cậu ấy vẫn luôn nhớ...
+scn00_05_0109 | Dù có nhìn thấy dáng vẻ của tôi hay nghe thấy giọng tôi, cậu ấy cũng chẳng hề có chút phản ứng nào.
+scn00_05_0110 | Nên tôi cứ ngỡ là cậu ấy đã quên mất rồi...
+scn00_05_0111 | Nhưng lời hứa năm xưa thì cậu ấy vẫn nhớ.
+scn00_05_0112 | Và rồi, trong khu vườn bách thảo chẳng còn bóng người lui tới này, hằng đêm cậu ấy vẫn luôn dõi theo từng nụ hoa Tuyết Trắng Mùa Hạ và chờ đợi tôi.
+scn00_05_0113 | "Vậy thì chúng ta lại càng phải rời khỏi đây thôi. Nếu không thì đến cả việc chờ đợi cậu cũng chẳng thể làm được nữa đâu. Đó là phán đoán hợp lý nhất ngay lúc này đấy."
+scn00_05_0114 | "...Tôi đã bị thuyết phục hoàn toàn. Đành phải tuân theo thôi."
+scn00_05_0115 | "Xác nhận tình huống hiện tại là khẩn cấp, tiến hành biện pháp ứng phó."
+scn00_05_0116 | Có lẽ vì là robot nên cô bé chuyển đổi tư duy ngay tức khắc rồi đứng phắt dậy.
+scn00_05_0117 | "Trước mắt, tôi xin cấp quyền Chủ nhân tạm thời cho cậu. Tôi có thể nhờ cậu bảo hộ cho mình được không?"
+scn00_05_0118 | "Nói cách khác là cậu chịu cùng tôi chạy trốn rồi phải không."
+scn00_05_0119 | "Đúng là như vậy."
+scn00_05_0120 | "Được, vậy thì đi..."
+scn00_05_0121 | Hăng hái hô lên thế thôi, chứ tình hình hiện tại đúng là nguy cấp thật sự. Cỗ robot bảo vệ mất kiểm soát đang chắn ngang lối thoát và giao chiến ác liệt với Đội Tiêu Trừ.
+scn00_05_0122 | "Không giải quyết thứ đó trước thì chẳng thể nào thoát ra được."
+scn00_05_0123 | "Đứng ở chỗ đó nguy hiểm lắm đấy, mau nấp vào góc đi!"
+scn00_05_0124 | "Chú ơi, Đội Tiêu Trừ không có trang bị nào để khắc chế thứ đó sao ạ?"
+scn00_05_0125 | "Nhóc nói gì cơ?"
+scn00_05_0126 | Đáng lẽ họ phải nắm rõ thông số kỹ thuật của robot bảo vệ ở Khu Trung Tâm rồi mới phải. Tại sao lại chật vật đến mức này chứ?
+scn00_05_0127 | "Lệnh của Chủ nhiệm là cố gắng thu hồi mà không phá hủy nó. Nhưng nó cứ nổi điên cỡ đó thì chẳng ai khống chế nổi."
+scn00_05_0128 | Ra là vậy, dì ấy muốn bắt sống nó đem về làm mẫu vật nghiên cứu sao.
+scn00_05_0129 | "Thứ chú đang nạp vào khẩu súng kia là gì thế ạ?"
+scn00_05_0130 | Trang bị của Đội Tiêu Trừ có vẻ khá đa dạng, nhưng thứ chú ấy đang nạp vào súng phóng lựu nhìn qua thì có lẽ là đạn phi sát thương.
+scn00_05_0131 | "Đây là đạn lưới cáp. Nhưng nó di chuyển dữ quá nên không tài nào ngắm chuẩn được. Với lại, chỉ trùm lưới lên thôi thì cũng đâu cản nổi cái thứ kia!"
+scn00_05_0132 | "Ra thế, đúng là vậy thật."
+scn00_05_0133 | Vậy thì quả nhiên vẫn phải tìm cách khóa chặt chuyển động của nó.
+scn00_05_0134 | Trong đầu tôi chợt nảy ra một kế.
+scn00_05_0135 | "Chú có thể bắn viên đạn đó xuống ngay dưới chân nó giúp cháu được không? Làm vậy thì cháu sẽ chặn nó lại được."
+scn00_05_0136 | "Hả? Nhóc làm thế quái nào mà chặn nó được chứ."
+scn00_05_0137 | "Chú cứ tin cháu đi."
+scn00_05_0138 | Tôi lấy chiếc drone từ trong ba lô đang đeo sau lưng ra.
+scn00_05_0139 | "Thứ đó là... Hiểu rồi!"
+scn00_05_0140 | Chú đội viên Đội Tiêu Trừ giương súng phóng lựu lên rồi bắn đạn lưới ra.
+scn00_05_0141 | Tấm lưới làm bằng dây cáp bung rộng ra ngay dưới chân cỗ robot bảo vệ đang phát cuồng.
+scn00_05_0142 | "Kotaro, mày bị ngu à! Ngắm bắn đi đâu thế hả!!"
+scn00_05_0143 | "Bắn rồi đấy! Giờ tính sao nữa!"
+scn00_05_0144 | "Phần còn lại cứ giao cho cháu."
+scn00_05_0145 | Tôi đeo kính điều khiển lên, cho chiếc drone bay là là sát mặt đất.
+scn00_05_0146 | Trên đường bay, nó quắp lấy một góc tấm lưới cáp đang trải rộng dưới đất rồi áp sát cỗ robot bảo vệ.
+scn00_05_0147 | Đối phương đã phát hiện ra chiếc drone.
+scn00_05_0148 | Nguy rồi, nó sắp đánh trả sao!?
+scn00_05_0149 | "Đâu có dễ thế! Này, bên này cơ mà!"
+scn00_05_0150 | Chú Kotaro giương súng phóng lựu lên làm mồi nhử. Sự chú ý của cỗ robot bảo vệ lập tức chuyển sang mục tiêu có mức độ đe dọa cao hơn.
+scn00_05_0151 | Chỉ cần chú ấy đánh lạc hướng nó trong một khoảnh khắc là đủ.
+scn00_05_0152 | Tôi điều khiển drone mang theo tấm lưới luồn lách qua giữa hai chân của cỗ robot bảo vệ.
+scn00_05_0153 | Rồi cứ thế lượn vòng quanh vài lượt để tấm lưới quấn chặt vào chân nó.
+scn00_05_0154 | Việc còn lại chỉ là cố tình bay lượn lờ trước cụm cảm biến để dụ nó đuổi theo mình.

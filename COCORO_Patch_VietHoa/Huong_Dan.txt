@@ -1,0 +1,25 @@
+======================================================================
+           COCORO — BẢN VIỆT HÓA CHÍNH THỨC (TRỌN VẸN 50 CHƯƠNG)
+======================================================================
+
+1. HƯỚNG DẪN CÀI ĐẶT:
+- Nhấp đúp vào file "Cai_Dat_Viet_Hoa.exe" (hoặc "Cai_Dat_Viet_Hoa.bat").
+- Công cụ sẽ tự động nhận diện thư mục game COCORO.
+  (Nếu game nằm ở vị trí khác, bấm nút "Chọn thư mục..." và trỏ tới thư mục chứa game COCORO có file data.xp3).
+- Bấm nút "CÀI ĐẶT VIỆT HÓA".
+- Chờ thanh tiến trình hoàn tất 100% và nhận thông báo thành công.
+
+2. CÁCH CHƠI GAME TIẾNG VIỆT:
+- Khởi động game qua Steam hoặc file COCORO.exe.
+- Trong phần Cài đặt (Config / Settings) -> Ngôn ngữ (Language), chọn "English".
+- Toàn bộ 50 chương kịch bản (12.414 câu thoại) sẽ hiển thị bằng TIẾNG VIỆT đầy đủ, sắc nét, chuẩn phông chữ, dịch thuật chính xác theo bối cảnh!
+
+3. KHÔI PHỤC BẢN GỐC (NẾU MUỐN GỠ PATCH):
+- Mở lại công cụ "Cai_Dat_Viet_Hoa.exe".
+- Bấm nút "Khôi phục bản gốc".
+- Game sẽ được trả lại trạng thái nguyên bản tiếng Nhật / Anh ban đầu.
+
+======================================================================
+Dữ liệu bản dịch: COCORO_Dialogue.xlsx (12.414 câu thoại & 327 tên nhân vật)
+Tương thích: KiriKiri Z / Frontwing engine (Steam & DRM-free bản Full)
+======================================================================

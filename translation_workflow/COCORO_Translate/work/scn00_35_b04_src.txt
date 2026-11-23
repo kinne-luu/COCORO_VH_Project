@@ -1,0 +1,62 @@
+# scene=scn00_35 batch=4/5 dòng 181-238 / 276
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_35_0181 | ＣＣＲ－０１(CCR-01) | （……あの子ども、今日も来ています） | (That child is here again today.) | （……那个孩子今天也来了）
+scn00_35_0182 | - | 男の子が、ここのところ毎日植物園に来ていた。 | One boy had been visiting the garden every single day lately. | 那个男孩子最近每天都会来植物园。
+scn00_35_0183 | - | 以前からたまに姿を見かける事はあった。それが、今は毎日いる。ちょうど、三峯陽子博士が亡くなったすぐ後くらいから。 | I had seen him a few times before, but the frequency of his visits had increased, coinciding with the death of Dr. Mitsumine Yoko. | 以前时不时能见到他，但现在却基本上每天都能看到他，差不多刚好是从三峯阳子博士去世后开始的。
+scn00_35_0184 | - | 外見から推測するに、小学校へ通っている時間帯のはずだったが、なぜ植物園にいるのだろう。 | From his appearance, I could infer that he was likely in elementary school. Why was he at the garden instead of at school? | 从外表来看，应该是去小学的年纪，但不知为何却来跑来了植物园。
+scn00_35_0185 | ＣＣＲ－０１(CCR-01) | （……ワタシの設定と同じ、内気な性質が災いして学校に通えないでいる子と推測します） | (I presume that he's the same as my cover story—a child whose introverted nature makes it difficult for them to attend school.) | （……推测他和我的设定一样，也是性格过于内向导致无法去学校的孩子）
+scn00_35_0186 | - | 子どもは毎日通ってきては、花や植物のスケッチをしていた。 | Every day he came to the garden and drew sketches of plants and flowers. | 他每天都会来画花和植物的素描。
+scn00_35_0187 | - | ああいったお客様の相手をするのがボランティアスタッフとしての職務だ。 | Attending to the guests was part of my duties as a volunteer staff member. | 陪伴那样的客人也是志愿者的职责。
+scn00_35_0188 | - | また、ヒトと交流をして感情を学習するのが、ロボットとしてのワタシの役目だった。 | And as a robot, interacting with humans and learning about their emotions was part of my directive. | 而且，和人类交流学习感情，也是我身为机器人的使命。
+scn00_35_0189 | ＣＣＲ－０１(CCR-01) | 「どうして写真に撮らないのですか？」 | "Why don't you just take a photo?" | “为什么不拍成照片呢？”
+scn00_35_0190 | - | 疑問に思った事を尋ねた。 | I asked him something I had been wondering about. | 我说出了自己的疑问。
+scn00_35_0191 | - | 写実性、記録性ともにスチル、もしくは動画で記録する方がよいと判断できる。なぜ不完全な手書きで写し取ろうとするのか？ | I knew that for documentation purposes, taking a photo or video would certainly result in a more accurate record than an imperfect image drawn by hand. | 在我看来，就写实性和记录性上来说用拍照或者视频的方式进行记录会比较好。为什么要用这种不完美的手绘方式来临摹呢？
+scn00_35_0192 | - | そこに我々ロボットには理解の難しい『ヒトらしさ』があるかもしれないと考えての事だった。 | So I thought that his answer would likely provide some insight into aspects of "humanness" that were difficult for us robots to understand. | 我想，这或许就是我们机器人难以理解的‘人类性’吧。
+scn00_35_0193 | - | すると子どもは、 | But then, the child... | 而那个孩子。
+scn00_35_0194 | 子ども(Child) | 「……ぁぅ……ぁぅ……」 | "Ah... Uh..." | “……啊呜……啊呜……”
+scn00_35_0195 | - | 何か返答しようとするが、のどから絞り出すように音を出すだけで言葉にならない。 | It appeared as if he was trying to respond, but only some squeaky sounds emerged from his mouth—no words. | 他虽然试图回答我，但却只从喉咙中发出了破碎的音节。
+scn00_35_0196 | - | ワタシが困惑していると、子どもの顔がみるみる真っ赤になり、涙ぐんで俯いてしまう。 | I was confused. The child's face slowly turned red, and tears formed in his eyes. | 就在我对此感到困惑的时候，那个孩子的脸变得越来越红，含着眼泪低下了头。
+scn00_35_0197 | ＣＣＲ－０１(CCR-01) | （困らせてしまったようですね……） | (It appears that I've troubled him.) | （我似乎让他感到困扰了啊……）
+scn00_35_0198 | - | 極度の恥ずかしがり屋？ | Was he really  shy? | 他是非常容易害羞的类型吗？
+scn00_35_0199 | ＣＣＲ－０１(CCR-01) | （もしかすると、耳が聞こえないのかもしれない） | (Could it be that he is deaf?) | （也有可能是他耳朵听不见）
+scn00_35_0200 | - | ワタシは子どもの手から鉛筆を借りて、スケッチブックの端に文字を書き込んだ。 | I took the pencil from the child's hand and wrote in a corner of his sketchbook. | 我从那个孩子手里借来了铅笔，在素描本的边缘上写起了字。
+scn00_35_0201 | - | \n\n\n\n\n\n\n\n%R『写真じゃなく絵を描いているのはなぜですか？』 | \n\n\n\n\n\n\n\n%RWhy do you draw instead of taking photos? | \n\n\n\n\n\n\n\n%R‘为何不照成照片而是要画下来呢？’
+scn00_35_0202 | 子ども(Child) | 「……」 | "..." | “……”
+scn00_35_0203 | ＣＣＲ－０１(CCR-01) | 「……？」 | "Hmm?" | “……？”
+scn00_35_0204 | - | ワタシが回答を待っていると、子どもはワタシの手から鉛筆を取り、すぐ下に文字列を書き込んだ。 | He took the pencil back and started writing his answer below my question. I waited until he was done and showed it to me. | 我等待着他的回答，随后那个孩子便从我手中取走了铅笔，在我写的字下面写起了字。
+scn00_35_0205 | - | \n\n\n\n\n\n\n\n『植物を細部まで観察するため』 | \n\n\n\n\n\n\nTo observe all the details of the plants. | \n\n\n\n\n\n\n\n‘为了观察植物的细节’
+scn00_35_0206 | - | %n;『植物の構造にはそれぞれ役割や意味がある。それが知りたい』 | %n;Every part of a plant has a purpose. I want to understand them better. | %n;‘植物的每一处构造都有其职责和意义，我就是想了解这些’
+scn00_35_0207 | ＣＣＲ－０１(CCR-01) | 「役割……」 | "Their purpose..." | “职责……”
+scn00_35_0208 | - | それはワタシにとって興味深いと言える答えだった。 | His answer was of great interest to me. | 这个回答可以说很令我感兴趣。
+scn00_35_0209 | - | 我々ロボットは役割を持って生まれてくる。ワタシを構成するボディのパーツも全て何らかの役割を持つ。 | We robots were all created to fulfill a purpose, and all the parts that my body consisted of also had their own purpose. | 我们机器人是伴随着职责诞生的，组成我身体的零件全都有各自的职责。
+scn00_35_0210 | - | 役割とは、道具であるロボットの存在意義そのものだ。 | You could even say that its purpose defines a robot's worth as a tool. | 职责正是身为道具的机器人的存在意义。
+scn00_35_0211 | - | ワタシはまだその役割を果たせずにいる。 | Yet I still hadn't fulfilled mine. | 我还没能履行自己的职责。
+scn00_35_0212 | - | ヒトが『役割』というものについてどう考えているのか知る事は、ワタシ自身の役割について答えを得るヒントになるかもしれなかった。 | I thought that learning a human perspective on "purpose" might give me a hint regarding my own function. | 在知道人类是如何看待‘职责’后，或许能对我找到关于自身职责的答案有所帮助。
+scn00_35_0213 | - | \n\n\n\n\n\n\n\n%R『見せていただいてもいいですか？』 | \n\n\n\n\n\n\n\n%RCan I see? | \n\n\n\n\n\n\n\n%R‘可以让我看看吗？’
+scn00_35_0214 | - | ワタシはスケッチブックを見せてもらった。 | The boy showed me his sketchbook. | 我让他将素描本给我看了看。
+scn00_35_0215 | - | 写実性は高くはないものの、植物の細部までよく観察されていて、とくに子どもの気になった部分が強調されて描写されていた。 | Although the images were not very realistic, they displayed a high level of insight into the different parts of the plants. The parts that the child seemed the most interested in were emphasized in their depictions. | 虽然不怎么写实，但他却对植物细节部分观察地很仔细，还在画中特意强调了孩子很在意的部分。
+scn00_35_0216 | - | スケッチを見ながら質問をすると、植物について様々な知識を教えてくれた。 | As I looked through the sketches, I asked more questions, and the child shared his knowledge. | 我边看素描边提问，然后他便将各种各样植物相关的知识教给了我。
+scn00_35_0217 | ＣＣＲ－０１(CCR-01) | （もしかしたら、この子どもなら知っているかもしれません） | (There is a possibility that this child knows...) | （这个孩子或许知道吧）
+scn00_35_0218 | - | ワタシに与えられた『テストに合格する』という役割を果たすために、どうしてもクリアしなければいけない難問の答えを。 | In order to fulfill my function, which was "to pass the test," I needed an answer to an incredibly difficult question. | 他或许知道我为了完成‘通过测试’这一职责所需要的答案。
+scn00_35_0219 | - | \n\n\n\n\n\n\n\n%R『では、教えてください』 | \n\n\n\n\n\n\n%RThen, could you tell me... | \n\n\n\n\n\n\n\n%R‘那么，就请你告诉我吧’
+scn00_35_0220 | - | %n;『花はどうして美しいのですか？』 | %n;Why flowers are so beautiful? | %n;‘花为什么美丽？’
+scn00_35_0221 | - | 饒舌に、興奮気味に文字を書き[つづ]綴っていた子どもが、ワタシの質問を見たとたん固まってしまった。 | The child, who had been writing his answers so enthusiastically and eloquently, suddenly froze up when he saw my question. | 异常兴奋不断写着文字的孩子在看到我的问题后便一下子呆住了。
+scn00_35_0222 | ＣＣＲ－０１(CCR-01) | （……？） | (Huh?) | （……？）
+scn00_35_0223 | 子ども(Child) | 「……ぁぅ……ぁぅぅ……」 | "Ah... Uh..." | “……啊呜……啊呜……”
+scn00_35_0224 | - | 目尻から、ぽろぽろと[しずく]雫がこぼれ落ちていく。 | Droplets trickled from the corners of his eyes. | 眼角滴滴答答地落下了眼泪。
+scn00_35_0225 | ＣＣＲ－０１(CCR-01) | （涙……？） | (Tears...?) | （眼泪……？）
+scn00_35_0226 | - | 見るのは初めてだった。 | It was my first time seeing them. | 我还是第一次见到。
+scn00_35_0227 | - | ワタシが接するのは研究者か、植物園に出入りしている職員とお客様。 | The humans I had interacted with so far—the researchers, the garden staff, and the guests... | 我接触到的人，不是研究者就是进出植物园的职员和客人。
+scn00_35_0228 | - | このように感情的になるヒトはいなかった。 | None of them had ever displayed such emotions. | 从来没有遇到过感情如此丰富的人类。
+scn00_35_0229 | ＣＣＲ－０１(CCR-01) | （なぜこの子どもは泣いたのでしょう） | (Why is this child crying?) | （为什么他会哭呢）
+scn00_35_0230 | - | 解らない。 | I didn't know. | 无法理解。
+scn00_35_0231 | - | ワタシにはヒトの心は理解できない。 | I didn't understand human emotions. | 我无法理解人类的心。
+scn00_35_0232 | - | 解らない。 | I didn't know. | 无法理解。
+scn00_35_0233 | - | 花がどうして美しいかも理解できない。 | I didn't understand why flowers were so beautiful. | 我也无法理解花为什么美丽。
+scn00_35_0234 | - | 解らない。 | I didn't know. | 无法理解。
+scn00_35_0235 | - | ワタシは未完成で不完全な試作機だから。 | Because I was an unfinished, imperfect prototype. | 因为我是个半成品实验机。
+scn00_35_0236 | - | 子どもが鉛筆を手にし、涙に濡れた手で文字を書いた。 | The child took the pencil and wrote on the tear-stained paper. | 那孩子握着笔，用沾满泪水的手写道。
+scn00_35_0237 | - | \n\n\n\n\n\n\n\n『ぼくは一生、[つぼみ]蕾のまま咲かない花だ』 | \n\n\n\n\n\n\n\nI'm like a bud that will never bloom into a flower. | \n\n\n\n\n\n\n\n‘我是一生都不会绽放的花蕾’
+scn00_35_0238 | ＣＣＲ－０１(CCR-01) | 「咲かない花……？」 | "A bud that will never bloom...?" | “不会绽放的花……？”

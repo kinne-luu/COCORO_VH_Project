@@ -1,0 +1,42 @@
+scn00_30_0343 | Cocoro bước về phía tên đội trưởng.
+scn00_30_0344 | "Vừa rồi tôi đã thất lễ. Trò đùa thành công mỹ mãn rồi nhé~. Robot không thể làm hại con người được đâu, nào, xin hãy cười lên đi."
+scn00_30_0345 | "Hí...!"
+scn00_30_0346 | Vẫn nằm sõng soài trên mặt đất, tên đội trưởng run rẩy lùi lại trong sợ hãi.
+scn00_30_0347 | "Tôi đầu hàng."
+scn00_30_0348 | Cocoro, đừng qua đó!
+scn00_30_0349 | Tôi nắm chặt lấy tay kéo mạnh lại, Cocoro ngoảnh đầu nhìn tôi.
+scn00_30_0350 | Cậu ấy hướng về phía tôi một ánh nhìn lạnh lùng đến đáng sợ.
+scn00_30_0351 | "Đúng như những gì cậu Hinata đã nói. Tôi đã lợi dụng vị hôn phu để cố gắng giành lấy sự công nhận dối trá."
+scn00_30_0352 | "Thế nhưng, sự công nhận dối trá đó không thể trở thành lý do để tôi được phép tồn tại trên thế giới này."
+scn00_30_0353 | "Tôi không thể trở thành con người."
+scn00_30_0354 | "...A... ư..."
+scn00_30_0355 | Tôi không biết phải cãi lại thế nào.
+scn00_30_0356 | Tôi chỉ có thể thốt ra những âm thanh không thành tiếng rồi lắc đầu nguầy nguậy.
+scn00_30_0357 | Cốc cà phê sáng nay cậu pha cho tôi ngon lắm mà...
+scn00_30_0358 | Ít nhất, tôi cũng muốn bày tỏ điều đó với cậu ấy.
+scn00_30_0359 | Nhưng cảm xúc đó không thể thốt ra thành lời.
+scn00_30_0360 | Cổ họng tôi nghẹn ứ, không thể bật ra tiếng.
+scn00_30_0361 | "Cuối cùng, tôi có thể hỏi một câu được không?"
+scn00_30_0362 | "Tại sao những bông hoa lại đẹp đến thế?"
+scn00_30_0363 | ...
+scn00_30_0364 | Hoa rất đẹp... Nhưng tại sao ta lại cảm thấy như thế nhỉ...
+scn00_30_0365 | Hay là, chính vì có cảm nhận nên chúng mới đẹp?
+scn00_30_0366 | Nếu đúng là vậy, kẻ không có trái tim để cảm nhận thì làm sao thấu hiểu được điều đó.
+scn00_30_0367 | Thấy tôi đứng chết lặng không thể trả lời, nét mặt đanh lại lạnh băng của Cocoro thoáng hiện một nụ cười đượm buồn.
+scn00_30_0368 | "...Chúng ta đều là những kẻ dối trá. Cả tôi, lẫn cậu Hinata."
+scn00_30_0369 | "Lời nói dối rồi cũng sẽ bị vạch trần và sửa chữa. Giờ... chính là... lúc... đó..."
+scn00_30_0370 | Bịch... Cocoro đột ngột ngã gục xuống như thể mất đi ý thức.
+scn00_30_0371 | Cocoro!!
+scn00_30_0372 | Những tổn hại tích tụ bấy lâu đã khiến cơ thể cậu ấy chạm tới giới hạn.
+scn00_30_0373 | Thấy cảnh tượng đó, tên đội trưởng nhếch mép cười nham hiểm.
+scn00_30_0374 | "...Làm bố mày tốn bao nhiêu công sức. Này, bắn đi!"
+scn00_30_0375 | Các họng súng của Đội Tiêu Trừ đồng loạt chĩa về phía Cocoro.
+scn00_30_0376 | "...Tạm... biệt nhé... cậu... Hi... nata..."
+scn00_30_0377 | Vừa dứt lời, từ khóe mắt của Cocoro bỗng trào ra những giọt dung dịch tẩy rửa.
+scn00_30_0378 | <GÀOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!>
+scn00_30_0379 | Vừa gầm lên một tiếng xé trời, Jabberwock liền lao tới hất văng tôi ra.
+scn00_30_0380 | Nó dùng bộ phận giống như chiếc miệng ngậm lấy cơ thể Cocoro đang nằm bất động.
+scn00_30_0381 | Và rồi...
+scn00_30_0382 | Nó nhảy vút lên trời cao.
+scn00_30_0383 | "Bắn điiii!!! Đừng để chúng nó thoát!!!!!"
+scn00_30_0384 | Đội Tiêu Trừ xả đạn lên bầu trời, nhưng bóng dáng Jabberwock từ lâu đã biến mất không một dấu vết.

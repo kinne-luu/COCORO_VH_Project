@@ -1,0 +1,64 @@
+# scene=scn00_34 batch=1/5 dòng 1-60 / 284
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_34_0001 | 光太郎(Kotaro) | 「失礼します！　機月主任、大変ですっ」 | "Excuse me! Chief Kizuki, we've got an emergency!" | “打扰了！　机月主任，不好了”
+scn00_34_0002 | 霧香(Kirika) | 「……」 | "..." | “……”
+scn00_34_0003 | 光太郎(Kotaro) | 「って、なんですかこの音は！？」 | "Hey, what's that sound!?" | “呃，这是什么声音！？”
+scn00_34_0004 | 霧香(Kirika) | 「無数のアレロパシー反応が……パニックが広がっていくように、互いに共鳴しあって……」 | "I'm detecting allelopathy signals from various sources... They're resonating with each other, like panic spreading through a crowd." | “无数的化感作用反应……就像是恐慌传染开来了一样相互共鸣了起来”
+scn00_34_0005 | 霧香(Kirika) | 「……まるで『厄災』の再現……」 | "It's just like the Calamity..." | “……就像是‘灾厄’的重演……”
+scn00_34_0006 | 光太郎(Kotaro) | 「セントラルエリアからミュータントドローンが次々と、橋を渡ってこちらに向かっています！」 | "Mutant drones from Central are crossing the bridge to the mainland!" | “变异无人机从中心区里一个接一个地过了桥，正朝着这边冲过来”
+scn00_34_0007 | 霧香(Kirika) | 「……ココロがやっているの？」 | "...Is Cocoro controlling them?" | “……是心干的吗？”
+scn00_34_0008 | 光太郎(Kotaro) | 「主任、対応を」 | "Chief, your orders, please." | “主任，有什么对策吗”
+scn00_34_0009 | 駆除隊隊長(Extermination Squad Leader) | 「その必要はない」 | "No need for that." | “没有这个必要”
+scn00_34_0010 | 光太郎(Kotaro) | 「隊長！？」 | "Sir!?" | “队长！？”
+scn00_34_0011 | 駆除隊隊長(Extermination Squad Leader) | 「二人とも、ここを出ないように」 | "You two, stay in here." | “你们两个不许从这里出去”
+scn00_34_0012 | 光太郎(Kotaro) | 「隊長、あんたには現場の指揮権しかないだろう！」 | "But sir, this is outside of your jurisdiction!" | “队长，你只有现场指挥权吧！”
+scn00_34_0013 | 駆除隊隊長(Extermination Squad Leader) | 「すでにあのクソッタレどもが人間様を攻撃しようと進軍を始めている。現場の指揮はこちらに任せてもらうと言ってるだけだ」 | "Those clankers are launching a full-blown war on the human race! It's our job to stop them, so I will be taking command of this operation." | “我的意思是，那些混蛋们已经开始进军准备攻击人类了，现场的指挥就交给我了”
+scn00_34_0014 | 駆除隊隊長(Extermination Squad Leader) | 「なに心配はいらんさ。大元はあのニンゲンもどきなんだろう？　きっちりスクラップにしてきてやる」 | "There's no need to worry. In the end, they're just some glorified dolls. I'll make sure they end up in the scrapheap where they belong." | “不必担心，根源应该就是那个伪人类吧？　我会将她彻底变成废铁的”
+scn00_34_0015 | 駆除隊隊長(Extermination Squad Leader) | 「光太郎、おまえは主任の護衛でもしてろ」 | "Kotaro, you stay here and guard the chief." | “光太郎，你就去当主任的护卫吧”
+scn00_34_0016 | 光太郎(Kotaro) | 「待ってください、隊長！」 | "Wait, sir!" | “等一下，队长！”
+scn00_34_0017 | 霧香(Kirika) | 「……私は可哀想なロボットたちを……救いたかっただけなの。なのに……また……」 | "All I wanted was to save those poor robots... How can this be happening again...?" | “……我只是想……拯救可怜的机器人们而已，可是……现在却又要……”
+scn00_34_0018 | 光太郎(Kotaro) | 「しっかりしてください主任、今、あなたの力が必要なんです！」 | "Please, pull yourself together, Chief. We need you right now!" | “振作起来主任，现在需要你的力量啊！”
+scn00_34_0019 | 霧香(Kirika) | 「……」 | "..." | “……”
+scn00_34_0020 | 光太郎(Kotaro) | 「くそっ、どうすりゃいいんだよ」 | "Dammit, what am I supposed to do!?" | “可恶，要怎么办才好啊”
+scn00_34_0021 | 風音(Kazane) | 「ねえ、これって……またあれが起こってるって事？」 | "Hey, does this mean... it's happening again?" | “你们说，现在这样……是那个又发生了吗？”
+scn00_34_0022 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_34_0023 | ひなた(Hinata) | （わからない。ただ、ココロが連れ去られた事と関係があるのは間違いない……） | (I don't know. But I'm sure it has something to do with Cocoro being taken away.) | （我不知道，只不过，这毫无疑问和心被带走是有关系的……）
+scn00_34_0024 | - | 俺は車の助手席に飛び乗った。 | I get into the passenger seat. | 我跳上了车子的副驾驶。
+scn00_34_0025 | - | 『大地』 | "Daichi." | ‘大地’
+scn00_34_0026 | 大地(Daichi) | 「お、おう？」 | "Y-Yeah?" | “喔，哦？”
+scn00_34_0027 | - | 『ココロに逢わなくちゃいけない。頼めないか』 | "I have to see Cocoro. Will you help me?" | ‘我必须要去见心，可以拜托你吗’
+scn00_34_0028 | 風音(Kazane) | 「ココロちゃんに……って、セントラルへ行くつもり！？　無茶だよ、今あそこはミュータントドローンが溢れ出てきてんだよ！」 | "Cocoro-chan... Wait, you're planning to go to Central!? That's reckless! It's infested with mutant drones right now!" | “去见心……你是要去中心区吗！？　太乱来了，那里现在正不断地涌出着变异无人机啊！”
+scn00_34_0029 | 大地(Daichi) | 「いいぜ、行こう」 | "It's fine. Let's go." | “没问题，走吧”
+scn00_34_0030 | 風音(Kazane) | 「大地！」 | "Daichi!" | “大地！”
+scn00_34_0031 | 大地(Daichi) | 「ココロを助けに行くんだろ？　俺バカだから、難しい事はわかんねーけど……」 | "We're going to save Cocoro, right? I'm an idiot, so I don't understand any difficult stuff, but..." | “这就是要去救心吧？　我虽然不太聪明，理解不了太复杂的事……”
+scn00_34_0032 | 大地(Daichi) | 「あいつはこさめの命の恩人だ。恩は返さないといけねえ」 | "She saved Kosame's life, so I need to pay her back the favor." | “但她是小雨的救命恩人，我必须要去报恩”
+scn00_34_0033 | こさめ(Kosame) | 「お兄ちゃん……」 | "Daichi..." | “哥哥……”
+scn00_34_0034 | 大地(Daichi) | 「風音、こさめを頼む」 | "Kazane, look after Kosame, okay?" | “风音，小雨就拜托你了”
+scn00_34_0035 | 風音(Kazane) | 「……わかった。でも、くれぐれも無茶はしないでね」 | "...Okay. But promise me that you won't do anything dumb." | “……我知道了，但是你们也别太乱来啊”
+scn00_34_0036 | 大地(Daichi) | 「ああ。行くぞ、ひなた！」 | "We won't. Let's go, Hinata!" | “嗯，走吧，日向！”
+scn00_34_0037 | - | 『うん』 | "Okay." | ‘嗯’
+scn00_34_0038 | - | 運転席に乗り込んだ大地がキーを回してアクセルを踏み、車を発進させた。 | Daichi turns the key before stepping on the gas and driving away. | 坐进了驾驶位的大地转动钥匙踩下油门发动了车子。
+scn00_34_0039 | 大地(Daichi) | 「駆除隊が出払ってて助かった」 | "We're lucky that the extermination team left." | “驱除队出动了也算是帮上大忙了”
+scn00_34_0040 | - | ミュータントドローンを迎撃するため、駆除隊は出動していったようで、おかげで邪魔されずに済んだ。 | They seem to have gone to intercept the attacking mutant drones. Thanks to that, they're not blocking our way anymore. | 驱除队貌似为了应急变异无人机而出动了，我们也因此没有遇到什么阻碍。
+scn00_34_0041 | 大地(Daichi) | 「しかし……おわっ！？」 | "Anyway— Whoa!?" | “可是……哦哇！？”
+scn00_34_0042 | - | 大地が急ハンドルを切った。 | Daichi suddenly turns the wheel. | 大地突然打起了方向盘。
+scn00_34_0043 | - | 道路の真ん中に、人――いや、ロボットが歩いていたのを危うく[ひ]轢きかけたのだ。 | There's someone—no, a robot—walking in the middle of the road. We would've hit it if we hadn't swerved. | 道路正中间有个人——不，是机器人在走着，我们差点轧上去。
+scn00_34_0044 | 大地(Daichi) | 「なんだ今の……セントラルから出てきたミュータントドローンか？」 | "What was that? One of the drones that came out of Central?" | “刚刚那是什么啊……是从中心区里出来的变异无人机吗？”
+scn00_34_0045 | - | 『ちがうみたい』 | "I don't think so." | ‘似乎不是’
+scn00_34_0046 | - | 見れば、そこかしこで動いているロボットの影が見える。 | Looking around, I can see the silhouettes of robots all around. | 定眼一看，到处都能看到正在活动的机器人。
+scn00_34_0047 | ひなた(Hinata) | （アレロパシーを受けて、休眠から目覚めたんだ） | (The allelopathy awakened them from their sleep.) | （受到化感作用的影响后，从休眠中醒来了啊）
+scn00_34_0048 | - | 市街地のどこかに埋もれたまま休眠していたロボットが、アレロパシーを受けて目覚め、活動を始めたのだろう。 | It seems likely that these robots were lying dormant somewhere in town and started moving after receiving allelopathy signals. | 应该被埋在市区里的机器人们，在化感作用的影响下从休眠状态中醒来并开始活动了吧。
+scn00_34_0049 | 大地(Daichi) | 「駆除隊の連中め、仕事をサボってやがったな」 | "The extermination squad must've been slacking." | “驱除队那些家伙们真会偷懒啊”
+scn00_34_0050 | - | 今まで休眠して生き残っていたドローンの数など、たかが知れている。 | Up to this point, the number of robots that reactivated after lying dormant has been negligible. | 休眠至今残留下来的无人机数量终究是有限的。
+scn00_34_0051 | - | しかし、セントラルには警備ロボットをはじめ、かなりの数のドローンがまだ残っているだろう。 | However, Central was home to a great many robots—not just the security robots, but others as well. There must be quite a few of them remaining. | 可是，中心区却还留存着以安保机器人为数量不少的无人机。
+scn00_34_0052 | - | あそこは元々、人間の数よりドローンの数の方が多い施設だった。 | At one point, there were more of them than humans in the area. | 那里原本就是无人机比人类数量多的设施。
+scn00_34_0053 | ひなた(Hinata) | （それが全部九十九商店街に集まったら、大変な事になる） | (If they all flooded into the shopping district, it'd be a disaster.) | （如果它们全都聚集到九十九商店街就麻烦了）
+scn00_34_0054 | - | 一体だけでも駆除隊が手こずった相手だ。有効な武器を持たない商店街の住人には、対抗手段がない。 | A single one is enough to give the extermination team a hard time. Without any effective weapons, the residents won't have a way to fight them. | 一只都已经让驱除队焦头烂额了，而没有有效武器的商店街居民们连对抗手段都没有。
+scn00_34_0055 | - | 『急ごう』 | "Let's hurry." | ‘快走吧’
+scn00_34_0056 | 大地(Daichi) | 「ああ、そうだな」 | "Yeah, we should." | “嗯，是啊”
+scn00_34_0057 | - | 大地はセントラルエリアへ渡る橋の手前で車を止めた。 | Daichi stops the van in front of the bridge leading to the Central Area. | 大地在通往中心区的桥前停下了车。
+scn00_34_0058 | 大地(Daichi) | 「まずいな……」 | "This looks bad..." | “麻烦了啊……”
+scn00_34_0059 | - | 橋の入り口に、赤いライトを点灯させた警備ロボットが数機、[むら]群がっていた。 | Several security robots are swarming around the entrance to the bridge, their red warning lights blinking. | 桥梁入口处，有一群亮着红灯的安保机器人。
+scn00_34_0060 | 大地(Daichi) | 「あれ、セントラルの警備ロボットだろ……やばくないか」 | "Those are security robots from Central, aren't they? Isn't this bad news?" | “那些是中心区的安保机器人吧……这是不是不太妙啊”

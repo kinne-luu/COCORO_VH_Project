@@ -1,0 +1,64 @@
+# scene=scn00_37 batch=2/5 dòng 61-120 / 261
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_37_0061 | ココロ(Cocoro) | 「はい。受粉を助ける動物を呼び寄せるために進化したと」 | "Yes. They evolved to catch the attention of insects that help with their pollination." | “是的，你说是为了吸引对授粉有帮助的动物而进化出来的”
+scn00_37_0062 | - | そう、花粉を運んでくれる虫や小動物を集めるために、花は生まれた。 | Exactly. Flowers were born to attract bugs and small animals that could carry pollen. | 没错，为了让能够搬运花粉的昆虫和小动物能够聚集过来，才诞生了花。
+scn00_37_0063 | ココロ(Cocoro) | 「大きさ、色、形、香り、咲く季節や時間帯など。花によって特徴が異なるのは、対象となる動物がそれぞれ違うせいです」 | "The reason flowers vary in size, color, shape, fragrance, and the season and time of day they bloom is because they target different types of insects and have optimized themselves to suit their pollinators' needs." | “大小、颜色、形状、气味、开放季节和时间带等等，不同的花之所以会有不同的特点，也是因为它们的目标动物不同”
+scn00_37_0064 | - | 『つまり　アピールしたいあいてがいて　そのあいてが　このむ　すがたに　しんかした』 | In other words, they made themselves more attractive to that specific group because they wanted to appeal to them. | ‘也就是说　它们是要对特定目标展示自己　而那个目标则是进化成了这样的生存方式’
+scn00_37_0065 | - | 気の遠くなるような[はる]遙かな昔、まだ花と呼べないようなものから、色とりどり、千差万別な花たちに進化してきた。 | An unimaginably long time ago, when flowers weren't even known as "flowers," they evolved into a multitude of different colors and shapes. | 在十分遥远的过去，不能被称为花的东西，进化为了各种各样千差万别的花朵们。
+scn00_37_0066 | - | それはどういう事なのか？ | What does that mean? | 这又是怎么回事？
+scn00_37_0067 | - | 『はなは　しょくぶつの　こころなんだ』 | Flowers are the soul of a plant. | ‘花　是植物的　心’
+scn00_37_0068 | ココロ(Cocoro) | 「花が植物の心？」 | "Flowers are the soul of a plant?" | “花是植物的心？”
+scn00_37_0069 | - | 『むしたちと　コミュニケーションを　とるための　ことば』 | They're the language plants use to communicate with insects. | ‘是为了和昆虫们进行交流　展现出来的话语’
+scn00_37_0070 | - | 『そして　つたえたい　きもちが　かたちになったもの』 | They're manifestations of the feelings the plant wants to convey. | ‘然后　想要传达出去的感情　也化为了有形之物’
+scn00_37_0071 | ココロ(Cocoro) | 「植物は花を使って他の動物とコミュニケーションを取っていると……？」 | "You think that plants use flowers to communicate with insects?" | “意思是植物通过花和其他动物进行交流……？”
+scn00_37_0072 | - | 『うん　むしたちに　じぶんをみつけてほしくて　こえをあげているんだ』 | Yeah. They raise their voices because they want insects to find them. | ‘嗯　这是为了让昆虫们能发现自己　而发出的声音’
+scn00_37_0073 | - | 植物の心が形になったもの。それが花なんだ。 | A physical manifestation of the plant's soul. That's what flowers are. | 植物的心化作了有形之物，这便是花。
+scn00_37_0074 | ココロ(Cocoro) | 「なるほど、そうかもしれません」 | "I see. Perhaps you're right." | “原来如此，或许确实如此”
+scn00_37_0075 | ココロ(Cocoro) | 「しかしそれは、ヒトが花を美しいと感じる理由にはなりません」 | "However, that cannot be the reason why humans find flowers beautiful." | “但是，这并不能解释人类为什么会感觉花很美丽”
+scn00_37_0076 | ココロ(Cocoro) | 「なぜなら、美しい花ばかりじゃないからです。ヒトがグロテスクと感じる花もあります。腐乱死体のような異臭を放つ花も」 | "Because not all flowers are considered beautiful. There are some flowers that humans find grotesque. Some even smell like rotting corpses." | “因为，世界上不只有美丽的花，还有让人类感觉很畸形的花，还有散发着腐烂尸体般难闻气味的花”
+scn00_37_0077 | - | 『なにもしらなければ　グロテスクに　おもうかもしれない』 | Maybe we find them grotesque because we don't know any better. | ‘如果什么都不理解　或许会感觉很畸形’
+scn00_37_0078 | - | 『でもそれは　ことばが　つうじていないから　いみをりかいしたら　うつくしいとかんじるかもしれない』 | We don't understand what they're trying to convey. Maybe we would find them beautiful too if we could understand them. | ‘但这也是因为语言不通　如果理解了它的意思　或许就能感到美丽了’
+scn00_37_0079 | ココロ(Cocoro) | 「かもしれない、では困ります。明確な根拠を」 | "Maybe' means that this is merely speculation. Please substantiate your claims." | “‘或许’是不够的，请给出明确的根据”
+scn00_37_0080 | - | 『ひとは　いしのつうじないあいてを　おそろしいとかんじる』 | People are scared of the unknown—of things that they can't communicate with. | ‘人类　会对无法沟通的事物　感到恐惧’
+scn00_37_0081 | - | ロボットを排除しようとする人たちは、ロボットには心がなく、言葉を交わせないと思っている。恐がっているんだ。 | People in favor of the eradication of robots believe they have no soul and therefore could never come to a mutual understanding. That's why they're afraid. | 那些想要除掉机器人的人类们，也都认为机器人没有人心、无法交流，对它们感到恐惧。
+scn00_37_0082 | - | 『でも　もしこころがあると　しったらどうだろう』 | But what if robots do have souls? | ‘但是　如果知道它们有心　又会如何呢’
+scn00_37_0083 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_37_0084 | - | 『ひとは　ひとりだとさびしいから　だれかのこころを　しりたがる』 | People get lonely when they're on their own. That's why they want to know what's in the minds of others. | ‘人类独处时会感到寂寞　所以才会想去了解其他人的内心’
+scn00_37_0085 | - | 『だれかのこころに　ふれたとき　こうふくをかんじる』 | We feel happy when we're able to touch somebody's soul. | ‘触碰到他人内心的时候　就能感到幸福’
+scn00_37_0086 | - | 『だれかがこころに　ふれてくれたとき　つうじあえたきがして　こどくじゃなくなる』 | When souls connect, we stop feeling lonely. | ‘再被他人触碰到内心的时候　就能感到心意相通　就不再孤独了’
+scn00_37_0087 | - | 心が通じ合うという経験は、人にとって特別なものだ。 | Having a heart-to-heart is a very special experience. | 心意相通的经历，对人来说是十分特别的。
+scn00_37_0088 | - | ずっとずっと想い出に残り続けるような、得がたい体験。 | An unforgettable memory that will remain with you forever. | 这是会永远残留在回忆中的难得经历。
+scn00_37_0089 | - | だから人は―― | That's why people... | 所以人类才会——
+scn00_37_0090 | - | 『ひとは　こころがあるものを　とうとく　うつくしいとかんじる』 | People find value and beauty in everything that has a soul. | ‘人类才会对有心之物　感到高贵　感到美丽’
+scn00_37_0091 | ココロ(Cocoro) | 「花は植物の心。だからヒトは、花を見て美しいと感じる……」 | "Flowers are the souls of plants... That's why humans feel that flowers are beautiful..." | “花是植物的心，所以人类看到花才会感到美丽……”
+scn00_37_0092 | - | ロボットの研究に短い生涯を[ささ]捧げた母さんが、庭で花を育てていたのが、ずっと不思議だった。 | I always wondered why my mom, who devoted her short life to robotics research, was so fond of her garden. | 我一直都觉得，将短短的一生全部奉献在机器人研究上的母亲，会在院子里种花是件很不可思议的事。
+scn00_37_0093 | - | 植物の機能性に注目しているのだと思っていたが、そうじゃなかったんだと今なら分かる。 | I'd assumed she was mainly interested in the functions of plants, but now I realize that wasn't the whole story. | 以前我以为她是在观察植物的机能性，但现在我知道了其实并不是这样。
+scn00_37_0094 | - | 手を掛けて育てた植物が綺麗な花を咲かせた時、母さんはとても嬉しそうだった。 | She always looked so happy whenever the plants she'd raised with loving care began to bloom. | 在亲手培育的植物开出漂亮的花朵时，母亲看起来非常开心。
+scn00_37_0095 | - | \n\n\n\n\n\n\n\n――今年も綺麗なお花を咲かせてくれたのね、ありがとう。 | \n\n\n\n\n\n\n"You've given me such beautiful flowers again this year. Thank you so much." | \n\n\n\n\n\n\n\n“——今年也开出了漂亮的花呢，谢谢”
+scn00_37_0096 | - | 植物が応えてくれたように感じたからだろう。 | Perhaps she felt as if the plants were responding to her, trying to live up to her expectations. | 或许是感觉植物回应了她。
+scn00_37_0097 | - | 忙しい中、毎日、手間暇かけて世話をしていた。 | She took care of them every single day, no matter how busy she was. | 不管多忙，她每天都会花时间去照顾花。
+scn00_37_0098 | - | 母さんにとってそれらは、植物とのコミュニケーションだったんだ。 | For Mom, that was her way of communicating with the plants. | 对母亲来说这些都是和植物的交流。
+scn00_37_0099 | - | 『こころがあると　おもえるから　それをしろうと　いっしょうけんめいになる』 | When we think that something has a soul, we do our best to learn what's inside it. | ‘就是因为觉得你有人心　想要去了解你的内心　她才会这么拼命’
+scn00_37_0100 | - | 『こころがあるなら　いつかつうじあえるかもしれないと　おもえるから』 | Because if we believe in that soul, it means that we'll someday be able to communicate with it. | ‘因为她相信　既然你拥有人心　那么有朝一日便一定能和你心意相通’
+scn00_37_0101 | - | 『おれはいつも　きみのこころを　ことばやしぐさのなかに　さがしてた』 | I've always been looking for your soul in your words and actions. | ‘我一直都在从你的言语和行为之中　寻找着你的心’
+scn00_37_0102 | - | 人は他人と接する時、自然にそうしている。ココロと接する時も、無自覚にそれをやっていた。 | I think people do this naturally when communicating with others, so I must've done it subconsciously when talking with Cocoro. | 人类在和他人接触时，会很自然地这么做。和心接触的时候，也会下意识这么做。
+scn00_37_0103 | - | 『きみは　どうだった？』 | How about you? | ‘你呢？’
+scn00_37_0104 | ココロ(Cocoro) | 「ヒトを知る事がワタシの存在理由だったので、当然、つぶさに観察していました」 | "Studying humans was the reason for my existence, so of course I always observed them carefully." | “因为理解人类就是我存在的理由，所以我也当然会仔细观察人类”
+scn00_37_0105 | - | 『おれの　こころを　みてくれてたよね』 | You saw into my soul, didn't you? | ‘你看到　我的内心了吧’
+scn00_37_0106 | ココロ(Cocoro) | 「心は目に見えません」 | "Souls can't be seen." | “人心是无法用肉眼看到的”
+scn00_37_0107 | - | 『コーヒー　おいしかった』 | Your coffee was good. | ‘咖啡　很美味’
+scn00_37_0108 | - | 毎朝、ココロの淹れてくれたコーヒーを飲む俺を観察していたんだろう。 | She must have observed me every morning as I drank the coffee she made. | 每天早上，我喝她泡给我的咖啡时，她都会观察我吧。
+scn00_37_0109 | - | 俺の表情や仕草、声、態度に現れる心の欠片を拾い集めて、あの朝のコーヒーを淹れてくれた。 | She picked up on the pieces of my soul that showed in my facial expressions, gestures, voice, and demeanor. That's how she finally managed to make a cup that I enjoyed. | 收集着在我表情、动作、声音、态度之中出现的心灵碎片，才能泡出那天早上的咖啡。
+scn00_37_0110 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_37_0111 | - | 無表情だったココロの顔に、わずかな[ほころ]綻びが浮かんだように見えた。 | Her expressionless face seems to betray a hint of emotion—at least, that's what it looks like to me. | 心面无表情的脸上，隐约浮现出了一丝微笑。
+scn00_37_0112 | ココロ(Cocoro) | 「分かりました。ですが、分かりません」 | "Okay. But I still don't understand." | “我明白了，但是，我不明白”
+scn00_37_0113 | ココロ(Cocoro) | 「ワタシの心はどこにあるのですか？」 | "Where is my soul?" | “我的心在哪里？”
+scn00_37_0114 | - | 心はどこにあるのか？ | Where is the human soul located? | 心在哪里？
+scn00_37_0115 | - | 多くの研究者が挑み、未だにはっきりとした答えの出ない難問だ。俺なんかに答えられるはずもない。 | It's a difficult question that many great minds have tried to answer without success. | 这是众多研究者挑战过，但尚未得出确切答案的难题，我自然也不可能回答得出来。
+scn00_37_0116 | - | けどココロの心の在処だけは確信があった。 | But I'm fairly sure where Cocoro's is. | 但是，我十分清楚她的心在哪里。
+scn00_37_0117 | - | 俺はココロの左手を取る。 | I take hold of her left hand. | 我拉起心的左手。
+scn00_37_0118 | - | ずっと固く握られたままの手を。 | It's still clenched into a tight fist. | 拉起了她一直紧握着的手。
+scn00_37_0119 | - | 『きっとここにあるんじゃないかな』 | I think it's right here. | ‘肯定就在这里吧’
+scn00_37_0120 | ココロ(Cocoro) | 「エラー発生、エラー発生、エラー発生、エラー発生」 | "Error... Error... Error... Error..." | “发生错误，发生错误，发生错误，发生错误”

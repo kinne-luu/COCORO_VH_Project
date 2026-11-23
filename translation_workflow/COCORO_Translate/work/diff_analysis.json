@@ -1,0 +1,751 @@
+[
+  {
+    "id": "scn00_05_0001",
+    "speaker": "駆除隊(Extermination Squad Member)",
+    "jp": "「なんでこんなところに子どもがいる」",
+    "old": "\"Sao lại có trẻ con ở chỗ thế này?\"",
+    "new": "\"Sao lại có trẻ con ở chỗ này?\""
+  },
+  {
+    "id": "scn00_05_0002",
+    "speaker": "光太郎(Kotaro)",
+    "jp": "「子ども？　……って、おまえなんでここに！？」",
+    "old": "\"Trẻ con á? ...Ơ kìa, sao nhóc lại ở đây!?\"",
+    "new": "\"Trẻ con? ...Ơ kìa, sao nhóc lại ở đây!?\""
+  },
+  {
+    "id": "scn00_05_0003",
+    "speaker": "-",
+    "jp": "さっき街まで送ってくれた隊員だった。",
+    "old": "Là chú đội viên vừa nãy đã chở tôi về khu phố.",
+    "new": "Đó là chú đội viên vừa mới chở tôi về thị trấn lúc nãy."
+  },
+  {
+    "id": "scn00_05_0004",
+    "speaker": "ひなた(Hinata)",
+    "jp": "「この娘が迷子になって、それで……」",
+    "old": "\"Bạn này bị lạc đường, thế nên cháu...\"",
+    "new": "\"Bạn này bị lạc đường, nên cháu...\""
+  },
+  {
+    "id": "scn00_05_0005",
+    "speaker": "-",
+    "jp": "咄嗟に苦しい言い訳をする。",
+    "old": "Tôi buột miệng bịa đại một cái cớ đầy gượng gạo.",
+    "new": "Tôi buột miệng bịa ra một cái cớ đầy gượng gạo."
+  },
+  {
+    "id": "scn00_05_0007",
+    "speaker": "ひなた(Hinata)",
+    "jp": "（シッ、黙って）",
+    "old": "Suỵt, im lặng nào.",
+    "new": "Suỵt, im nào."
+  },
+  {
+    "id": "scn00_05_0009",
+    "speaker": "光太郎(Kotaro)",
+    "jp": "「……はい、子どもが２名。迷子のようです」",
+    "old": "\"...Vâng, có hai đứa trẻ. Hình như là bị lạc đường.\"",
+    "new": "\"...Vâng, có hai đứa trẻ. Có vẻ chúng bị lạc đường.\""
+  },
+  {
+    "id": "scn00_05_0011",
+    "speaker": "ひなた(Hinata)",
+    "jp": "（どうやらこの娘がロボットだって気付いてないらしい……）",
+    "old": "Có vẻ họ vẫn chưa nhận ra cô bé này là robot...",
+    "new": "Có vẻ như họ vẫn chưa nhận ra cô bé này là robot..."
+  },
+  {
+    "id": "scn00_05_0015",
+    "speaker": "光太郎(Kotaro)",
+    "jp": "「ちゃんと送りましたよ」",
+    "old": "\"Tôi chở về đàng hoàng rồi đấy chứ.\"",
+    "new": "\"Tôi chở về đàng hoàng rồi mà.\""
+  },
+  {
+    "id": "scn00_05_0016",
+    "speaker": "駆除隊隊長(Extermination Squad Leader)",
+    "jp": "「じゃあなんでこんなところにいる！」",
+    "old": "\"Thế sao giờ nó lại lù lù ở đây!\"",
+    "new": "\"Thế sao nó lại lù lù ở đây!\""
+  },
+  {
+    "id": "scn00_05_0017",
+    "speaker": "光太郎(Kotaro)",
+    "jp": "「知らないっすよぉ」",
+    "old": "\"Ai mà biết được chứ.\"",
+    "new": "\"Em biết thế nào được ạ.\""
+  },
+  {
+    "id": "scn00_05_0019",
+    "speaker": "駆除隊隊長(Extermination Squad Leader)",
+    "jp": "「……さてはおまえら、スカベンジャーか？　さっきも市街地でコソコソしてやがったしな。ここに盗みに入ったんだな」",
+    "old": "\"...À, hay chúng mày là lũ mót phế liệu hả? Nãy cũng lén la lén lút ở khu đô thị rồi. Lẻn vào đây để ăn trộm chứ gì.\"",
+    "new": "\"...À, hay chúng mày là lũ mót phế liệu hả? Lúc nãy cũng thấy lén la lén lút ở khu nội đô rồi. Mò vào đây để ăn trộm chứ gì.\""
+  },
+  {
+    "id": "scn00_05_0020",
+    "speaker": "駆除隊隊長(Extermination Squad Leader)",
+    "jp": "「まあいい。連れていけ。逃げないよう拘束して……」",
+    "old": "\"Thôi kệ. Áp giải chúng đi. Trói lại đừng để chạy thoát...\"",
+    "new": "\"Thôi kệ. Giải chúng đi. Trói lại cho khỏi chạy...\""
+  },
+  {
+    "id": "scn00_05_0021",
+    "speaker": "駆除隊隊長(Extermination Squad Leader)",
+    "jp": "「なんだ、どうした！」",
+    "old": "\"Cái gì thế, có chuyện gì!\"",
+    "new": "\"Cái gì, có chuyện gì thế!\""
+  },
+  {
+    "id": "scn00_05_0022",
+    "speaker": "駆除隊(Extermination Squad Member)",
+    "jp": "「奇襲を受け交戦中！　ミュータントドローンです！」",
+    "old": "\"Chúng tôi bị tập kích, đang giao chiến! Là Mutant Drone!\"",
+    "new": "\"Chúng ta bị tập kích, đang giao chiến! Là Mutant Drone!\""
+  },
+  {
+    "id": "scn00_05_0026",
+    "speaker": "ひなた(Hinata)",
+    "jp": "「あの連中は君を、あの銃で撃つためにここへ来たんだ。緊急事態だって分かったろう？」",
+    "old": "\"Mấy người đó đến đây để dùng súng bắn cậu đấy. Cậu cũng hiểu đây là tình huống khẩn cấp mà, phải không?\"",
+    "new": "\"Mấy người đó đến đây để dùng súng bắn cậu đấy. Cậu cũng hiểu đây là tình huống khẩn cấp rồi phải không?\""
+  },
+  {
+    "id": "scn00_05_0029",
+    "speaker": "-",
+    "jp": "少女型ヒューマノイドの細い手首を引くが、見た目に反して力が強くびくともしない。",
+    "old": "Tôi nắm lấy cổ tay mảnh khảnh của cô bé humanoid kéo đi, nhưng trái hẳn với vẻ bề ngoài, lực của cô bé mạnh đến mức chẳng hề suy suyển.",
+    "new": "Tôi nắm lấy cổ tay mảnh khảnh của cô bé humanoid kéo đi, nhưng trái hẳn với vẻ bề ngoài, lực của cậu ấy mạnh đến mức không hề nhúc nhích."
+  },
+  {
+    "id": "scn00_05_0032",
+    "speaker": "不思議な少女(Mysterious Girl)",
+    "jp": "「ですが、ここが危険である事は理解しました。あなたは[すみ]速やかに避難してください」",
+    "old": "\"Tuy nhiên, tôi đã hiểu nơi này rất nguy hiểm. Xin cậu hãy nhanh chóng sơ tán đi.\"",
+    "new": "\"Tuy nhiên, tôi đã hiểu nơi này rất nguy hiểm. Xin cậu hãy mau chóng sơ tán đi.\""
+  },
+  {
+    "id": "scn00_05_0034",
+    "speaker": "ひなた(Hinata)",
+    "jp": "（……所詮はロボットだ。駆除されても、何も感じやしない）",
+    "old": "...Suy cho cùng cũng chỉ là robot. Dù có bị tiêu trừ thì cũng chẳng cảm thấy gì đâu.",
+    "new": "...Suy cho cùng cậu ấy cũng chỉ là robot. Dù có bị tiêu trừ thì cũng chẳng cảm thấy gì đâu."
+  },
+  {
+    "id": "scn00_05_0035",
+    "speaker": "-",
+    "jp": "こんな場所まで来て、必死に守ろうとしていた自分がバカみたいだった。",
+    "old": "Lặn lội đến tận nơi thế này rồi liều mạng tìm cách bảo vệ cô bé, tự dưng tôi thấy mình thật ngu ngốc.",
+    "new": "Lặn lội đến tận nơi này rồi liều mạng tìm cách bảo vệ cậu ấy, tự dưng tôi thấy mình thật giống một thằng ngốc."
+  },
+  {
+    "id": "scn00_05_0037",
+    "speaker": "-",
+    "jp": "しかし、巨大な影が樹木を薙ぎ倒しながら現れて、通路を塞いでしまった。",
+    "old": "Thế nhưng, một bóng đen khổng lồ đã quật ngã cây cối rồi lao ra, chặn đứng cả lối đi.",
+    "new": "Thế nhưng, một bóng đen khổng lồ bỗng càn quét qua hàng cây rồi xuất hiện, chắn ngang lối đi mất rồi."
+  },
+  {
+    "id": "scn00_05_0039",
+    "speaker": "-",
+    "jp": "ユートピア構想の心臓部だったこの島は、最先端の警備ロボットによって守られていた。",
+    "old": "Hòn đảo từng là trái tim của Dự án Utopia này vốn được canh giữ bởi những cỗ robot bảo vệ tân tiến nhất.",
+    "new": "Hòn đảo từng là trái tim của Dự án Utopia này vốn được canh giữ bởi những cỗ robot bảo vệ tối tân nhất."
+  },
+  {
+    "id": "scn00_05_0040",
+    "speaker": "-",
+    "jp": "火器こそ装備していないものの、軍用ドローンにも引けを取らない頑強で俊敏性を備えた戦闘ロボットだ。",
+    "old": "Dù không được trang bị hỏa lực, nhưng chúng là những robot chiến đấu sở hữu sự kiên cố và linh hoạt chẳng hề kém cạnh drone quân sự.",
+    "new": "Dù không được trang bị hỏa lực, nhưng chúng là những robot chiến đấu kiên cố và nhanh nhạy không hề kém cạnh drone quân sự."
+  },
+  {
+    "id": "scn00_05_0041",
+    "speaker": "-",
+    "jp": "その性質上、対ロボット兵器への耐性が高い。防弾、防爆の他、電撃などへの対策も[ほどこ]施されていたはず。そのせいで、駆除隊が手こずっている。",
+    "old": "Do đặc tính đó, chúng có sức kháng cự rất cao trước các loại vũ khí chống robot. Ngoài khả năng chống đạn và chống nổ, chắc hẳn chúng còn được trang bị cả biện pháp chống điện giật. Cũng bởi vậy mà Đội Tiêu Trừ mới chật vật đến thế.",
+    "new": "Do đặc thù nhiệm vụ, chúng có khả năng kháng vũ khí chống robot rất cao. Ngoài chống đạn và chống nổ, chắc chắn chúng còn được trang bị cả biện pháp chống điện giật. Cũng vì thế mà Đội Tiêu Trừ đang phải chật vật xoay xở."
+  },
+  {
+    "id": "scn00_05_0042",
+    "speaker": "ひなた(Hinata)",
+    "jp": "「『厄災』から４年も経ってるのに、なんでまだ動いてるんだ……」",
+    "old": "\"Đã 4 năm trôi qua kể từ 'Ách Tai' rồi, sao nó vẫn còn hoạt động được chứ...\"",
+    "new": "\"Đã 4 năm trôi qua kể từ Ách Tai rồi, sao nó vẫn còn hoạt động được chứ...\""
+  },
+  {
+    "id": "scn00_05_0043",
+    "speaker": "不思議な少女(Mysterious Girl)",
+    "jp": "「地下に充電施設があります。発電所が稼動していますから、充電可能です」",
+    "old": "\"Dưới tầng hầm có trạm sạc điện. Nhà máy phát điện vẫn đang vận hành nên chúng có thể nạp lại năng lượng.\"",
+    "new": "\"Dưới tầng ngầm có trạm sạc. Nhà máy phát điện vẫn đang vận hành nên chúng hoàn toàn có thể nạp lại năng lượng.\""
+  },
+  {
+    "id": "scn00_05_0044",
+    "speaker": "-",
+    "jp": "セントラルは外界から完全に孤立してもいいよう設備が整えられている。",
+    "old": "Khu Trung Tâm được trang bị đầy đủ cơ sở vật chất để có thể tự cung tự cấp ngay cả khi bị cô lập hoàn toàn với thế giới bên ngoài.",
+    "new": "Khu Trung Tâm được trang bị cơ sở vật chất đầy đủ để có thể tự cung tự cấp ngay cả khi bị cô lập hoàn toàn với thế giới bên ngoài."
+  },
+  {
+    "id": "scn00_05_0045",
+    "speaker": "-",
+    "jp": "屋上のソーラーパネルの他、確か地下にも潮汐発電所があったはずだが、どうやら現役でまだ稼動しているらしい。",
+    "old": "Ngoài các tấm pin mặt trời trên sân thượng, nhớ không lầm thì dưới lòng đất còn có một nhà máy điện thủy triều, xem chừng đến giờ nó vẫn đang hoạt động tốt.",
+    "new": "Ngoài hệ thống pin mặt trời trên sân thượng, nếu nhớ không nhầm thì dưới lòng đất còn có cả một nhà máy điện thủy triều, và có vẻ như nó vẫn đang hoạt động tốt."
+  },
+  {
+    "id": "scn00_05_0047",
+    "speaker": "-",
+    "jp": "島が隔離されている理由も[うなづ]頷ける。",
+    "old": "Thảo nào hòn đảo này lại bị phong tỏa cách ly.",
+    "new": "Thế thì cũng dễ hiểu tại sao hòn đảo này lại bị phong tỏa."
+  },
+  {
+    "id": "scn00_05_0048",
+    "speaker": "駆除隊隊長(Extermination Squad Leader)",
+    "jp": "「なんとかして足を止めろ！！！」",
+    "old": "\"Bằng mọi giá phải cầm chân nó lại!!!\"",
+    "new": "\"Bằng mọi giá phải chặn bước tiến của nó lại!!!\""
+  },
+  {
+    "id": "scn00_05_0049",
+    "speaker": "-",
+    "jp": "警備ロボットに振り回され、駆除隊がこちらへ展開してくる。",
+    "old": "Bị cỗ robot bảo vệ quần cho tơi tả, Đội Tiêu Trừ bắt đầu dạt dần về phía chúng tôi.",
+    "new": "Bị cỗ robot bảo vệ quần cho tơi tả, Đội Tiêu Trừ bắt đầu dạt về phía chúng tôi."
+  },
+  {
+    "id": "scn00_05_0050",
+    "speaker": "-",
+    "jp": "そいつらが、ナツノシラユキの植えられた花壇を踏み荒らそうとした。",
+    "old": "Đám người đó sắp sửa giẫm nát luống hoa trồng Tuyết Trắng Mùa Hạ.",
+    "new": "Đám người đó sắp sửa giẫm đạp lên bồn hoa trồng Tuyết Trắng Mùa Hạ."
+  },
+  {
+    "id": "scn00_05_0052",
+    "speaker": "-",
+    "jp": "少女が咄嗟に花を[かば]庇う。",
+    "old": "Cô bé tức tốc lao ra che chắn cho những bông hoa.",
+    "new": "Cô bé lập tức lao ra che chở cho những bông hoa."
+  },
+  {
+    "id": "scn00_05_0055",
+    "speaker": "-",
+    "jp": "突き飛ばされ、倒れる少女。",
+    "old": "Bị xô mạnh, cô bé ngã lăn ra đất.",
+    "new": "Bị xô mạnh ra, cô bé ngã xuống đất."
+  },
+  {
+    "id": "scn00_05_0056",
+    "speaker": "-",
+    "jp": "しかし、花を守る事はできた。",
+    "old": "Thế nhưng, cô bé đã bảo vệ được luống hoa.",
+    "new": "Thế nhưng, cậu ấy đã bảo vệ được bồn hoa."
+  },
+  {
+    "id": "scn00_05_0060",
+    "speaker": "-",
+    "jp": "暴れた警備ロボットが、ドーム壁面の鉄骨に激突し、激しい地響きが起こった。",
+    "old": "Cỗ robot bảo vệ điên cuồng đâm sầm vào khung thép trên vách mái vòm, tạo nên một cơn chấn động dữ dội.",
+    "new": "Cỗ robot bảo vệ điên cuồng đâm sầm vào khung thép trên vách mái vòm, tạo nên một chấn động dữ dội."
+  },
+  {
+    "id": "scn00_05_0061",
+    "speaker": "-",
+    "jp": "衝撃で天井のガラスが割れて落ちてくる。",
+    "old": "Dư chấn khiến lớp kính trên trần vỡ toác rồi trút xuống.",
+    "new": "Cú va chạm làm kính trên trần vỡ toác rồi rơi ập xuống."
+  },
+  {
+    "id": "scn00_05_0063",
+    "speaker": "-",
+    "jp": "考えるより先に、彼女に[おお]覆い被さっていた。",
+    "old": "Trước cả khi kịp suy nghĩ, tôi đã lao tới lấy thân mình che cho cô bé.",
+    "new": "Trước cả khi kịp suy nghĩ, tôi đã lao tới lấy thân mình che phủ cho cậu ấy."
+  },
+  {
+    "id": "scn00_05_0064",
+    "speaker": "-",
+    "jp": "額に[にぶ]鈍い痛みが走る。",
+    "old": "Một cơn đau âm ỉ chạy dọc qua trán.",
+    "new": "Một cơn đau âm ỉ chạy dọc qua trán tôi."
+  },
+  {
+    "id": "scn00_05_0066",
+    "speaker": "-",
+    "jp": "いや、血は出ていない。",
+    "old": "Không, chẳng hề có máu.",
+    "new": "Không, chẳng có giọt máu nào chảy ra cả."
+  },
+  {
+    "id": "scn00_05_0067",
+    "speaker": "-",
+    "jp": "あの日――『厄災』の夜、俺はここにいた。",
+    "old": "Ngày hôm đó... vào đêm xảy ra 'Ách Tai', tôi cũng đã ở nơi này.",
+    "new": "Ngày hôm đó... vào đêm xảy ra Ách Tai, tôi cũng đã ở nơi này."
+  },
+  {
+    "id": "scn00_05_0068",
+    "speaker": "-",
+    "jp": "そして、今と同じように降ってきたガラスを額に受けて、血を流して気を失った。",
+    "old": "Và rồi, những mảnh kính rơi xuống giống hệt như lúc này đã cứa vào trán khiến tôi chảy máu rồi ngất đi.",
+    "new": "Và rồi, cũng giống hệt như lúc này, trán tôi đã hứng trọn những mảnh kính rơi xuống, máu chảy đầm đìa đến mức ngất lịm đi."
+  },
+  {
+    "id": "scn00_05_0069",
+    "speaker": "-",
+    "jp": "恐ろしい夜の記憶が、痛みを伴ってフラッシュバックしたのだ。",
+    "old": "Ký ức về đêm kinh hoàng ấy vừa ùa về cùng với cảm giác đau đớn.",
+    "new": "Ký ức về đêm kinh hoàng ấy vừa ùa về cùng với cảm giác đau đớn hệt như thật."
+  },
+  {
+    "id": "scn00_05_0070",
+    "speaker": "ひなた(Hinata)",
+    "jp": "「どこも……切ってない？」",
+    "old": "\"Cậu... có bị đứt ở đâu không?\"",
+    "new": "\"Cậu có... bị đứt ở đâu không?\""
+  },
+  {
+    "id": "scn00_05_0072",
+    "speaker": "-",
+    "jp": "少女が、自分に覆い被さった俺を、不思議そうに見つめていた。",
+    "old": "Cô bé cứ ngơ ngác nhìn tôi đang lấy thân mình che chắn phía trên.",
+    "new": "Cô bé cứ thế ngước nhìn tôi đang nằm đè lên che chở cho mình bằng ánh mắt đầy vẻ kỳ lạ."
+  },
+  {
+    "id": "scn00_05_0073",
+    "speaker": "-",
+    "jp": "再び警備ロボットが壁に衝突する。",
+    "old": "Cỗ robot bảo vệ lại đâm sầm vào tường lần nữa.",
+    "new": "Cỗ robot bảo vệ lại một lần nữa húc mạnh vào tường."
+  },
+  {
+    "id": "scn00_05_0074",
+    "speaker": "-",
+    "jp": "ひびの入ったガラスドームから、また破片が降ってきた。",
+    "old": "Từ mái vòm kính đã rạn nứt, hàng loạt mảnh vỡ lại tiếp tục trút xuống.",
+    "new": "Từ mái vòm kính đã rạn nứt, những mảnh vỡ lại tiếp tục trút xuống."
+  },
+  {
+    "id": "scn00_05_0075",
+    "speaker": "-",
+    "jp": "今度こそ、それは俺の頭上めがけて落下してくる。",
+    "old": "Lần này, chúng rơi thẳng xuống ngay đỉnh đầu tôi.",
+    "new": "Lần này, chúng thực sự rơi thẳng xuống ngay trên đỉnh đầu tôi."
+  },
+  {
+    "id": "scn00_05_0076",
+    "speaker": "ひなた(Hinata)",
+    "jp": "（避けられないッ）",
+    "old": "Không tránh kịp mất!",
+    "new": "Không né kịp mất!"
+  },
+  {
+    "id": "scn00_05_0077",
+    "speaker": "-",
+    "jp": "避ければ、この娘に当たる。",
+    "old": "Mà nếu tôi né ra thì cô bé này sẽ lãnh đủ.",
+    "new": "Mà nếu tôi né ra thì sẽ rơi trúng cô bé này."
+  },
+  {
+    "id": "scn00_05_0079",
+    "speaker": "-",
+    "jp": "少女は俺の頭を抱え込むと、体勢を入れ替えて降ってくるガラスをその背中に受けた。",
+    "old": "Cô bé ôm ghì lấy đầu tôi, xoay người đổi tư thế rồi dùng tấm lưng mình hứng trọn cơn mưa mảnh kính đang rơi xuống.",
+    "new": "Cô bé ôm ghì lấy đầu tôi, xoay người đổi tư thế rồi dùng chính tấm lưng mình hứng trọn cơn mưa mảnh kính đang trút xuống."
+  },
+  {
+    "id": "scn00_05_0081",
+    "speaker": "不思議な少女(Mysterious Girl)",
+    "jp": "「さっきは、ワタシを守ってくださったのですか？」",
+    "old": "\"Vừa nãy, cậu đã bảo vệ tôi đấy ạ?\"",
+    "new": "\"Lúc nãy, cậu đã bảo vệ tôi đúng không?\""
+  },
+  {
+    "id": "scn00_05_0082",
+    "speaker": "-",
+    "jp": "少女は俺の頭を抱きかかえたまま尋ねた。",
+    "old": "Cô bé vẫn ôm chặt lấy đầu tôi mà hỏi.",
+    "new": "Cô bé vẫn giữ nguyên tư thế ôm chặt lấy đầu tôi mà hỏi."
+  },
+  {
+    "id": "scn00_05_0084",
+    "speaker": "不思議な少女(Mysterious Girl)",
+    "jp": "「……ワタシはヒトですが、この程度なんともありませんのに」",
+    "old": "\"...Tuy tôi là con người, nhưng cỡ này thì có nhằm nhò gì đâu chứ.\"",
+    "new": "\"...Tuy tôi là con người, nhưng chút va chạm cỡ này chẳng nhằm nhò gì với tôi đâu.\""
+  },
+  {
+    "id": "scn00_05_0085",
+    "speaker": "-",
+    "jp": "そう言って、背中に受けたガラスの破片を、[ほこり]埃でも付いていたように払い落とした。",
+    "old": "Nói rồi, cô bé phủi những mảnh kính vỡ trên lưng xuống nhẹ tênh như thể chỉ đang phủi bụi.",
+    "new": "Nói rồi, cậu ấy phủi những mảnh kính vỡ vương trên lưng xuống nhẹ tênh như thể chỉ đang phủi bụi."
+  },
+  {
+    "id": "scn00_05_0087",
+    "speaker": "-",
+    "jp": "ぬくもりの中に、懐かしい匂いを感じた。",
+    "old": "Giữa hơi ấm ấy, tôi cảm nhận được một mùi hương thân thuộc.",
+    "new": "Giữa hơi ấm ấy, tôi chợt cảm nhận được một mùi hương vô cùng thân thuộc."
+  },
+  {
+    "id": "scn00_05_0088",
+    "speaker": "-",
+    "jp": "\\n\\n\\n\\n\\n\\n\\n\\n『少しでいいんで、頭を撫でてもらえませんか』",
+    "old": "\\n\\n\\n\\n\\n\\n\\n\\n<Một chút thôi cũng được, chị xoa đầu em được không ạ?>",
+    "new": "\\n\\n\\n\\n\\n\\n\\n\\n<Một chút thôi cũng được, chị có thể xoa đầu em được không ạ?>"
+  },
+  {
+    "id": "scn00_05_0090",
+    "speaker": "-",
+    "jp": "すると、抱きしめてくれた。",
+    "old": "Và thế là, người ấy đã ôm tôi vào lòng.",
+    "new": "Và rồi, người ấy đã ôm tôi vào lòng."
+  },
+  {
+    "id": "scn00_05_0091",
+    "speaker": "-",
+    "jp": "――優しく撫でてあげると、大きく立派な花が咲くと聞いた事があります。",
+    "old": "...Tôi từng nghe nói rằng, nếu được vuốt ve dịu dàng thì sẽ nở ra một bông hoa thật to và đẹp.",
+    "new": "...Chị từng nghe nói rằng nếu dịu dàng vuốt ve chúng, hoa sẽ nở thật to và thật đẹp đấy."
+  },
+  {
+    "id": "scn00_05_0092",
+    "speaker": "-",
+    "jp": "誰かのぬくもりが開花の条件だったように、つぼみのまま枯れていくはずだった俺が、あの日、再び自分の声を発した。",
+    "old": "Tựa như hơi ấm của một ai đó chính là điều kiện để đơm hoa, một kẻ đáng lẽ đã héo tàn khi còn là nụ hoa chưa nở như tôi, vào ngày hôm ấy, đã có thể cất lên tiếng nói của mình một lần nữa.",
+    "new": "Cứ như thể hơi ấm của một ai đó chính là điều kiện để đơm hoa, một đứa trẻ ngỡ đã héo tàn khi còn chưa kịp hé nụ như tôi, vào ngày hôm ấy, đã có thể cất lên tiếng nói của mình một lần nữa."
+  },
+  {
+    "id": "scn00_05_0093",
+    "speaker": "ひなた(Hinata)",
+    "jp": "「……ここが危険なのはもう分かったろう？　だからお願いだ。一緒に逃げよう」",
+    "old": "\"...Cậu đã thấy nơi này nguy hiểm thế nào rồi chứ? Vậy nên làm ơn đi. Hãy trốn khỏi đây cùng tôi.\"",
+    "new": "\"...Giờ thì cậu đã thấy nơi này nguy hiểm thế nào rồi chứ? Thế nên làm ơn đi. Cùng trốn khỏi đây với tôi nhé.\""
+  },
+  {
+    "id": "scn00_05_0094",
+    "speaker": "ひなた(Hinata)",
+    "jp": "「緊急時の自己防衛なら、平常時の命令は無視できるはず」",
+    "old": "\"Nếu là để tự vệ trong tình huống khẩn cấp, cậu hoàn toàn có thể bỏ qua mệnh lệnh thông thường mà.\"",
+    "new": "\"Nếu là để tự vệ trong tình huống khẩn cấp, cậu hoàn toàn có thể bỏ qua các mệnh lệnh thông thường mà.\""
+  },
+  {
+    "id": "scn00_05_0096",
+    "speaker": "-",
+    "jp": "少女型ヒューマノイドは、一瞬考え込んで言葉を探す。",
+    "old": "Cô bé humanoid trầm ngâm một thoáng như để tìm từ ngữ diễn đạt.",
+    "new": "Cô bé humanoid trầm ngâm một thoáng như để tìm từ ngữ thích hợp."
+  },
+  {
+    "id": "scn00_05_0097",
+    "speaker": "不思議な少女(Mysterious Girl)",
+    "jp": "「……ですがワタシは、ここにいたいんです」",
+    "old": "\"...Thế nhưng, tôi muốn ở lại nơi này.\"",
+    "new": "\"...Thế nhưng tôi muốn ở lại nơi này.\""
+  },
+  {
+    "id": "scn00_05_0099",
+    "speaker": "-",
+    "jp": "まるで感情から発せられたような言葉選びだ。",
+    "old": "Cách dùng từ nghe chẳng khác nào xuất phát từ cảm xúc thật sự.",
+    "new": "Cách dùng từ nghe cứ như thể được xuất phát từ cảm xúc thật sự vậy."
+  },
+  {
+    "id": "scn00_05_0100",
+    "speaker": "ひなた(Hinata)",
+    "jp": "「どうして？」",
+    "old": "\"Tại sao chứ?\"",
+    "new": "\"Tại sao?\""
+  },
+  {
+    "id": "scn00_05_0102",
+    "speaker": "不思議な少女(Mysterious Girl)",
+    "jp": "「ワタシ、こう見えてフィアンセがいるんです」",
+    "old": "\"Trông tôi thế này thôi chứ đã có vị hôn phu rồi đấy nhé.\"",
+    "new": "\"Tuy nhìn tôi thế này thôi, chứ tôi đã có vị hôn phu rồi đấy.\""
+  },
+  {
+    "id": "scn00_05_0103",
+    "speaker": "-",
+    "jp": "少女がどこか得意げに言う。",
+    "old": "Cô bé nói với vẻ có chút tự hào.",
+    "new": "Cô bé nói với giọng điệu có phần tự hào."
+  },
+  {
+    "id": "scn00_05_0104",
+    "speaker": "不思議な少女(Mysterious Girl)",
+    "jp": "「フィアンセがいるのだから、それはワタシがヒトであるという裏付けに他ならないわけですが」",
+    "old": "\"Việc có vị hôn phu chính là bằng chứng không thể chối cãi cho thấy tôi là con người.\"",
+    "new": "\"Việc có vị hôn phu chính là bằng chứng không thể chối cãi chứng minh tôi là con người.\""
+  },
+  {
+    "id": "scn00_05_0105",
+    "speaker": "不思議な少女(Mysterious Girl)",
+    "jp": "「そのヒトが、あの花が咲いたら見に来てくれるんです」",
+    "old": "\"Người ấy đã hứa khi nào loài hoa kia nở sẽ đến đây ngắm cùng tôi.\"",
+    "new": "\"Người ấy đã hứa rằng khi nào loài hoa kia nở sẽ đến đây ngắm cùng tôi.\""
+  },
+  {
+    "id": "scn00_05_0106",
+    "speaker": "不思議な少女(Mysterious Girl)",
+    "jp": "「だからワタシはここで待ちたいのです」",
+    "old": "\"Vậy nên tôi muốn ở lại đây chờ người ấy.\"",
+    "new": "\"Vậy nên tôi muốn ở lại đây để chờ đợi.\""
+  },
+  {
+    "id": "scn00_05_0107",
+    "speaker": "憧れのお姉さん(Dream Girl)",
+    "jp": "『……もし、また逢えたら。結婚してください』",
+    "old": "<...Nếu có thể gặp lại nhau, hãy kết hôn với em nhé.>",
+    "new": "<...Nếu như chúng ta có thể gặp lại nhau. Chị hãy cưới em nhé.>"
+  },
+  {
+    "id": "scn00_05_0109",
+    "speaker": "-",
+    "jp": "俺の姿を見ても、声を聞いても、まるで反応がなかった。",
+    "old": "Dù nhìn thấy dáng vẻ của tôi hay nghe giọng nói của tôi, cô bé cũng chẳng hề có chút phản ứng nào.",
+    "new": "Dù có nhìn thấy dáng vẻ của tôi hay nghe thấy giọng tôi, cậu ấy cũng chẳng hề có chút phản ứng nào."
+  },
+  {
+    "id": "scn00_05_0110",
+    "speaker": "-",
+    "jp": "覚えていないのかと思っていた……。",
+    "old": "Nên tôi cứ ngỡ cô bé đã quên mất rồi...",
+    "new": "Nên tôi cứ ngỡ là cậu ấy đã quên mất rồi..."
+  },
+  {
+    "id": "scn00_05_0111",
+    "speaker": "-",
+    "jp": "約束は覚えててくれた。",
+    "old": "Nhưng cô bé vẫn nhớ lời hứa ấy.",
+    "new": "Nhưng lời hứa năm xưa thì cậu ấy vẫn nhớ."
+  },
+  {
+    "id": "scn00_05_0112",
+    "speaker": "-",
+    "jp": "そして、誰も訪れる事のない植物園で、毎夜ナツノシラユキが咲くのを見守りながら待っていてくれたんだ。",
+    "old": "Và rồi, tại khu vườn bách thảo chẳng còn bóng người lui tới này, đêm nào cô bé cũng dõi theo những đóa Tuyết Trắng Mùa Hạ chờ ngày hoa nở, chờ đợi tôi.",
+    "new": "Và rồi, trong khu vườn bách thảo chẳng còn bóng người lui tới này, hằng đêm cậu ấy vẫn luôn dõi theo từng nụ hoa Tuyết Trắng Mùa Hạ và chờ đợi tôi."
+  },
+  {
+    "id": "scn00_05_0113",
+    "speaker": "ひなた(Hinata)",
+    "jp": "「じゃあやっぱり、ここを出よう。じゃないと待つ事もできなくなる。それが今できる最も合理的な判断だ」",
+    "old": "\"Vậy thì chúng ta lại càng phải rời khỏi đây. Nếu không thì ngay cả việc chờ đợi cậu cũng chẳng thể làm tiếp được đâu. Đó là phán đoán hợp lý nhất vào lúc này đấy.\"",
+    "new": "\"Vậy thì chúng ta lại càng phải rời khỏi đây thôi. Nếu không thì đến cả việc chờ đợi cậu cũng chẳng thể làm được nữa đâu. Đó là phán đoán hợp lý nhất ngay lúc này đấy.\""
+  },
+  {
+    "id": "scn00_05_0114",
+    "speaker": "不思議な少女(Mysterious Girl)",
+    "jp": "「……論破されてしまいました。従わざるを[え]得ません」",
+    "old": "\"...Tôi đã bị thuyết phục hoàn toàn. Đành phải nghe theo cậu vậy.\"",
+    "new": "\"...Tôi đã bị thuyết phục hoàn toàn. Đành phải tuân theo thôi.\""
+  },
+  {
+    "id": "scn00_05_0115",
+    "speaker": "不思議な少女(Mysterious Girl)",
+    "jp": "「状況をエマージェンシーと認定、対応に当たります」",
+    "old": "\"Xác nhận tình trạng hiện tại là khẩn cấp, tiến hành biện pháp ứng phó.\"",
+    "new": "\"Xác nhận tình huống hiện tại là khẩn cấp, tiến hành biện pháp ứng phó.\""
+  },
+  {
+    "id": "scn00_05_0117",
+    "speaker": "不思議な少女(Mysterious Girl)",
+    "jp": "「さしあたって、臨時のマスター権限をあなたに付与します。ワタシの保護をお願いしてもよろしいでしょうか」",
+    "old": "\"Trước mắt, tôi sẽ cấp quyền Master tạm thời cho cậu. Tôi có thể nhờ cậu bảo vệ mình được không?\"",
+    "new": "\"Trước mắt, tôi xin cấp quyền Chủ nhân tạm thời cho cậu. Tôi có thể nhờ cậu bảo hộ cho mình được không?\""
+  },
+  {
+    "id": "scn00_05_0118",
+    "speaker": "ひなた(Hinata)",
+    "jp": "「つまり、一緒に逃げてくれるんだね」",
+    "old": "\"Tức là cậu chịu trốn đi cùng tôi rồi phải không?\"",
+    "new": "\"Nói cách khác là cậu chịu cùng tôi chạy trốn rồi phải không.\""
+  },
+  {
+    "id": "scn00_05_0120",
+    "speaker": "ひなた(Hinata)",
+    "jp": "「よし、じゃあッ」",
+    "old": "\"Được, đi thôi!\"",
+    "new": "\"Được, vậy thì đi...\""
+  },
+  {
+    "id": "scn00_05_0121",
+    "speaker": "-",
+    "jp": "勢いよく言ったはいいが、現状はまさにエマージェンシー。暴走する警備ロボットが逃げ道を塞ぎ、駆除隊と戦闘を行っている。",
+    "old": "Hăng hái hô lên là thế, nhưng tình hình hiện tại đúng nghĩa là ngàn cân treo sợi tóc. Cỗ robot bảo vệ nổi điên đang chặn kín đường lui và giao chiến ác liệt với Đội Tiêu Trừ.",
+    "new": "Hăng hái hô lên thế thôi, chứ tình hình hiện tại đúng là nguy cấp thật sự. Cỗ robot bảo vệ mất kiểm soát đang chắn ngang lối thoát và giao chiến ác liệt với Đội Tiêu Trừ."
+  },
+  {
+    "id": "scn00_05_0122",
+    "speaker": "ひなた(Hinata)",
+    "jp": "「あれをどうにかしないと逃げられない」",
+    "old": "\"Không xử lý thứ đó trước thì chẳng thoát ra được mất.\"",
+    "new": "\"Không giải quyết thứ đó trước thì chẳng thể nào thoát ra được.\""
+  },
+  {
+    "id": "scn00_05_0126",
+    "speaker": "-",
+    "jp": "セントラルの警備ロボットの仕様は把握していたはず。なぜこうも手こずっているのか。",
+    "old": "Đáng lẽ họ phải nắm rõ thông số kỹ thuật của robot bảo vệ ở Khu Trung Tâm rồi mới phải. Sao lại chật vật đến mức này chứ?",
+    "new": "Đáng lẽ họ phải nắm rõ thông số kỹ thuật của robot bảo vệ ở Khu Trung Tâm rồi mới phải. Tại sao lại chật vật đến mức này chứ?"
+  },
+  {
+    "id": "scn00_05_0127",
+    "speaker": "光太郎(Kotaro)",
+    "jp": "「なるべく破壊せずに回収しろというのが主任からの命令だ。だがああも暴れられては手が付けられん」",
+    "old": "\"Lệnh của Chủ nhiệm là cố gắng thu hồi mà không phá hủy nó. Nhưng nó cứ lồng lộn lên thế kia thì bó tay không khống chế nổi.\"",
+    "new": "\"Lệnh của Chủ nhiệm là cố gắng thu hồi mà không phá hủy nó. Nhưng nó cứ nổi điên cỡ đó thì chẳng ai khống chế nổi.\""
+  },
+  {
+    "id": "scn00_05_0128",
+    "speaker": "-",
+    "jp": "なるほど、サンプルとして生きたまま回収したいのか。",
+    "old": "Ra vậy, dì ấy muốn bắt sống nó để làm mẫu vật nghiên cứu sao.",
+    "new": "Ra là vậy, dì ấy muốn bắt sống nó đem về làm mẫu vật nghiên cứu sao."
+  },
+  {
+    "id": "scn00_05_0129",
+    "speaker": "ひなた(Hinata)",
+    "jp": "「それに装填してるのは何ですか？」",
+    "old": "\"Thứ chú đang nạp vào súng kia là đạn gì thế ạ?\"",
+    "new": "\"Thứ chú đang nạp vào khẩu súng kia là gì thế ạ?\""
+  },
+  {
+    "id": "scn00_05_0130",
+    "speaker": "-",
+    "jp": "駆除隊の装備にはいくつか種類があるようだが、彼がグレネードランチャーに装弾しているのは、見たところ非致死性の弾だろう。",
+    "old": "Trang bị của Đội Tiêu Trừ có vẻ khá đa dạng, nhưng thứ chú ấy vừa nạp vào súng phóng lựu trông có vẻ là đạn phi sát thương.",
+    "new": "Trang bị của Đội Tiêu Trừ có vẻ khá đa dạng, nhưng thứ chú ấy đang nạp vào súng phóng lựu nhìn qua thì có lẽ là đạn phi sát thương."
+  },
+  {
+    "id": "scn00_05_0131",
+    "speaker": "光太郎(Kotaro)",
+    "jp": "「こいつはワイヤーネット弾だ。だが動きが激しくて狙いが定まらない。それに、ネットを被せただけじゃ、あいつは止まらんだろ！」",
+    "old": "\"Đây là đạn lưới cáp. Nhưng nó di chuyển loạn xạ quá không tài nào ngắm chuẩn được. Với cả, chỉ chụp mỗi tấm lưới lên thì làm sao cản nổi thứ đó chứ!\"",
+    "new": "\"Đây là đạn lưới cáp. Nhưng nó di chuyển dữ quá nên không tài nào ngắm chuẩn được. Với lại, chỉ trùm lưới lên thôi thì cũng đâu cản nổi cái thứ kia!\""
+  },
+  {
+    "id": "scn00_05_0132",
+    "speaker": "ひなた(Hinata)",
+    "jp": "「なるほど、確かに」",
+    "old": "\"Ra thế, đúng thật.\"",
+    "new": "\"Ra thế, đúng là vậy thật.\""
+  },
+  {
+    "id": "scn00_05_0133",
+    "speaker": "-",
+    "jp": "なら、やはり動きを止める必要があるだろう。",
+    "old": "Vậy thì quả nhiên phải tìm cách khóa chặt chuyển động của nó.",
+    "new": "Vậy thì quả nhiên vẫn phải tìm cách khóa chặt chuyển động của nó."
+  },
+  {
+    "id": "scn00_05_0135",
+    "speaker": "ひなた(Hinata)",
+    "jp": "「それをあいつの足元に撃ってもらえませんか？　そうしたら、俺があいつを止めます」",
+    "old": "\"Chú bắn viên đạn đó xuống dưới chân nó giúp cháu được không? Làm vậy thì cháu sẽ chặn nó lại được.\"",
+    "new": "\"Chú có thể bắn viên đạn đó xuống ngay dưới chân nó giúp cháu được không? Làm vậy thì cháu sẽ chặn nó lại được.\""
+  },
+  {
+    "id": "scn00_05_0136",
+    "speaker": "光太郎(Kotaro)",
+    "jp": "「はぁ？　おまえがどうやって止めるんだよ」",
+    "old": "\"Hả? Nhóc thì làm thế quái nào mà chặn nó được?\"",
+    "new": "\"Hả? Nhóc làm thế quái nào mà chặn nó được chứ.\""
+  },
+  {
+    "id": "scn00_05_0138",
+    "speaker": "-",
+    "jp": "俺は背負っていたリュックからドローンを取り出す。",
+    "old": "Tôi lấy chiếc drone từ trong ba lô đeo sau lưng ra.",
+    "new": "Tôi lấy chiếc drone từ trong ba lô đang đeo sau lưng ra."
+  },
+  {
+    "id": "scn00_05_0140",
+    "speaker": "-",
+    "jp": "駆除隊の隊員がランチャーを構え、ネット弾を射出した。",
+    "old": "Chú đội viên Đội Tiêu Trừ giương súng phóng lựu, bắn viên đạn lưới ra.",
+    "new": "Chú đội viên Đội Tiêu Trừ giương súng phóng lựu lên rồi bắn đạn lưới ra."
+  },
+  {
+    "id": "scn00_05_0141",
+    "speaker": "-",
+    "jp": "ワイヤー製のネットが暴れている警備ロボットの足元に広がる。",
+    "old": "Tấm lưới đan bằng dây cáp bung rộng ngay dưới chân cỗ robot bảo vệ đang điên cuồng quẫy đạp.",
+    "new": "Tấm lưới làm bằng dây cáp bung rộng ra ngay dưới chân cỗ robot bảo vệ đang phát cuồng."
+  },
+  {
+    "id": "scn00_05_0142",
+    "speaker": "駆除隊隊長(Extermination Squad Leader)",
+    "jp": "「光太郎、バカかおまえ！　どこを狙ってやがる！！」",
+    "old": "\"Kotaro, mày bị ngu à! Ngắm bắn đi đằng nào thế hả!!\"",
+    "new": "\"Kotaro, mày bị ngu à! Ngắm bắn đi đâu thế hả!!\""
+  },
+  {
+    "id": "scn00_05_0143",
+    "speaker": "光太郎(Kotaro)",
+    "jp": "「撃ったぞ！　これでどうする！」",
+    "old": "\"Bắn rồi đấy! Giờ tính sao tiếp!\"",
+    "new": "\"Bắn rồi đấy! Giờ tính sao nữa!\""
+  },
+  {
+    "id": "scn00_05_0144",
+    "speaker": "ひなた(Hinata)",
+    "jp": "「あとは任せてください」",
+    "old": "\"Phần còn lại cứ để cháu lo.\"",
+    "new": "\"Phần còn lại cứ giao cho cháu.\""
+  },
+  {
+    "id": "scn00_05_0145",
+    "speaker": "-",
+    "jp": "俺はゴーグルを装着し、ドローンを超低空で飛ばした。",
+    "old": "Tôi đeo kính điều khiển lên rồi cho drone bay sát mặt đất.",
+    "new": "Tôi đeo kính điều khiển lên, cho chiếc drone bay là là sát mặt đất."
+  },
+  {
+    "id": "scn00_05_0146",
+    "speaker": "-",
+    "jp": "途中、発射されて広がっていたワイヤーネットを拾い、警備ロボットに肉薄する。",
+    "old": "Trên đường bay, chiếc drone quắp lấy một góc tấm lưới cáp đang trải rộng rồi áp sát cỗ robot bảo vệ.",
+    "new": "Trên đường bay, nó quắp lấy một góc tấm lưới cáp đang trải rộng dưới đất rồi áp sát cỗ robot bảo vệ."
+  },
+  {
+    "id": "scn00_05_0147",
+    "speaker": "-",
+    "jp": "相手がこちらに気付いた。",
+    "old": "Đối phương đã phát hiện ra drone của tôi.",
+    "new": "Đối phương đã phát hiện ra chiếc drone."
+  },
+  {
+    "id": "scn00_05_0149",
+    "speaker": "光太郎(Kotaro)",
+    "jp": "「そうはさせるか！　おい、こっちだ！」",
+    "old": "\"Đừng hòng! Này, bên này cơ mà!\"",
+    "new": "\"Đâu có dễ thế! Này, bên này cơ mà!\""
+  },
+  {
+    "id": "scn00_05_0152",
+    "speaker": "-",
+    "jp": "俺はネットを抱えたまま、警備ロボットの脚の間をすり抜けていく。",
+    "old": "Tôi điều khiển drone giữ nguyên tấm lưới, luồn lách qua giữa hai chân của cỗ robot bảo vệ.",
+    "new": "Tôi điều khiển drone mang theo tấm lưới luồn lách qua giữa hai chân của cỗ robot bảo vệ."
+  },
+  {
+    "id": "scn00_05_0153",
+    "speaker": "-",
+    "jp": "そのまま何周か回って、ネットを脚に絡みつかせる。",
+    "old": "Cứ thế lượn quanh vài vòng, tấm lưới cáp dần quấn chặt lấy đôi chân của nó.",
+    "new": "Rồi cứ thế lượn vòng quanh vài lượt để tấm lưới quấn chặt vào chân nó."
+  },
+  {
+    "id": "scn00_05_0154",
+    "speaker": "-",
+    "jp": "あとはあいつのセンサーの前をわざとちょろちょろ動いて、こちらを追わせるだけだった。",
+    "old": "Giờ chỉ việc cố tình bay lượn qua lại trước cảm biến của nó để dụ nó đuổi theo.",
+    "new": "Việc còn lại chỉ là cố tình bay lượn lờ trước cụm cảm biến để dụ nó đuổi theo mình."
+  }
+]

@@ -1,0 +1,63 @@
+scn00_33_0061 | "? Ông biết tôi sao..."
+scn00_33_0062 | Vừa trả lời, bước chân của CCR-01 vừa lảo đảo chực ngã.
+scn00_33_0063 | "...Có vẻ như chấn động vừa rồi đã gây ra sự cố cho chức năng điều chỉnh tiêu cự của cảm biến quang học. Tôi cần được bảo trì khẩn cấp."
+scn00_33_0064 | "Mắt cháu không nhìn thấy gì sao?"
+scn00_33_0065 | "Xin ông không cần phải bận tâm. Tôi vẫn còn những cảm biến hữu dụng khác."
+scn00_33_0066 | "Thế nhưng, nếu không nhìn thấy thì sẽ trở ngại cho việc sơ cứu cho người kia."
+scn00_33_0067 | Vừa nói dứt câu, trên tay CCR-01 đã cầm sẵn một hộp thuốc cứu thương.
+scn00_33_0068 | Hóa ra cô bé đã phát hiện thấy Hinata nằm bất tỉnh nên chạy vào văn phòng lấy hộp thuốc ra.
+scn00_33_0069 | "Tôi có thể nhờ ông băng bó cho con người bé nhỏ mà ông vừa bảo vệ được không ạ?"
+scn00_33_0070 | "Ừ, cứ giao cho tôi."
+scn00_33_0071 | Bố đón lấy hộp thuốc rồi nhanh chóng sơ cứu vết thương cho con.
+scn00_33_0072 | "Vết rách sâu quá... Phải lập tức đưa thằng bé đến bệnh viện thôi."
+scn00_33_0073 | Nhưng cơ sở hạ tầng lúc ấy đang hỗn loạn tột cùng, các đường dây cứu hộ khẩn cấp đều tê liệt. Mạng lưới giao thông cũng hoàn toàn đình trệ.
+scn00_33_0074 | "Xin ông hãy làm ơn bảo vệ cho người đó nhé."
+scn00_33_0075 | "Ừ, đương nhiên rồi."
+scn00_33_0076 | Vừa đáp lời, bố vừa cảm thấy có chút gợn kỳ lạ trong cách nói chuyện của CCR-01.
+scn00_33_0077 | "Lẽ nào cháu lại quen biết thằng bé này sao?"
+scn00_33_0078 | "Vâng. Con người bé nhỏ đó chính là vị hôn phu của tôi."
+scn00_33_0079 | "Vị hôn phu...?"
+scn00_33_0080 | "YES, vị hôn phu ạ."
+scn00_33_0081 | "R... ra là vậy."
+scn00_33_0082 | Hinata là vị hôn phu của một cô người máy hình người ư?
+scn00_33_0083 | Dù vô cùng kỳ lạ, nhưng lúc ấy chẳng còn thời gian đâu để gặng hỏi cặn kẽ.
+scn00_33_0084 | "Nào, xin ông hãy mau đưa cậu ấy đi đi."
+scn00_33_0085 | Bố bế xốc con lên định lao ra ngoài đến bệnh viện thì,
+scn00_33_0086 | từ bên ngoài lại vọng vào những tiếng va đập dữ dội.
+scn00_33_0087 | "Vẫn còn những robot khác đang phát cuồng ngoài kia sao."
+scn00_33_0088 | "Gay go thật đấy... À đúng rồi. Bạn đằng kia ơi."
+scn00_33_0089 | CCR-01 quay sang cất lời với con robot an ninh vừa mới nổi điên ban nãy.
+scn00_33_0090 | "Bạn hãy hộ tống hai người này đến nơi an toàn nhé. Được không nào?"
+scn00_33_0091 | Nhận lệnh, con robot an ninh gật đầu lia lịa bằng cả cơ thể như một chú chó trung thành phụng sự chủ nhân.
+scn00_33_0092 | "Thế này thì an toàn hơn chút rồi. Mau lên kẻo trễ."
+scn00_33_0093 | "Cảm ơn cháu."
+scn00_33_0094 | "Không có gì ạ. Cống hiến vì hạnh phúc của con người vốn là sứ mệnh của chúng tôi mà."
+scn00_33_0095 | "Cháu cũng cùng đi luôn đi."
+scn00_33_0096 | Nhìn qua thấy CCR-01 không hề bị mất kiểm soát, bố không đành lòng để cô bé ở lại một mình.
+scn00_33_0097 | "Tôi không thể rời khỏi đây. Vì mệnh lệnh của tôi là phải ở lại nơi này."
+scn00_33_0098 | "Hơn nữa, có thể vẫn còn những người khác chưa kịp sơ tán, tôi phải đi cứu hộ họ."
+scn00_33_0099 | "Nhưng mắt cháu có nhìn thấy gì đâu..."
+scn00_33_0100 | "Không vấn đề gì đâu ạ. Nhìn này, tôi còn làm ảo thuật được nữa cơ. Ngón tay cái rụng ra rồi nè~"
+scn00_33_0101 | "......"
+scn00_33_0102 | "Ủa? A, hóa ra ông ở bên này, thất lễ thất lễ. Tôi vừa nhầm một bông hoa lớn thành khuôn mặt của ông mất rồi. Thôi nào làm lại nhé, ngón tay cái..."
+scn00_33_0103 | "Được rồi, tôi tin cháu."
+scn00_33_0104 | "? Vâng, ông cứ yên tâm như ngồi trên thuyền lớn nhé."
+scn00_33_0105 | Con bị chảy máu rất nhiều, tình hình ngàn cân treo sợi tóc. Tin vào lời cô bé, bố đành rời khỏi vườn bách thảo.
+scn00_33_0106 | <Nhờ có con robot an ninh tỉnh táo dẫn đường, bố con mình mới có thể sơ tán an toàn.>
+scn00_33_0107 | <Bố đưa con vào bệnh viện, sau đó lập tức đảm nhận vai trò chỉ huy tuyến đầu của đội ứng phó thảm họa trên cương vị thị trưởng.>
+scn00_33_0108 | Quá nhiều thông tin dồn dập ùa tới cùng một lúc khiến đầu óc tôi vô cùng hỗn loạn.
+scn00_33_0109 | Đêm xảy ra Ách Tai, chính Cocoro đã cứu mạng cả tôi lẫn bố sao...
+scn00_33_0110 | Tôi hoàn toàn không hề hay biết.
+scn00_33_0111 | Không chỉ có vậy,
+scn00_33_0112 | Việc Cocoro mất đi thị giác, thực chất là vì bảo vệ cho hai bố con tôi ư?
+scn00_33_0113 | Trời đất ơi...
+scn00_33_0114 | Nếu không phải vì điều đó, vào cái ngày hội ngộ ở vườn bách thảo, chắc hẳn Cocoro đã nhận ra tôi ngay từ cái nhìn đầu tiên.
+scn00_33_0115 | Món quà sinh nhật của tôi sở dĩ nằm trong hòm đồ thất lạc là vì lúc đó bố đã đánh rơi, và Cocoro đã nhặt lại cất giữ.
+scn00_33_0116 | Chính vì thế Cocoro mới nhớ chủ nhân của món đồ thất lạc, và từ mối quan hệ với người ấy mà đoán ra danh tính của tôi, rồi hướng camera của chiếc flycam về phía tôi.
+scn00_33_0117 | Và còn một điều nữa. Lý do khi tôi tỉnh dậy ở bệnh viện mà không có bố bên cạnh, hóa ra lại vô cùng đơn giản.
+scn00_33_0118 | Là vì ông phải trực tiếp chỉ huy đội ứng phó thảm họa với tư cách thị trưởng.
+scn00_33_0119 | Chỉ cần suy nghĩ một chút là nhận ra ngay.
+scn00_33_0120 | Không, thực ra tôi vốn dĩ đã hiểu.
+scn00_33_0121 | Nhưng sự cô đơn và bất an khi trơ trọi trong phòng bệnh, cùng mối oán hận chất chồng bấy lâu dành cho bố, đã khiến tôi cố tình phớt lờ sự thật hiển nhiên ấy.
+scn00_33_0122 | <Còn chuyện gì khác nữa không bố...?>
+scn00_33_0123 | Tôi gặng hỏi, chỉ mong nghe thêm được bất cứ điều gì về Cocoro.

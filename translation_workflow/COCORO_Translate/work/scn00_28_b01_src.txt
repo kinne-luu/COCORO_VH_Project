@@ -1,0 +1,65 @@
+# scene=scn00_28 batch=1/6 dòng 1-61 / 354
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_28_0001 | ココロ(Cocoro) | 「ぴぴっ、ぴぴっ、ぴぴっ、１１時３０分まであと１０分をお報せします」 | "Beep beep, beep beep, beep beep. It is now ten minutes before 1130 hours." | “哔哔，哔哔，哔哔，现在距离11点30分还有10分钟”
+scn00_28_0002 | ココロ(Cocoro) | 「おっと、そろそろ時間です」 | "Oops, it's almost time." | “哦呀，快到时间了”
+scn00_28_0003 | - | 『いまのは』 | What was that? | ‘刚刚那是什么’
+scn00_28_0004 | ココロ(Cocoro) | 「リマインダーを設定していただけです、お気になさらず」 | "I set a reminder for myself. Please don't worry about it." | “只是设置了一个提醒而已，不必在意”
+scn00_28_0005 | ひなた(Hinata) | （口に出して言う必要はあったんだろうか） | (Then why did she need to say it out loud?) | （那有必要从嘴里说出来吗）
+scn00_28_0006 | ココロ(Cocoro) | 「さあ、次の場所へ参りましょう」 | "It's time to go to the next spot." | “来吧，我们去下一个地方吧”
+scn00_28_0007 | - | 『つぎはどこへいくの』 | Where are we going next? | ‘接下来要去哪里’
+scn00_28_0008 | ココロ(Cocoro) | 「九十九市における、定番デートスポットです」 | "The best date spot in all of Tsukumo City." | “九十九市必去的约会地点”
+scn00_28_0009 | ひなた(Hinata) | （どこの事だろう） | (Where the heck is ?) | （会是哪里呢）
+scn00_28_0010 | - | ボーリング場やゲームセンターが入った施設が市街地にあったが、あの辺りは『厄災』で崩壊してしまって今は廃墟だ。 | There used to be a large amusement center that had an arcade and a bowling alley in town, but it was destroyed during the Calamity. The building is little more than an empty husk now. | 市区里倒是有保龄球场和游戏中心，但那附近在‘灾厄’时破坏了，现在已经是一片废墟了。
+scn00_28_0011 | - | ココロに手を引かれ、おとなしく付いていく。 | Cocoro pulls me along by the hand, so I obediently follow her lead. | 我被心牵着，老老实实地跟在了她后面。
+scn00_28_0012 | - | 砂浜から出て道路沿いに歩くこと数分、セントラルエリアへ入る橋が見えてきた。 | We leave the beach and walk along the shore for a few minutes until we reach the bridge leading to the Central Area. | 离开沙滩在道路上走了几分钟之后，便看到了通往中心区的桥。
+scn00_28_0013 | - | ココロはそこへ真っ直ぐ向かって行く。 | Cocoro beelines straight toward it. | 心笔直地朝着那边走去。
+scn00_28_0014 | ココロ(Cocoro) | 「？　どうしましたかひなたさん、まるで散歩の途中で食べ物の匂いを嗅ぎつけた犬のようにワタシの手を引っ張って」 | "Huh? What's the matter, Hinata-san? You're pulling on my hand like a dog who's caught the scent of food in the middle of a walk." | “？　怎么了日向先生，为什么像散步途中闻到食物气味的狗一样拽起我的手来了”
+scn00_28_0015 | - | 『どこにいこうとしてるの』 | Where are you trying to take me? | ‘现在是要去哪里’
+scn00_28_0016 | ココロ(Cocoro) | 「ですから、定番デートスポットです」 | "Like I said, the best date spot in town." | “所以说，就是必去的约会地点”
+scn00_28_0017 | - | と、ココロは橋の向こうにあるガラスドームを指した。 | She points at the glass dome on the other side of the bridge. | 说着，心指了指位于桥对面的玻璃穹顶。
+scn00_28_0018 | ココロ(Cocoro) | 「ワタシ、あそこでボランティアスタッフをしていました」 | "I used to work there as a volunteer." | “我在那里做过志愿者工作”
+scn00_28_0019 | ココロ(Cocoro) | 「展示している植物について解説をしたり、退屈そうなヒトに親指が取れちゃうちょっとしたマジックショーを見せる役割です」 | "I would provide visitors explanations about the plants in the botanical garden and perform magic tricks for them whenever they got bored. The one where I remove my thumb was a favorite." | “我的职责就是对展出的植物进行解说，和对看起来感觉很无聊的人表演摘掉拇指的小魔术”
+scn00_28_0020 | ココロ(Cocoro) | 「小さな子どもからお年寄りまで、沢山のカップルが来園していました」 | "People of all ages came to visit the botanical garden, and quite a lot of them were couples." | “从小孩子到老年人，许多情侣都来过这里”
+scn00_28_0021 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_28_0022 | ひなた(Hinata) | （カップルも来てたけど、家族連れとかお年寄りが多かったような……） | (I guess I remember seeing a few couples, but I think most visitors were families and elderly folks...) | （虽然情侣也会来这里，但更多的应该还是带着家人一起来的老年人啊……）
+scn00_28_0023 | - | 若いカップルが沢山いるような場所だったら、あの頃の俺には近寄りがたかったろう。 | If it had been a popular date spot for young couples, I would have never dared set foot inside. | 如果那里是有很多情侣的地方，那当时的我肯定不会靠近。
+scn00_28_0024 | - | ココロはヒト同士が数名で来園していたのをデートと勘違いしている可能性があった。 | I suspect that Cocoro may be mistaking any visitors who came in pairs as couples. | 心有可能是将几人同行来园误以为是约会了。
+scn00_28_0025 | - | 『あぶないよ』 | It's dangerous. | ‘很危险啊’
+scn00_28_0026 | - | またあの怪物――ジャバウォックが襲って来るかもしれない。 | That monster—the Jabberwock—still lurks there. It could attack us again if we entered. | 那个怪物——贾巴沃克可能还会袭来。
+scn00_28_0027 | ココロ(Cocoro) | 「あのロボットは隠れています。自分から出て来る事はありません」 | "That robot is in hiding right now. She won't show herself." | “那个机器人还在躲藏着，不会自己出来的”
+scn00_28_0028 | - | 『どうしてわかるの』 | How do you know? | ‘你怎么知道的’
+scn00_28_0029 | ココロ(Cocoro) | 「本人がそう言っていたので」 | "That's what she told me." | “它自己说的”
+scn00_28_0030 | ひなた(Hinata) | 「……？」 | "...?" | “……？”
+scn00_28_0031 | - | 『ココロはあのロボットのことをしってるの』 | Do you know that robot? | ‘心认识那个机器人吗’
+scn00_28_0032 | ココロ(Cocoro) | 「あの子は――」 | "She's—" | “它——”
+scn00_28_0033 | - | ココロの動作が不自然にフリーズした。 | Cocoro suddenly freezes up in the middle of her sentence. | 心的动作不自然地停滞住了。
+scn00_28_0034 | ひなた(Hinata) | 「ぁぅぅ……！！」 | "Ah...!" | “啊呜呜……！！”
+scn00_28_0035 | ひなた(Hinata) | （ココロ！） | (Cocoro!) | （心！）
+scn00_28_0036 | - | …………。 | ... | …………
+scn00_28_0037 | - | 固まっていたココロの瞳に、光が戻ってくる。 | After a few torturous seconds, the light returns to her eyes. | 僵住不动的心，眼中恢复了光芒。
+scn00_28_0038 | ココロ(Cocoro) | 「機密事項に抵触するようです。お答えできません」 | "It seems like that information is confidential. I cannot answer." | “貌似是触及到了机密事项，我无法回答”
+scn00_28_0039 | ひなた(Hinata) | （ココロはあいつの正体を知ってるのか……？） | (Does she know what that robot actually is...?) | （心知道那家伙的真实身份吗……？）
+scn00_28_0040 | ココロ(Cocoro) | 「ですが、ワタシはあの子の存在を知りませんでした。自己紹介を受け、初めて認識しました」 | "I was not aware of her existence until recently. We only became acquainted when she introduced herself to me." | “不过，我之前并不知道它的存在，在自我介绍之后才认识它的”
+scn00_28_0041 | ココロ(Cocoro) | 「機密事項に抵触せずに話せるのは、ここまでのようです」 | "That's all I can say without violating confidentiality protocols." | “为了不触及机密事项，貌似就只能说这么多了”
+scn00_28_0042 | - | 『わかった　しんじるよ』 | Okay. I believe you. | ‘我知道了　我相信你’
+scn00_28_0043 | - | それだけ伝えて、俺はまたココロの手を握った。 | That's all I tell her before taking her hand in mine again. | 说完，我便再次握住了心的手。
+scn00_28_0044 | - | 以前、ココロと約束した。ナツノシラユキに水をあげにいこうと。 | We did make a promise to go water the summer snows, so maybe now's a good time to do that. | 以前和心约定过，要去给夏之白雪浇水。
+scn00_28_0045 | - | 植物園の中は荒れ果てていた。 | The garden has fallen into a state of terrible neglect. | 植物园里一片荒芜。
+scn00_28_0046 | - | ココロがずっと手入れをしていたから、綺麗に保たれていたのだというのが分かる。 | That shows just how hard Cocoro had been working to maintain it. | 我知道是心一直以来的打理，才让这里保持住了美丽。
+scn00_28_0047 | - | 片付けをしたい気持ちを我慢して、奥の庭園へ向かう。 | Fighting the urge to clean everything up right away, we head deeper into the glass dome. | 我忍住了想去整理一下的心情，朝着深处的庭院走去。
+scn00_28_0048 | - | こっちのエリアも一部が荒れていた。 | This area is a mess, too. | 这个区域里有一部分也很乱。
+scn00_28_0049 | - | 以前、駆除隊と警備ロボットが戦闘をしたせいだ。 | The remnants of the battle between the extermination squad and that security robot are scattered all over. | 是之前驱除队和安保机器人战斗导致的。
+scn00_28_0050 | - | その事後処理もあったのだろう、一部の花壇が踏み荒らされていた。 | The squad must have investigated the area afterward, because some of the flower beds are trampled. | 估计是还进行了一下善后工作吧，结果一部分花坛也被踩烂了。
+scn00_28_0051 | - | 『ナツノシラユキはぶじだ』 | The summer snows are okay. | ‘夏之白雪没事’
+scn00_28_0052 | - | ドローンで何度か見に来ていたから知っていたけど、いつも明け方の暗い時間だったから、他がこんなになってるとは知らなかった。 | I know they're fine because I've checked on them using my drone several times. However, that was usually at dawn or dusk, so it had been too dark to see what state the rest of the garden was in. | 虽然用无人机来看过很多次了所以知道夏之白雪没事，但一直以来我们都是在昏暗黎明时进行观察的，所以并不清楚其他地方已经变成这样了。
+scn00_28_0053 | - | ココロが水の入ったジョウロを持ってくる。 | Cocoro brings a watering can over. | 心拿来了装满水的洒水壶。
+scn00_28_0054 | ココロ(Cocoro) | 「しばらく来てあげられなくてすみませんでした。これで元気になってください」 | "My apologies for not visiting you for so long. I hope this will help cheer you up." | “这段时间没能过来真是抱歉，喝完水就打起精神来吧”
+scn00_28_0055 | - | 少ししおれて元気がなくなっていたナツノシラユキが、水滴を[まと]纏って瑞々しさを取り戻していく。 | Some of the summer snows were drooping their heads when we came, but they visibly perk up when Cocoro gently showers them with water. | 稍显枯萎无精打采的夏之白雪，在沾上水滴后便重新焕发出了生机。
+scn00_28_0056 | - | ココロが水やりをしている間、俺はその場を離れる。 | I leave her to it and have a look around. | 趁着心浇水的这段时间时间，我离开了哪里。
+scn00_28_0057 | ひなた(Hinata) | （たしか、この辺りだったはず……） | (I think it was somewhere around here...) | （我记得，应该是在这附近来着……）
+scn00_28_0058 | - | 子どもの頃、ココロが来なくなった後も、俺は植物園に通った。 | When I was a kid, I continued visiting the garden regularly, even after Cocoro stopped coming. | 小时候，我在心离开后也会来到植物园。
+scn00_28_0059 | - | 約束の証として渡したい物があったから、何かの用事で立ち寄ったりしてくれないかと期待していた。 | I wanted to give her something as a reminder of our promise, so I'd been holding on to it, hoping that she would drop by again. | 因为我想交给她一件物品作为约定的证明，所以期待着她有事路过这里。
+scn00_28_0060 | - | だから『厄災』の日もここにいた。 | That's also why I was here when the Calamity happened. | 所以‘灾厄’那天我也在这里。
+scn00_28_0061 | - | 靴底で、ガラスの破片が割れる感触に、一瞬身が[すく]竦む。 | I flinch when broken glass crunches beneath my shoes. | 鞋底被玻璃碎片割开的感觉让我瞬间寒毛直竖。

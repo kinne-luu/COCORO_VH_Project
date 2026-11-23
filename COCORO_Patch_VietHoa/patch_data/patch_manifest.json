@@ -1,0 +1,738 @@
+{
+  "entries": [
+    {
+      "entry_id": 784,
+      "type": "scenario",
+      "file": "scn00_00.bin"
+    },
+    {
+      "entry_id": 785,
+      "type": "scenario",
+      "file": "scn00_01.bin"
+    },
+    {
+      "entry_id": 786,
+      "type": "scenario",
+      "file": "scn00_02.bin"
+    },
+    {
+      "entry_id": 787,
+      "type": "scenario",
+      "file": "scn00_03.bin"
+    },
+    {
+      "entry_id": 788,
+      "type": "scenario",
+      "file": "scn00_04.bin"
+    },
+    {
+      "entry_id": 789,
+      "type": "scenario",
+      "file": "scn00_05.bin"
+    },
+    {
+      "entry_id": 790,
+      "type": "scenario",
+      "file": "scn00_06.bin"
+    },
+    {
+      "entry_id": 791,
+      "type": "scenario",
+      "file": "scn00_07.bin"
+    },
+    {
+      "entry_id": 792,
+      "type": "scenario",
+      "file": "scn00_08.bin"
+    },
+    {
+      "entry_id": 793,
+      "type": "scenario",
+      "file": "scn00_09.bin"
+    },
+    {
+      "entry_id": 794,
+      "type": "scenario",
+      "file": "scn00_10.bin"
+    },
+    {
+      "entry_id": 795,
+      "type": "scenario",
+      "file": "scn00_11.bin"
+    },
+    {
+      "entry_id": 796,
+      "type": "scenario",
+      "file": "scn00_12.bin"
+    },
+    {
+      "entry_id": 797,
+      "type": "scenario",
+      "file": "scn00_13.bin"
+    },
+    {
+      "entry_id": 798,
+      "type": "scenario",
+      "file": "scn00_14.bin"
+    },
+    {
+      "entry_id": 799,
+      "type": "scenario",
+      "file": "scn00_15.bin"
+    },
+    {
+      "entry_id": 800,
+      "type": "scenario",
+      "file": "scn00_16.bin"
+    },
+    {
+      "entry_id": 801,
+      "type": "scenario",
+      "file": "scn00_17.bin"
+    },
+    {
+      "entry_id": 802,
+      "type": "scenario",
+      "file": "scn00_18.bin"
+    },
+    {
+      "entry_id": 803,
+      "type": "scenario",
+      "file": "scn00_19.bin"
+    },
+    {
+      "entry_id": 804,
+      "type": "scenario",
+      "file": "scn00_20.bin"
+    },
+    {
+      "entry_id": 805,
+      "type": "scenario",
+      "file": "scn00_21.bin"
+    },
+    {
+      "entry_id": 806,
+      "type": "scenario",
+      "file": "scn00_22.bin"
+    },
+    {
+      "entry_id": 807,
+      "type": "scenario",
+      "file": "scn00_23.bin"
+    },
+    {
+      "entry_id": 808,
+      "type": "scenario",
+      "file": "scn00_24.bin"
+    },
+    {
+      "entry_id": 809,
+      "type": "scenario",
+      "file": "scn00_25.bin"
+    },
+    {
+      "entry_id": 810,
+      "type": "scenario",
+      "file": "scn00_26.bin"
+    },
+    {
+      "entry_id": 811,
+      "type": "scenario",
+      "file": "scn00_27.bin"
+    },
+    {
+      "entry_id": 812,
+      "type": "scenario",
+      "file": "scn00_28.bin"
+    },
+    {
+      "entry_id": 813,
+      "type": "scenario",
+      "file": "scn00_29.bin"
+    },
+    {
+      "entry_id": 814,
+      "type": "scenario",
+      "file": "scn00_30.bin"
+    },
+    {
+      "entry_id": 815,
+      "type": "scenario",
+      "file": "scn00_31.bin"
+    },
+    {
+      "entry_id": 816,
+      "type": "scenario",
+      "file": "scn00_32.bin"
+    },
+    {
+      "entry_id": 817,
+      "type": "scenario",
+      "file": "scn00_33.bin"
+    },
+    {
+      "entry_id": 818,
+      "type": "scenario",
+      "file": "scn00_34.bin"
+    },
+    {
+      "entry_id": 819,
+      "type": "scenario",
+      "file": "scn00_35.bin"
+    },
+    {
+      "entry_id": 820,
+      "type": "scenario",
+      "file": "scn00_36.bin"
+    },
+    {
+      "entry_id": 821,
+      "type": "scenario",
+      "file": "scn00_37.bin"
+    },
+    {
+      "entry_id": 822,
+      "type": "scenario",
+      "file": "scn00_38.bin"
+    },
+    {
+      "entry_id": 823,
+      "type": "scenario",
+      "file": "scn00_39.bin"
+    },
+    {
+      "entry_id": 824,
+      "type": "scenario",
+      "file": "scn00_40.bin"
+    },
+    {
+      "entry_id": 825,
+      "type": "scenario",
+      "file": "scn00_41.bin"
+    },
+    {
+      "entry_id": 826,
+      "type": "scenario",
+      "file": "scn00_42.bin"
+    },
+    {
+      "entry_id": 827,
+      "type": "scenario",
+      "file": "scn00_43.bin"
+    },
+    {
+      "entry_id": 828,
+      "type": "scenario",
+      "file": "scn00_44.bin"
+    },
+    {
+      "entry_id": 829,
+      "type": "scenario",
+      "file": "scn00_45.bin"
+    },
+    {
+      "entry_id": 830,
+      "type": "scenario",
+      "file": "scn00_46.bin"
+    },
+    {
+      "entry_id": 831,
+      "type": "scenario",
+      "file": "scn00_47.bin"
+    },
+    {
+      "entry_id": 832,
+      "type": "scenario",
+      "file": "scn00_48.bin"
+    },
+    {
+      "entry_id": 833,
+      "type": "scenario",
+      "file": "scn01_01.bin"
+    },
+    {
+      "entry_id": 1931,
+      "type": "ui",
+      "file": "ui/entry_01931.bin"
+    },
+    {
+      "entry_id": 1937,
+      "type": "ui",
+      "file": "ui/entry_01937.bin"
+    },
+    {
+      "entry_id": 1942,
+      "type": "ui",
+      "file": "ui/entry_01942.bin"
+    },
+    {
+      "entry_id": 1948,
+      "type": "ui",
+      "file": "ui/entry_01948.bin"
+    },
+    {
+      "entry_id": 1950,
+      "type": "ui",
+      "file": "ui/entry_01950.bin"
+    },
+    {
+      "entry_id": 1952,
+      "type": "ui",
+      "file": "ui/entry_01952.bin"
+    },
+    {
+      "entry_id": 1961,
+      "type": "ui",
+      "file": "ui/entry_01961.bin"
+    },
+    {
+      "entry_id": 1968,
+      "type": "ui",
+      "file": "ui/entry_01968.bin"
+    },
+    {
+      "entry_id": 1970,
+      "type": "ui",
+      "file": "ui/entry_01970.bin"
+    },
+    {
+      "entry_id": 1977,
+      "type": "ui",
+      "file": "ui/entry_01977.bin"
+    },
+    {
+      "entry_id": 1979,
+      "type": "ui",
+      "file": "ui/entry_01979.bin"
+    },
+    {
+      "entry_id": 1981,
+      "type": "ui",
+      "file": "ui/entry_01981.bin"
+    },
+    {
+      "entry_id": 1983,
+      "type": "ui",
+      "file": "ui/entry_01983.bin"
+    },
+    {
+      "entry_id": 1986,
+      "type": "ui",
+      "file": "ui/entry_01986.bin"
+    },
+    {
+      "entry_id": 1988,
+      "type": "ui",
+      "file": "ui/entry_01988.bin"
+    },
+    {
+      "entry_id": 1997,
+      "type": "ui",
+      "file": "ui/entry_01997.bin"
+    },
+    {
+      "entry_id": 2006,
+      "type": "ui",
+      "file": "ui/entry_02006.bin"
+    },
+    {
+      "entry_id": 2026,
+      "type": "ui",
+      "file": "ui/entry_02026.bin"
+    },
+    {
+      "entry_id": 2037,
+      "type": "ui",
+      "file": "ui/entry_02037.bin"
+    },
+    {
+      "entry_id": 2055,
+      "type": "ui",
+      "file": "ui/entry_02055.bin"
+    },
+    {
+      "entry_id": 2081,
+      "type": "ui",
+      "file": "ui/entry_02081.bin"
+    },
+    {
+      "entry_id": 2165,
+      "type": "ui",
+      "file": "ui/entry_02165.bin"
+    },
+    {
+      "entry_id": 1939,
+      "type": "pbd",
+      "file": "pbd/entry_01939.bin"
+    },
+    {
+      "entry_id": 1941,
+      "type": "pbd",
+      "file": "pbd/entry_01941.bin"
+    },
+    {
+      "entry_id": 1943,
+      "type": "pbd",
+      "file": "pbd/entry_01943.bin"
+    },
+    {
+      "entry_id": 1945,
+      "type": "pbd",
+      "file": "pbd/entry_01945.bin"
+    },
+    {
+      "entry_id": 1949,
+      "type": "pbd",
+      "file": "pbd/entry_01949.bin"
+    },
+    {
+      "entry_id": 1951,
+      "type": "pbd",
+      "file": "pbd/entry_01951.bin"
+    },
+    {
+      "entry_id": 1953,
+      "type": "pbd",
+      "file": "pbd/entry_01953.bin"
+    },
+    {
+      "entry_id": 1958,
+      "type": "pbd",
+      "file": "pbd/entry_01958.bin"
+    },
+    {
+      "entry_id": 1960,
+      "type": "pbd",
+      "file": "pbd/entry_01960.bin"
+    },
+    {
+      "entry_id": 1962,
+      "type": "pbd",
+      "file": "pbd/entry_01962.bin"
+    },
+    {
+      "entry_id": 1967,
+      "type": "pbd",
+      "file": "pbd/entry_01967.bin"
+    },
+    {
+      "entry_id": 1969,
+      "type": "pbd",
+      "file": "pbd/entry_01969.bin"
+    },
+    {
+      "entry_id": 1971,
+      "type": "pbd",
+      "file": "pbd/entry_01971.bin"
+    },
+    {
+      "entry_id": 1976,
+      "type": "pbd",
+      "file": "pbd/entry_01976.bin"
+    },
+    {
+      "entry_id": 1978,
+      "type": "pbd",
+      "file": "pbd/entry_01978.bin"
+    },
+    {
+      "entry_id": 1980,
+      "type": "pbd",
+      "file": "pbd/entry_01980.bin"
+    },
+    {
+      "entry_id": 2005,
+      "type": "pbd",
+      "file": "pbd/entry_02005.bin"
+    },
+    {
+      "entry_id": 2025,
+      "type": "pbd",
+      "file": "pbd/entry_02025.bin"
+    },
+    {
+      "entry_id": 2027,
+      "type": "pbd",
+      "file": "pbd/entry_02027.bin"
+    },
+    {
+      "entry_id": 2036,
+      "type": "pbd",
+      "file": "pbd/entry_02036.bin"
+    },
+    {
+      "entry_id": 2038,
+      "type": "pbd",
+      "file": "pbd/entry_02038.bin"
+    },
+    {
+      "entry_id": 2065,
+      "type": "pbd",
+      "file": "pbd/entry_02065.bin"
+    },
+    {
+      "entry_id": 2066,
+      "type": "pbd",
+      "file": "pbd/entry_02066.bin"
+    },
+    {
+      "entry_id": 2067,
+      "type": "pbd",
+      "file": "pbd/entry_02067.bin"
+    },
+    {
+      "entry_id": 2068,
+      "type": "pbd",
+      "file": "pbd/entry_02068.bin"
+    },
+    {
+      "entry_id": 2070,
+      "type": "pbd",
+      "file": "pbd/entry_02070.bin"
+    },
+    {
+      "entry_id": 2072,
+      "type": "pbd",
+      "file": "pbd/entry_02072.bin"
+    },
+    {
+      "entry_id": 2073,
+      "type": "pbd",
+      "file": "pbd/entry_02073.bin"
+    },
+    {
+      "entry_id": 2075,
+      "type": "pbd",
+      "file": "pbd/entry_02075.bin"
+    },
+    {
+      "entry_id": 2078,
+      "type": "pbd",
+      "file": "pbd/entry_02078.bin"
+    },
+    {
+      "entry_id": 2080,
+      "type": "pbd",
+      "file": "pbd/entry_02080.bin"
+    },
+    {
+      "entry_id": 2082,
+      "type": "pbd",
+      "file": "pbd/entry_02082.bin"
+    },
+    {
+      "entry_id": 2086,
+      "type": "pbd",
+      "file": "pbd/entry_02086.bin"
+    },
+    {
+      "entry_id": 2088,
+      "type": "pbd",
+      "file": "pbd/entry_02088.bin"
+    },
+    {
+      "entry_id": 2090,
+      "type": "pbd",
+      "file": "pbd/entry_02090.bin"
+    },
+    {
+      "entry_id": 2095,
+      "type": "pbd",
+      "file": "pbd/entry_02095.bin"
+    },
+    {
+      "entry_id": 2096,
+      "type": "pbd",
+      "file": "pbd/entry_02096.bin"
+    },
+    {
+      "entry_id": 2098,
+      "type": "pbd",
+      "file": "pbd/entry_02098.bin"
+    },
+    {
+      "entry_id": 2116,
+      "type": "pbd",
+      "file": "pbd/entry_02116.bin"
+    },
+    {
+      "entry_id": 2130,
+      "type": "pbd",
+      "file": "pbd/entry_02130.bin"
+    },
+    {
+      "entry_id": 2131,
+      "type": "pbd",
+      "file": "pbd/entry_02131.bin"
+    },
+    {
+      "entry_id": 2132,
+      "type": "pbd",
+      "file": "pbd/entry_02132.bin"
+    },
+    {
+      "entry_id": 2136,
+      "type": "pbd",
+      "file": "pbd/entry_02136.bin"
+    },
+    {
+      "entry_id": 2138,
+      "type": "pbd",
+      "file": "pbd/entry_02138.bin"
+    },
+    {
+      "entry_id": 2157,
+      "type": "pbd",
+      "file": "pbd/entry_02157.bin"
+    },
+    {
+      "entry_id": 2161,
+      "type": "pbd",
+      "file": "pbd/entry_02161.bin"
+    },
+    {
+      "entry_id": 606,
+      "type": "conf",
+      "file": "conf/entry_00606.bin"
+    },
+    {
+      "entry_id": 608,
+      "type": "conf",
+      "file": "conf/entry_00608.bin"
+    },
+    {
+      "entry_id": 636,
+      "type": "conf",
+      "file": "conf/entry_00636.bin"
+    },
+    {
+      "entry_id": 637,
+      "type": "conf",
+      "file": "conf/entry_00637.bin"
+    }
+  ],
+  "filter_states": {
+    "606": "036712c1bc8636765de5d6aa78f030963f05000000000000f07b426df3f5a02724d25fd21f1ab1100000000001000000",
+    "608": "b4584106291443cab2d771a41f83bdcd7b03000000000000ffe9a1b4ffec8507ffe3a382ffe3a3820000000001000000",
+    "636": "1fcb9f10fb2dd88f7d5c1c007d5c1c0041050000000000001589258fb1589258d43c90e3d7f73f060000000001000000",
+    "637": "f8f23533a4d212144964a010acc99a14ff0400000000000037d4b3cf23dba203312843243005aba60000000001000000",
+    "784": "2c924f53159a7454c8124d36f2526ae53b03000000000000a35c7fff3df37ffff1dfe00df3c36d0b0000000001000000",
+    "785": "38d8a5a738d8a5a760e5085c583902d77d0500000000000065b3430b44e2cb6b5ed6cbff5ed6cbff0000000001000000",
+    "786": "a83621d2a711bdfddb009da94f65b9624103000000000000c9b2ed371a95ad0d5f2a76465ec01f910000000001000000",
+    "787": "89cb9f101d7892300d71a4e3f280a4e3bd02000000000000b1589258b1589258d43c90e3d7f73f060000000001000000",
+    "788": "7254930a9ebc39e9b9cc3586b9cc3586fb020000000000000bd0a4cc015b30c724eee77500107f330000000001000000",
+    "789": "b93eff5eb93eff5eba70a60f43e7ae4b7d03000000000000895fc963895fc963773664ff7b8163490000000001000000",
+    "790": "fc069adc5988a69d0f4831477b6da3277d0300000000000079ca334679ca3346c3fb833174b7ce0b0000000001000000",
+    "791": "152145f172482cf2a3513dbb1e4f831c3b0300000000000023c3f4b721f77087ffe3a382ffe3a3820000000001000000",
+    "792": "00b61a1000c4ff1320eb4c82e0cb918cbf020000000000001a2bb2361a2bb236ffdb278fffff63860000000001000000",
+    "793": "4a325817a59365169bda3dd66ae43508410300000000000053b463c92d46f5aa88010f3275605b7b0000000001000000",
+    "794": "fddfa2fdfd1cf841b9cc3586b9cc3586bf02000000000000fa7589e8f982a2ae29ed3ffa2ecf647a0000000001000000",
+    "795": "c2acd1ce355b7ad3e6627b2d192d982abd02000000000000c7479b37dee7dc1fd51e15e0aae1ea1f0000000001000000",
+    "796": "00eb27c0006483a69267a8ec7efd3bd9fb040000000000000a66ee7ae99a4460a5ad26fca5ad26fc0000000001000000",
+    "797": "0000000000000000d76c93a753f9c2640105000000000000b813b20eb6912ca95fdf5beb6b76ac180000000001000000",
+    "798": "0058cc6800c062468ed33b5dc71b54928105000000000000ea25b7ffea9a5c92fff02ea3fffffa2b0000000001000000",
+    "799": "e449cea1432047a046a928e2e9f959017d030000000000007f209e55da3e15f88fdc6a7f0a3f71a90000000001000000",
+    "800": "b9cc3586b9cc3586ba8f8a217c489a13bb04000000000000ad3ee24bd8249781f9aa7e17f82a81770000000001000000",
+    "801": "14b7772debd89b2ae7331c006819010081050000000000005c93e987cc0c8d87ffe3a382ffe3a3820000000001000000",
+    "802": "28ca9016c4d23e420000000000000000ff0200000000000052c553da7890b429df99c89aebbc3f690000000001000000",
+    "803": "00c9385c0086720aaedb4c1841ea7015fb02000000000000afac3f7776a773f4f432e117bef15ee60000000001000000",
+    "804": "0060e5080058390282853797803eca393b05000000000000ffe3a382ffe3a3828ecb575ccb3fb9c40000000001000000",
+    "805": "03d9525a03d9525a878e821945ea261bc104000000000000d5753aaeaa8ac5518e070ba58a19ec8a0000000001000000",
+    "806": "b93eff5eb93eff5e1a98fb859c9f4c873d03000000000000895fc963895fc963773664ff7b8163490000000001000000",
+    "807": "0046a2d180af2c941d771abdac1236bdbf04000000000000ffffd769ffa13607ffe3a382ffe3a3820000000001000000",
+    "808": "c921d82232d6d111d024b7c6f28995003b030000000000007b2e2487433b06d345fc8b1995a11fb40000000001000000",
+    "809": "03d9525a03d9525a9c5371da202073da8103000000000000d536db99aac92466e2a006939ba27fff0000000001000000",
+    "810": "00385ff400174c7236cd58a5c7e249203f03000000000000644f2c4a417f13b0029b79f70d53f7430000000001000000",
+    "811": "6e9a99ea8d5d104a7ab79dc8fe07bb55bf0200000000000012bf76ab89b3212b6509feef0d2753aa0000000001000000",
+    "812": "54504130ce6c0c30258325ef10f2cfcefb0400000000000066d5c69c678f81910038146d69d5e3450000000001000000",
+    "813": "00568ec0008095232a4156e61ba1cbdfbd02000000000000ffe3a382e3a382041f078e46630647730000000001000000",
+    "814": "b46c1c6873bcea48a8f0478af018b9f9c104000000000000fef4feadffff7a7ff70b7423f30b79010000000001000000",
+    "815": "c00a1833d8fee850c6f133be98c1df243f05000000000000a54827a5860d2aceac4dd56dc9dd64320000000001000000",
+    "816": "14ba6b3118f0e3725cc23855a33dc72a7f050000000000001512c6890c3fbde5bba429c7bba429c70000000001000000",
+    "817": "00193b21b5bee913e660802c192f932b4103000000000000430b355be1f4314d35273b17318eebdc0000000001000000",
+    "818": "809f0a7300ec69e8621d9984541aaf88fb04000000000000fe8e7fdaf4a56cc605acbf8b330691b10000000001000000",
+    "819": "60640db3b87adc6ffde86dacfd5baf86c1020000000000000c2bb4330c2bb433c1623be779dacbbf0000000001000000",
+    "820": "b9cc3586b9cc358657b4000056ff04003f03000000000000c0d3c333c4ebad766180ad1e654f745e0000000001000000",
+    "821": "1cd7ad065dd4cffdc06ac55ff1b7a91d3d03000000000000b20b3602efc2e102fb0015fda77954c00000000001000000",
+    "822": "924e3b15db9c0416c94dd4e5c94dd4e5fd04000000000000e5cce9ffe674fffff780ce0df365520b0000000001000000",
+    "823": "7a4f7ddb04cac3d68d7c6e6aa4d8f3b9fb04000000000000469607619507a36cf7c36dff2fb63bff0000000001000000",
+    "824": "6ff562f118740ef24320b47c479520f2c10200000000000024aa36cf1e5e6826b68beb8e92e0a1bd0000000001000000",
+    "825": "1201e05f8bfd1896b93eff5eb93eff5e01050000000000001afa6a2a1ae3af6fa26fcee669af17330000000001000000",
+    "826": "486954bb108f6e09b6743b044ba40d0abf0400000000000012318994f1e407c9b8df87ffc5b46aff0000000001000000",
+    "827": "c81525a25f54f09f94338b2d6b5c882abb02000000000000728587a9e6d92ca4dcd53dfadcd53dfa0000000001000000",
+    "828": "833f91f8833f91f813a2b88bed9dc874fd0400000000000018d560184d8aadd20262624004ceb7ae0000000001000000",
+    "829": "054900005c180100b9cc3586b9cc35867d03000000000000b3f4a89bb233f019ffffffffffffffff0000000001000000",
+    "830": "0080a35c00800cc203d9525a03d9525a7b03000000000000a9f0bd23ae4b169ace5cd6c7ce5cd6c70000000001000000",
+    "831": "78a3df1ec9289b0000000000000000003b03000000000000fe59255ffcb24abf30730f1909a88bd50000000001000000",
+    "832": "8a002400f1b47104f0478d167874f6dd3b03000000000000a8a2abb2a6adacdfd5fcc12d36ca56410000000001000000",
+    "833": "54f3c155ab0c3e2a5d4132ce429dbdafbb02000000000000a5ad26fca5ad26fcdee7dc1fc7479b370000000001000000",
+    "1931": "6e609cfec425007caf06a60f4e51af4b3d0300000000000079ca334679ca3346c3fb833174b7ce0b0000000001000000",
+    "1937": "a76da74ea76da74e00a76da7a76da74e3f03000000000000ef4071edef44d2b04c2067c52b0755410000000001000000",
+    "1939": "38d65b4438d65b44a9808500010b0100c104000000000000ce5cd6c7ce5cd6c70c7e0dfd188158ab0000000001000000",
+    "1941": "e127b006515dfd857d5c1c007d5c1c007f0500000000000017d4d8024ca43b026c1311b71b2033880000000001000000",
+    "1942": "38d8a5a738d8a5a76bf6e77e4655b9273d0500000000000019a4aa24481a99ca5b64d59ca587a8600000000001000000",
+    "1943": "003429a1003429a1a68edbf6a68edbf6c104000000000000bbe7a9ebf7a3c821e48c0d25fb6e97d10000000001000000",
+    "1945": "536c51a9d7f904633a79bfadff8033e23d03000000000000f26e70000e7e0dfccbed4c1fcc51187f0000000001000000",
+    "1948": "ac656fd9a6beaea92ae0d207d3cb5f963f05000000000000fffeb5a0ffff4a5f4857183fb1bb6d390000000001000000",
+    "1949": "c94dd4e5c94dd4e5b7d5134fb7d5134f0105000000000000f3c45fff6fa727fff91c147df45c8aab0000000001000000",
+    "1950": "a92bc898a789c54c6323050da9bd7108ff020000000000007860fa4b7a56cdfdfff82c7ffff16c340000000001000000",
+    "1951": "622b19ebdc81cccba1e367dfe1fac7597f03000000000000b0ec2a48b0ec2a48e674ffffe5cce9ff0000000001000000",
+    "1952": "c53d8460c53d84603829a3313829a3317b03000000000000d689f24472462859ffffc6dcffe039230000000001000000",
+    "1953": "2d93c718c232f61400cc144e70072b6afb020000000000006f1290e25e1430cb1589258fb15892580000000001000000",
+    "1958": "55c94a1fa8e657a63920dc0147e2ce013d0300000000000010e2f70414b049fb09247159092471590000000001000000",
+    "1960": "008b198d0000163376c10be226c3e889fb02000000000000ea0afd3ceab517559bbe961fe2b1ffff0000000001000000",
+    "1961": "f07a379e753297ef4b1e96ef3c4bdbf33d05000000000000585a27c7585a27c707de9ce91d20c9bf0000000001000000",
+    "1962": "6cb20000b2e91f00be57abf43f2855fb8103000000000000e972b80f71f95e9fd5b10b62aa4ef49d0000000001000000",
+    "1967": "a0b3259d00801ab7bb17c48c741f261d3d05000000000000403b926b0865fe405eea00ff3c5eea000000000001000000",
+    "1968": "5839a1eba785cbeebea935c9d23e032a3d0500000000000004aaeada0b549527221fdea921cd327b0000000001000000",
+    "1969": "00ed753fe0c971ad0890a385aea7a487fb0200000000000078c0363078c036308ac2401765b7bceb0000000001000000",
+    "1970": "97507ccf6b31972f0361f0fdf5042686bf020000000000009b4086b058691324dcd53dfadcd53dfa0000000001000000",
+    "1971": "df36e910b4bba710cab6e65728d78df47d05000000000000b1589258589258fff9ac61a6f3fde77c0000000001000000",
+    "1976": "ed31ac6e9e7bfe65c391593c1977f13d7b03000000000000154fbe0766af385f19bbccb503c9818b0000000001000000",
+    "1977": "8000a8310000a2503662a70456a6601bc1040000000000009dc84cdb6aad464a7d8d0f60835f6e9c0000000001000000",
+    "1978": "ed31ac6e9e7bfe65c391593c1977f13d7b03000000000000154fbe0766af385f19bbccb503c9818b0000000001000000",
+    "1979": "4dab2fabb3944f5500950b6600ba9f00bb0200000000000015eed51c47c6c77dffe2ba7bffea25450000000001000000",
+    "1980": "ed31ac6e9e7bfe65c391593c1977f13d7b03000000000000154fbe0766af385f19bbccb503c9818b0000000001000000",
+    "1981": "cfc93f87cfc93f8720b806004d7006007f050000000000003c7207bf1c28627ff2691983f2878be10000000001000000",
+    "1983": "58f88304b062811bb93eff5eb93eff5e0103000000000000faac8f04f26ff7b2b5c93ea157b55cb70000000001000000",
+    "1986": "583902d760e5085c9c36a0769c36a076fb02000000000000ffe3a382ffe3a3828ecb575ccb3fb9c40000000001000000",
+    "1988": "38d65b4438d65b4478020e4f78865188bd04000000000000ce5cd6c7ce5cd6c70c7e0dfd188158ab0000000001000000",
+    "1997": "250472fc7c7e1872ccf2222463151af77f03000000000000bc9fcec77e9d38df4955101379522fe70000000001000000",
+    "2005": "51c26835aa3541ff00002c6680c58cc6fb02000000000000eaaa417b06a0a4931a2bb2361a2bb2360000000001000000",
+    "2006": "5718b931bbb9ea3f8044c112511744003b050000000000000008db5301d3d55ebd6e41e6ae9a0bac0000000001000000",
+    "2025": "60e5085c583902d7ea5e7985ccd8ce874105000000000000e3a38204ffe3a3828ecb575ccb3fb9c40000000001000000",
+    "2026": "009c86a70039a41d340b9b731b2a0e840105000000000000fff419f0fffec1b4ef505b1cef203b6c0000000001000000",
+    "2027": "94dd2c86225a1b8738d65b4438d65b4481030000000000004092e5b4b2ef744e3fc1f8fca3e7c2120000000001000000",
+    "2036": "1575070058b30500056affa17d4942bf81030000000000005ce599da41d8b2a2ffee5e4cedda9ad00000000001000000",
+    "2037": "009c86a70039a41d340b9b731b2a0e840105000000000000fff419f0fffec1b4ef505b1cef203b6c0000000001000000",
+    "2038": "449c7c00ccc48226fb12b70d060692003f03000000000000fcb24abffe59255f9db684bdf31f899f0000000001000000",
+    "2055": "fdc624e5fd7f61d60985070064a305000103000000000000fb563b0af86fde1169d5e3450038146d0000000001000000",
+    "2065": "54db340004aa6d1af7a7f35a0a1880c54103000000000000664ba59fffe0c3403c5eea003c5eea000000000001000000",
+    "2066": "009dcaeeb0601ba5c06ac55ff1b7a91d410300000000000078c0363078c036308ac2401765b7bceb0000000001000000",
+    "2067": "e20f6908305dc68d3883fcff0000a6a28105000000000000dcd53dfadcd53dfac33872dce81cdf970000000001000000",
+    "2068": "d7c43beb28fa30ef0078124f00957f12ff020000000000000a55056605aa7a9b41b87df7487dc7700000000001000000",
+    "2070": "007e911280e74085c7e5231365767c5dfb02000000000000ffff8afbffc76d19ffffffffffffffff0000000001000000",
+    "2072": "41d9a8e5242969e09c1f0700d10806007d05000000000000f24392dff401477dffe9a6a1fffa627d0000000001000000",
+    "2073": "003429a1003429a15b8b300fa68d18ff8103000000000000fca52951b6e648bb9f7bc23a9f7bc23a0000000001000000",
+    "2075": "17d03a14561b05179805de0457375b1b3d05000000000000674fffffce5cce9fd50eaef2aaf1510d0000000001000000",
+    "2078": "50110e9f159cc0eeace21f00531d0000fb02000000000000585a27c7585a27c707de9ce91d20c9bf0000000001000000",
+    "2080": "8a291394876cc62000e0ff5700e0ff57fb02000000000000fffeedeffff6acf6897c1f5e3d54021e0000000001000000",
+    "2081": "c42af018fe835cae0020b0400078fb160105000000000000fffe7855fffdecae29e0565c2edc4e180000000001000000",
+    "2082": "37c89f1013a4f50e9c36a0769c36a076bb02000000000000c5624963b1589258d43c90e3d7f73f060000000001000000",
+    "2086": "70cf9b4750649a9a00e0ff5700e0ff577d03000000000000dcd53dfadcd53dfac33872dce81cdf970000000001000000",
+    "2088": "8feb8199fbc952d5e3d6aa6cbecc2f45ff04000000000000024282b604ee9738ed71ba11dd696db70000000001000000",
+    "2090": "56333b0006d8010052010b01808500007d050000000000006cbd3fffc33270fff8ca2116f2e6a7dc0000000001000000",
+    "2095": "94a1afdd4dad98fc60515ce2625df0e4bb020000000000009f7bc23a9f7bc23adbe657ff0070710f0000000001000000",
+    "2096": "ed31ac6e9e7bfe65c391593c1977f13d7b03000000000000154fbe0766af385f19bbccb503c9818b0000000001000000",
+    "2098": "94a1afdd4dad98fc60515ce2625df0e4bb020000000000009f7bc23a9f7bc23adbe657ff0070710f0000000001000000",
+    "2116": "0090b0b600bb21fc4a3344e6747e36fc410300000000000059d8146a817b635b5e615a4f3be6513f0000000001000000",
+    "2130": "54119153ed1a33540000000000000000bf02000000000000b1eb33ff95d4f88f6d767b62620eab170000000001000000",
+    "2131": "54119153ed1a33540000000000000000bf02000000000000b1eb33ff95d4f88f6d767b62620eab170000000001000000",
+    "2132": "54119153ed1a33540000000000000000bf02000000000000b1eb33ff95d4f88f6d767b62620eab170000000001000000",
+    "2136": "4771c882bb104b7c30692e24d8377c423b030000000000009a929aa85916ff2c2750923f266e54410000000001000000",
+    "2138": "4771c882bb104b7c30692e24d8377c423b030000000000009a929aa85916ff2c2750923f266e54410000000001000000",
+    "2157": "dc430900295f3f11da5d01478759746bbf02000000000000f88bc07cd20b653f47d77c55f2441e990000000001000000",
+    "2161": "714adcdcbeec0dcd6b67c916c4cf20933f030000000000007352c873fff7352c29df50d723df95a90000000001000000",
+    "2165": "f26e4aa9da12731d47af6e2244fe3b323f05000000000000b0ec2a48b0ec2a48e674ffffe5cce9ff0000000001000000"
+  }
+}

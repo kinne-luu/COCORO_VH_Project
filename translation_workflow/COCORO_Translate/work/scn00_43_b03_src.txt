@@ -1,0 +1,64 @@
+# scene=scn00_43 batch=3/4 dòng 121-180 / 224
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_43_0121 | ココロ(Cocoro) | 「……ありがとうございます」 | "Thank you." | “……谢谢你”
+scn00_43_0122 | - | 不安げにするココロの頭を撫でて安心させてあげる。 | Cocoro still looks anxious, so I give her a reassuring pat on the head. | 我摸了摸心的头，让她不要担心。
+scn00_43_0123 | ひなた(Hinata) | 「さ、早く寝よう。明日もナツノシラユキを見に行くだろう？」 | "I think it's bedtime. We're going to check on the summer snows first thing in the morning, right?" | “好了，赶紧睡吧，明天不是还要去看夏之白雪吗？”
+scn00_43_0124 | ココロ(Cocoro) | 「もちろんです。開花までもう秒読みですから！」 | "Of course! They could bloom any second now!" | “当然了，我都已经开始读秒倒数它开花了！”
+scn00_43_0125 | ＣＣＲ－０２(CCR-02) | 『グルルルルル……』 | "Grrrrrr..." | ‘咕噜噜噜噜噜……’
+scn00_43_0126 | 光太郎(Kotaro) | 「やっと追い詰めたぞ、ジャバウォック。おとなしく投降しろ、でないとおまえを傷つけないといけなくなる」 | "I've finally got you cornered, Jabberwock. Surrender, and I won't have to hurt you." | “你已经无路可逃了，贾巴沃克，赶快投降吧，不然我们就不得不伤害到你了”
+scn00_43_0127 | ＣＣＲ－０２(CCR-02) | 『……いヤ……ダ……』 | "I don't... want to..." | ‘……我……不要……’
+scn00_43_0128 | 光太郎(Kotaro) | 「……射撃準備。電撃は使うな、雨で周囲に被害が出る」 | "Prepare to shoot. Don't use electricity. It would cause collateral damage in this rain." | “……准备射击，不要使用电击，会因为下雨而对周围造成损害”
+scn00_43_0129 | 霧香(Kirika) | 「待って、光太郎君！」 | "Wait, Kotaro-kun!" | “等一下，光太郎！”
+scn00_43_0130 | 光太郎(Kotaro) | 「主任、出てきちゃ危ないです！　下がって！」 | "Chief! It's dangerous out here! Please stand back." | “主任，前面太危险了！　快回去！”
+scn00_43_0131 | 霧香(Kirika) | 「ＣＣＲ－０２……聞いて、私たちはあなたを保護したい。友達になりたいの」 | "CCR-02, listen... We want to keep you safe. We want to be friends with you." | “CCR-02，听我说，我们是想保护你，是想和你成为朋友的”
+scn00_43_0132 | ＣＣＲ－０２(CCR-02) | 『……イやだ……キエ……たク……な……イ……』 | "No... I don't... want to... dis...appear..." | ‘……我不要……我……不想……消……失……’
+scn00_43_0133 | 霧香(Kirika) | 「信じられないでしょうけど、でも、私だけなの……あなたを守ってあげられるのは」 | "It may be difficult for you to believe, but I'm the only one... The only one who can protect you." | “你可能不相信我的话，但……只有我能保护你了”
+scn00_43_0134 | ＣＣＲ－０２(CCR-02) | 『いや……ダ……こワイ……たスケて……おネエちゃん……』 | "No... I'm scared... Save me... Sis..." | ‘我……不要……好害怕……救救我……姐姐……’
+scn00_43_0135 | 霧香(Kirika) | 「ココロは私の友達よ。だからあなたも友達になりましょう？」 | "Cocoro is my friend, too. Let's all be friends, okay?" | “心也是我的朋友，所以也让我和你做朋友吧？”
+scn00_43_0136 | ＣＣＲ－０２(CCR-02) | 『ウソ……だ……オマエら……おネエ……ちゃんヲ……けそう……とし……タ……』 | "That can't... be... true... You tried... to delete... my sis...ter." | ‘骗人……你们……想要……让……姐姐……消失……’
+scn00_43_0137 | 霧香(Kirika) | 「それは……」 | "That's..." | “那是……”
+scn00_43_0138 | 光太郎(Kotaro) | 「主任、話をするなら大人しくさせてからにしてください！」 | "Chief, save the talking for when we've subdued it!" | “主任，还是等我们控制住她之后再和她说话吧！”
+scn00_43_0139 | ＣＣＲ－０２(CCR-02) | 『……おネエちゃん……おネエちゃん……こわ……イ……よ……タスけ……て……』 | "Sister... Sister... I'm... scared... Save... me..." | ‘……姐姐……姐姐……好……害怕……啊……救救……我……’
+scn00_43_0140 | ＣＣＲ－０２(CCR-02) | 『ワタ……し……モ……オネえちゃ……ン……みたイに……ナリ……たい……おネエちゃ……ン……オネ……えちゃ……ン……』 | "I... want... to be... like... you... Sis... I want... Sis..." | ‘我……也……想……变成……姐姐……那样……姐姐……姐……姐……’
+scn00_43_0141 | 霧香(Kirika) | 「ココロに憧れてるのね……。私ならあなたを救ってあげられる。ううん、あなたを救うのが私の使命だと思ってる」 | "You really look up to Cocoro, don't you? I can save you... I believe that it's my mission to save you." | “你是在憧憬心吗……我是能够拯救你的，不，我认为拯救你是我的使命”
+scn00_43_0142 | 霧香(Kirika) | 「だから、ね？　私と一緒に……」 | "So, please... Come with me—" | “所以，听我的话吧？　和我一起……”
+scn00_43_0143 | ＣＣＲ－０２(CCR-02) | 『グルルルルルル……！！』 | "Grrrrrr...!!" | ‘咕噜噜噜噜噜……！！’
+scn00_43_0144 | 光太郎(Kotaro) | 「これ以上は危険だ、機月主任を守れ！」 | "It's threatening us! Ensure Chief Kizuki's safety!" | “再继续下去就太危险了，保护好机月主任！”
+scn00_43_0145 | 霧香(Kirika) | 「あっ、待って！　行かないで、戻ってきてお願い！」 | "Ah, wait! Don't go! Please, come back!" | “啊，等一下！　别走，求你了快回来！”
+scn00_43_0146 | 光太郎(Kotaro) | 「逃がすな、追え！」 | "Don't let it get away!" | “别放跑她，快追！”
+scn00_43_0147 | 公安調査官(Public Security Officer) | 「この雨じゃ、追跡は不可能です！」 | "We can't track it in this rain!" | “雨太大了，根本无法追踪！”
+scn00_43_0148 | 光太郎(Kotaro) | 「くそっ、やっと捕獲できるチャンスだったのに」 | "Dammit... And here I thought we finally had a chance to capture it..." | “可恶，好不容易找到了抓捕她的机会”
+scn00_43_0149 | 霧香(Kirika) | 「……あなたを救いたいだけなの……」 | "We just want to save you..." | “……我明明只是想拯救你……”
+scn00_43_0150 | 光太郎(Kotaro) | 「『厄災』が起こってしまったのも、ジャバウォックを生み出してしまったのも、当時の研究者たちだ。機月主任のせいじゃありません」 | "The ones who created the Jabberwock and caused the Calamity were those researchers. It's not your fault, Chief Kizuki." | “引发‘灾厄’和让贾巴沃克诞生的都是当时研究者们，这些都不是机月主任的错”
+scn00_43_0151 | 光太郎(Kotaro) | 「自分を追い詰めすぎないでください」 | "Please don't be too hard on yourself." | “请不要太自责了”
+scn00_43_0152 | 霧香(Kirika) | 「……」 | "..." | “……”
+scn00_43_0153 | - | ………………。 | ...... | ………………
+scn00_43_0154 | - | …………。 | ... | …………
+scn00_43_0155 | ココロ(Cocoro) | 「…………雨音を検知。むくり」 | "...I detect the sound of rain. It woke me up." | “…………检测到雨声，起身”
+scn00_43_0156 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_43_0157 | ココロ(Cocoro) | 「ひなたさん、ひなたさん、雨です」 | "Hinata-san, Hinata-san... It's raining." | “日向先生，日向先生，下雨了”
+scn00_43_0158 | - | …………。 | ... | …………
+scn00_43_0159 | ココロ(Cocoro) | 「ひなたさん、雨が降っています。これはもしや」 | "Hinata-san, it's raining. Does this mean what I think it does?" | “日向先生，下雨了，这说不定是”
+scn00_43_0160 | ひなた(Hinata) | 「ぅぅん………………すぅ……すぅ…………」 | "Hnnnngh... Zzz... Zzz..." | “嗯………………呼……呼…………”
+scn00_43_0161 | ココロ(Cocoro) | 「ぐっすり眠っているご様子。安眠を[さまた]妨げるのは、ヒトの社会におけるマナー違反であると判断します」 | "He's fast asleep. In human society, it's considered bad manners to disturb someone's peaceful sleep." | “看来是睡得很熟，我认为妨碍安眠是人类社会中没有礼貌的行为”
+scn00_43_0162 | ココロ(Cocoro) | 「……今日、ナツノシラユキが咲くかもしれません。そわそわ」 | "...But the summer snows might bloom today. We should go." | “……今天，夏之白雪或许就会绽放了，坐立不安”
+scn00_43_0163 | ココロ(Cocoro) | 「これはのんきにスリープしている状況ではないです」 | "This isn't the time to go into deep-sleep mode." | “现在已经不是放松睡觉的时候了”
+scn00_43_0164 | ココロ(Cocoro) | 「幸い、ワタシは睡眠を取らずとも活動可能ですので、寝ずの番をしようと思います」 | "Fortunately, I'm able to function just fine without sleep. I'll stay awake to keep watch." | “幸好，我就算不睡觉也能够进行活动，所以我想今晚应该守夜了”
+scn00_43_0165 | ココロ(Cocoro) | 「起床予定時刻になれば、ひなたさんの安眠もおしまいの時です。どんな目覚ましよりも強力な方法でワタシが強制的に起床を[うなが]促します」 | "As soon as the sun rises, Hinata-san's peaceful sleep will come to an end. I will ensure that he wakes up, and I will do the job better than any alarm clock could." | “一旦到了预定的起床时间，日向先生的安眠就结束了，我会使用比任何闹钟都要强力的方法强行让他起床”
+scn00_43_0166 | ココロ(Cocoro) | 「……そわそわします」 | "...I can't wait." | “……坐立不安”
+scn00_43_0167 | ココロ(Cocoro) | 「そわそわ……そわそわ……」 | "Is it time yet...? Is it time yet...?" | “坐立不安……坐立不安……”
+scn00_43_0168 | ココロ(Cocoro) | 「静まりなさい、ワタシのＣＰＵ。……感情があるというのは厄介ですね。熱暴走しないか心配になります」 | "Please be quiet, CPU of mine... How inconvenient it can be to have emotions. I'm worried I might overheat at this rate." | “安静下来，我的CPU。……拥有感情真是件麻烦事啊，还需要担心自己会不会过热”
+scn00_43_0169 | - | …………。 | ... | …………
+scn00_43_0170 | ココロ(Cocoro) | 「暇です。これもまた感情の弊害です。暇を暇だと感じるようになってしまいました」 | "I'm bored. This is another new inconvenience. I've learned how to feel 'boredom.'" | “好闲，这也是感情的弊端，让我会感觉到很闲”
+scn00_43_0171 | ココロ(Cocoro) | 「ひなたさんの寝顔を観察して、暇を[つぶ]潰すとしましょうか」 | "Let me try to fight this boredom by observing Hinata-san's sleeping face." | “就让我来观察日向先生的睡脸打发时间吧”
+scn00_43_0172 | ひなた(Hinata) | 「……すぅ……すぅ」 | "Zzz... Zzz..." | “……呼……呼”
+scn00_43_0173 | ココロ(Cocoro) | 「……ふふ、[おだ]穏やかな寝顔です。不思議です、こうして見つめているだけで、愛情がわき上がってきます」 | "Hehe, he looks so calm. How strange this is, though. Just looking at him seems to increase my love for him." | “……呵呵，好安详的睡脸。真是不可思议，只是这样看着，爱情就逐渐从心底涌了出来”
+scn00_43_0174 | ココロ(Cocoro) | 「チュッ」 | "Mwah." | “啾”
+scn00_43_0175 | ひなた(Hinata) | 「……ぅぅん……」 | "Nnngh..." | “……嗯……”
+scn00_43_0176 | ココロ(Cocoro) | 「ひなたさん、起きましたか？」 | "Hinata-san, are you awake?" | “日向先生，醒了吗？”
+scn00_43_0177 | ひなた(Hinata) | 「……すぅ……すぅ」 | "Zzz... Zzz..." | “……呼……呼……”
+scn00_43_0178 | ココロ(Cocoro) | 「キッスで目覚めないなんて…………強制起床時刻まで、あくまで眠り続けるおつもりのようですね。ふぅ……」 | "Not even a kiss can wake him... He must be determined to sleep right up until his alarm forcibly wakes him. Hahh..." | “连吻都叫不醒他…………看来是铁了心要睡到强制起床时间了呢，呼……”
+scn00_43_0179 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_43_0180 | - | …………。 | ... | …………

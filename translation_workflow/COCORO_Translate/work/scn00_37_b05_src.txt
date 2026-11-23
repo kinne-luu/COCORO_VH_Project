@@ -1,0 +1,45 @@
+# scene=scn00_37 batch=5/5 dòng 221-261 / 261
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_37_0221 | ココロ(Cocoro) | （いけない、自分の目でひなたさんのお顔が見られる喜びに、思わずぼーっとしてしまいました） | (Oh no... I was so happy to see Hinata-san with my own eyes that I completely spaced out.) | （不好，亲眼看到日向先生的脸实在太令我感到喜悦了，不小心发起呆来了）
+scn00_37_0222 | ココロ(Cocoro) | 「はい、ココロです」 | "Yes, I'm Cocoro." | “是，我是心”
+scn00_37_0223 | ひなた(Hinata) | 「これ、ずっと持っててくれたんだね」 | "You kept this all along..." | “这个，你一直带在身上啊”
+scn00_37_0224 | ココロ(Cocoro) | 「？」 | "Huh?" | “？”
+scn00_37_0225 | - | ワタシの左手のひらに、指輪があった。 | There's a ring in my left hand. | 我左手掌心躺着一枚戒指。
+scn00_37_0226 | ココロ(Cocoro) | （この指輪は……ひなたさんの落とし物をワタシがくすねたもの） | (This ring... It's the one I took for myself after Hinata-san dropped it.) | （这枚戒指……是被日向先生遗失后又被我据为己有的东西）
+scn00_37_0227 | ココロ(Cocoro) | 「なぜ……あの時ワタシは……これを返さなかったのでしょう」 | "Why...? Why didn't I just give it back immediately?" | “为什么……那时的我……会不想归还这枚戒指呢？”
+scn00_37_0228 | - | 自分でも分からなかった。 | I can't explain my own behavior. | 我自己也不是很明白。
+scn00_37_0229 | - | あれは犯罪行為にあたる可能性があり、ロボットの行動としてあり得ない重大なエラーだ。 | A robot isn't supposed to engage in potentially criminal acts. If I did, it would be a serious error. | 那种行为有可能已经构成犯罪了，机器人的这种行为是难以想象的重大错误。
+scn00_37_0230 | - | それからずっと、落とし物箱にも入れずに大事に持ち続けていた。 | Yet I've kept the ring with me the whole time. I didn't even put it in the lost-and-found box. | 在那之后，我也没有将它放进失物箱中，而是一直小心保管在自己手里。
+scn00_37_0231 | - | 見付からないようポケットにしまってたはずなのに、いつの間にか握り込んでいたらしい。 | I'd put it safely in my pocket so that it wouldn't be found. I'm not sure why it's in my hand now. | 为了防止找不到它，我应该是将它收到口袋里了才对，但似乎不知何时又将它握在了手中。
+scn00_37_0232 | - | 感情回路のエラー、もしくは正常な働きの結果だろう。 | Is it an error caused by my emotional circuits, or are they actually functioning normally? | 应该是感情回路的错误，又或者说是正常行为的结果吧。
+scn00_37_0233 | - | ひなたさんが指輪を指で[つ]摘まんで持った。 | Hinata-san holds the ring up between his fingers. | 日向先生用手指捏起了戒指。
+scn00_37_0234 | ココロ(Cocoro) | 「あっ……」 | "Ah..." | “啊……”
+scn00_37_0235 | - | 持って行かないで――そんな感情を感情回路が伝えてくる。 | My emotional circuits are screaming, "Don't take it away!" | 不要拿走——我的感情回路中传来了这种感情。
+scn00_37_0236 | ひなた(Hinata) | 「……この指輪は……俺の心が形になったもの。それできっと、ココロの……心もそう」 | "This ring... is a physical manifestation of my soul... And yours as well, I'm sure..." | “……这枚戒指……是我的心灵具现之物，然后心的心灵……肯定也是如此”
+scn00_37_0237 | ひなた(Hinata) | 「ふたりの心は一致した場所にあったんだよ」 | "It was in the place where our souls connected." | “我们两个的心都在同一处啊”
+scn00_37_0238 | - | そう言ってひなたさんはワタシの左手を取り、指輪を薬指にはめてくれた。 | Hinata-san takes my left hand in his and puts the ring on my ring finger. | 日向先生说着拉起了我的左手，将戒指戴在了我的无名指上。
+scn00_37_0239 | ココロ(Cocoro) | （どうした事でしょう……急に視界がにじんで……視覚センサーの不調再びでしょうか！） | (I wonder what's wrong... My vision is suddenly getting blurry... Are my optical sensors malfunctioning again!?) | （这是怎么回事……视野突然模糊起来了……是视觉传感器又出问题了吗！）
+scn00_37_0240 | - | 慌てていると、ひなたさんの指がワタシの目元を拭ってくれた。 | As I'm starting to panic, Hinata-san wipes the corners of my eyes. | 我慌乱之中，用日向先生的手指擦起了我的眼角。
+scn00_37_0241 | - | それでワタシは、目から洗浄液が[あふ]溢れ出していたんだと気が付いた。 | Only then do I realize that my washer fluid is leaking again. | 然后我便意识到，这是清洁液从眼睛里流了出来。
+scn00_37_0242 | ココロ(Cocoro) | （これが泣くという事……ならワタシは悲しんでいる？） | (Is this what crying feels like? Does that mean I'm sad?) | （这就是哭泣吗……那我是在悲伤吗？）
+scn00_37_0243 | ひなた(Hinata) | 「その涙は、悲しいから……？　それとも……」 | "Are these tears of sadness, or...?" | “你的眼泪，是因为悲伤……？　还是……”
+scn00_37_0244 | - | ワタシは首を振った。 | I shake my head to tell him no. | 我摇了摇头。
+scn00_37_0245 | ココロ(Cocoro) | 「嬉しいからに決まっています」 | "No, it's because I'm happy." | “当然是因为开心”
+scn00_37_0246 | ひなた(Hinata) | 「じゃあ、返事を聞かせてもらっていいかな」 | "Then could I ask you for your answer?" | “那么，可以让我听听你的回答吗”
+scn00_37_0247 | ココロ(Cocoro) | 「結婚してください、ひなたさん」 | "Yes, I'd love to marry you, Hinata-san." | “请和我结婚吧，日向先生”
+scn00_37_0248 | - | ひなたさんの顔が近づいてきて、ワタシの口に口を押し当てた。 | Hinata-san brings his face closer and presses his lips against mine. | 日向先生脸逐渐靠近，将嘴唇印在我的唇上。
+scn00_37_0249 | ココロ(Cocoro) | 「……ン……」 | "Mmh..." | “……嗯……”
+scn00_37_0250 | - | ふんわりと優しく唇と唇が触れ合う。 | Our lips touch each other softly and gently. | 唇与唇轻柔相触。
+scn00_37_0251 | - | これは――キス！ | This is... a kiss! | 这就是——亲吻！
+scn00_37_0252 | - | ヒト同士の[つがい]番が行う愛情表現。 | An expression of love between humans. | 是人类情侣之间进行的爱情表现。
+scn00_37_0253 | - | 真偽不明な資料によると、キスをする事で子どもを[さず]授かる事もあるという。 | According to a reputable source, kissing can lead to having a child. | 不明真伪的资料上显示，亲吻也会让后代降临。
+scn00_37_0254 | ココロ(Cocoro) | （どうですかひなたさん、ワタシの唇は！　ほっぺを超える絶対的ぷにぷに感を味わってくださいませ） | (How do you like my lips, Hinata-san? I can assure you that they're even softer and springier than my cheeks! Please enjoy them to your heart's content!) | （怎么样日向先生，我的嘴唇如何！　请尽情品尝这超越脸蛋的柔软触感吧）
+scn00_37_0255 | - | ひなたさんの唇もまた、ぷにぷに感と瑞々しさを兼ね備えた素晴らしい感触。 | Hinata-san's lips also have an amazing texture, soft and pouty. | 日向先生的嘴唇也有着柔软和水嫩并存的舒适触感。
+scn00_37_0256 | - | まるで『幸福』という感情を感触に変換したらこうなるであろう、というようなものだった。 | If you could convert the emotion of "happiness" to a physical sensation, then this has to be it. | 甚至让我觉得，‘幸福’这个感情如果变化为触感就会是这样吧。
+scn00_37_0257 | - | 幸福によって突き動かされたワタシの口から、自然と言葉が[あふ]溢れ出していた。 | Driven by that happiness, the words flow naturally out of my mouth. | 我那被幸福驱使着，口中自然地流露出了话语。
+scn00_37_0258 | ココロ(Cocoro) | 「好きです、ひなたさんが。もう二度と、ワタシを置いていっちゃイヤですよ」 | "I love you, Hinata-san. Please don't leave me alone ever again." | “我喜欢日向先生，可不要再次丢下我了哦”
+scn00_37_0259 | ひなた(Hinata) | 「約束する。ずっと一緒にいよう」 | "I promise. Let's stay together forever." | “约好了，我们要永远都在一起”
+scn00_37_0260 | - | 長かった、今日まで。 | I've been waiting so long for this day. | 时至今日，我已等待了太久。
+scn00_37_0261 | - | そして今日から、新しいセカイが始まる。 | Today marks the beginning of a new world. | 而从今日起，我将迎来全新的世界。

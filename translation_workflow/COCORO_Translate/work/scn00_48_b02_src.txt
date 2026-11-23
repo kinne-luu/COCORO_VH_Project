@@ -1,0 +1,64 @@
+# scene=scn00_48 batch=2/4 dòng 61-120 / 223
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_48_0061 | 自動運転ナビ(Car Navigation) | 『あの方から伝言です。『例の物を回収するのを忘れないように』と』 | <I've received a reply. She says, "Don't forget to bring the thing."> | ‘那位有话让我转达，“别忘了回收那个东西”’
+scn00_48_0062 | ひなた(Hinata) | 「そうだった！？」 | "Crap, I forgot!" | “还有这回事来着！？”
+scn00_48_0063 | 自動運転ナビ(Car Navigation) | 『今のリアクションも、転送しておきますね』 | <I'll forward that message to her.> | ‘刚刚的反应，我也转达过去了哦’
+scn00_48_0064 | ひなた(Hinata) | 「やめてっ、怒られる！？」 | "No, don't! She'll get mad at me!" | “别，会被骂的！？”
+scn00_48_0065 | ひなた(Hinata) | 「とにかく急いで、頼むよ。今日は大事な日なんだ！」 | "Anyway, can you please just hurry? Today's really important!" | “总之拜托你快点，今天可是非常重要的日子！”
+scn00_48_0066 | 自動運転ナビ(Car Navigation) | 『法定速度ギリギリまで善処してみましょう』 | <I will try to drive as close to the legal speed limit as I can.> | ‘我会在法定速度内妥善处理的’
+scn00_48_0067 | - | 遵法意識の高さはＡＩにとって美徳以外の何物でもない。俺は、我が社の製品に自信を深めた。 | A high level of legal compliance is a great virtue for AI. I'm gaining a renewed sense of confidence in our products. | 遵纪守法意识很强对于AI来说只会是美德，我也对我们公司的产品更加自信了。
+scn00_48_0068 | 声(Voice) | 『ひなたさんは遅れるそうです』 | <Apparently Hinata-san is going to be late.> | ‘日向先生似乎会晚一点’
+scn00_48_0069 | 霧香(Kirika) | 「急な出張だったようだから、仕方ないわね」 | "I suppose that can't be helped after his sudden business trip." | “毕竟突然出了个差，这也是没办法的事啊”
+scn00_48_0070 | 声(Voice) | 『そんな仕事は社員に任せるべきです。あのヒトは社長なのですから』 | <He should delegate that kind of work to his employees. He's the CEO, after all.> | ‘这种工作就应该交给员工，他怎么说也是总裁’
+scn00_48_0071 | 霧香(Kirika) | 「私もそう言ってるんだけどね。自分でやらないと気が済まないみたい」 | "That's what I've been telling him, but he's never satisfied unless he does it himself." | “我也是这么说的，但他似乎如果不亲自去做就不放心”
+scn00_48_0072 | 声(Voice) | 『やれやれですね』 | <He's hopeless.> | ‘真拿他没办法啊’
+scn00_48_0073 | 霧香(Kirika) | 「しょうがないわね、ひなたが戻ってくるまで待ちましょうか」 | "I know, right? We'll just have to wait until he gets back." | “没办法，只能等他回来了”
+scn00_48_0074 | 声(Voice) | 『その必要はありません。毎日会ってますから、今更です』 | <There's no need for that. We've been seeing each other every day.> | ‘没有这个必要，我们每天都会见面，所以事到如今也不用太在意’
+scn00_48_0075 | 霧香(Kirika) | 「……そう。じゃあ、始めるわね」 | "...True. All right, then let's begin." | “……是么，那我就开始了哦”
+scn00_48_0076 | 声(Voice) | 『よろしくお願いします』 | <I leave it in your capable hands.> | ‘拜托你了’
+scn00_48_0077 | ひなた(Hinata) | 「遅れてごめんっっ！！！！」 | "So sorry I'm late!!!" | “抱歉我来晚了！！！！”
+scn00_48_0078 | シラユキ(Shirayuki) | 『お帰りなさい、ひなたさん』 | "Welcome back, Hinata-san." | ‘欢迎回来，日向先生’
+scn00_48_0079 | ひなた(Hinata) | 「シラユキ……ただいま」 | "Shirayuki... I'm back." | “白雪……我回来了”
+scn00_48_0080 | - | 出迎えてくれたのはシラユキだけだった。 | The only one to greet me at the door is Shirayuki. | 出门迎接我的只有白雪。
+scn00_48_0081 | ひなた(Hinata) | 「霧香さんは？」 | "Where's Kirika-san?" | “雾香小姐呢？”
+scn00_48_0082 | シラユキ(Shirayuki) | 『霧香はこの後の準備のために一度家へ帰りました』 | "She's gone home to prepare for the rest of the day." | ‘雾香为了这之后的准备回了一趟家’
+scn00_48_0083 | シラユキ(Shirayuki) | 『ワタシはお留守番を言いつけられて、ひなたさんの帰りを寂しく待ってました』 | "She told me to wait here and greet you when you returned. I've been lonely here, all by myself." | ‘我被吩咐留下来看家，所以在寂寞地等待着日向先生的归来’
+scn00_48_0084 | ひなた(Hinata) | 「そうなのか、ごめんな」 | "I see. I'm sorry." | “这样啊，对不起了啊”
+scn00_48_0085 | - | シラユキは『しゃべる犬型ロボット』として、我が社のマスコットになっている。 | Shirayuki, the talking dog robot, is now the mascot of our company. | 白雪作为‘能说话的犬型机器人’成为了我们公司的吉祥物。
+scn00_48_0086 | - | かつて『厄災』の元凶となり、その後、徹底的に調査がなされた。 | She underwent a thorough investigation once it had become clear that she was the cause of the Calamity. | 曾经的‘灾厄’元凶，在那之后也被彻底调查了一遍。
+scn00_48_0087 | - | シラユキもそれに全面的に協力してくれた。 | We received her full cooperation with this. | 白雪也全面进行了配合。
+scn00_48_0088 | - | おかげで、『厄災』の究明は想定より早く進んだ。 | Thanks to her help, the investigation into the cause of the Calamity progressed faster than we expected. | 拜其所赐，‘灾厄’的调查进度比想象中要更快。
+scn00_48_0089 | - | 現在は通信機能が取り外され、音声による会話でのみやり取りのできるスタンドアローンなロボットとして、霧香さんの秘書をしてくれている。 | Her network interface capabilities have been removed, so she's now a standalone robot who communicates solely through voice. She currently works as Kirika-san's personal assistant. | 她现在已经被拆除了通讯机能，作为一个只能用声音对话的独立机器人，当起了雾香小姐的秘书。
+scn00_48_0090 | ひなた(Hinata) | 「……あれ？？」 | "...Huh?" | “……咦？？”
+scn00_48_0091 | シラユキ(Shirayuki) | 『どうかしましたか？』 | "What's the matter?" | ‘发生什么事了吗？’
+scn00_48_0092 | ひなた(Hinata) | 「いや……『彼女』が見当たらないなって。どこかに移したの？」 | "Oh, it's just... I don't see her. Did she get moved somewhere?" | “没……我只是在想怎么没看到‘她’，是被移动到别处去了吗？”
+scn00_48_0093 | シラユキ(Shirayuki) | 『あー。お姉ちゃんなら、もうここにはいませんよ』 | "Oh, if you're looking for my sister, she's no longer here." | ‘啊，姐姐的话，已经不在这里了’
+scn00_48_0094 | ひなた(Hinata) | 「え！？」 | "What!?" | “哎！？”
+scn00_48_0095 | シラユキ(Shirayuki) | 『先ほど、目覚められて、外へ出て行きました』 | "She woke up a little earlier and went outside." | ‘她刚刚已经醒过来了，然后出门了’
+scn00_48_0096 | - | …………。 | ... | …………
+scn00_48_0097 | - | ガラスを透かして差し込む陽射しの[まぶ]眩しさ。 | The sunlight shining in through the glass dome is glaringly bright. | 透过玻璃照射下来的阳光十分炫目。
+scn00_48_0098 | - | 青々と茂った葉を揺らしながら吹いてくる、優しい風。 | A gentle breeze rustles the leaves of the lush vegetation. | 柔风吹来，摇晃着郁郁葱葱的枝叶。
+scn00_48_0099 | - | 帰ってきた。かけがえのない季節が―― | It's here again—this season filled with irreplaceable memories... | 我回来了，回到了那个独一无二的季节——
+scn00_48_0100 | ひなた(Hinata) | 「ココロ！」 | "Cocoro!" | “心！”
+scn00_48_0101 | ココロ(Cocoro) | 「？」 | "Huh?" | “？”
+scn00_48_0102 | - | 彼女の姿を見付けた俺は、駆け寄って抱きしめていた。 | As soon as I spot her, I run over and pull her into a hug. | 我找到她后，便冲过去抱住了她。
+scn00_48_0103 | ココロ(Cocoro) | 「ひなたさん？」 | "Hinata-san?" | “日向先生？”
+scn00_48_0104 | ひなた(Hinata) | 「そうだよ、俺だよ。忘れちゃった？」 | "Yeah, it's me. Don't tell me you forgot?" | “没错，是我，你忘了吗？”
+scn00_48_0105 | ココロ(Cocoro) | 「カメラ越しに毎日見てましたし、会話もしてました。でも……」 | "I've seen you through the camera every day, and we talked, too... But..." | “虽然每天都能通过摄像头看到，能够进行对话，但……”
+scn00_48_0106 | - | ココロは俺をしげしげと眺め、[ほほ]頬に手を触れる。 | Cocoro stares at me intently as she reaches out for my cheek. | 心端详着我，用手触摸着我的脸颊。
+scn00_48_0107 | ココロ(Cocoro) | 「触れられる……」 | "Now I can touch you..." | “能够触摸到……”
+scn00_48_0108 | ひなた(Hinata) | 「ああ」 | "Yeah." | “嗯”
+scn00_48_0109 | - | 俺もココロの頬に手を[そ]添える。 | I put my hand over Cocoro's. | 我也将手放到了心的脸颊上。
+scn00_48_0110 | ココロ(Cocoro) | 「触れてもらえる……」 | "And you can touch me..." | “能被触摸到……”
+scn00_48_0111 | ひなた(Hinata) | 「ああ」 | "Yeah." | “嗯”
+scn00_48_0112 | ココロ(Cocoro) | 「やはり、『自分の』目で見て、耳で聞き、手で触れるのは格別ですね」 | "It really  different, seeing you with my own eyes, hearing you with my own ears, and touching you with my own hands." | “果然，用‘自己的’眼睛来看，‘自己的’耳朵来听，‘自己的’手来触摸，完全不一样”
+scn00_48_0113 | ひなた(Hinata) | 「ああ……」 | "Yeah..." | “嗯……”
+scn00_48_0114 | - | しばし、[か]噛み[し]締めるように無言で見つめ合う。 | For a short while, we simply look into each other's eyes and enjoy the moment. | 一时，我们都像是在咀嚼着话语一般默默对视着。
+scn00_48_0115 | - | 今日まで、長かった……。 | We've been waiting so long for this day. | 花了好长时间，才等到了今天……
+scn00_48_0116 | ひなた(Hinata) | 「おかえり、ココロ」 | "Welcome back, Cocoro." | “欢迎回来，心”
+scn00_48_0117 | ココロ(Cocoro) | 「ただいまです、ひなたさん」 | "It's good to be with you again, Hinata-san." | “我回来了，日向先生”
+scn00_48_0118 | - | 今日はココロが目覚める日だった。 | Today is the day of Cocoro's awakening. | 今天是心醒来的日子。
+scn00_48_0119 | - | あれから何年が経ったろう、会社を設立し、日々の業務に忙殺されながら、俺と霧香さんはココロのボディの復元をしてきた。 | How many years has it been? Kirika-san and I have been busy every day since we established our company, yet we still managed to repair Cocoro's body alongside our other work. | 自那时起不知过了多少年，我和雾香小姐在成立了公司，每天都忙着业务的同时，也在对心的身体进行着修复。
+scn00_48_0120 | - | それが先日ようやく終わり、何度かテストを重ねて、今日その中にココロが『[やど]宿る』事になっていた。 | We finally finished it a few days ago, and after conducting several tests, we decided that today would be the day that Cocoro took up residence in her body once more. | 而在几天前，这项工作终于结束了，经历了无数次测试，今天终于能让心‘寄宿’到那具身体中了。

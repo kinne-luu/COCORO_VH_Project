@@ -1,0 +1,64 @@
+# scene=scn00_35 batch=2/5 dòng 60-119 / 276
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_35_0060 | - | ループし続けている疑問に、答えを与えてあげたらいいのか。それでオーバーフロー状態は解消できる。 | So I just have to give her an answer to the question that's causing her to get stuck in a loop? That would resolve the overflow error. | 只要对她不断思考的疑问进行回答就可以了啊，然后就能解除她的过载状态。
+scn00_35_0061 | - | 『でも、ココロがどんな問いをし続けているのかが分からないと』 | "But we don't know what question she's thinking about." | ‘但是，这得先知道心的疑问是什么才行’
+scn00_35_0062 | - | だいたい、答えが出せるような疑問であれば、オーバーフローしないはずだ。 | Besides, if it was a question we could easily answer, it wouldn't cause an overflow. | 再说了，如果是能得出答案的疑问，应该不会让她过载才对。
+scn00_35_0063 | - | 端末のモニタに何かが映し出された。 | Something flashes on the device's screen. | 终端的显示器上出现了一个画面。
+scn00_35_0064 | - | 真っ暗な闇が、ゆらゆらと淀んでいた。 | An indistinct silhouette wavers against the pitch-black background. | 深邃的黑暗缓缓沉淀着。
+scn00_35_0065 | - | 『これは？』 | "What is this?" | ‘这是？’
+scn00_35_0066 | ＣＣＲ－０２(CCR-02) | 『おネエ……ちゃん……の……ココろ……』 | "My... sis...ter's... soul." | ‘姐姐……的……心……’
+scn00_35_0067 | - | ココロの心？ | Cocoro's soul? | 心的心？
+scn00_35_0068 | - | 擬似的に形成された心の中の風景って事だろうか。 | Is it a visual representation of what's inside her soul? | 是指在模拟出的心中产生的景象吗。
+scn00_35_0069 | ひなた(Hinata) | 「ぁぅぅッ……！？」 | "Ahh...!?" | “啊呜呜……！？”
+scn00_35_0070 | - | キィィィーーーンと耳障りなノイズが鼓膜を貫き、俺は思わず顔をしかめる。 | Screeeeee! A high-pitched, staticky sound pierces my eardrums, and I wince in pain. | 滋————一声尖锐的噪音贯穿了我的鼓膜，让我不由得皱起了眉头。
+scn00_35_0071 | ＣＣＲ－０２(CCR-02) | 『オねえ……チャン……の……コエ……』 | "It's... her... voice..." | ‘姐姐……的……声音……’
+scn00_35_0072 | - | 『今のが？』 | "That was Cocoro?" | ‘刚刚那个吗？’
+scn00_35_0073 | - | 超高速でループし続ける問いが音になったものだろうか。 | Was that the sound of the question looping around in her processors at enormous speed? | 大概是超高速循环提问形成的声音吧。
+scn00_35_0074 | - | 『なんて言ってるの？』 | "What is she saying?" | ‘她在说什么？’
+scn00_35_0075 | - | ＣＣＲ－０２は答える代わりに、モニタに文字列を表示した。 | CCR-02 displays her answer on the monitor of my device. | CCR-02没有回答，而是将文字映在了显示器上。
+scn00_35_0076 | - | ――花はどうして美しいのですか？ | Why are flowers so beautiful? | ——花为什么美丽？
+scn00_35_0077 | ひなた(Hinata) | （これが、ココロにとっての絶対に答えの出ない問いというわけか） | (That's Cocoro's unanswerable question?) | （也就是说，这就是心绝对无法回答出来的疑问啊）
+scn00_35_0078 | ＣＣＲ－０２(CCR-02) | 『ワカ……ら……ナイ。ひなた……サン……ナラ……わか……ル？』 | "I don't... under...stand. Hinata-...san, do... you... under...stand?" | ‘我……不……知道。日向……先生……明白……吗？’
+scn00_35_0079 | - | 俺は首を横に振る。 | I shake my head. | 我摇了摇头。
+scn00_35_0080 | - | 『ココロが望む答えかどうかは分からない。けど、俺はその答えを与えてあげると約束した』 | "I don't know if my answer is the one she seeks, but I promised to give her an answer." | ‘虽然不知道是不是心所期望的答案，但我和她约定过，要告诉她这个问题的答案’
+scn00_35_0081 | ＣＣＲ－０２(CCR-02) | 『おねガイ……おネエ……ちゃん……ヲ……タスけ……て』 | "Please... Save... my... sis...ter." | ‘拜托了……救救……姐姐……吧’
+scn00_35_0082 | - | 俺は[うなず]頷く。そのためにここへ来た。 | I nod. That's why I came here. | 我点了点头。我就是为此才来到了这里。
+scn00_35_0083 | - | だが疑問の答え以前に、大きな問題がある。 | But before I can start thinking about answering Cocoro's question, there's an obstacle I need to overcome first. | 但在回答这个疑问之前，还有一个很严重的问题。
+scn00_35_0084 | - | 『どうにかして、ココロの思考回路にアクセスしないといけない』 | "I need to be able to access Cocoro's thought processors somehow." | ‘得想办法访问心的思考回路’
+scn00_35_0085 | - | ココロは目を閉じていて、聴覚センサーもオフにしている。 | Cocoro has her eyes closed, and her auditory sensors are turned off as well. | 心闭上了眼睛，将听觉传感器也关闭了。
+scn00_35_0086 | - | 端末からのアクセスも、さきほどのように拒否していて、対話する方法がない。 | If she keeps on denying my attempts to access her system, then there's no way to talk to her. | 从终端进行访问也只会像刚刚那样被拒绝，所以现在没有能和她进行对话的方法。
+scn00_35_0087 | ひなた(Hinata) | （君に伝えたい事があるんだ……話をさせてくれ、ココロ） | (I need to tell you something... Talk to me, Cocoro.) | （我有话想对你说啊……听我说说话吧，心）
+scn00_35_0088 | - | 俺はココロの手を取った。まるで、つないだ手から気持ちが伝わると信じているみたいに。 | I take Cocoro's hand in my own, hoping that maybe my feelings could be conveyed through my touch. | 我拉起心的手，就像是坚信着感情能够通过紧握的手传达给她一般。
+scn00_35_0089 | ひなた(Hinata) | （ん？　ココロはどうして手を握ったままなんだ？） | (Hm? Why is her hand closed in a fist?) | （嗯？　心为什么一直攥着拳头？）
+scn00_35_0090 | - | ココロは左手を握り締めたまま。その状態で眠りに就いたために、そのまま固まってしまっているようだ。 | Cocoro has her left hand balled up into a tight fist. She must've gone into sleep mode in that position. | 心的左手紧握着。就像是以这种状态进入了睡眠，所以就一直保持着这个姿势。
+scn00_35_0091 | - | 開かせようとするが、力が強く、開く事ができない。 | I try to pry her fist open, but it's stuck so tightly that I can't move her fingers. | 我想将其打开，但她力气太大了，导致我没能成功。
+scn00_35_0092 | - | 逆側の手は開いていて、力はこもっていなかった。 | Her opposite hand is open, and her fingers hang limply down. | 另一只手则保持着张开状态，也没有用力。
+scn00_35_0093 | - | 俺はその手を、[ねん]念を送るように握り締めた。 | I grab her other hand and give it a squeeze, praying that she'll feel it. | 我紧紧握住了那只手，试图将自己的想法传达给她。
+scn00_35_0094 | - | \n\n\n\n花はどうして美しいのか？ | \n\n\nWhy are flowers so beautiful? | \n\n\n\n花为什么美丽？
+scn00_35_0095 | - | %n;#00ff0000;エラー、もう一度お願いします。 | %n;#00ff0000;Error, please try again. | %n;#00ff0000;错误，请再说一遍。
+scn00_35_0096 | - | %n;花はどうして美しいのか？ | %n;Why are flowers so beautiful? | %n;花为什么美丽？
+scn00_35_0097 | - | %n;#00ff0000;エラー、もう一度お願いします。 | %n;#00ff0000;Error, please try again. | %n;#00ff0000;错误，请再说一遍。
+scn00_35_0098 | - | %n;花はどうして美しいのか？ | %n;Why are flowers so beautiful? | %n;花为什么美丽？
+scn00_35_0099 | - | %n;#00ff0000;エラー、もう一度お願いします。 | %n;#00ff0000;Error, please try again. | %n;#00ff0000;错误，请再说一遍。
+scn00_35_0100 | - | 答えの出ない問いを、[た]絶え[ま]間なく投げかけるうち、思考回路はオーバーフローを起こし、システムのリブートを阻害し続ける。 | As long as I keep inputting a question I can't answer, it will cause an overflow in my thought processors and prevent my systems from rebooting. | 在不断提出没有答案的问题这一过程中，思考回路发生了过载，不断阻碍着系统重新启动。
+scn00_35_0101 | ココロ(Cocoro) | 「花はどうして美しいのか？」 | "Why are flowers so beautiful?" | “花为什么美丽？”
+scn00_35_0102 | ココロ(Cocoro) | 「エラー、もう一度お願いします」 | "Error, please try again." | “错误，请再说一遍。”
+scn00_35_0103 | - | それでいい。 | This is fine. | 这样就好。
+scn00_35_0104 | - | この問いの答えが見付からないのなら、ワタシに目覚める価値はない事になる。 | It means that I'm not worthy of waking up as long as I can't answer that question. | 如果不能找到这个问题的答案，我就没有醒过来的价值。
+scn00_35_0105 | - | あとは誰かが処分してくれるだろう。 | If I just wait, someone will surely come to dispose of me. | 之后大概会被人处理掉吧。
+scn00_35_0106 | - | ヒトに危害を加えたロボットを、ヒトは決して許さない。 | Humans will never allow a robot that has harmed humans to continue existing. | 对人类造成了危害的机器人，是绝对不会被人类原谅的。
+scn00_35_0107 | - | 対処法は簡単だ。メモリーを完全に消去するだけでいい。それでワタシはこのセカイから消える。 | The solution is simple: just erase my memory. Then, I will disappear from this world. | 处理方式也很简单，只要将记忆完全消除就行了，这样一来我就会从这个世界消失。
+scn00_35_0108 | - | ボディは未来のテクノロジーが込められた貴重なものなので、次の『ワタシ』のために残してあげてほしい。 | My body is a precious resource filled with advanced technology, so I want them to preserve it so the next "me" can use it. | 因为这具身体是包含了未来科技的贵重物品，所以我希望能将其留给下一个‘我’。
+scn00_35_0109 | - | ＣＣＲ－０２が、ダメージを負ったボディの応急処置を行ってくれたようだった。 | CCR-02 seems to have carried out the required emergency maintenance on my damaged body. | CCR-02似乎是对受损的身体进行了紧急处理。
+scn00_35_0110 | - | おかげで活動可能時間が増えてしまった。 | Thanks to her, my operational lifespan has been extended. | 这也让这具身体的可活动时间增加了。
+scn00_35_0111 | - | 増えた時間分、この問いかけをし続けなければならない。 | But that means I have to continue asking that question even longer. | 在增加的时间中，我必须不断询问这个问题。
+scn00_35_0112 | - | ――花はどうして美しいのか？ | "Why are flowers so beautiful?" | ——花为什么美丽？
+scn00_35_0113 | - | ワタシを悩ませ、苦しめ続けたこの問いを、最初にしたのは誰だったか。 | Who was it that first asked me the question that continues to torment me? | 这个让我烦恼，让我痛苦的问题，是谁最先对我提出的来着？
+scn00_35_0114 | ココロ(Cocoro) | （たしかあれは、ワタシがここで初めて目覚めた時でした） | (It must have been when I first woke up here.) | （我记得，那是我第一次醒过来的时候）
+scn00_35_0115 | - | ………… | ...... | …………
+scn00_35_0116 | - | …… | ... | ……
+scn00_35_0117 | 研究者(Researcher) | 「ＣＣＲ－０１、聞こえますか。ＣＣＲ－０１」 | "CCR-01, can you hear me? CCR-01?" | “CCR-01，听得到吗，CCR-01”
+scn00_35_0118 | 研究者(Researcher) | 「目覚めたわね。おはよう、ＣＣＲ－０１」 | "You're awake. Good morning, CCR-01." | “醒过来了啊，早上好，CCR-01”
+scn00_35_0119 | ＣＣＲ－０１(CCR-01) | 「……おはようございます……」 | "Good morning..." | “……早上好……”

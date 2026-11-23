@@ -1,0 +1,60 @@
+scn00_47_0061 | Dì Kirika bất ngờ nhào tới ôm chầm lấy tôi, tôi đành đón lấy dì rồi vỗ về an ủi.
+scn00_47_0062 | "Hinata ơiii, dì khổ sở vất vả lắm luôn áaaa!"
+scn00_47_0063 | "Ngoan nào ngoan nào, dì Kirika đã rất cố gắng rồi. Dì giỏi lắm, giỏi lắm."
+scn00_47_0064 | "Hít hít hít hít..."
+scn00_47_0065 | "Người cháu toàn mùi mồ hôi thôi, dì đừng có hít hà thế chứ."
+scn00_47_0066 | "Đứng yên nào! Dì đang bị tích tụ cả đống căng thẳng đấy nhé! Hàaa... đúng là mùi hương của đứa cháu trai đáng yêu..."
+scn00_47_0067 | "Chỉ nhờ hương vị cà phê thôi mà Trưởng nhóm cũng nhận ra được, tài thật đấy."
+scn00_47_0068 | "Bởi vì những người hiểu rõ 100% khẩu vị của tôi chỉ có Hinata và Cocoro mà thôi."
+scn00_47_0069 | "? Ơ kìa, hôm nay có đông khách ghé thăm thế nhỉ."
+scn00_47_0070 | "Mọi người cũng bảo muốn được gặp cậu ấy ạ."
+scn00_47_0071 | "Làm phiền viện trưởng ạ!"
+scn00_47_0072 | "Chào viện trưởng ạ."
+scn00_47_0073 | "Cháu xin phép làm phiền ạ."
+scn00_47_0074 | "Ừ, phải rồi. Chắc chắn con bé cũng sẽ vui mừng lắm đây."
+scn00_47_0075 | Dì Kirika rời khỏi người tôi, nét mặt nghiêm túc đĩnh đạc thường ngày lập tức quay trở lại rồi dì nhấp thêm một ngụm cà phê.
+scn00_47_0076 | Kế đó, dì quay sang màn hình và bắt đầu gõ nhập các câu lệnh.
+scn00_47_0077 | Vì không hiểu dì đang làm gì nên chúng tôi chỉ biết im lặng đứng dõi theo.
+scn00_47_0078 | "Vậy thì, bắt đầu nhé."
+scn00_47_0079 | Trên màn hình hiện lên hình bóng một người.
+scn00_47_0080 | Bóng dáng của thiếu nữ mà tôi quá đỗi thân quen.
+scn00_47_0081 | "Cocoro..."
+scn00_47_0082 | ...
+scn00_47_0083 | Đôi mắt thiếu nữ hướng nhìn về phía chúng tôi.
+scn00_47_0084 | Đồng bộ cùng chuyển động ấy, chiếc camera gắn trên màn hình cũng xoay về hướng này.
+scn00_47_0085 | "...Cậu có nhận ra tôi không?"
+scn00_47_0086 | <...>
+scn00_47_0087 | Cocoro chăm chú nhìn tôi không chớp mắt, dường như đang cố nhớ lại xem tôi là ai.
+scn00_47_0088 | "Có lẽ quá trình tải bộ nhớ đang gặp sự cố báo lỗi rồi."
+scn00_47_0089 | "Cocoro... Là tôi đây, nào, cậu hãy gọi tên tôi như mọi khi đi mà."
+scn00_47_0090 | Khẽ gật đầu... Cocoro gật đầu đáp lại.
+scn00_47_0091 | Cậu ấy đã nhớ ra rồi sao?
+scn00_47_0092 | <...(mấp máy môi)...>
+scn00_47_0093 | "Chị Coco hình như đang nói gì đó kìa."
+scn00_47_0094 | "Có phải tên của Hinata không?"
+scn00_47_0095 | "Hay là đang bị tắt tiếng thế?"
+scn00_47_0096 | "Lạ thật đấy, làm sao lại thế được..."
+scn00_47_0097 | <Bíp... bíp bíp...>
+scn00_47_0098 | <Bíttt--- bíp bíp roẹt roẹt roẹttt rè rè rèeeeeee!!!>
+scn00_47_0099 | "Oái!? Â-Âm thanh gì vừa phát ra thế kia!!?"
+scn00_47_0100 | "Có khi nào khả năng ngôn ngữ phát sinh lỗi bug không?"
+scn00_47_0101 | "Thế nhưng con bé vẫn nghe hiểu được lời chúng ta nói mà..."
+scn00_47_0102 | <A, vừa rồi là trò đùa kiểu robot đấy ạ. Giá như mọi người bắt bẻ lại rằng 'Bộ là modem quay số thời xưa đấy à' thì màn tung hứng đã hạ màn hoàn hảo rồi.>
+scn00_47_0103 | ...
+scn00_47_0104 | Im phăng phắc. Bầu không khí như đóng băng lại.
+scn00_47_0105 | <Ơ kìa? ...Tôi lại làm sai điều gì rồi sao?>
+scn00_47_0106 | "Đừng có làm người ta thót tim thế chứ hả!!!!!"
+scn00_47_0107 | "Cái cậu này thật là..."
+scn00_47_0108 | "Chao ôi, cái khoản biết nhìn mặt đoán ý thì con bé vẫn còn kém lắm..."
+scn00_47_0109 | "Đúng là phong cách của chị Coco mà."
+scn00_47_0110 | "Ừ, chuẩn không cần chỉnh."
+scn00_47_0111 | Dù có giật mình hoảng hốt, nhưng lòng tôi đã tràn trề niềm tin chắc chắn.
+scn00_47_0112 | "Cậu thực sự đúng là Cocoro rồi..."
+scn00_47_0113 | <Tuy khó có thể khẳng định chắc nịch 100%, nhưng 99% tôi chính là Cocoro của cậu.>
+scn00_47_0114 | <Chỉ là, do việc tải bộ nhớ cần có thời gian nên trong cuộc đối thoại sẽ xuất hiện độ trễ. Mong mọi người hãy thông cảm.>
+scn00_47_0115 | "...Cháu cảm ơn dì, dì Kirika."
+scn00_47_0116 | Tôi bất giác òa khóc nức nở rồi vùi mặt vào đầu gối của dì Kirika.
+scn00_47_0117 | "Không, có gì đâu cháu. Dì mới là người phải cảm ơn, nhờ có cháu mà dì không phải từ bỏ ước mơ của mình."
+scn00_47_0118 | <Khoan khoan khoan đãaaa! Đáng lẽ khoảnh khắc này cậu ấy phải nhào tới ôm chầm lấy tôi chứ, Kirika chơi ăn gian quá đấy nhé!>
+scn00_47_0119 | "Đang ở trong màn hình thì làm sao con bé nhào tới ôm cháu được cơ chứ."
+scn00_47_0120 | <Ư ư... Cậu Hinata mau sang bên phía này ngay đi mà!>

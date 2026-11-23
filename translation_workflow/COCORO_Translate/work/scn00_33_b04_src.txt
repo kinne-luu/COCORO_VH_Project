@@ -1,0 +1,64 @@
+# scene=scn00_33 batch=4/7 dòng 185-244 / 428
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_33_0185 | ひなた(Hinata) | （いつまでも、霧香さんに負担はかけられないし） | (I can't keep being a burden on Kirika-san forever, either.) | （不能一直都让雾香小姐担负一切）
+scn00_33_0186 | 風音(Kazane) | 「ひなたー、いるー？」 | "Hinataaa? Are you there?" | “日向——，你在吗——？”
+scn00_33_0187 | - | 風音が部屋に入ってきた。 | Kazane comes in. | 风音进了房间。
+scn00_33_0188 | - | こういう時、この無遠慮さがありがたい。 | At times like these, I'm grateful that she has no sense of privacy. | 这种时候，我就很感激她这种毫无顾忌的态度。
+scn00_33_0189 | 風音(Kazane) | 「起きてんじゃん。はい、メシ食いな。腹が減ってはなんとやらだよ」 | "Hey, you're awake. Here, you should eat something. You can't do anything on an empty stomach." | “这不是起来了嘛，给你，把饭吃了吧，人是铁饭是钢啊”
+scn00_33_0190 | - | 『ありがとう』 | "Thanks." | ‘谢谢’
+scn00_33_0191 | - | キーボードを使って返事をする。スピーカーが付いていて、電話に繋がってなくても機械音声がしゃべってくれるからありがたい。 | I type my reply into the keyboard. It has its own speaker, so it can convert text into voice without being connected to a phone. | 我用键盘回复了她，键盘是带扬声器的，所以就算没有连在电话上也能够让我用机械音说话。
+scn00_33_0192 | - | 起き上がって、差し入れを食べる事にする。 | I get up. Kazane is right—I should eat. | 我坐起身去吃她带来的东西。
+scn00_33_0193 | - | 『これは』 | "What is this?" | ‘这是什么’
+scn00_33_0194 | 風音(Kazane) | 「クレープ。こないだのやつの材料がまだちょっと残ってたからって大地が」 | "A crepe. Daichi made it with the leftover ingredients from the other day." | “可丽饼，之前还剩了一些材料，所以大地就又做了点”
+scn00_33_0195 | - | フルーツの入ってない、生クリームと生地だけのクレープ。これでも、ここじゃ贅沢品だろう。ありがたくいただく。 | The crepe only has whipped cream in it this time, no fruit. Still, that's a luxury ingredient around here, so I'm thankful to have it. | 这是没有水果只有鲜奶油的可丽饼，即便如此，在这里应该也已经算是奢侈品了吧，那我就心存感激地享用了。
+scn00_33_0196 | 風音(Kazane) | 「コーヒー[い]淹れるねー」 | "I'll make some coffee, okay?" | “我去泡个咖啡哦——”
+scn00_33_0197 | - | 風音がキッチンへコーヒーを淹れにいく。 | Kazane goes into the kitchen. | 风音到厨房泡咖啡去了。
+scn00_33_0198 | - | 『みんなどうしてる？』 | "How is everyone doing?" | ‘大家都怎么想的？’
+scn00_33_0199 | 風音(Kazane) | 「うーん、参ってる。みんなココロちゃんがロボットだったって、ショックを受けてるみたい」 | "Hmm, they're pretty overwhelmed. Nobody ever thought that Cocoro-chan was a robot, so they're still in shock." | “唔——，都很头疼吧，大家在知道心是机器人之后，貌似都挺受打击的”
+scn00_33_0200 | 風音(Kazane) | 「今や商店街の看板娘だったからなぁ」 | "She'd become something of a poster girl for the shopping district, you know?" | “毕竟她现在已经是商店街的看板娘了啊”
+scn00_33_0201 | - | 『そう』 | "Yeah." | ‘这样么’
+scn00_33_0202 | - | ここで暮らすみんなは、『厄災』を生き抜いた人々だ。ロボットへの感情も複雑だろう。 | The residents of this town all lived through the Calamity. Their feelings toward robots must be incredibly complex. | 住在这里的各位都是从‘灾厄’中死里逃生的人们，对机器人的感情应该也很复杂吧。
+scn00_33_0203 | - | [だま]騙されていたと感じても不思議じゃない。 | I wouldn't blame them if they felt betrayed. | 就算觉得是被骗了也没什么奇怪的。
+scn00_33_0204 | ひなた(Hinata) | （実際に騙してたんだしな） | (We  deceiving them the whole time...) | （也确实是骗了他们啊）
+scn00_33_0205 | - | 悪意があったわけじゃないが、騙すというのはそれだけで罪になる事がある。 | We didn't do it out of spite, but deception alone can be a sin. | 虽然并不是出于恶意，但欺骗本身就已经是一种罪了。
+scn00_33_0206 | ひなた(Hinata) | （俺がココロにしていた事だ……） | (I deceived Cocoro, too...) | （也是我对心做过的事……）
+scn00_33_0207 | - | ココロが待ち望む人物でありながら、それを隠していた。 | I knew I was the person she'd been waiting for, yet I concealed the truth from her. | 我身为心苦苦等待之人，却隐瞒了自己的身份。
+scn00_33_0208 | 風音(Kazane) | 「ほい、コーヒー。マズかったらごめん」 | "Here's your coffee. Sorry if it's not as good as what you're used to." | “给你，咖啡，不好喝的话就对不起啦”
+scn00_33_0209 | - | 『俺、父さんのところへ帰るよ』 | "I think I'll go back to my dad's." | ‘我，要回父亲那边去了’
+scn00_33_0210 | 風音(Kazane) | 「マジ？　ココロちゃんどうすんのさ」 | "Seriously? But what about Cocoro-chan?" | “你认真的？　那心怎么办啊”
+scn00_33_0211 | - | 『どうするって、どうもできないだろ』 | "What about her? There's nothing I can do." | ‘能怎么办，不是什么都做不到吗’
+scn00_33_0212 | - | ジャバウォックに連れ去られ、恐らくセントラルのどこかにいる。 | The Jabberwock took her, and they're probably somewhere in Central. | 她被贾巴沃克带走了，现在应该在中心区吧。
+scn00_33_0213 | - | そこまで俺が生身で行く方法はないし、行けたとしても何もできない。 | But it's not safe for me to go there by myself, and even if I could, it wouldn't accomplish anything. | 我没办法靠肉身到达那里，而且就算去了也什么都做不到。
+scn00_33_0214 | - | ココロのボディはもう限界で、手の[ほどこ]施しようはないだろう。 | Cocoro's body won't last much longer, and there's no way for me to fix her. | 心的身体已经到达极限了，大概是无计可施了吧。
+scn00_33_0215 | - | 『ココロ自身が、機能停止する事を望んでいた』 | "She wants to shut down and stop functioning." | ‘心自己也期望着停止运行’
+scn00_33_0216 | - | ココロにとってこのセカイに存在し続ける事は、苦痛でしかなかった。 | For Cocoro, continuing to exist in this world is nothing but suffering. | 对心来说，一直存在于这个世界上，只会让她感受到痛苦。
+scn00_33_0217 | - | 人は様々な矛盾を、コーヒーにミルクを入れて飲むみたいに、何かで薄めて誤魔化して生きている。 | People can put up with contradictions by diluting them with something, like adding milk to coffee. | 人类会将各种各样的矛盾用其他东西稀释掉忽略掉从而一直活下去，就像是在喝加了牛奶的咖啡一样。
+scn00_33_0218 | - | ヒューマノイドであるココロには、それができない。 | But it doesn't work that way for humanoids like Cocoro. | 身为仿生人的心做不到这一点。
+scn00_33_0219 | - | 処理できないエラーを抱えて稼動し続けるのは、人が一つ一つの矛盾から目を背けず向き合いながら生きるようなもの。 | If she continued to operate with an error she couldn't process, it would be like a human living while averting their eyes from each and every contradiction. | 带着无法处理的错误继续运行，就如同人类不去逃避而是直面矛盾生活着一样。
+scn00_33_0220 | - | 例え苦痛を感じる心がなくとも、思考ルーチンに掛かる負担は大きくなっていったはずだ。 | Even if she doesn't have a heart that feels pain, it would place an increased burden on her thinking routines. | 即使没有能够感受到痛苦的人心，也会让思考模式的负担增加。
+scn00_33_0221 | - | なら、早く機能停止した方があの娘のためなのだろう。 | In that case, it would be better for her to shut down sooner rather than later. | 那么，早点停止运行也是为了她好。
+scn00_33_0222 | - | 『ココロに生きていてほしいというのは、俺の願いでしかない』 | "I want Cocoro to live, but that's MY wish." | ‘希望让心活下去，只是我的愿望’
+scn00_33_0223 | - | 『人の要求に応える事を強いられてきたココロに、その願いを押しつけるのは、あんまりな仕打ちだと思う』 | "She's been forced to listen to people's requests all her life. It would be cruel to force my wish upon her as well." | ‘将这个愿望强加在被迫回应人类要求的心身上，也太过分了’
+scn00_33_0224 | 風音(Kazane) | 「ふぅん」 | "Hmm..." | “哼——”
+scn00_33_0225 | - | 風音は不満そうだ。 | Kazane doesn't look convinced. | 风音看上去很不满。
+scn00_33_0226 | 風音(Kazane) | 「それこそ、あんたが決める事じゃないと思うけどね」 | "I don't think that's your decision to make, though." | “我觉得，这才是不应该由你来决定的事啊”
+scn00_33_0227 | - | 『そうだよ、俺が決める事じゃないから言ってるんだよ』 | "You're right, it's not. That's what I'm saying." | ‘是啊，我不是也说过这不是该由我来决定的事嘛’
+scn00_33_0228 | 風音(Kazane) | 「勝手に決めて、あきらめるのが？　ココロちゃんに決めさせてあげろって言ってんの」 | "But you  making a decision by giving up on her. What I'm saying is that you should let Cocoro-chan decide." | “你是要擅自作出决定然后放弃吗？　还说什么让心来决定”
+scn00_33_0229 | - | 『ココロはヒューマノイドだよ。要求されたら、それに応えようとするんだ』 | "She's a humanoid. She will try to comply with any request that's made of her." | ‘心是仿生人啊，只要对她提出要求她就会回应’
+scn00_33_0230 | 風音(Kazane) | 「むー……んな事ないと思うけどなぁ。ココロちゃん、嫌な事はちゃんと嫌って言ってたよ。わかんねーけどさ！」 | "Hmm... I don't think that's necessarily true. She never hesitated to say when she didn't want to do something. I'm no expert, though." | “呣……我觉得没有这回事啊，如果是不想做的事心也会说不想做啊，虽然我也不太懂啊！”
+scn00_33_0231 | - | 『ココロに心があるなら、そうだろう』 | "If she had a soul, then you'd be right." | ‘如果心拥有人心，那确实是这样吧’
+scn00_33_0232 | 風音(Kazane) | 「ないって思ってんの？」 | "You don't think she has a soul?" | “你觉得她没有吗？”
+scn00_33_0233 | - | …………。 | ... | …………
+scn00_33_0234 | - | 『わからない』 | "I don't know." | ‘我不知道’
+scn00_33_0235 | - | 心の存在を証明する方法がない。 | There's no way to prove its existence. | 没有能证明人心存在的方法。
+scn00_33_0236 | - | 『それに、ココロのところへ行きたくても行けないでしょ』 | "Besides, how would I even go see her?" | ‘况且，就算想去心身边也去不了啊’
+scn00_33_0237 | 風音(Kazane) | 「そりゃ……まーね」 | "Well... I guess..." | “这……也确实啊”
+scn00_33_0238 | - | 風音は窓から外をチラッと見ながら言う。 | Kazane glances out the window. | 风音瞟着窗外说道。
+scn00_33_0239 | - | 駆除隊の隊員が見張りをしているのが見える。 | The extermination squad members are still standing guard outside. | 外面能看到驱除队队员正在望风。
+scn00_33_0240 | 風音(Kazane) | 「あいつら、邪魔ばっかして……」 | "They're always getting in the way..." | “那些家伙们就只会碍事……”
+scn00_33_0241 | - | 駆除隊は執拗にココロの破壊を狙っていた。 | The extermination squad seems hell-bent on destroying Cocoro. | 驱除队对破坏掉心这件事十分执着。
+scn00_33_0242 | - | どうしてそこまで駆除にこだわるのか。研究チームの主任である霧香さんは、そんな命令出していないのに。 | Why are they so persistent? Kirika-san is the chief of the Special Disaster Investigation Team they're part of, and she gave no such order. | 他们到底为什么非要驱除她呢，明明身为研究小组主任的雾香小姐没有下达这种命令。
+scn00_33_0243 | 風音(Kazane) | 「地上げ屋とも裏で[つる]連んでたみたいだ。うさんくさい連中だって最初から思ってたんだ」 | "I think they were in cahoots with that hustler. I already had a hunch that they were involved in some shady business." | “他们貌似和地皮商暗中有勾结，我从一开始就觉得他们很可疑”
+scn00_33_0244 | 大地(Daichi) | 「おーい、風音ー。町内会長さんが呼んでるぞー」 | "Heeey, Kazane! The neighborhood association chief wants to talk to you!" | “喂——，风音——，居委会会长来叫你了哦——”

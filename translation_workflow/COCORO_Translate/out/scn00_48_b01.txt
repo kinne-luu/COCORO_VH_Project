@@ -1,0 +1,60 @@
+scn00_48_0001 | <Dì Kirika đang làm công việc nhằm giải phóng thành phố Tsukumo. Nếu không thấy phiền lòng, tôi mong cậu có thể giúp dì một tay.>
+scn00_48_0002 | <Tôi không có tiêu chuẩn để phán đoán khái niệm 'phiền lòng' hay 'ghét bỏ' đâu ạ.>
+scn00_48_0003 | <Đúng là thế thật nhỉ.>
+scn00_48_0004 | <Nếu thành phố Tsukumo được giải phóng, cậu có cảm thấy vui mừng không?>
+scn00_48_0005 | <Có chứ, dĩ nhiên rồi.>
+scn00_48_0006 | <Đó là bởi vì cậu sẽ có một nơi chốn để quay về sao?>
+scn00_48_0007 | <Có lẽ vậy... ừ, đúng thế đấy.>
+scn00_48_0008 | <...Thực ra thì, tôi có một nơi chốn rất muốn được quay về.>
+scn00_48_0009 | <Đó là nơi nào thế ạ?>
+scn00_48_0010 | <Là lời hẹn ước... trong miền ký ức.>
+scn00_48_0011 | <? Lời ước hẹn vốn là thứ để người ta giữ trọn hoặc bội ước, chứ đâu phải là nơi chốn để quay về.>
+scn00_48_0012 | <Thì đúng là vậy thật, nhưng mà...>
+scn00_48_0013 | <...A, chẳng lẽ vừa rồi là phản ứng không giống con người sao ạ?>
+scn00_48_0014 | <Không có chuyện đó đâu. Cậu nói hoàn toàn có lý mà.>
+scn00_48_0015 | <Những người chỉ toàn nói lý lẽ thì hay bị ghét bỏ. Trong quá khứ tôi nhớ mình từng học được điều đó.>
+scn00_48_0016 | <Hahaha, có lẽ thế thật.>
+scn00_48_0017 | <Với tư cách là một con người, tôi vẫn còn kém cỏi quá...>
+scn00_48_0018 | <Tôi hiểu rồi, tôi sẽ giúp một tay. Để tạo dựng nên một nơi chốn cho cậu quay về.>
+scn00_48_0019 | Mấy năm sau.
+scn00_48_0020 | Chiếc xe hơi tôi ngồi lao vun vút trên tuyến đường cao tốc mới vừa khánh thành cách đây vài ngày.
+scn00_48_0021 | "Không thể chạy nhanh hơn một chút được sao?"
+scn00_48_0022 | <Đã đạt tốc độ tối đa cho phép theo luật rồi ạ. Xin ngài hãy từ bỏ ý định đi.>
+scn00_48_0023 | "Nể tình chút đi mà... Vượt quá tốc độ một xíu thôi thì ai chẳng làm?"
+scn00_48_0024 | <Thật ngán ngẩm quá đi. Xin ngài đừng ép buộc tôi thực hiện hành vi vi phạm pháp luật. Coi chừng tôi méc lại với người ấy đấy nhé?>
+scn00_48_0025 | Hệ thống định vị lái tự động do công ty chúng tôi phát triển quả thực vô cùng xuất sắc. Cho dù có bị chủ nhân ép buộc, nó cũng nhất quyết không chịu chạy vượt tốc độ dù chỉ 1 km/h.
+scn00_48_0026 | <Nếu đã vội đến thế, cớ sao ngài không chịu về sớm hơn cơ chứ?>
+scn00_48_0027 | "Chẳng phải do bất khả kháng sao, chuyến công tác đột xuất ấy chứ."
+scn00_48_0028 | Có khách hàng ở phương xa báo cáo sản phẩm của chúng tôi gặp sự cố trục trặc, nên tôi phải tức tốc đích thân đến tận nơi kiểm tra.
+scn00_48_0029 | Kết quả hóa ra chỉ là do sơ suất bỏ sót thao tác thông thường của khách, thiết bị chẳng có vấn đề gì hết.
+scn00_48_0030 | <Chao ôi... Sự hoài nghi mà con người dành cho robot chúng tôi xem ra vẫn còn ăn sâu bám rễ lắm nhỉ.>
+scn00_48_0031 | "Đừng có nói thế chứ."
+scn00_48_0032 | Vì biết hệ thống định vị kiểu gì cũng tuân thủ nghiêm ngặt tốc độ quy định, nên tôi đành buông xuôi, thong thả ngắm nhìn phong cảnh bên đường.
+scn00_48_0033 | <Sắp sửa tiến vào địa phận thành phố Tsukumo rồi ạ.>
+scn00_48_0034 | "Ừ, tôi biết rồi."
+scn00_48_0035 | Qua kính chắn gió phía trước, bóng dáng của đô thị tương lai Tsukumo đã hoàn tất công cuộc tái thiết đã dần hiện ra trong tầm mắt.
+scn00_48_0036 | Một đô thị thực nghiệm quy tụ những công nghệ tối tân nhất thế giới, hướng tới sự dung hòa gắn kết giữa con người và robot.
+scn00_48_0037 | Điều làm nên kỳ tích ấy chính là hệ thống AI thế hệ mới... Hệ thống CCR.
+scn00_48_0038 | Một trí tuệ nhân tạo có khả năng giao cảm tâm hồn cùng con người.
+scn00_48_0039 | <Có cần tôi liên lạc trước với người ấy không, thưa Giám đốc?>
+scn00_48_0040 | "...Phiền cô nhắn giúp nhé. Nếu tôi tự gọi thì kiểu gì cũng bị xỉa xói một trận cho mà xem."
+scn00_48_0041 | <Rõ rồi ạ. Tôi sẽ tường thuật chi tiết rằng ngài đã đi trễ be bét trong một ngày trọng đại nhường này, kèm theo toàn bộ nhật ký hành trình từ hôm qua đến giờ nhé.>
+scn00_48_0042 | "Rốt cuộc thì vẫn bị xỉa xói chứ khác gì đâu. Không biết cô học cái thói này từ ai không biết..."
+scn00_48_0043 | Thế giới cuối cùng cũng đã vực dậy sau thảm họa 'Ách Tai', và công nghệ lại một lần nữa tiếp tục bước tiến hóa của nó.
+scn00_48_0044 | Trước cả khi những vết thương lòng kịp lành lặn hoàn toàn, cho dù có ai đó từ bỏ thì cũng sẽ có người khác tiếp bước khởi đầu.
+scn00_48_0045 | Mẹ từng tiên liệu trước điều đó. Đây chính là số mệnh của nhân loại, không một ai có thể ngăn cản được.
+scn00_48_0046 | Nếu đã vậy thì hãy hướng tới một sự tiến hóa đúng đắn... mang theo ước nguyện ấy, tôi cùng dì Kirika đã đứng ra thành lập công ty.
+scn00_48_0047 | Khắc ghi nỗi đau của 'Ách Tai' như một bài học xương máu trong ký ức, để không bao giờ tái phạm sai lầm thêm lần nào nữa.
+scn00_48_0048 | Dù trên danh nghĩa tôi là Giám đốc, nhưng người quán xuyến mọi hoạt động nghiên cứu phát triển lại là dì Kirika, nói đúng ra đây thực chất là công ty của dì ấy.
+scn00_48_0049 | Nhiệm vụ của tôi là vừa hỗ trợ công việc nghiên cứu của dì Kirika, vừa suy nghĩ cách ứng dụng hiệu quả vào xã hội và trực tiếp thực thi.
+scn00_48_0050 | Rốt cuộc thì vì thế mà tôi mới phải đi công tác qua đêm để giải quyết khiếu nại của khách hàng đấy chứ... Giám đốc mà trẻ tuổi thì hay bị người ta coi thường lắm.
+scn00_48_0051 | Dù công nghệ có phát triển vượt bậc đến đâu, thì công việc giữa con người với con người vẫn cần phải gặp mặt trực tiếp để giải quyết.
+scn00_48_0052 | Hoặc giả, một khi 'cô ấy' thức tỉnh, biết đâu những việc này tôi cũng có thể giao phó lại cho cô ấy.
+scn00_48_0053 | Hệ thống AI thế hệ mới CCR được nghiên cứu phát triển dựa trên chính dữ liệu của 'cô ấy'.
+scn00_48_0054 | Đó là một AI sở hữu cảm xúc mô phỏng, nhưng để ngăn ngừa nguy cơ mất kiểm soát, chúng tôi đã cài đặt bộ hạn chế an toàn.
+scn00_48_0055 | "...Cơ mà sao ăn nói cay nghiệt thế không biết."
+scn00_48_0056 | <Hả? Ngài có ý kiến gì sao?>
+scn00_48_0057 | "Tôi xin lỗi được chưa. Đừng có ăn nói kiểu đó nữa mà."
+scn00_48_0058 | <Cách dùng từ của tôi là được thừa hưởng từ người ấy đấy ạ. Thế nào, ngài có thấy hạnh phúc không?>
+scn00_48_0059 | "Thôi thì, có thế mới tạo cảm giác đúng là đang trò chuyện chứ nhỉ."
+scn00_48_0060 | Dù với tôi cô ta hay xấc xược như thế, nhưng vì rất biết cách cư xử đúng nơi đúng lúc, nên đối với những người xa lạ, cô ta luôn đáp lời lịch thiệp nhã nhặn, quả là một sản phẩm ưu tú.

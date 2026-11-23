@@ -1,0 +1,64 @@
+scn00_48_0121 | "Tôi xin lỗi nhé, tôi đến muộn mất rồi."
+scn00_48_0122 | "Tôi vốn thừa hiểu cái tính đó của cậu rồi, vả lại bé định vị cũng liên tục gửi nhật ký hành trình của cậu về cho tôi mà."
+scn00_48_0123 | "Chuyến công tác vừa rồi, cậu vất vả nhiều rồi."
+scn00_48_0124 | "Dù vậy thì cậu cũng quá đáng lắm đấy nhé. Người ta muốn được tận mắt chứng kiến khoảnh khắc cậu mở mắt thức tỉnh cơ mà!"
+scn00_48_0125 | "Dù chỉ là sớm hơn một giây, tôi cũng muốn được tận hưởng vẻ đẹp của thế giới này mà."
+scn00_48_0126 | "Thế nào, một thế giới có thể chạm vào được cảm giác ra sao?"
+scn00_48_0127 | "Tuyệt vời lắm ạ, quá tuyệt luôn."
+scn00_48_0128 | Vừa nói, cô ấy vừa đưa tay nắn nắn nhè nhẹ gò má tôi.
+scn00_48_0129 | "Tôi đã mong mỏi được chạm vào cậu suốt bấy lâu... Hihi, đúng là cậu Hinata bằng xương bằng thịt rồi."
+scn00_48_0130 | "Thôi đi mà, nhột chết đi được."
+scn00_48_0131 | "Hứ..."
+scn00_48_0132 | "Có chuyện gì sao?"
+scn00_48_0133 | "Cậu đã cao lên một chút rồi nhỉ."
+scn00_48_0134 | "À... tại hồi đó tôi vẫn còn đang trong độ tuổi dậy thì mà."
+scn00_48_0135 | "Hơn nữa... trông cậu cũng chững chạc, ra dáng người lớn hơn hẳn rồi."
+scn00_48_0136 | "Chẳng phải ngày nào cậu cũng ngắm tôi suốt rồi sao."
+scn00_48_0137 | Khi còn ở trong không gian ảo, ngày nào Cocoro cũng gặp gỡ tôi, và trên thực tế cô ấy đã trợ giúp một phần rất lớn trong công việc kinh doanh của công ty chúng tôi.
+scn00_48_0138 | "Cậu không thấy tôi cũng đã ra dáng người lớn hơn một chút rồi sao?"
+scn00_48_0139 | "Tôi đã dặn đi dặn lại Kirika kỹ càng lắm đấy, bảo phải làm cho tôi một cơ thể phụ nữ đẫy đà, quyến rũ cơ mà."
+scn00_48_0140 | Dù còn cách khá xa cái gọi là đẫy đà bốc lửa, nhưng quả thật thân hình cô ấy đã có đôi chút tinh chỉnh cục bộ.
+scn00_48_0141 | "Tuyệt đỉnh luôn."
+scn00_48_0142 | "Tất nhiên rồi."
+scn00_48_0143 | "Tít tít tít, tít tít tít, sắp đến giờ rồi đấy ạ."
+scn00_48_0144 | "Cái gì mà đột ngột thế!"
+scn00_48_0145 | "Chuông nhắc nhở đấy ạ. Còn đúng 15 phút nữa là tới giờ hẹn theo lịch trình."
+scn00_48_0146 | "Đừng có làm trò đó nữa mà, đau tim chết đi được..."
+scn00_48_0147 | "Cậu đã chuẩn bị món đồ kia chưa đấy?"
+scn00_48_0148 | "Tôi đã mang về cẩn thận rồi."
+scn00_48_0149 | "Vậy sao. ...Hí hí."
+scn00_48_0150 | "Thế thì chúng ta quay về chuẩn bị thôi nào. Mọi người sắp sửa tề tựu đông đủ rồi đấy."
+scn00_48_0151 | Đó là vào cái ngày linh kiện cuối cùng cần thiết để phục hồi cơ thể cho Cocoro được chuyển tới và lắp ráp hoàn tất.
+scn00_48_0152 | Tôi đã bâng quơ cất tiếng hỏi Cocoro đang ở trong màn hình.
+scn00_48_0153 | "Sau khi thức tỉnh, điều đầu tiên cậu muốn làm là gì?"
+scn00_48_0154 | Và rồi Cocoro không chút ngập ngừng đáp lại ngay.
+scn00_48_0155 | <Tôi muốn được tổ chức đám cưới ạ.>
+scn00_48_0156 | Có lẽ là kỳ tích đầu tiên trong lịch sử, hoặc giả là một việc làm điên rồ nhất, ngày hôm nay tại nơi đây, một lễ cưới giữa con người và humanoid đang chuẩn bị được cử hành.
+scn00_48_0157 | "Và tiếp theo đây, xin trân trọng kính mời cô dâu tiến vào lễ đường."
+scn00_48_0158 | Vừa bước qua lối đi và xuất hiện trước mắt mọi người, từ hàng ghế quan khách liền vang lên những tiếng trầm trồ thán phục không ngớt.
+scn00_48_0159 | "Hứ hừ, cuối cùng tôi cũng có thể phô diễn diện mạo rạng rỡ lộng lẫy này cho mọi người cùng chiêm ngưỡng rồi nhé."
+scn00_48_0160 | Đầy vẻ đắc ý và mãn nguyện, Cocoro rảo bước giữa những hàng người chúc phúc rồi đứng sóng đôi bên cạnh tôi.
+scn00_48_0161 | "Giờ đây, trước sự chứng kiến của toàn thể quý vị quan khách, xin mời đôi tân lang tân nương trao lời thề nguyện. Trước hết xin kính mời chú rể."
+scn00_48_0162 | "..."
+scn00_48_0163 | Mọi người lặng yên chăm chú dõi theo tôi, người đang nhìn đắm đuối vào Cocoro mà không thốt nên lời.
+scn00_48_0164 | "Ngày xưa, Cocoro từng trao cho tôi một lời ước hẹn."
+scn00_48_0165 | "Rằng cô ấy sẽ tạo dựng cho tôi một nơi chốn để quay về."
+scn00_48_0166 | "Quê hương thành phố Tsukumo từng một thời mất mát hoang tàn, giờ đây đã được tái sinh rực rỡ thành một đô thị Tsukumo mới."
+scn00_48_0167 | "Nơi đó có chốn về mà tôi hằng mong mỏi. Và chính vào khoảnh khắc này đây... ngày mà lời hứa hẹn giữa hai chúng tôi đã trở thành hiện thực."
+scn00_48_0168 | "Từ nay cho đến mãi mai sau, tôi xin thề sẽ bảo bọc giữ gìn nơi chốn này trọn đời trọn kiếp, cùng với Cocoro."
+scn00_48_0169 | "Tiếp theo, xin kính mời cô dâu."
+scn00_48_0170 | "Hóa ra tôi đã thực sự tạo dựng được một chốn quay về cho cậu Hinata rồi nhỉ."
+scn00_48_0171 | "Dù bản thân tôi còn nhiều vụng về khiếm khuyết và chẳng phải con người, nhưng tôi xin thề sẽ cùng cậu Hinata xây dựng một mái ấm gia đình ngập tràn yêu thương và bảo bọc tổ ấm ấy suốt cuộc đời."
+scn00_48_0172 | "Xin toàn thể quý vị hãy cho một tràng pháo tay nồng nhiệt chúc mừng!"
+scn00_48_0173 | "Hinata ơi! Bé Cocoro ơi! Chúc mừng hai người nhé!!!"
+scn00_48_0174 | "Chị Coco xinh đẹp tuyệt trần luôn á!"
+scn00_48_0175 | "Rốt cuộc ngày này cũng tới... Mừng cho mày lắm, Hinata!"
+scn00_48_0176 | Tiếng reo mừng của tất cả mọi người tề tựu về đây vì ngày trọng đại này vang vọng bên tai tôi.
+scn00_48_0177 | Ai nấy đều đã trưởng thành và vững bước trên con đường riêng của chính mình.
+scn00_48_0178 | Kazane hiện đang công tác với tư cách là cán bộ công chức của thành phố Tsukumo.
+scn00_48_0179 | Là một ứng cử viên sáng giá cho chức Thị trưởng tương lai, ngày ngày cậu ấy vẫn đang nỗ lực hết mình vì những người dân gặp khó khăn trong thành phố.
+scn00_48_0180 | Daichi đã tiếp quản tiệm bánh của gia đình và phát triển việc buôn bán vô cùng thịnh vượng.
+scn00_48_0181 | Hiện nay tiệm đã mở rộng quy mô thành chuỗi ba cửa hàng nổi tiếng khắp toàn thành phố.
+scn00_48_0182 | Dòng đồ ngọt mang thương hiệu Coco-chan khởi đầu từ những chiếc bánh crepe nay đã trở thành thực đơn trứ danh làm nên tên tuổi của quán.
+scn00_48_0183 | Bé Kosame vừa làm công việc văn phòng tại công ty chúng tôi, vừa tham gia thử nghiệm phẫu thuật công nghệ cơ thể sinh học điều khiển học (cyborg) và giờ em đã có thể tự bước đi lại bình thường.
+scn00_48_0184 | Đó là công nghệ được cải tiến ứng dụng từ chính kỹ thuật chế tạo cơ thể của Cocoro, và bé Kosame với tư cách là người trải nghiệm thử nghiệm đã góp công rất lớn vào việc phát triển công nghệ y khoa mới.

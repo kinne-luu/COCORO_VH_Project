@@ -1,0 +1,64 @@
+# scene=scn00_39 batch=2/6 dòng 61-120 / 321
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_39_0061 | - | 犬は嬉しそうにココロにじゃれついてくる。 | The dog looks happy to see Cocoro. | 狗开心地对着心撒起了欢。
+scn00_39_0062 | ココロ(Cocoro) | 「おのれ、言葉の通じない獣め」 | "You animal, you can't even understand basic words." | “可恶，你这头语言不通的野兽”
+scn00_39_0063 | - | ココロは周囲の様子を窺うが、朝も早いので人通りはない。 | Cocoro quickly scans our surroundings, but it's too early for anyone to be out and about. | 心窥视了一下周围的情况，时间还很早所以并没有人路过。
+scn00_39_0064 | ココロ(Cocoro) | 「ほっ……」 | "Hahh..." | “呼……”
+scn00_39_0065 | ひなた(Hinata) | 「今まで通りでいいと思うよ」 | "I don't think you need to act any differently from before." | “我觉得你像以前那样就行了啊”
+scn00_39_0066 | ココロ(Cocoro) | 「そうはいきません。ワタシがロボットであるせいで、みなさんに恐怖心を与えてしまうかもしれませんから」 | "I do. I don't want to accidentally scare anyone with my robotness." | “那可不行，毕竟我机器人的身份，可能会给大家带来恐惧”
+scn00_39_0067 | - | 人目を気にしながら、ココロは俺の手を引いて早足に通りを歩くのだった。 | Cocoro hurriedly pulls me along, glancing around all the while. | 心一边注意着周围有没有人，一边拉着我快步走在了道路上。
+scn00_39_0068 | ひなた(Hinata) | 「霧香さん、来たよ」 | "Kirika-san, we're here." | “雾香小姐，我们来了”
+scn00_39_0069 | 霧香(Kirika) | 「……（ぶつぶつ）……」 | "*mumble* *mumble*..." | “……（嘟嘟囔囔）……”
+scn00_39_0070 | ひなた(Hinata) | 「霧香さーん」 | "Kirika-saaaan!" | “雾香小姐——”
+scn00_39_0071 | 霧香(Kirika) | 「……？　あら、ひなた」 | "Huh? Oh, Hinata." | “……？　哎呀，日向”
+scn00_39_0072 | - | モニタを睨んで考え事に没頭していた霧香さんが、やっと顔を上げた。 | Kirika-san was completely absorbed in her work, her face buried in a monitor. She finally looks up when I call her again. | 盯着显示器埋头苦想的雾香小姐总算是抬起了头。
+scn00_39_0073 | ココロ(Cocoro) | 「おはようございます、霧香。今日はニンゲンドックならぬロボットドックをよろしくお願いします」 | "Good morning, Kirika. Thank you for taking the time to give me a physical exam—or should that be a robo-exam?" | “早上好，雾香。今天的机体精密检查而非人体精密检查就拜托你了”
+scn00_39_0074 | - | 霧香さんはずっとここに[こ]籠もって、コンピュータに残されたデータの解析をしているらしい。 | Kirika-san has been holed up inside the maintenance lab analyzing the data from the computer. | 雾香小姐似乎一直窝在这里，解析着留在电脑里的数据。
+scn00_39_0075 | - | なぜそんな事ができるかというと、調査チームの主任である霧香さんは、あらかじめここのセキュリティ解除キーを持っていた。 | As the chief of the investigation team, she already had the security deactivation key for this place. | 至于她为什么能做到这种事，是因为身为调查队主任的雾香小姐从一开始手里就有解除这里安全系统的秘钥。
+scn00_39_0076 | - | 今日、霧香さんはここの設備を使って、ココロのメンテナンスをしてくれる事になっていた。 | Today, she's planning to carry out maintenance on Cocoro using the facilities here. | 今天，雾香小姐会用这里的设备对心进行维护。
+scn00_39_0077 | - | 駆除隊の襲撃や、リミッター解除しての戦闘行為など、ココロのボディのダメージは計り知れず、メンテナンスは緊急を要する。 | After her run-ins with the extermination squad and fighting with her limiter removed, the damage to Cocoro's internal workings is extensive. She urgently needs more specialized care. | 驱除队的袭击和解除限制进行战斗的行为等种种，让心的身体受到了无法估量的损伤，所以现在必须要紧急维护。
+scn00_39_0078 | 霧香(Kirika) | 「じゃあ、さっそく始めましょうか」 | "Well then, let's begin right away." | “那我们就赶快开始吧”
+scn00_39_0079 | ひなた(Hinata) | 「どう、霧香さん」 | "How does it look, Kirika-san?" | “怎么样，雾香小姐”
+scn00_39_0080 | 霧香(Kirika) | 「ここの設備でできる処置は、全てやった後ね……」 | "I've done everything I can with the equipment here." | “这里的设备能进行的处理，都已经做过了啊……”
+scn00_39_0081 | - | ココロの視覚センサーは回復していた。 | Cocoro's visual sensors were already repaired. | 心的视觉传感器已经恢复了正常。
+scn00_39_0082 | - | やはりココロを連れ去ったＣＣＲ－０２が、すでに応急処置をしてくれていたようだ。 | It seems that CCR-02 really  fix them when she brought Cocoro here with her. | 看来将心带走的CCR-02，确实已经对心进行过了应急处理。
+scn00_39_0083 | ひなた(Hinata) | 「じゃあ、ココロは大丈夫なんだね」 | "So, Cocoro will be okay?" | “那心现在没事了吧”
+scn00_39_0084 | 霧香(Kirika) | 「……言ったでしょう、ここの設備でできる処置はって」 | "Like I said, I've done everything I  do here." | “……我不是说了吗，这里的设备能进行的处理已经都做过了”
+scn00_39_0085 | 霧香(Kirika) | 「人間で言うと緊急入院レベルの故障が、ざっと見ただけでも３……４箇所ある」 | "But... If she were human, I'd need to refer her to at least three... no, four different specialists." | “放在人类身上需要紧急住院级别的故障，粗略估计就有3……4个地方”
+scn00_39_0086 | 霧香(Kirika) | 「パーツを交換すればなんとかなるけど、問題はそのパーツが手に入らない事よ」 | "The remaining issues  be resolved by replacing parts, but the problem is actually sourcing those parts." | “通过更换零件就能解决，但问题就是没法获得这些零件啊”
+scn00_39_0087 | - | プロトタイプで極秘裏に開発されていたココロの交換パーツは、市販品では代用できない物がほとんどだろう。 | Since Cocoro is a prototype that was developed in secret, commercially available parts wouldn't be compatible with her. | 身为被极密开发出的原型机，心身上的零件基本都无法用市场上的商品进行替代。
+scn00_39_0088 | - | そして、そういったパーツの製造を[う]請け負っていた業者も『厄災』のごたごたで失われている。 | And the companies that were contracted to manufacture parts that  compatible all went bankrupt in the aftermath of the Calamity. | 而且，承包这些零件制造的从业者们也都在‘灾厄’的混乱中消失了。
+scn00_39_0089 | ひなた(Hinata) | 「そんな……」 | "But then..." | “怎么会……”
+scn00_39_0090 | 霧香(Kirika) | 「パワーをなるべくセーブして、故障箇所にこれ以上ダメージが入らないようにすれば、しばらくは大丈夫だと思う……」 | "As long as she conserves her power as much as possible and doesn't sustain further damage, I think she'll be okay for a while..." | “只要控制好力量，不让故障部位受到更多伤害，暂时应该是不会有事……”
+scn00_39_0091 | 霧香(Kirika) | 「けど、次に何かあったら、取り返しの付かない事になるわ」 | "But if anything happens to her again, she might truly end up beyond repair." | “但是，如果再出什么事，就真的无法挽回了”
+scn00_39_0092 | - | ココロの身に、いつ何が起こってもおかしくないという事か……。 | So, any minor accident could prove fatal...? | 意思是，心的身体随时随地都有可能出问题么……
+scn00_39_0093 | ひなた(Hinata) | （何かしてあげられる事はないのか……） | (Isn't there anything I could do for her...?) | （就没有什么我能做到的事吗……）
+scn00_39_0094 | - | 自分の無力さに、ただ握り締めた[こぶし]拳を震わせる。 | I clench my fists tightly, upset by my own helplessness. | 面对自己的无力，我也只能用力握紧拳头颤抖着。
+scn00_39_0095 | ココロ(Cocoro) | 『大丈夫です、ひなたさん』 | <It'll be okay, Hinata-san.> | ‘没事的，日向先生’
+scn00_39_0096 | - | ココロの声が、ココロからではなく霧香さんが見ているモニタのスピーカーから聞こえた。 | Cocoro's voice isn't coming from Cocoro herself, but rather from the monitor's speaker. | 我听到了心的声音，但并不是从心口中传出来的，而是从雾香小姐面前显示器的扬声器中传出来的。
+scn00_39_0097 | - | メンテ中のボディを動かせないから、回線を接続してこっちから声を出しているのだ。 | She can't move her body while maintenance is in progress, so she's using the computer terminal to speak to us instead. | 因为她的身体正在维护无法动弹，我们便通过线路将她的声音连接到了这边。
+scn00_39_0098 | ココロ(Cocoro) | 『ワタシのボディは、全てが言わば交換パーツ。最悪、警備ロボットのボディにワタシの脳機能だけ移植していただければ……』 | <In principle, all of my body parts are replaceable. In the worst-case scenario, you could transplant my brain into a security robot's body...> | ‘我的身体硬要说全部都是可替换零件，实在不行，将我的大脑机能单独移植到安保机器人的身体上就行了……’
+scn00_39_0099 | 霧香(Kirika) | 「ひなたに嫌われるわよ」 | "Hinata wouldn't like that." | “这样会被日向讨厌的哦”
+scn00_39_0100 | ココロ(Cocoro) | 『え』 | <Huh?> | ‘哎’
+scn00_39_0101 | 霧香(Kirika) | 「想像してごらんなさい。警備ロボットと囲む朝の食卓を」 | "Imagine sharing breakfast with one of those security robots." | “你想象一下，安保机器人早上围坐在餐桌前的景象”
+scn00_39_0102 | ココロ(Cocoro) | 『ひなたさん　今朝の献立は　納豆とハムエッグに豆腐とワカメのお味噌汁ですー』 | <Hinata-san, this morning's menu is , ham and eggs, tofu, and miso soup with wakame.> | ‘日向先生　今早的贡品是　纳豆和培根煎蛋佐豆腐裙带菜噌汤——’
+scn00_39_0103 | ひなた(Hinata) | 「いただきまーす。もぐもぐ美味しい～」 | "Thanks for the food! *munch* *munch*... It's really good!" | “我开动了，嚼嚼真美味啊～”
+scn00_39_0104 | ココロ(Cocoro) | 『ワタシもいただきまー……と思いましたが　口がありませんでしたー　てへ☆』 | <I would have some too... But unfortunately I don't have a mouth, whoopsie.> | ‘我也开动了——……虽然想这么做　但我根本没有嘴巴——　诶嘿☆’
+scn00_39_0105 | ひなた(Hinata) | 「ははは、相変わらずココロはお茶目さんだなぁ～」 | "Hahaha, you're always so funny, Cocoro." | “哈哈哈，心还是那么调皮呢～”
+scn00_39_0106 | ひなた(Hinata) | 「お、俺はどんなココロだって愛してみせる！」 | "I-I love Cocoro no matter what she looks like!" | “我、我不管心变成什么样都会去爱你的！”
+scn00_39_0107 | 霧香(Kirika) | 「声が震えてるわよ」 | "You're stuttering." | “声音都在颤抖了哦”
+scn00_39_0108 | ココロ(Cocoro) | 『声が震えています』 | <I hear the stuttering, too...> | ‘声音都在颤抖了’
+scn00_39_0109 | 霧香(Kirika) | 「ヒューマノイドにとって『人らしい外見』も重要なパーソナリティ。なんでもいいわけじゃないわ」 | "For humanoids, their humanlike appearance is an important aspect of their personality. It's not as if any body will do." | “对仿生人来说，‘和人类相似的外表’也是很重要的特点，并不是长什么样都行”
+scn00_39_0110 | 霧香(Kirika) | 「それに、ボディを入れ物だとするなら、精神はその形に少なからず影響を受ける。身体と心は無関係じゃないの」 | "Besides, the body isn't just a mere container. Its form has a considerable influence on the mind." | “而且，如果将一个身体作为容器，精神也会受到其外形影响，身体和心之间并不是毫无关系”
+scn00_39_0111 | 霧香(Kirika) | 「とくにココロはまだ自我を獲得したばかりで、ボディを取り替えると何が起こるか分からない」 | "Especially since Cocoro has only just become aware of her 'self,' there's no telling what might happen if we replaced her body." | “尤其是心才刚刚获得自我，不知道更换身体后会发生什么事”
+scn00_39_0112 | ココロ(Cocoro) | 『たしかに警備ロボットのボディは質実剛健ながら、くびれもイマイチで、魅惑的とは言いかねます』 | <Right. The body of a security robot may be strong and durable, but it's not very curvy, so I wouldn't exactly call it attractive.> | ‘确实，安保机器人的身体虽说很结实刚健，但腰部却差点意思，说不上有多大的吸引力’
+scn00_39_0113 | ココロ(Cocoro) | 『ヒトの心は移ろいやすいもの。外見に磨きをかけて、ひなたさんに愛され続けるヒューマノイドを目指さなければ』 | <The human heart is ever changing. I must polish my appearance to ensure that Hinata-san will keep loving me.> | ‘人心是善变的，我必须要做一个精心修饰外表，能被日向先生一直爱下去的仿生人才行’
+scn00_39_0114 | ひなた(Hinata) | （俺も気を付けよう） | (I should be careful, too.) | （我也多注意一点吧）
+scn00_39_0115 | - | ココロは心を持っている。普通のロボットのように何があっても従順というわけじゃない。 | Cocoro has a mind of her own. She's not like a normal robot that mindlessly follows orders. | 心拥有人心，不会像普通机器人那样不管发生什么都会言听计从。
+scn00_39_0116 | ひなた(Hinata) | （ココロの好みの外見ってどんなだろう……） | (I wonder what kind of looks Cocoro prefers in a guy...) | （心喜欢什么样的外表啊……）
+scn00_39_0117 | - | 今度さりげなくリサーチしておこう。 | I should check that sometime. | 有机会偷偷调查一下吧。
+scn00_39_0118 | 霧香(Kirika) | 「今日のところは、これでおしまい。もう起きていいわよ」 | "I think we're done for today. You can get up now." | “现阶段这样就完事了，可以起来了”
+scn00_39_0119 | ココロ(Cocoro) | 「ありがとうございました、霧香」 | "Thank you very much, Kirika." | “十分感谢，雾香”
+scn00_39_0120 | ひなた(Hinata) | 「霧香さんは、今日もここに[こ]籠もりっきり？」 | "Are you staying here again too, Kirika-san?" | “雾香小姐，你今天也要在这里待着？”

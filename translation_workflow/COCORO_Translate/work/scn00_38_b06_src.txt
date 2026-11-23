@@ -1,0 +1,30 @@
+# scene=scn00_38 batch=6/6 dòng 301-326 / 326
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_38_0301 | 霧香(Kirika) | 「ええ。ココロなら『厄災』を終わらせられる。昨夜の騒動も、あの娘が[しず]鎮めてくれたんです」 | "Yes, Cocoro should be able to put an end to the Calamity. She's the one who stopped the rampage last night, after all." | “没错，心是能结束‘灾厄’的，昨晚的骚动也是被她平息的”
+scn00_38_0302 | 霧香(Kirika) | 「ココロは、エリア９９の解放と復興につながる唯一の希望よ」 | "Cocoro is the only hope for Area 99 to be reopened." | “心是关系到99区解放与复兴的唯一希望”
+scn00_38_0303 | 光太郎(Kotaro) | 「ここは引き下がってもらっていいですか？　我々は末端のあなたたちの罪まで問うつもりはないので。それは警察の仕事だ」 | "Could I ask you to step back? We're not here to prosecute you—that's a job for the police." | “可以就此退去吗？　我们没有对你们这些底层进行问罪的意思，那是警察的工作”
+scn00_38_0304 | 駆除隊隊長(Extermination Squad Leader) | 「くっ……」 | "Ugh..." | “咕……”
+scn00_38_0305 | - | だが隊長にもメンツがあるのか、引き下がろうとしない。 | Neither the squad leader nor his men seem willing to back down. | 但可能是碍于面子，队长并不想撤退。
+scn00_38_0306 | - | 光太郎さんはいつも通りの余裕のある笑みを浮かべてはいるが、隊長が実力行使に出れば、止める方法はないんじゃないだろうか。 | Although Kotaro-san is wearing his usual relaxed smile, I wonder if he's able to do anything if the leader decides to use force. | 光太郎先生虽然露出了和往常一样从容的笑容，但如果队长真的动用武力，他应该也没有办法阻止吧。
+scn00_38_0307 | ひなた(Hinata) | （あるいは対抗できるとしたらリミッターを解除したココロしかいない。でも、もうココロに人を傷つけさせたくない） | (Maybe the only one able to stand up to them is Cocoro with her limiter disabled. But I don't want to make her fight or hurt anyone.) | （或者说，也只有解除了限制的心能够与他们对抗。但是，我已经不想再让心伤害人类了）
+scn00_38_0308 | ひなた(Hinata) | （何か方法はないか……） | (Isn't there another way...?) | （有没有什么办法……）
+scn00_38_0309 | - | [にら]睨み合う住人と駆除隊の頭上を飛ぶ物があった。 | As the residents and the extermination squad continue to stare each other down, something flies overhead. | 相互瞪视着的居民与驱除队，头顶上有东西在飞。
+scn00_38_0310 | ひなた(Hinata) | （あれは――） | (Is that...?) | （那是——）
+scn00_38_0311 | - | 突然、隊長の頭上から色の付いた液体が降ってきた。 | Suddenly, bright-colored liquid rains down from the sky, falling directly onto the squad leader's head. | 突然，队长头顶上洒下了一股有色液体。
+scn00_38_0312 | 駆除隊隊長(Extermination Squad Leader) | 「うわッ！！？」 | "Whoa!?" | “呜哇！！？”
+scn00_38_0313 | - | 遅れて落ちて来たのはペンキの缶だ。 | Finally, a paint can drops to the ground with a loud . | 随后油漆罐也掉了下来。
+scn00_38_0314 | 駆除隊隊長(Extermination Squad Leader) | 「誰だ！！！」 | "Who did that!?" | “是谁！！！”
+scn00_38_0315 | - | 隊長が犯人を捜した時には、ドローンはどこかへいなくなっていた。 | The squad leader looks around furiously, looking for the culprit, but the drone is no longer in sight. | 趁队长寻找犯人的时候，无人机已经消失不见了。
+scn00_38_0316 | ひなた(Hinata) | 「乾いて固まる前に、シャワーを浴びた方がいいですよ」 | "You might want to take a shower before that dries." | “趁油漆还没干，赶紧去洗个澡比较好哦”
+scn00_38_0317 | 駆除隊隊長(Extermination Squad Leader) | 「くッ…………帰るぞ！！！」 | "Dammit... Let's go!!!" | “咕…………回去了！！！”
+scn00_38_0318 | - | 顔を真っ赤にした隊長が、部下を率いて帰っていくのを、住民たちはブーイングで見送った。 | The squad members fall quiet and shuffle away, following after their red-faced leader. The residents send them off with loud booing. | 满脸通红的队长率领着部下回去了，居民们则用嘘声目送着他们。
+scn00_38_0319 | 大地(Daichi) | 「ざまぁ！」 | "Serves you right!" | “活该！”
+scn00_38_0320 | 風音(Kazane) | 「一昨日来やがれ！」 | "Get lost!" | “别再出现了！”
+scn00_38_0321 | こさめ(Kosame) | 「べーっだ！」 | "Blehhh!" | “呸——！”
+scn00_38_0322 | 犬(Dog) | 「ワンワン！！」 | "Woof woof!" | “汪汪！！”
+scn00_38_0323 | - | その様子を見守っているドローンのカメラに向かって、俺はピースサインを送った。 | I spot the drone still in the air, so I give a peace sign toward its camera. | 我对着守望着这一切的无人机镜头比了个V。
+scn00_38_0324 | ひなた(Hinata) | 「ナイスだココロ」 | "Nice job, Cocoro." | “干得漂亮，心”
+scn00_38_0325 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_38_0326 | ココロ(Cocoro) | 「守ってくれてありがとうございます、みなさん」 | "Thank you very much for protecting me, everyone." | “各位，谢谢你们保护了我”

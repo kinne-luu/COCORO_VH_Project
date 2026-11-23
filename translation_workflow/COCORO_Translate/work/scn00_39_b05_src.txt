@@ -1,0 +1,44 @@
+# scene=scn00_39 batch=5/6 dòng 241-280 / 321
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_39_0241 | ココロ(Cocoro) | 「ワタシはずっと『死』を待つだけの時間だと思って眠っていました……」 | "While I was sleeping, I thought I was only waiting for my death..." | “我沉睡的时候一直以为这段时间只是在等待‘死亡’而已……”
+scn00_39_0242 | - | 誰もココロに教えてあげなかったんだろう、事情が変化した事を。 | It seems nobody told Cocoro that plans had changed. | 大概没有人将情况有变的事告诉心吧。
+scn00_39_0243 | - | それはココロが実験機であり、教える事でテスト結果に影響が出る事を恐れたからかもしれない。 | Perhaps because she's a prototype, the researchers feared that telling her too much would affect the experiment. | 这或许是因为心是实验机，他们担心将这些事告诉她会对实验结果产生影响。
+scn00_39_0244 | - | それとも、ココロの気持ちを誰も気遣わなかった――感情のないただのロボットとしてしか扱わなかったせいか。 | Or maybe nobody cared enough to tell her, because they treated her like a mere robot without any feelings. | 还是说，这是因为没有人在意心的想法——所有人都将她看作是一个没有感情的机器人了呢。
+scn00_39_0245 | - | いずれにせよ、その代償は取り返しの付かないものとなった。 | In any case, their mistake was a costly one. | 但无论事实如何，其结果就是付出了无法挽回的代价。
+scn00_39_0246 | - | ココロの胸の内で[ふく]膨らんだ『死にたくない』というネガティブな感情が、不幸にも『厄災』の引き金となってしまった。 | Cocoro's fear of death caused negative feelings to swell inside her, triggering the tragedy that would later become known as the Calamity. | 在心的胸中不断膨胀的‘不想死’这一负面感情，很不幸地成为了‘灾厄’的导火索。
+scn00_39_0247 | 霧香(Kirika) | 「私は誤解していた。『厄災』を引き起こしたのはココロだったと」 | "I'd misconstrued the situation. I thought that Cocoro was the cause of the Calamity." | “我误会了，以为‘灾厄’是心引发的”
+scn00_39_0248 | ココロ(Cocoro) | 「そうです、ワタシのせいです」 | "But that's true. It  my fault." | “是这样没错，就是我的错”
+scn00_39_0249 | - | 霧香さんは首を振る。 | Kirika-san shakes her head. | 雾香小姐摇了摇头。
+scn00_39_0250 | 霧香(Kirika) | 「そうではなかったのよ」 | "No, it wasn't." | “并不是这样”
+scn00_39_0251 | ひなた(Hinata) | 「どういう事？」 | "What do you mean?" | “这是怎么回事？”
+scn00_39_0252 | 霧香(Kirika) | 「アレロパシーを発生させていたのは、ジャバウォック……ＣＣＲ－０２だったの」 | "The one who emitted the allelopathy was the Jabberwock... It was CCR-02." | “引发化感作用的是贾巴沃克……也就是CCR-02”
+scn00_39_0253 | 霧香(Kirika) | 「ＣＣＲ－０２は、どういうわけかずっとココロの内面状態をモニタしていたようなの」 | "I don't know why, but it looks as if CCR-02 has been monitoring Cocoro's internal state all along." | “CCR-02不知为何一直监控着心的内部状态”
+scn00_39_0254 | ココロ(Cocoro) | 「ええ。妹はワタシのストーカーでしたから。ワタシのメモリーを覗き見していたようです」 | "She was. My sister has been stalking me. She even peeked into my memory." | “是的，因为妹妹就是我的跟踪狂，似乎一直在偷窥着我的记忆”
+scn00_39_0255 | ひなた(Hinata) | 「……そういえば、ＣＣＲ－０２は俺の事を『ひなたさん』って呼んでた。ココロみたいに」 | "I've been wondering about something. CCR-02 addressed me as 'Hinata-san,' which is also what Cocoro calls me." | “……说起来，CCR-02是用‘日向先生’来称呼我的，就和心一样”
+scn00_39_0256 | 霧香(Kirika) | 「ＣＣＲ－０２の元の姿はこんなだったみたい」 | "Apparently, this is what CCR-02 was originally designed to look like." | “CCR-02原本貌似是这个样子的”
+scn00_39_0257 | - | 画面に映し出されたのは、子犬の姿をしたロボットだった。 | The screen displays an image of a robot puppy. | 画面显示出来的是一只小狗外形的机器人。
+scn00_39_0258 | ココロ(Cocoro) | 「あら、かわいい」 | "Oh, that's cute." | “哎呀，好可爱”
+scn00_39_0259 | ひなた(Hinata) | 「犬型ロボットだったのか」 | "She was a robot dog?" | “她原来是犬型机器人吗”
+scn00_39_0260 | 霧香(Kirika) | 「人以外で、人の社会に溶け込める感情を持ったロボットとして、犬の姿が選ばれたのね」 | "They wanted to develop a non-humanoid robot with emotions that could fit right into human society. For that, they chose a doglike design." | “他们为这个能够融入人类社会且拥有感情的机器人，在人类以外的范围中选择了狗作为外形”
+scn00_39_0261 | 霧香(Kirika) | 「しかし、ＣＣＲ－０２には大きな欠陥があった。『心』の形成が未成熟だったため、他我の境界があやふやだったの」 | "But CCR-02 had a major flaw. Because her mind was still immature, she had trouble determining the boundaries between herself and others." | “但是，CCR-02有一个巨大的缺陷。‘心’的形成尚未完成，导致她对彼此的界限十分模糊”
+scn00_39_0262 | ココロ(Cocoro) | 「他我の境界とはなんでしょうか」 | "What do you mean by boundaries?" | “彼此的界限又是什么”
+scn00_39_0263 | ひなた(Hinata) | 「自分は自分、他人は他人、それぞれが別の存在だと認識できているかどうかじゃないかな」 | "I think it means recognizing that you're you, and others are others—that everyone's their own separate entity." | “应该就是能否能将自己和别人区分开来，认知为不同的存在吧”
+scn00_39_0264 | - | 霧香さんが頷く。 | Kirika-san nods. | 雾香小姐点了点头。
+scn00_39_0265 | ココロ(Cocoro) | 「自分と他者を区別する事が、そんなに難しい事なのですか？」 | "Is it really that difficult to recognize the difference between yourself and others?" | “将自己与他人区分开是这么困难的事情么？”
+scn00_39_0266 | 霧香(Kirika) | 「ロボットのあなたがそれを言えるのは、とても凄い事なのよ」 | "It's impressive that you're able to say that as a robot." | “身为机器人的你说出这句话属实是非常厉害了啊”
+scn00_39_0267 | - | 人間は、皮膚によって覆われた一つの肉体を自分と判断できる。だが、ロボットはちがう。 | Humans recognize an individual as everything that's contained within the skin of a single body. However, it doesn't work like that for robots. | 人类可以将皮肤包裹下的整个肉体都认定为自己，但机器人却不一样。
+scn00_39_0268 | - | 記憶装置を増設したり、他のコンピュータと接続して操ったり、逆に操作されたり、一つのボディに複数のＣＰＵを搭載する事だってできる。 | They can be equipped with external storage devices, connect to other computers, operate machines remotely, or be controlled remotely themselves. One body can even contain multiple CPUs. | 能够增设记忆装置，能够连接并操作其他电脑，也能反过来被操作，一具身体也能够搭载多个CPU。
+scn00_39_0269 | - | そのどこからどこまでを自分として区別するのか？ | In that case, how would they determine where the "self" begins and where it ends? | 这样真能区分出来哪一部分是自己么？
+scn00_39_0270 | - | ロボット自身がそれを自覚できるというのは、とても高度な知能や感性を有している証拠という事になるだろう。 | If a robot is aware of this boundary, they're displaying a very high level of intelligence and perception. | 如果机器人能够靠自己进行区分，就足以证明其拥有很高的智力和感性吧
+scn00_39_0271 | ひなた(Hinata) | 「ココロはドローンを自由に操ったり、カメラを通して視覚情報を得たりしてたよね」 | "You're able to operate my drone and gain visual information from its camera, aren't you?" | “心可以自由操纵无人机，也能通过镜头获得视觉情报对吧”
+scn00_39_0272 | ココロ(Cocoro) | 「はい」 | "Yes, I am." | “是的”
+scn00_39_0273 | - | メンテ中はモニタのスピーカーを使ってしゃべったりもしていた。 | She also used the monitor's speakers to talk to us during maintenance. | 在维护中时也曾使用显示器的扬声器说了话。
+scn00_39_0274 | ひなた(Hinata) | 「でも、ドローンを自分の一部だとは認識してない？」 | "But the drone isn't part of you, is it?" | “但是，你没有将无人机看做是自己的一部分对吧？”
+scn00_39_0275 | ココロ(Cocoro) | 「？　もちろんです。ひなたさんはあのドローンを自分の身体の一部だと認識しているのですか？」 | "Huh? No, of course not. Do  recognize the drone as part of you, Hinata-san?" | “？　当然了，日向先生会将那个无人机看作是自己身体的一部分吗？”
+scn00_39_0276 | - | 俺も同じようにコントローラーを使ってドローンを操縦し、ゴーグルでカメラからの視覚情報を見ていた。 | I operate the drone using a controller, and I look at its camera feed through my goggles. | 我也一样用遥控器操纵无人机，用护目镜通过镜头观看视觉情报。
+scn00_39_0277 | - | でも自分の一部じゃないと、はっきり認識できている。 | But it's clearly not a part of "me." | 也能清楚地认知到这并不是自己的一部分。
+scn00_39_0278 | - | それができるのは、肉体という完全に独立した一つの入れ物に入っているからだ。 | I recognize that because my body is a completely independent vessel. | 我之所以能做到这一点，就是因为处在肉体这样一个完全独立的容器里。
+scn00_39_0279 | - | もし肉体が失われ、精神だけで生きる事ができたなら、どう認識するのか想像もつかない。 | I can't even imagine what it would feel like to lose my body but still have my mind live on. | 无法想像如果失去了肉体，只有精神还活着的话，要如何才能进行认知。
+scn00_39_0280 | 霧香(Kirika) | 「その高い認識能力が、ココロがアレロパシーの影響を受けなかった理由ね。でもＣＣＲ－０２はちがった」 | "Her high level of awareness prevented Cocoro from being affected by the allelopathy. But CCR-02 is different." | “这高水平的认知能力，就是心不会受到化感作用影响的理由，但CCR-02不一样”

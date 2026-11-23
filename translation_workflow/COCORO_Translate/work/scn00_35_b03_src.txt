@@ -1,0 +1,65 @@
+# scene=scn00_35 batch=3/5 dòng 120-180 / 276
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_35_0120 | 研究者(Researcher) | 「随分と丁寧な産声ね」 | "You're very polite for a newborn." | “这啼哭声还真是有礼貌啊”
+scn00_35_0121 | ＣＣＲ－０１(CCR-01) | 「そのようにプリセットされています」 | "My parameters have been preset that way." | “因为设定就是这样的”
+scn00_35_0122 | 研究者(Researcher) | 「そうね、これからもっと沢山の挨拶を覚えていきましょう」 | "Right. We'll have you learn many more greetings and phrases." | “是啊，今后也去记下更多各种各样的打招呼方式吧”
+scn00_35_0123 | ＣＣＲ－０１(CCR-01) | 「……ここはどこですか」 | "Where am I?" | “……这里是什么地方”
+scn00_35_0124 | 研究者(Researcher) | 「セントラルが誇る最先端の研究施設よ。未来を創る様々な研究をしている。ねえ、あなた自分が何者か解る？」 | "This is the most cutting-edge research facility in Central. This is where we create the future. Say, do you know who you are?" | “这里是中心区最先进的研究设施哦。这里进行着开创未来的各种研究。我问你，你知道自己是什么吗？”
+scn00_35_0125 | ＣＣＲ－０１(CCR-01) | 「ワタシは……ＣＣＲ－０１」 | "I am... CCR-01." | “我是……CCR-01”
+scn00_35_0126 | - | それがワタシの型番。生まれる前からメモリーに刻まれていた。 | That was my model number. It was already saved in my memory before I was born. | 这就是我的型号，在诞生前就已经刻在我的记忆中了。
+scn00_35_0127 | ＣＣＲ－０１(CCR-01) | 「限りなくヒトに近いロボットのプロトタイプ。能力やヒトの社会へ及ぼす可能性は未知数で、それを調べるためにワタシは造られた」 | "I am the prototype for a hyperrealistic humanoid robot. My capabilities and potential influence on human society are still unknown. I was created to investigate these things." | “我是无限接近人类的机器人原型，因为能力和是否会对人类社会产生影响都是未知数，为了调查这些才将我制造了出来。”
+scn00_35_0128 | 研究者(Researcher) | 「では、私は誰でしょう？」 | "Do you know who I am?" | “那么，我又是谁？”
+scn00_35_0129 | ＣＣＲ－０１(CCR-01) | 「三峯陽子博士。自称天才ロボット研究者で、ワタシの開発者」 | "Dr. Mitsumine Yoko. Self-proclaimed genius robot scientist, and my developer." | “三峯阳子博士，自称天才的机器人研究者，是我的开发者”
+scn00_35_0130 | 三峯陽子博士(Dr. Mitsumine Yoko) | 「よくできました。お利口ね。よしよし、撫でてあげます」 | "Good job. You're so smart. Good girl, good girl." | “回答得不错，真会说话啊，好棒好棒，让我来摸摸你的头吧”
+scn00_35_0131 | ＣＣＲ－０１(CCR-01) | 「……」 | "..." | “……”
+scn00_35_0132 | 三峯陽子博士(Dr. Mitsumine Yoko) | 「そういう時は、少し照れくさそうにはにかむのよ。うちの子はいつもそうする」 | "At times like this, you're supposed to blush and act embarrassed. That's what my kid does when I stroke his hair." | “这种时候必须要表现得稍微有点害羞才行啦，我家孩子就总是会这样”
+scn00_35_0133 | ＣＣＲ－０１(CCR-01) | 「……学習しました」 | "...I've learned something." | “……学到了”
+scn00_35_0134 | 三峯陽子博士(Dr. Mitsumine Yoko) | 「どう、このセカイに生まれた感想は？」 | "How does it feel to be born into this world?" | “怎么样，诞生在这个世界上的感想是什么？”
+scn00_35_0135 | ＣＣＲ－０１(CCR-01) | 「セカイに……生まれた……感想」 | "How does it feel... to be born... into this world?" | “诞生在……世界上……的感想”
+scn00_35_0136 | - | 難しい質問だった。 | That was a difficult question. | 很复杂的问题。
+scn00_35_0137 | - | 先ほど生まれたばかりで、ワタシの事もセカイの事も、事前にインプットされた基本情報しか知らない。 | I'd  been born, so I only possessed the rudimentary knowledge about myself and the world that had been input in advance. | 我刚刚才诞生，所以对自己和对世界都只有事先导入的基本信息。
+scn00_35_0138 | ＣＣＲ－０１(CCR-01) | 「……ヒトの役に立てる存在になれるのが、今から楽しみです」 | "...I'm looking forward to being of service." | “……我期待自己今后能够成为人类的助力”
+scn00_35_0139 | - | そのように答えるのが適切であると、ワタシの脳に刻まれていた。 | The appropriate way to respond was already etched into my brain. | 我脑中记录的数据告诉我，这样回答比较合适。
+scn00_35_0140 | - | だが博士は、その反応に不満だったようで、小さくため息をつく。 | However, Dr. Mitsumine seemed displeased with my response and let out a small sigh. | 但博士却似乎对这个回答不是很满意，轻轻地叹了口气。
+scn00_35_0141 | 三峯陽子博士(Dr. Mitsumine Yoko) | 「では次の質問をするわね」 | "All right, next question." | “那来回答下一个问题吧”
+scn00_35_0142 | ＣＣＲ－０１(CCR-01) | 「どうぞ」 | "Go ahead." | “请问”
+scn00_35_0143 | 三峯陽子博士(Dr. Mitsumine Yoko) | 「これを見てちょうだい」 | "Look at this." | “看看这个”
+scn00_35_0144 | ＣＣＲ－０１(CCR-01) | 「花……でしょうか」 | "That is... a flower." | “花……是吗”
+scn00_35_0145 | - | 博士は頷く。 | Dr. Mitsumine nodded. | 博士点了点头。
+scn00_35_0146 | 三峯陽子博士(Dr. Mitsumine Yoko) | 「私たち人は、花を見て美しいと感じるの。あなたはどう？」 | "When we humans look at a flower, we think that it's beautiful. What do you think about it?" | “我们人类看到花之后会感觉它很美丽，你又有什么感觉？”
+scn00_35_0147 | ＣＣＲ－０１(CCR-01) | 「美しい……と推測できます」 | "I can infer... that it must be beautiful." | “很美丽……这是我推测出的结论”
+scn00_35_0148 | 三峯陽子博士(Dr. Mitsumine Yoko) | 「なら答えて」 | "Then answer me this." | “那就回答我”
+scn00_35_0149 | 三峯陽子博士(Dr. Mitsumine Yoko) | 「花はどうして美しいの？」 | "Why are flowers so beautiful?" | “花为什么美丽？”
+scn00_35_0150 | ＣＣＲ－０１(CCR-01) | 「…………」 | "..." | “…………”
+scn00_35_0151 | ＣＣＲ－０１(CCR-01) | 「……（ふるふる）」 | "*shake* *shake*..." | “……（摇头）”
+scn00_35_0152 | 三峯陽子博士(Dr. Mitsumine Yoko) | 「それは何のジェスチャーかしら」 | "What does that gesture mean?" | “这又是什么意思”
+scn00_35_0153 | ＣＣＲ－０１(CCR-01) | 「解りません」 | "I don't know." | “我不明白”
+scn00_35_0154 | 三峯陽子博士(Dr. Mitsumine Yoko) | 「なにが解らないの？　花が美しい理由？」 | "What don't you know? The reason why flowers are beautiful?" | “什么不明白？　花美丽的理由？”
+scn00_35_0155 | ＣＣＲ－０１(CCR-01) | 「いえ。『美しい』とは何でしょうか？」 | "Affirmative. What is 'beautiful'?" | “不，是‘美丽’到底是什么？”
+scn00_35_0156 | - | 回答をしながら、ワタシの感情回路がネガティブな反応を示した。 | As I answered, my emotional circuits gave a negative reaction. | 我在回答的同时，感情回路也表现出了消极的反应。
+scn00_35_0157 | - | ヒトの期待に応えられない事はよくないのだと学習する。 | I learned that it's not good when I can't meet humans' expectations of me. | 我知道了没能回应人类期待并不是一件好事。
+scn00_35_0158 | ＣＣＲ－０１(CCR-01) | 「……もうしわけございません」 | "...My apologies." | “……十分抱歉”
+scn00_35_0159 | 三峯陽子博士(Dr. Mitsumine Yoko) | 「ちょっと難しい質問だったわね。いいのよ、これから学んでいきましょう」 | "I guess that question was a bit too difficult. That's okay, you'll learn." | “毕竟是个有点复杂的问题啊。没关系啦，之后再慢慢去学吧”
+scn00_35_0160 | ＣＣＲ－０１(CCR-01) | 「了解しました、学習は得意です」 | "Understood. I'm good at learning." | “明白了，我很擅长学习”
+scn00_35_0161 | - | 実直に答えるワタシの髪を、博士はふわりと撫でた。 | When I responded honestly, Dr. Mitsumine gently stroked my hair. | 我诚实回答之后，博士轻抚起了我的头发。
+scn00_35_0162 | 三峯陽子博士(Dr. Mitsumine Yoko) | 「ふふ、この子ならきっと、花がどうして美しいのかも理解できてしまうはず。なにせ私の最高傑作ですもの」 | "Hehe, I'm sure you'll learn to understand why flowers are beautiful. You're my greatest masterpiece." | “呵呵，你这孩子肯定能理解花为什么美丽。毕竟你是我的最高杰作啊”
+scn00_35_0163 | - | ワタシはくすぐったそうに微笑みを浮かべておいた。先ほど学習した成果だ。 | I put an embarrassed smile on my face. That was the appropriate reaction that I had learned moments earlier. | 我脸上浮现出了害羞的微笑，是刚刚学习的成功。
+scn00_35_0164 | 三峯陽子博士(Dr. Mitsumine Yoko) | 「あなたが創る未来を見られない事だけが、心残りだわ」 | "My biggest regret is that I won't be able to witness the future you will shape." | “我唯一感到遗憾的就是，无法亲眼看到你创造的未来啊”
+scn00_35_0165 | - | このセカイで目を覚ましてから、半年が過ぎた頃。 | Half a year after I had first woken up in this world... | 我从这个世界醒来半年后。
+scn00_35_0166 | - | ワタシの開発者、三峯陽子博士が亡くなった事を知った。 | I learned that my developer, Dr. Mitsumine Yoko, had died. | 得知了我的开发者，三峯阳子博士去世的消息。
+scn00_35_0167 | - | ここしばらくは姿を見ていなかったが、理由が明らかになった。 | I hadn't seen her for some time, but now I knew the reason why. | 这段时间没看到她的原因也就显而易见了。
+scn00_35_0168 | - | ヒトは死ぬ。 | Humans die. | 人类是会死亡的。
+scn00_35_0169 | - | 死ってなんだろう？ | What does it mean to "die"? | 死亡是什么呢？
+scn00_35_0170 | ＣＣＲ－０１(CCR-01) | 「ワタシが死ぬ事はあるのでしょうか」 | "Am I able to die?" | “我会经历死亡吗”
+scn00_35_0171 | - | ボディが壊れ、全てのパーツが粉々に砕け散っても、設計図が残っていればワタシをもう一度造る事ができる。 | Even if my body is disassembled and the parts are scattered to different locations, I can be rebuilt as long as the blueprints exist. | 就算身体损坏，所有的零件都粉碎了，只要设计图还在我就能被再次制造出来。
+scn00_35_0172 | - | それは死と言えるんだろうか。 | Would that mean that I died? | 这可以算是死亡吗。
+scn00_35_0173 | - | それとも、ワタシにとっての死はもっと別の形をしているのかもしれない。 | Or does death come in an entirely different form for me? | 还是说，对我而言的死亡也许会以另一种形式到来。
+scn00_35_0174 | - | いずれにせよ、死とは生命を持つものの特権である事から、三峯陽子博士は幸福だったんじゃないかと推測した。 | If death is a privilege reserved for those who have lived, then perhaps Dr. Mitsumine Yoko was fortunate. | 但无论如何，死亡是拥有生命之物的特权，所以我推测三峯阳子博士十分幸福。
+scn00_35_0175 | - | あの頃、ワタシは植物園にいた。 | At the time, I was in the botanical garden. | 那时，我就在植物园里。
+scn00_35_0176 | - | どうやらワタシは極秘裏に開発されているようで、存在をおおっぴらにはできなかった。 | I had learned that I was developed in secret and that I could not reveal to anyone what I really was. | 我似乎是被极密开发出来的，所以不能公开身份。
+scn00_35_0177 | - | 一方で、ヒトと接して、感情を学習しなければならない。 | But I was also tasked with interacting with humans and learning about emotions from them. | 另一方面，我却必须要和人类接触，去学习人类的感情。
+scn00_35_0178 | - | 植物園はヒトの出入りが多くはない上、穏やかな性質のヒトが集まる傾向があった。 | The botanical garden didn't get many visitors, and it tended to attract humans of a calm, moderate nature. | 植物园里进出的人类本就不多，而来到这里的人类大多都有着温和的性格。
+scn00_35_0179 | - | 花がどうして美しいのか知りたいワタシにとっても都合がよい。 | It was the perfect place for me to learn about the beauty of flowers. | 对于想知道花为什么美丽的我来说正合适。
+scn00_35_0180 | - | ワタシは研究者の娘で、内気なせいで学校へ通えなくなり、ボランティアスタッフとして働いている、という名目でここにいた。 | I was given a fabricated backstory: I was the introverted daughter of a researcher who had stopped going to school, and I was helping at the garden as a volunteer. | 我表面上，是研究者的女儿，因为过于内向没法去学校，现在在这里当志愿者。

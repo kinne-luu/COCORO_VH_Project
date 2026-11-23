@@ -1,0 +1,61 @@
+scn00_40_0299 | "Cho cháu sao ạ...? Tại sao lại thế??"
+scn00_40_0300 | "Bà nghĩ nhất định sẽ rất hợp với cháu... Nếu như không làm phiền hai đứa."
+scn00_40_0301 | "Cậu Hinata."
+scn00_40_0302 | Cocoro nhìn tôi với vẻ ngơ ngác chẳng biết phải làm thế nào.
+scn00_40_0303 | "Tất nhiên là không phiền gì rồi ạ... Nhưng mà, như vậy có thật sự ổn không bà?"
+scn00_40_0304 | Chẳng phải đây là một món đồ vô cùng quý giá sao.
+scn00_40_0305 | "Thật ra thì đây vốn là bộ váy để cho cháu gái bà mặc, nhưng giờ dự định ấy không còn nữa rồi. Nên bà nghĩ nếu hai cháu không chê thì cứ nhận lấy nhé."
+scn00_40_0306 | "Cậu thấy sao, Cocoro?"
+scn00_40_0307 | "Tôi... tôi muốn mặc bộ váy này. Tôi muốn mặc nó cùng với cậu Hinata..."
+scn00_40_0308 | "Chuẩn đấy chuẩn đấy, cậu mặc vào chắc chắn sẽ hợp lắm cho mà xem."
+scn00_40_0309 | "Cần phải chỉnh sửa lại tà váy một chút, bà có thể đo số đo của cháu được không?"
+scn00_40_0310 | "Không cần phải đo đạc đâu ạ. Số đo của cháu đều được ghi rõ trong bảng thông số kỹ thuật rồi!"
+scn00_40_0311 | "Cơ mà hiếm khi có dịp, cậu cứ để bà đo trực tiếp cho chuẩn đi."
+scn00_40_0312 | "Ừ, cháu cứ để bà đo cho nhé."
+scn00_40_0313 | "Vậy sao ạ, thế thì cháu xin phép nghe theo ý tốt của bà. Xin mời bà!"
+scn00_40_0314 | Cocoro thoăn thoắt toan cởi phăng quần áo ra.
+scn00_40_0315 | "Ấy khoan, thế thì tôi xin phép ra ngoài đợi nhé!"
+scn00_40_0316 | Tôi luống cuống phi vội ra ngoài.
+scn00_40_0317 | "Không ngờ lại có người chịu cho mượn cả váy cưới thế này."
+scn00_40_0318 | Nếu tự một mình tôi lo liệu, chắc chắn chẳng thể nào xoay xở nổi một bộ váy lộng lẫy đến nhường ấy.
+scn00_40_0319 | "Tốt quá rồi còn gì, Hinata."
+scn00_40_0320 | "Ừ... nhưng mà bất ngờ thật đấy."
+scn00_40_0321 | "Tụi này mới là người giật bắn mình thì có. Đùng một cái tuyên bố: 'Chúng cháu sắp kết hôn!' cơ mà."
+scn00_40_0322 | "Tôi muốn đường đường chính chính bày tỏ rõ thái độ của mình trước mặt mọi người."
+scn00_40_0323 | Tôi không phải kẻ mạnh mẽ gì. Tôi từng lo sợ bản thân sẽ bị cuốn theo miệng lưỡi thế gian mà dao động lòng mình.
+scn00_40_0324 | Một khi đã dõng dạc tuyên bố, tôi có thể hạ quyết tâm một cách dứt khoát.
+scn00_40_0325 | Hơn nữa, tôi nghĩ làm vậy nhất định sẽ tốt cho Cocoro.
+scn00_40_0326 | Tôi nghĩ nếu mọi người biết có một con người muốn cưới cậu ấy làm vợ, thì chuyện làm bạn bè hay láng giềng hẳn sẽ chẳng còn là trở ngại to tát nữa.
+scn00_40_0327 | Dù số người chịu thấu hiểu chưa nhiều, nhưng đã có người xuất hiện và ngỏ ý cho mượn cả bộ váy cưới trân quý.
+scn00_40_0328 | "Nhưng mà, nhận thế này có thật sự được không nhỉ."
+scn00_40_0329 | "Cháu gái của bà Yoshino vốn từng dự định kết hôn. Thế nên bà ấy mới chuẩn bị sẵn bộ váy cưới tinh khôi tuyệt đẹp này."
+scn00_40_0330 | Chẳng lẽ hôn ước đã bị hủy bỏ sao.
+scn00_40_0331 | "...Trong biến cố Ách Tai, người cháu gái ấy đã qua đời."
+scn00_40_0332 | "Hả..."
+scn00_40_0333 | "Kể từ đó, chiếc váy không còn ai mặc nữa được bà cất giữ nâng niu suốt bao năm qua đấy."
+scn00_40_0334 | "...Và bà trao lại nó cho Cocoro sao."
+scn00_40_0335 | "Ừ. Thế nên nếu không chê thì cậu hãy để con bé mặc nhé."
+scn00_40_0336 | Khi mất đi người mình yêu quý nhất, đôi lúc thời gian dường như ngưng đọng lại mãi mãi.
+scn00_40_0337 | Nếu có một cơ duyên nào đó, biết đâu dòng thời gian đông cứng kia sẽ lại bắt đầu chuyển động.
+scn00_40_0338 | "Đo đạc xong rồi ạ."
+scn00_40_0339 | Từ khung cửa sổ tầng hai, Cocoro cất tiếng gọi vọng xuống.
+scn00_40_0340 | "Tiếp theo đến lượt của cậu Hinata đấy ạ."
+scn00_40_0341 | "Ơ, tôi cũng phải đo à?"
+scn00_40_0342 | "Cậu cũng phải mặc lễ phục chứ. Đâu thể để mỗi mình bé Cocoro mặc váy cưới lộng lẫy được."
+scn00_40_0343 | "Cũng đúng nhỉ... Tôi lên ngay đây!"
+scn00_40_0344 | "Xong xuôi cả rồi nhé."
+scn00_40_0345 | "Cháu cảm ơn bà nhiều lắm ạ."
+scn00_40_0346 | "Cảm ơn bà nhiều ạ. Cúi chào."
+scn00_40_0347 | "Không có gì đâu. Khi nào sửa xong váy, bà sẽ mang qua cho hai đứa nhé."
+scn00_40_0348 | Bà Yoshino mang chiếc váy cưới rồi cất bước ra về.
+scn00_40_0349 | "Cháu chào bà ạ."
+scn00_40_0350 | Cocoro nhoài người bên cửa sổ vẫy tay tiễn bà.
+scn00_40_0351 | "Bà Yoshino trông vui vẻ thật đấy. Cảm ơn hai người nhé."
+scn00_40_0352 | "Bọn tôi mới là người phải cảm ơn cậu mới đúng."
+scn00_40_0353 | "Dạ vâng..."
+scn00_40_0354 | "Sao thế, bé Cocoro? Bộ cậu không ưng chiếc váy đó à...?"
+scn00_40_0355 | "Dạ không, không phải thế đâu ạ. Đó là một chiếc váy cưới vô cùng lộng lẫy, ngay từ lúc này tôi đã nôn nao không thể chờ đợi đến lúc được khoác lên người rồi."
+scn00_40_0356 | "Cậu còn điều gì lo lắng sao?"
+scn00_40_0357 | "Tôi cảm thấy rất đỗi hạnh phúc. Vì có những con người đã thật lòng chúc phúc cho hai chúng ta."
+scn00_40_0358 | "Chỉ là, nói thật lòng thì tôi cũng có đôi chút hoang mang."
+scn00_40_0359 | "Bởi tôi chưa từng nghĩ rằng sẽ có những con người chịu thừa nhận cuộc hôn nhân giữa một robot như tôi và một con người như cậu Hinata."

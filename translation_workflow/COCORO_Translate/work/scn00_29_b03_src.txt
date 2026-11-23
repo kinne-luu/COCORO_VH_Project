@@ -1,0 +1,50 @@
+# scene=scn00_29 batch=3/3 dòng 119-164 / 164
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_29_0119 | - | ココロは衝動的に俺にキスをした。 | She suddenly kissed me. | 心突然亲吻了我。
+scn00_29_0120 | - | その後、手をつなぐのを拒否した。 | But after that, she refused to even hold my hand. | 之后，便拒绝与我牵手了。
+scn00_29_0121 | - | ココロは自分の思考回路にエラーが生じているように言っていた。 | She said that it was due to an error in her thought processors. | 心说过自己的思考回路出现了错误。
+scn00_29_0122 | - | 態度がおかしいのは、そのせいなのかと思っていたが……。 | I concluded that her strange behavior could be blamed on that error, but... | 所以我就觉得她奇怪的态度或许也是因为这个原因……
+scn00_29_0123 | ひなた(Hinata) | （ココロはどこに行ったんだろう） | (Where did she go?) | （心到底去哪里了啊）
+scn00_29_0124 | - | 朝からこさめちゃんと遊びにでも出かけたんだろうか？ | Did she go out to play with Kosame-chan? This early in the morning? | 是一大早就和小雨出门玩了吗？
+scn00_29_0125 | - | ちょっとした用事ならともかく、長時間俺から離れる時は、必ず許可を取ろうとするはずなんだけど。 | Normally, she'd ask for my permission to leave my side, even for short errands—and especially for prolonged outings. | 小事也就算了，但她在要长时间离开我的时候，一定会来征求我的同意才对。
+scn00_29_0126 | ひなた(Hinata) | （寝てる間に何かあったのか……？） | (What happened while I was asleep?) | （我睡觉的时候到底发生了什么……？）
+scn00_29_0127 | - | 窓から外を見る。犬の姿がない。 | I look out the window down at the street. The dog is gone, too. | 我望向窗外，发现狗不见了。
+scn00_29_0128 | - | ココロが散歩に連れていってくれてるのか、それとも日陰で寝ているのか。 | Did Cocoro take him out for a walk? Or is he just sleeping somewhere in the shade? | 是被心带出去散步了呢，还是在阴凉底下睡着觉呢。
+scn00_29_0129 | ひなた(Hinata) | （……何か変だ） | (Something's not right...) | （……有点不对劲）
+scn00_29_0130 | - | 父の落とし物の件で頭がいっぱいで、ココロの異変について深く考える余裕がなかった。 | I was so preoccupied with my dad's gift that I didn't stop to think about Cocoro's strange behavior. | 昨晚我满脑子都是父亲的遗失之物那件事，没有精力去深思心身上发生的异变。
+scn00_29_0131 | ひなた(Hinata) | （昨日は大地や風音たちに協力を頼んでデートプランを作ってくれたのに、帰り道に手をつなぐのを嫌がってるみたいだった……） | (Yesterday, she asked Daichi and the others for help to plan the perfect date, yet on the way home from said date she didn't even want to hold my hand...) | （昨天明明还拜托大地和风音她们帮忙制定约会计划，回来的时候却似乎不想和我牵手了……）
+scn00_29_0132 | - | ココロがおかしな行動や言動をするのは珍しくない。けど、これには違和感がある。 | It's not unusual for Cocoro to act weird, but this time, it feels different. | 心经常会做出奇怪的行为说出奇怪的话，但是，这次却有些违和。
+scn00_29_0133 | - | 俺は決定的な何かを見落としているんじゃないか？ | Have there been regular signs that I've been missing? | 是不是我看漏了什么关键的东西？
+scn00_29_0134 | - | 胸騒ぎがする。 | Unease swirls in my chest. | 忐忑不安。
+scn00_29_0135 | - | 思い当たる[ふし]節がある気がして……。 | I feel like it's something I should know... | 感觉我对此应该有头绪的才对……
+scn00_29_0136 | ひなた(Hinata) | （なんだ……思い出せ……思い出せ……） | (Try to remember... What is it? What is it...?) | （是什么……快想起来……快想起来……）
+scn00_29_0137 | - | 父さんの落とし物を見付けて、呆然とする俺。 | When I found the present from my dad, I was dumbfounded. | 我发现了父亲的遗失之物后呆住了。
+scn00_29_0138 | - | それを、ぞっとするほど冷たい目で見つめていたココロ。 | The look Cocoro gave me back then felt so cold that it gave me the chills. | 用冰冷的目光凝视着我的心。
+scn00_29_0139 | - | いや、ココロの目は見えてない。 | But she can't see, so she couldn't have been giving me any "look." | 不，心的眼睛看不见东西。
+scn00_29_0140 | - | ピントの調節機能が故障しているココロは、ぼやけた視界でなんとなく俺の方を見ていただけだ。 | Her eyes can't focus, so she was only looking in my general direction with her blurred vision. | 聚焦调节机能发生故障的心，只能用模糊的视野隐约看到我。
+scn00_29_0141 | - | 冷たく感じたのも、俺が勝手にそう思い込んだだけ。 | Her look only felt cold because that's how I interpreted it. | 感受到冰冷的目光，只是我擅自那么想而已。
+scn00_29_0142 | - | ココロの視線に意味なんて―― | She couldn't have meant anything— | 心的视线不可能有什么意义——
+scn00_29_0143 | - | この音は……？ | What was that sound? | 这个声音是……？
+scn00_29_0144 | - | ドローンが着陸した音だ。 | It was my drone. I heard it land back then. | 无人机着陆的声音。
+scn00_29_0145 | - | ナツノシラユキの[つぼみ]蕾の様子が見たいからと、操縦をココロに任せていた。 | Cocoro was controlling it because she wanted to look at the summer snows' flower buds. | 心说想看夏之白雪的花蕾，我便让她去操纵了。
+scn00_29_0146 | - | ココロは自分でドローンを操り―― | She was operating it by herself... | 心自己操纵着无人机——
+scn00_29_0147 | ひなた(Hinata) | 「ッ――」 | "Ah...!" | “……”
+scn00_29_0148 | - | 背筋に電流が走ったように、俺はハッとなって顔をあげた。 | I let out a gasp as a thought hits me like an electric shock. | 后背像是窜上了一道电流，我一下子抬起了头。
+scn00_29_0149 | - | あの時、ドローンを着陸させたのはココロだ。俺はコントローラーを握ってさえいない。 | Cocoro was piloting the drone back then. I wasn't even holding the controller. | 那时，让无人机降落的是心，我手里甚至没有握着遥控器。
+scn00_29_0150 | - | それまでドローンは空中で静止していた。 | Until that point, it had been stationary in the air. | 在那之前无人机一直悬停在空中。
+scn00_29_0151 | - | あの時、カメラはナツノシラユキじゃなく―― | Its camera wouldn't have been focused on the summer snows... | 那时，镜头并不是在看夏之白雪——
+scn00_29_0152 | ひなた(Hinata) | （俺を見ていた……） | (She saw .) | （而是在看我……）
+scn00_29_0153 | - | 帰り道、手を握るのを[こば]拒み、ロボットらしさを見せるのを嫌がっていたはずのココロが、昨晩、直立姿勢で充電をしながらスリープした。 | Until now, Cocoro always wanted to hide any evidence of her being a robot, but after we got home last night, she recharged herself and went into sleep mode while standing up. | 心在回家路上拒绝我握住她的手，明明不想让我看到她像机器人的一面，昨晚，却用站立姿势充着电进入了睡眠模式。
+scn00_29_0154 | - | ココロは、見たんだ――俺を。 | It was all because she saw me. | 心看到了——我的脸。
+scn00_29_0155 | ひなた(Hinata) | 「はぁ……はぁ……はぁ……あぐぅぅ」 | "Hahh, hahh, hahh... Nngh...!" | “哈……哈……哈……啊呜”
+scn00_29_0156 | - | 呼吸が浅くなる。 | My breathing grows rapid and shallow. | 呼吸变浅了。
+scn00_29_0157 | - | 肺は酸素を求めるが、のどが締め付けられて上手く息ができない。 | My lungs are gasping for oxygen, but my throat is too tight to get any air. | 虽然肺部在渴求着氧气，但喉咙却被勒紧无法正常呼吸。
+scn00_29_0158 | ひなた(Hinata) | （コ……コロ……ッ） | (Coco...ro...!) | （心……）
+scn00_29_0159 | - | 起き上がろうとして、呼吸困難に[あえ]喘ぎ、[ひざ]膝をつく。 | When I try to get up, I get lightheaded and fall to my knees. | 我试图起身，但却因呼吸困难而喘息着跪倒了下去。
+scn00_29_0160 | - | それでも、どうにか[は]這ってココロの後を追いかけようとした時―― | I  to go after Cocoro though. I have to find her, even if I have to crawl— | 就在我即便如此也想方设法爬起来想去追心的时候——
+scn00_29_0161 | - | 車の急ブレーキの音と同時に、硬くて重たい物がぶつかる音が響いた。 | The screech of a car's brakes interrupt my thoughts, and I hear a loud, heavy crash. | 在汽车紧急刹车声音响起的同时，还传来了又硬又重物体相撞的声音。
+scn00_29_0162 | - | ドン！　という衝撃と共に、建物が揺れる。 | The whole building shakes. | 咚！　伴随着撞击声，建筑物也摇晃了起来。
+scn00_29_0163 | こさめ(Kosame) | 「ココちゃん！！！？」 | "Coco-chan!!?" | “心儿！！！？”
+scn00_29_0164 | - | 人々の悲鳴が、遠くで響いた――。 | A chorus of screams echoes far into the distance... | 远处响起了人们的尖叫——

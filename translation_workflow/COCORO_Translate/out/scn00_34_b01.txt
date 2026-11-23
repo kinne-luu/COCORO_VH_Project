@@ -1,0 +1,60 @@
+scn00_34_0001 | "Xin phép! Chủ nhiệm Kizuki, nguy to rồi ạ!"
+scn00_34_0002 | "..."
+scn00_34_0003 | "Khoan đã, âm thanh quái quỷ gì thế này!?"
+scn00_34_0004 | "Vô số phản ứng ức chế sinh vật... chúng đang cộng hưởng lẫn nhau như một cơn hoảng loạn lan truyền..."
+scn00_34_0005 | "...Cứ như thể thảm họa Ách Tai đang tái diễn..."
+scn00_34_0006 | "Lũ Mutant Drone từ Phân khu Trung tâm đang lũ lượt vượt qua cầu tràn về phía chúng ta!"
+scn00_34_0007 | "...Là do Cocoro làm sao?"
+scn00_34_0008 | "Chủ nhiệm, xin hãy cho chỉ thị đối phó!"
+scn00_34_0009 | "Không cần thiết đâu."
+scn00_34_0010 | "Đội trưởng!?"
+scn00_34_0011 | "Cả hai người hãy ở yên đây, cấm được bước chân ra ngoài."
+scn00_34_0012 | "Đội trưởng, anh chỉ có quyền chỉ huy tác chiến tại hiện trường thôi mà!"
+scn00_34_0013 | "Lũ khốn kiếp kia đã bắt đầu xuất quân nhằm tấn công con người rồi. Tôi chỉ đang nói quyền chỉ huy ngoài hiện trường cứ giao hết cho tôi mà thôi."
+scn00_34_0014 | "Có gì phải lo chứ. Đầu sỏ chẳng phải là con ả giả dạng người kia sao? Tôi sẽ biến nó thành đống sắt vụn cho mà xem."
+scn00_34_0015 | "Kotaro, cậu cứ ở lại đây mà làm vệ sĩ cho chủ nhiệm đi."
+scn00_34_0016 | "Đứng lại đã, đội trưởng!"
+scn00_34_0017 | "...Tôi chỉ muốn... cứu rỗi những cỗ máy đáng thương ấy mà thôi. Vậy mà... lại thế này nữa rồi..."
+scn00_34_0018 | "Chủ nhiệm, xin hãy trấn tĩnh lại đi! Ngay lúc này đây chúng ta đang rất cần đến năng lực của chị!"
+scn00_34_0019 | "..."
+scn00_34_0020 | "Chết tiệt, giờ phải làm sao đây chứ!"
+scn00_34_0021 | "Này, chuyện này... nghĩa là biến cố năm xưa lại tái diễn sao?"
+scn00_34_0022 | "..."
+scn00_34_0023 | Tôi không biết. Nhưng chắc chắn chuyện này có liên quan trực tiếp đến việc Cocoro bị bắt đi...
+scn00_34_0024 | Tôi nhảy tót lên ghế phụ của chiếc xe.
+scn00_34_0025 | <Daichi.>
+scn00_34_0026 | "Ơ, gì đấy?"
+scn00_34_0027 | <Tớ nhất định phải đi gặp Cocoro. Nhờ cậu được không?>
+scn00_34_0028 | "Gặp Cocoro... khoan đã, cậu định xông vào Phân khu Trung tâm đấy à!? Điên rồ quá, lúc này lũ Mutant Drone đang tràn ra như thác ở đó đấy!"
+scn00_34_0029 | "Được thôi, đi nào."
+scn00_34_0030 | "Daichi!"
+scn00_34_0031 | "Đi cứu Cocoro chứ gì? Tao dốt nát nên mấy chuyện cao siêu phức tạp tao chả hiểu đâu, nhưng..."
+scn00_34_0032 | "Con bé là ân nhân cứu mạng bé Kosame. Có ơn thì phải đền chứ."
+scn00_34_0033 | "Anh hai..."
+scn00_34_0034 | "Kazane, trông chừng bé Kosame giúp tao nhé."
+scn00_34_0035 | "...Hiểu rồi. Nhưng hai người tuyệt đối đừng có liều mạng đấy nhé."
+scn00_34_0036 | "Biết rồi. Đi thôi, Hinata!"
+scn00_34_0037 | <Ừ.>
+scn00_34_0038 | Daichi trèo vào ghế lái vặn chìa khóa rồi nhấn ga, chiếc xe lao vút đi.
+scn00_34_0039 | "May mà đám Đội Tiêu Trừ đã kéo đi hết nên đỡ vướng chân."
+scn00_34_0040 | Để nghênh chiến với đàn Mutant Drone, Đội Tiêu Trừ đã đồng loạt xuất kích, nhờ vậy chúng tôi mới không bị cản trở.
+scn00_34_0041 | "Nhưng mà... Ối chà!?"
+scn00_34_0042 | Daichi đột ngột đánh mạnh tay lái.
+scn00_34_0043 | Giữa đường có một bóng người... không, là một robot đang lững thững bước đi, suýt chút nữa chúng tôi đã tông phải nó.
+scn00_34_0044 | "Cái gì vừa nãy thế... Mutant Drone từ Phân khu Trung tâm tràn ra đấy à?"
+scn00_34_0045 | <Hình như không phải.>
+scn00_34_0046 | Phóng mắt nhìn quanh, tôi có thể thấy bóng dáng những cỗ máy robot đang lục tục chuyển động khắp nơi.
+scn00_34_0047 | Do chịu ảnh hưởng của hiện tượng ức chế sinh vật nên chúng đã thức tỉnh sau giấc ngủ đông.
+scn00_34_0048 | Những con robot vốn nằm vùi đâu đó trong khu đô thị ở trạng thái ngủ đông, nay bị kích thích bởi hiện tượng ức chế sinh vật mà bừng tỉnh rồi bắt đầu hoạt động trở lại.
+scn00_34_0049 | "Mẹ kiếp lũ Đội Tiêu Trừ, rặt một phường trốn việc lười thây."
+scn00_34_0050 | Số lượng drone còn sót lại ở trạng thái ngủ đông từ trước đến nay thực ra chẳng đáng là bao.
+scn00_34_0051 | Thế nhưng ở Phân khu Trung tâm, chắc chắn vẫn còn tồn tại một lượng lớn drone, bắt đầu từ lũ robot an ninh.
+scn00_34_0052 | Nơi ấy vốn dĩ từng là một cơ sở có số lượng drone áp đảo cả số lượng con người.
+scn00_34_0053 | Nếu tất cả số đó mà tràn về khu phố mua sắm Tsukumo thì sẽ là một thảm họa khôn lường.
+scn00_34_0054 | Chỉ một con thôi cũng đủ làm Đội Tiêu Trừ trầy trật. Đối với cư dân phố mua sắm vốn không có vũ khí hiệu quả thì hoàn toàn vô phương chống cự.
+scn00_34_0055 | <Mau lên thôi.>
+scn00_34_0056 | "Ừ, phải nhanh lên mới được."
+scn00_34_0057 | Daichi hãm phanh dừng xe lại ngay trước cây cầu dẫn sang Phân khu Trung tâm.
+scn00_34_0058 | "Gay go rồi đây..."
+scn00_34_0059 | Ngay lối vào đầu cầu, vài cỗ máy robot an ninh đang nhấp nháy đèn báo động màu đỏ tụ tập thành bầy.
+scn00_34_0060 | "Đám đó là robot an ninh của Phân khu Trung tâm đúng không... nhìn căng thẳng thế này có ổn không đấy?"

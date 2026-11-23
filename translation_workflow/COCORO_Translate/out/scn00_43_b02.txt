@@ -1,0 +1,60 @@
+scn00_43_0061 | "Con muốn xin tài liệu về Dự án Utopia. Toàn bộ những gì còn sót lại, càng nhiều càng tốt ạ."
+scn00_43_0062 | <Tài liệu về Dự án Utopia ư? Sao đến tận bây giờ con mới...>
+scn00_43_0063 | "Con nghe nói sau Ách Tai, phe phản đối đã tiêu hủy gần như toàn bộ, nhưng con nghĩ có khi bố vẫn còn giữ lại được gì đó."
+scn00_43_0064 | <Ừ... những thứ bố kịp mang theo ra ngoài, hiện tại vẫn còn giữ trong tay.>
+scn00_43_0065 | "Con muốn xây dựng một tương lai nơi Cocoro có thể sống trong hạnh phúc."
+scn00_43_0066 | "Cậu Hinata..."
+scn00_43_0067 | Đó chính là quyết tâm vững chắc của tôi.
+scn00_43_0068 | Kết hôn cùng Cocoro... một humanoid... và che chở cho em suốt cả cuộc đời, đồng nghĩa với việc bước vào một thử thách nhằm thay đổi chính xã hội này.
+scn00_43_0069 | Để làm được điều đó, chắc chắn sẽ có rất nhiều điều đáng học hỏi từ Dự án Utopia... một kế hoạch từng có lúc thành công nhưng rồi lại sụp đổ vì một tai nạn thảm khốc.
+scn00_43_0070 | <Bố hiểu rồi. Nếu những tài liệu đó có ích cho hai đứa, bố sẽ để lại cho con. Dù sao thì bố có giữ khư khư bên mình cũng chẳng còn ý nghĩa gì nữa.>
+scn00_43_0071 | "Con cảm ơn bố."
+scn00_43_0072 | <Hinata này, được nghe lại giọng con sau ngần ấy năm bố mừng lắm. Và cả cô bé Cocoro nữa.>
+scn00_43_0073 | "Dạ vâng, bác cần dặn dò gì cháu ạ?"
+scn00_43_0074 | <Nhờ cháu chăm sóc cho Hinata nhé.>
+scn00_43_0075 | "Vâng ạ, cháu đã nhận lời gửi gắm rồi ạ."
+scn00_43_0076 | Dường như cảm thấy nhẹ nhõm và ấm lòng trước cách đối đáp ngộ nghĩnh của Cocoro, bố tôi cúp máy.
+scn00_43_0077 | "...Phù."
+scn00_43_0078 | Trút bỏ được gánh nặng căng thẳng, tôi đặt ống nghe xuống rồi thở phào một hơi thật dài.
+scn00_43_0079 | "Tôi hiểu mà."
+scn00_43_0080 | "Hiểu chuyện gì cơ...?"
+scn00_43_0081 | "Hiểu được cậu Hinata đã phải gom hết can đảm đến nhường nào. Tôi của hiện tại hoàn toàn có thể cảm nhận được điều đó."
+scn00_43_0082 | "Cảm ơn cậu vì đã dũng cảm vì tôi."
+scn00_43_0083 | Như để vỗ về và tưởng thưởng cho sự nỗ lực của tôi, Cocoro khẽ đưa tay xoa đầu tôi.
+scn00_43_0084 | "Chặng đường gian nan giờ mới chỉ bắt đầu thôi. Tôi sẽ phải học hành thật nhiều, phải trở nên giỏi giang như bố mới được. Để hiện thực hóa kế hoạch này vẫn còn là chuyện của tương lai xa lắm."
+scn00_43_0085 | "Tôi sẽ đợi được cho đến lúc đó. So với bốn năm ròng rã một mình mòn mỏi chờ đợi ở vườn bách thảo, thì chuyện này chẳng có gì to tát đâu ạ."
+scn00_43_0086 | "Ừ, đúng thế thật."
+scn00_43_0087 | Nghĩ đến việc em đã kiên định tin vào lời hứa với tôi mà chờ đợi suốt bốn năm trời, lồng ngực tôi bỗng trào dâng niềm xúc động khôn nguôi, tôi liền ôm chầm lấy Cocoro vào lòng.
+scn00_43_0088 | "Hai đứa mình nhất định phải thật hạnh phúc nhé."
+scn00_43_0089 | "Xin hãy đem lại hạnh phúc cho tôi nhé."
+scn00_43_0090 | Tôi từng nghĩ đến việc hai đứa sẽ lẩn tránh đến một nơi khuất mắt người đời để lẳng lặng sống qua ngày.
+scn00_43_0091 | Thế nhưng, làm như vậy chẳng khác nào phủ nhận sự tồn tại của Cocoro... một humanoid sở hữu trái tim con người.
+scn00_43_0092 | Cocoro hằng mong mỏi sự tồn tại của mình được cả thế giới này chúc phúc.
+scn00_43_0093 | Thậm chí có lẽ chỉ cần điều ấy thành hiện thực, em có thể đón nhận cái chết trong niềm thanh thản ngập tràn hạnh phúc.
+scn00_43_0094 | Nếu đã vậy, tôi sẽ vì Cocoro mà thay đổi cả thế giới này.
+scn00_43_0095 | Dù chưa biết sẽ thành công hay thất bại, nhưng việc đem cả sinh mệnh ra để dốc lòng cho kế hoạch ấy chính là lời chúc phúc ý nghĩa nhất dành cho em.
+scn00_43_0096 | Yêu thương Cocoro, với tôi chính là như thế.
+scn00_43_0097 | "Thôi nào, đi ngủ thôi chứ nhỉ. Ngày mai chúng ta còn phải qua chỗ dì Kirika để hỗ trợ điều tra nữa đấy."
+scn00_43_0098 | Có những việc chỉ có Cocoro mới làm được, có những điều chỉ em mới hiểu thấu. Chúng tôi đã thống nhất sẽ hỗ trợ dì hết mình.
+scn00_43_0099 | "...À mà, tôi có một thỉnh cầu này muốn xin cậu."
+scn00_43_0100 | "Chuyện gì thế?"
+scn00_43_0101 | Bỗng nhiên em lại đổi giọng nghiêm túc và trịnh trọng như vậy, không biết có chuyện gì đây.
+scn00_43_0102 | "Cơ thể của tôi có thể hỏng hóc bất cứ lúc nào."
+scn00_43_0103 | "...Ừ."
+scn00_43_0104 | "Chính vì thế, cậu có thể nhờ sao lưu bộ nhớ của tôi lại được không ạ?"
+scn00_43_0105 | "Sao lưu bộ nhớ á?"
+scn00_43_0106 | "Vâng ạ. Đối với humanoid chúng tôi, cơ thể chỉ là những linh kiện có thể thay thế. Chương trình gốc tạo nên nhân cách cũng hoàn toàn có thể khôi phục lại."
+scn00_43_0107 | "Đúng vậy thật."
+scn00_43_0108 | Nhờ những dữ liệu còn sót lại ở Khu Trung tâm, chương trình AI nền tảng của Cocoro cũng đã có bản sao lưu dự phòng.
+scn00_43_0109 | "Vậy thứ giúp tôi được định danh là chính mình rốt cuộc là gì... Đó chính là ký ức."
+scn00_43_0110 | "Được gặp gỡ cậu Hinata, được giao lưu cùng mọi người ở khu phố mua sắm Tsukumo, được tiếp xúc và học hỏi muôn vàn cung bậc cảm xúc."
+scn00_43_0111 | "Mùa hè vô giá mà tôi đã trải qua cùng mọi người... chỉ duy nhất ký ức ấy là một khi đã mất đi thì vĩnh viễn không thể khôi phục lại được."
+scn00_43_0112 | Nếu là con người, có lẽ nhân cách mới là thứ cốt lõi quan trọng hơn cả ký ức. Bởi phần lớn những gì giúp ta nhận thức ta là chính mình đều nằm ở nhân cách.
+scn00_43_0113 | Nhưng với Cocoro thì sao?
+scn00_43_0114 | Nhân cách là một phần linh kiện quan trọng, nhưng nó lại có thể khôi phục lại được.
+scn00_43_0115 | Mảnh ghép độc nhất vô nhị duy nhất của em chính là những ký ức mà em đã trải qua.
+scn00_43_0116 | Nhưng nếu chỉ riêng ký ức đứng độc lập, có lẽ nó cũng chỉ là một chuỗi dữ liệu vô hồn không hơn không kém.
+scn00_43_0117 | Nhân cách chính là chìa khóa để giải mã chuỗi dữ liệu ký ức đó, và chỉ khi kết hợp với nhân cách, ký ức mới thực sự mang ý nghĩa trọn vẹn.
+scn00_43_0118 | Có lẽ chính sự gắn kết mật thiết giữa dữ liệu bộ nhớ và chương trình nhân cách nền tảng của Cocoro mới tạo nên trái tim đích thực của em.
+scn00_43_0119 | "Bởi vì lỡ có chuyện gì không may xảy ra với cơ thể tôi thì sẽ rắc rối lắm..."
+scn00_43_0120 | "Tôi hiểu rồi. Ngày mai tôi sẽ nhờ dì Kirika giúp chuyện này."

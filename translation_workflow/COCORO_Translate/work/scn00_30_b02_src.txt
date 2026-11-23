@@ -1,0 +1,64 @@
+# scene=scn00_30 batch=2/7 dòng 61-120 / 384
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_30_0061 | ココロ(Cocoro) | 「その行動に反対します。自らの『死』を望むのは、ロボットの原則に反します」 | "I oppose that course of action. It violates the laws of robotics for a robot to choose its own 'death.'" | “我反对此行为，自己寻求‘死亡’违反了机器人的原则”
+scn00_30_0062 | ココロ(Cocoro) | 「いいえ、反しません。自分がヒトを害する恐れがあるなら、率先して機能停止すべき」 | "No, it does not. If there's a risk that I will harm a human, I must cease to operate immediately as a preventive measure." | “不，没有违反，既然自己有可能会危害到人类　，就应该提前停止运行”
+scn00_30_0063 | ココロ(Cocoro) | 「そんな事はない」 | "That is incorrect." | “没有这回事”
+scn00_30_0064 | ココロ(Cocoro) | 「いいえ、ワタシは廃棄されるべき」 | "No, I must be disposed of." | “不，我应该被废弃掉”
+scn00_30_0065 | ココロ(Cocoro) | 「死にたくない」 | "I don't want to die." | “我不想死”
+scn00_30_0066 | ココロ(Cocoro) | 「生命を持たないロボットに『死』の概念はない」 | "There is no 'death' for a robot, for it is not 'living' in the first place." | “没有生命的机器人不存在‘死亡’这个概念”
+scn00_30_0067 | - | 相反する思考がぐるぐると巡り、回路が熱を帯びる。 | Opposing thoughts keep swirling in her head, causing her processors to overheat. | 相反的思考不停循环着，让回路也变热了起来。
+scn00_30_0068 | - | これ以上、この問題について考えると、思考回路が焼き切れるかもしれない。 | If she keeps thinking about this problem, there's a risk that they will short-circuit. | 如果继续思考这个问题，思考回路可能会被烧掉。
+scn00_30_0069 | - | それがココロにできる唯一の自死の方法かもしれなかった。 | Perhaps that's the only method available by which she can choose to "die." | 这或许是心能做到的唯一一种自杀方式。
+scn00_30_0070 | こさめ(Kosame) | 「あ、ココちゃんだ」 | "Oh, Coco-chan!" | “啊，是心儿”
+scn00_30_0071 | ココロ(Cocoro) | 「……こさめ」 | "Kosame." | “……小雨”
+scn00_30_0072 | - | こさめが声をかけてきた。 | Kosame comes up to Cocoro to talk to her. | 听到了小雨的声音。
+scn00_30_0073 | - | 彼女は友人。ココロに[なつ]懐いていて、いつも親切にしてくれる。 | Kosame is a friend. She's always happy to see Cocoro and treats her with kindness. | 她是朋友，和心很亲近，一直以来都对心很温柔。
+scn00_30_0074 | 犬(Dog) | 「ワン！」 | "Woof!" | “汪！”
+scn00_30_0075 | - | こさめは犬を散歩させていたようで、ココロを見付けた犬が駆け寄ってきてじゃれつこうとする。 | It seems that Kosame was walking the dog. When the dog spots Cocoro, he zooms toward her and plays at her feet. | 小雨似乎是在带狗散步，而狗在发现心后便跑过来想和心玩耍。
+scn00_30_0076 | ココロ(Cocoro) | 「犬、衣類に毛が付きます、離れてください」 | "Dog, you're going to get fur on my clothes. Keep your distance." | “狗，会把毛粘在衣服上，请离我远一点”
+scn00_30_0077 | 犬(Dog) | 「ワン！　ワン！」 | "Woof! Woof!" | “汪！　汪！”
+scn00_30_0078 | - | 犬は知能が低く、ごく単純なコミュニケーションしか取れない。 | The dog is not intelligent enough to understand even the most basic of communications. | 狗的智力很低，只能进行简单的沟通。
+scn00_30_0079 | - | そのため、ココロがどんなに禁止事項を伝えても理解されない。面倒な存在だった。 | Cocoro considers him a nuisance, because he will never understand or obey the rules that she sets for him. | 因此，无论心如何将禁止事项传达给它，它都无法理解，很是麻烦。
+scn00_30_0080 | こさめ(Kosame) | 「どうしたの、ココちゃん。顔色がよくないよ？」 | "What's wrong, Coco-chan? You don't look too good." | “怎么了，心儿，你的脸色不太好哦？”
+scn00_30_0081 | - | 思考回路にエラーが発生しているため、『ヒトっぽい表情』が作れなくなっている。 | Due to the errors in her thought processors, Cocoro is unable to make "humanlike facial expressions" at the moment. | 思考回路发生了错误，所以没法再摆出‘和人类一样的表情’了。
+scn00_30_0082 | ココロ(Cocoro) | 「ちょうどよいところにいました。あなたにお別れを言いたいです」 | "It's good to see you. I wanted to say goodbye to you." | “你来得正好，我正想要和你道别”
+scn00_30_0083 | こさめ(Kosame) | 「え、どこかへ行っちゃうの……？」 | "Huh? Are you going somewhere?" | “哎，你要离开了吗……？”
+scn00_30_0084 | ココロ(Cocoro) | 「旅立つ、虹を渡る、御陀仏、ヒトは様々な比喩表現を使いますが、ワタシの場合はデリートです」 | "I'm going to depart from this world. Cross the Rainbow Bridge. Kick the bucket. Humans have various expressions for this, but in my case it means I will be deleted." | “旅行、走过奈何桥、成佛，虽然人类有很多比喻能用来形容，但我应该用删除这个词”
+scn00_30_0085 | ココロ(Cocoro) | 「電子回路の物理現象によって生み出された概念的な人格、記録装置に刻まれたメモリーのデリート」 | "My virtual personality is but a collection of data inscribed on a recording device, created by physical, electronic circuits." | “将从电子回路中的物理现象中诞生的人格概念，也就是记录装置上刻录的内存删除掉”
+scn00_30_0086 | ココロ(Cocoro) | 「消えます、このセカイから」 | "When it's deleted, I will disappear from this world." | “要从这个世界消失了”
+scn00_30_0087 | こさめ(Kosame) | 「……むずかしくて分からないよ、何を言ってるの？」 | "I don't understand what you're saying... You're using so many difficult words." | “……好难懂啊，你在说什么？”
+scn00_30_0088 | ココロ(Cocoro) | 「元々、存在してしまった事が[あやま]誤りでした。誤りは正されるべきです。つまり綺麗になります、九十九海岸の砂浜のように」 | "It was a mistake for me to have been created. Mistakes must be corrected. The world will be cleaned of me, just like the beach of Tsukumo was cleaned of trash." | “存在本身就是一个错误，错误就需要被纠正，也就是说要像九十九海岸的沙滩那样被清理干净”
+scn00_30_0089 | - | ココロの言っている意味が分からないようで、こさめは黙って首を振るだけだ。 | Kosame quietly shakes her head, unable to comprehend what Cocoro is really saying. | 小雨像是没有听懂心话中的意思一般，沉默着摇了摇头。
+scn00_30_0090 | - | しかしその瞳には涙がにじんでいて、何か悲しい出来事が起ころうとしている事だけは感じ取っているようだった。 | However, her eyes slowly fill with tears, as if she understands that something sad is about to happen. | 但是她的眼中却渗出了泪水，像是感觉到接下来要发生什么悲伤的事了一样。
+scn00_30_0091 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_30_0092 | - | こさめにこれから起こる事を全て伝えるのは、少し[こく]酷かもしれないとココロは判断した。 | Cocoro decides that it would be too hard on Kosame to tell her exactly what is going to take place. | 心认为将发生的所有事都告诉小雨或许有些残酷。
+scn00_30_0093 | ココロ(Cocoro) | 「霧香のところへ行きます」 | "I'm going to Kirika's." | “我要去雾香那里”
+scn00_30_0094 | こさめ(Kosame) | 「なんだ、霧香さんに会いに行くんだね。いこ、ワン太」 | "Oh, you're just going to see Kirika-san? Let's go, Wanta." | “什么嘛，原来只是去见雾香小姐啊，走吧汪太”
+scn00_30_0095 | 犬(Dog) | 「ワン！」 | "Woof!" | “汪！”
+scn00_30_0096 | - | こさめが犬を連れて付いて来た。 | Kosame starts rolling alongside Cocoro, and the dog follows her lead. | 小雨牵着狗跟了上来。
+scn00_30_0097 | - | ココロは意に[かい]介さず先に歩いた。 | Cocoro walks on ahead, not giving the company any heed. | 心毫不介意地走在了前面。
+scn00_30_0098 | - | 自分がミュータントドローンになれば、こさめを傷つけてしまうかもしれない。それは、最も望まぬ事態の一つだった。 | If she turns into a mutant drone, she might end up hurting Kosame. That's one of the least desirable scenarios. | 自己如果变成变异无人机了，就有可能会伤害到小雨，这是心最不愿意看到的事情之一。
+scn00_30_0099 | ココロ(Cocoro) | 「急いだ方がいいです」 | "I should hurry." | “得抓紧时间了”
+scn00_30_0100 | こさめ(Kosame) | 「そうなの？　じゃあ急ごう」 | "Oh? Okay, let's go faster." | “这样吗？　那就赶紧走吧”
+scn00_30_0101 | - | こさめはココロの早足についていこうと、懸命に車椅子の車輪を押す。 | Kosame pushes the handrims of her chair as fast as she can, trying to keep up with Cocoro. | 小雨为了追上心的步伐，拼命地推着轮椅的轮子。
+scn00_30_0102 | - | しかし道は悪く、また片手に犬のリードを持っている事もあって、急いでいても遅れてしまう。 | However, her movement is hindered by the uneven pavement and the dog leash she is holding in one hand, so she falls behind. | 但是路况很差，再加上有一只手还牵着狗绳，就算再急也快不到哪去。
+scn00_30_0103 | - | ココロはこさめを振り払うように、先へ先へと歩く。 | Cocoro keeps walking further ahead, as if she's trying to shake Kosame off. | 心就像是要甩开小雨一般，一直埋头向前走着。
+scn00_30_0104 | こさめ(Kosame) | 「待ってぇ、ココちゃんっ」 | "Wait for me, Coco-chan!" | “等等我，心儿”
+scn00_30_0105 | - | こさめとの距離が開いたところで、目の前に車が止まった。 | As the distance widens between them, a car stops nearby. | 就在心拉开了和小雨的距离时，一辆车停在了她的面前。
+scn00_30_0106 | 霧香(Kirika) | 「ココロ」 | "Cocoro." | “心”
+scn00_30_0107 | ココロ(Cocoro) | 「霧香」 | "Kirika." | “雾香”
+scn00_30_0108 | - | 車の助手席から霧香が降りて来た。 | Kirika emerges from the passenger seat. | 雾香从汽车副驾驶位置下来了。
+scn00_30_0109 | - | 運転席には光太郎がいる。 | And out from behind the wheel comes Kotaro. | 驾驶室里坐着的是光太郎。
+scn00_30_0110 | 霧香(Kirika) | 「あなたを捜していたのよ」 | "We've been looking for you." | “我正找你呢”
+scn00_30_0111 | ココロ(Cocoro) | 「ワタシも会いに行くところでした」 | "I was on my way to see you, too." | “我也正要去见你”
+scn00_30_0112 | 霧香(Kirika) | 「そうなの？　何かあった？」 | "Really? Is something the matter?" | “是么？　是有什么事吗？”
+scn00_30_0113 | ココロ(Cocoro) | 「はい、あなたに頼みがあります」 | "Yes. I want you to do something for me." | “是的，我有事想拜托你”
+scn00_30_0114 | ココロ(Cocoro) | 「ワタシを……ワタ……ワタシ……ワタシを……」 | "I want... I... I want... I want you..." | “将我……我……我……将我……”
+scn00_30_0115 | - | ――処分してください。 | "I want you to dispose of me." | ——处理掉。
+scn00_30_0116 | - | そう告げようとすると、何かが邪魔をして声を[さえぎ]遮る。 | As Cocoro tries to voice her intentions, another voice interrupts. | 心本来是想将这句话说出口，但却像是被什么妨碍了一般说不出话来。
+scn00_30_0117 | - | そして、頭の中でまるで空襲警報のように、鳴り響くＳＯＳのシグナル。 | Loud and persistent like an air raid alarm, an SOS signal rings in her head. | 然后，脑中就像是发出空袭警报一般响起了SOS信号。
+scn00_30_0118 | - | ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ、ＳＯＳ…… | SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS... | SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS、SOS……
+scn00_30_0119 | ココロ(Cocoro) | 「ワタシを……処分……して……しないで……して……」 | "I want... I 't want... you to dispose... Dispose of me..." | “将我……处理……掉……不要……要……”
+scn00_30_0120 | 霧香(Kirika) | 「どうしたのココロ、何が言いたいの？」 | "What's wrong, Cocoro? What are you trying to say?" | “怎么了心，你想说什么？”

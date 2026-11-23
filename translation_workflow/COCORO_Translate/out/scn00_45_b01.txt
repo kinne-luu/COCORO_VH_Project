@@ -1,0 +1,60 @@
+scn00_45_0001 | "Hinata ơi, có nhà không đấy? Tôi vào nhé?"
+scn00_45_0002 | "Có nhà đây mà, ủa mà cậu vẫn còn ngủ đấy à? Không dậy sớm đi thì sắp mọc nấm luôn rồi đấy."
+scn00_45_0003 | Ryuzaki hùng hổ bước thẳng vào phòng rồi tự tiện mở toang cửa sổ ra.
+scn00_45_0004 | Làn gió biển trong lành ùa vào, xua đi bầu không khí ngột ngạt tù túng bấy lâu trong căn phòng.
+scn00_45_0005 | "Nào, Hinata."
+scn00_45_0006 | "......"
+scn00_45_0007 | "..."
+scn00_45_0008 | "Chuyện của bé Cocoro ấy mà, đâu phải lỗi do cậu đâu. Cậu cứ nghĩ đó là chuyện bất khả kháng đi thì sẽ thanh thản hơn đấy."
+scn00_45_0009 | "...Bất khả kháng sao? Chẳng lẽ Cocoro đã chết chỉ vì một chuyện vô lý bất lực đến thế ư?"
+scn00_45_0010 | "Tôi hiểu cảm giác của cậu mà."
+scn00_45_0011 | "Cậu thì hiểu thế quái nào được chứ."
+scn00_45_0012 | "...Trong Ách Tai, ở thành phố Tsukumo cũng có biết bao người đã chết và bị thương. Trong số đó có cả người thân của tôi nữa. Thế nên, tôi hiểu nỗi lòng của cậu."
+scn00_45_0013 | "Nếu cậu bảo Ách Tai không phải là chuyện bất khả kháng ngoài ý muốn, thì đó là lỗi của ai cơ chứ?"
+scn00_45_0014 | "...Chuyện đó, làm sao tôi biết được."
+scn00_45_0015 | "Chuyện của bé Cocoro, chẳng phải dì Kirika đã bảo là có thể sửa chữa được rồi sao?"
+scn00_45_0016 | "...Ừ."
+scn00_45_0017 | "Tôi không bảo cậu phải phấn chấn lên ngay, nhưng mà... Nếu cứ giam mình mãi thế này thì cậu sẽ ngã bệnh mất đấy. Ít nhất cũng phải ráng ăn chút cơm đi chứ."
+scn00_45_0018 | Ryuzaki đặt hộp đồ ăn cậu ấy mang tới xuống bàn.
+scn00_45_0019 | "...Cảm ơn cậu."
+scn00_45_0020 | "Ừ."
+scn00_45_0021 | Ryuzaki xoay người ra về.
+scn00_45_0022 | Kể từ ngày hôm ấy, ngày nào cậu ấy cũng ghé qua để xem tình hình của tôi như thế này.
+scn00_45_0023 | Dù trong lòng rất muốn cảm ơn người bạn tốt ấy, nhưng nỗi đau thương cùng sự bức bối vô vọng khôn cùng cứ cuốn phăng tất cả đi.
+scn00_45_0024 | "...Phải dậy thôi."
+scn00_45_0025 | Đúng như Ryuzaki nói, cứ thế này mình sẽ phát bệnh mất.
+scn00_45_0026 | Giá như cứ thế ngã bệnh rồi chết quách đi cho xong...
+scn00_45_0027 | "...Mẹ ngày xưa chắc hẳn đã khao khát được sống lắm."
+scn00_45_0028 | Người vẫn còn quá trẻ, vậy mà đã bị số mệnh nghiệt ngã an bài phải ra đi khi bao hoài bão còn đang dang dở.
+scn00_45_0029 | Ước gì tôi có thể chia bớt tuổi thọ của mình cho mẹ thì tốt biết bao.
+scn00_45_0030 | Dì Kirika từng bảo rằng có thể sửa chữa lại Cocoro...
+scn00_45_0031 | "Cơ thể của Cocoro có thể sửa chữa phục hồi được."
+scn00_45_0032 | Đứng trước hình hài thương tâm bất động của Cocoro, dì Kirika đã nói như thế.
+scn00_45_0033 | "Thật sao dì?"
+scn00_45_0034 | "...Tuy sẽ mất nhiều thời gian, nhưng một ngày nào đó dì có thể khôi phục lại như xưa."
+scn00_45_0035 | "May quá rồi..."
+scn00_45_0036 | Đang lúc tiều tụy kiệt cùng, nghe được câu ấy tôi thở phào nhẹ nhõm rồi khuỵu xuống đất.
+scn00_45_0037 | "Thế nhưng, có một bộ phận linh kiện duy nhất là không thể nào cứu vãn lại được."
+scn00_45_0038 | "Dạ...? Đó là... thứ gì cơ ạ?"
+scn00_45_0039 | "Ký ức. Do phải chịu một dòng điện xung kích cực mạnh, bộ nhớ lưu trữ đã bị tổn hại nghiêm trọng."
+scn00_45_0040 | Thứ mà tên đội trưởng sử dụng vào đòn cuối cùng chính là chiếc súng kích điện chuyên dụng cực mạnh dùng cho robot.
+scn00_45_0041 | "Toàn bộ ký ức đã biến mất sạch rồi sao ạ...?"
+scn00_45_0042 | "Phải."
+scn00_45_0043 | "Có lẽ... không thể tái tạo lại được dù chỉ là một mảnh vụn nhỏ."
+scn00_45_0044 | Nghe đâu tên đội trưởng cũng bị thương và được đưa vào bệnh viện, nhưng chỉ cần điều trị là hắn lại có thể trở về cuộc sống bình thường như cũ.
+scn00_45_0045 | Thế nhưng Cocoro thì...
+scn00_45_0046 | "...Dù có phục hồi được cơ thể, ký ức cũng chẳng thể quay trở lại."
+scn00_45_0047 | "Như thế thì liệu có còn gọi là Cocoro được nữa không...?"
+scn00_45_0048 | <Đối với humanoid chúng tôi, cơ thể chỉ là những linh kiện có thể thay thế. Chương trình gốc tạo nên nhân cách cũng hoàn toàn có thể khôi phục lại.>
+scn00_45_0049 | <Vậy thứ giúp tôi được định danh là chính mình rốt cuộc là gì... Đó chính là ký ức.>
+scn00_45_0050 | <Cậu Hinata, tôi đang rất hạnh phúc.>
+scn00_45_0051 | <Dù cho mùa tươi đẹp vô giá này có khép lại đi chăng nữa. Thì chừng nào những kỷ niệm vẫn còn vẹn nguyên, những cảm xúc mà tôi đang cảm nhận lúc này sẽ chẳng bao giờ phai nhạt.>
+scn00_45_0052 | Một CCR-01 dù được sửa lại thân thể nhưng ký ức hoàn toàn trống rỗng thì đâu còn là Cocoro nữa. Đó chỉ là một cá thể humanoid mới tinh khác vừa được sinh ra mà thôi.
+scn00_45_0053 | Nếu không nghĩ như vậy, thì thật quá đỗi tàn nhẫn và xót xa cho Cocoro.
+scn00_45_0054 | "...Rốt cuộc mình đã thật sự mang lại hạnh phúc cho Cocoro chưa nhỉ."
+scn00_45_0055 | Cứ ngồi thẫn thờ không làm gì là nước mắt lại bất giác tuôn rơi.
+scn00_45_0056 | Kể từ ngày hôm ấy, tôi lúc nào cũng như thế này. Cảm xúc trong tôi đã hoàn toàn vỡ vụn mất rồi.
+scn00_45_0057 | Tôi cố ép bản thân phải nuốt chút thức ăn mà Ryuzaki mang tới, thế nhưng,
+scn00_45_0058 | "...Khụ, khục, khụ..."
+scn00_45_0059 | Dù có cố nhét vào miệng thế nào, tôi cũng nôn ọe ra hết.
+scn00_45_0060 | "Chẳng cảm nhận được vị của thức ăn nữa... Buồn nôn quá..."

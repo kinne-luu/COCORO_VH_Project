@@ -1,0 +1,45 @@
+# scene=scn00_24 batch=5/5 dòng 219-259 / 259
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_24_0219 | ひなた(Hinata) | 「恋人？」 | "My... girlfriend?" | “恋人？”
+scn00_24_0220 | ココロ(Cocoro) | 「はい。所詮ワタシはロボットですので、恋人の代用品でしかありませんが」 | "Yes. I'm aware that a robot like me can only be a substitute, but..." | “是的，不过我毕竟只是个机器人，只能作为恋人的替代品”
+scn00_24_0221 | ココロ(Cocoro) | 「どうですか、嬉しいでしょう？」 | "What do you think? Would that make you happy?" | “怎么样，很开心吧？”
+scn00_24_0222 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_24_0223 | - | 何も知らなかった頃の俺が聞いたら、舞い上がってたかもしれない。 | If she'd asked me back when I was blissfully ignorant, I'd be jumping for joy. | 如果什么都不知道的我听到这句话后，应该会开心得不得了吧。
+scn00_24_0224 | - | でも今は……。 | But now... | 但是现在……
+scn00_24_0225 | ひなた(Hinata) | 「ごめん、それはいらないかな」 | "I'm sorry. I don't think I need that." | “抱歉，这恐怕不行”
+scn00_24_0226 | ココロ(Cocoro) | 「？　どうしてですか？　あ、もしかして照れているのですか？」 | "Huh? Why not? Oh, is it because you're embarrassed?" | “？　为什么？　啊，难道说是害羞了吗？”
+scn00_24_0227 | ココロ(Cocoro) | 「素直になってください。ワタシはロボット、照れなど無用です」 | "In that case, you should be more true to yourself. I'm a robot—there's nothing to be embarrassed about in front of me." | “请坦率起来，我是个机器人，所以对我害羞也没用”
+scn00_24_0228 | ひなた(Hinata) | 「ありがとう、気持ちだけ受け取っておくよ」 | "I appreciate the sentiment, but no thanks." | “谢谢你，你的心意我领了”
+scn00_24_0229 | ココロ(Cocoro) | 「気持ちなどありません。ワタシはロボットです」 | "I have no sentiment. I'm a robot!" | “我没有什么心意，我只是个机器人”
+scn00_24_0230 | - | 俺の役に立てたと判断したのか、ココロは嬉しそうにそう言った。 | Cocoro speaks in a cheerful tone—maybe she judged that that would be better for me right now. | 或许是判断出帮上了我的忙吧，心说这句话的时候很是开心。
+scn00_24_0231 | ひなた(Hinata) | 「コーヒーを飲み終わったら、少し寝るよ」 | "I think I'll have a nap after I finish my coffee." | “喝完咖啡后我稍微睡一会儿”
+scn00_24_0232 | ココロ(Cocoro) | 「はい。ではワタシは寝床の用意をしておきます」 | "Okay. I'll lay out your futon for you right away." | “好的，那么我来准备床铺吧”
+scn00_24_0233 | ひなた(Hinata) | 「ありがとう」 | "Thanks." | “谢谢”
+scn00_24_0234 | - | 俺はカップに口をつける。 | I bring the coffee cup to my mouth. | 我将杯子举到了嘴边。
+scn00_24_0235 | - | 少し時間が経って、ちょうどいい温度になっていた。 | We've been talking for a bit, so it's cooled down to just the right temperature. | 过了一段时间后，温度变得刚刚好。
+scn00_24_0236 | - | けど、いつもの通りコクのない、どこか味気ないコーヒーだった。 | However, it's lacking its usual rich flavor. For some reason, it tastes awfully bland. | 但是，这还是一杯和以前一样寡淡无味，令人感到无趣的咖啡。
+scn00_24_0237 | - | 翌朝の目覚めはひどいものだった。 | The next morning, I wake up feeling terrible. | 第二天醒过来的时候十分难受。
+scn00_24_0238 | ひなた(Hinata) | （……何か夢を見てた気がするけど、思い出せない） | (I feel like I had some kind of dream, but I can't remember.) | （……感觉是做了个什么梦，但想不起来了）
+scn00_24_0239 | - | たぶん、思い出さない方がいいような夢だろう。 | I bet it's the kind of dream I'm better off not remembering. | 应该是不回忆起来比较好的梦吧。
+scn00_24_0240 | - | だいたいどういう内容か想像もつく。 | It's not difficult to imagine what it could've been about. | 大概能想象出来是什么内容。
+scn00_24_0241 | - | 鼻腔をくすぐる、コーヒーの香りと、それを打ち消す焦げた卵の匂い。 | The aroma of coffee tickles my nostrils, but it's immediately ruined by the stench of burnt eggs. | 扑鼻而来的是咖啡的香气和将其驱散的烧焦鸡蛋的味道。
+scn00_24_0242 | - | ココロの朝食は、以前よりだいぶよくなってはいたが、フライパンからはみ出した卵がコンロで[あぶ]炙られて焦がしてしまう。 | Cocoro has gotten pretty good at making breakfast compared to before, but she still tends to spill some of the frying pan's contents, which then burns on the stove. | 心做的早餐虽然已经比以前好多了，但掉出平底锅的鸡蛋却被炉子烤焦了。
+scn00_24_0243 | - | 目が見えてないせいだろう。 | That must also be due to her poor eyesight. | 应该是因为眼睛看不见吧。
+scn00_24_0244 | - | 最近、トーストは焦がさなくなった。 | At least she stopped burning the toast. | 最近，吐司是不会烤焦了。
+scn00_24_0245 | ココロ(Cocoro) | 「おや、ひなたさん起きましたか。元気になってもらおうと、スーパーデリシャスモーニングをご用意いたしましたよ」 | "Oh, Hinata-san, you're awake. I made you a super delicious morning special. I hope that it will energize you." | “哦呀，日向先生起来了啊，为了让您打起精神来，我准备了一份超级美味早餐哦”
+scn00_24_0246 | ひなた(Hinata) | （ありがとう、ココロ） | (Thanks, Cocoro.) | （谢谢你，心）
+scn00_24_0247 | ココロ(Cocoro) | 「？　ひなたさん？」 | "Huh? Hinata-san?" | “？　日向先生？”
+scn00_24_0248 | ひなた(Hinata) | （え？　あれ？） | (Hmm? What?) | （哎？　咦？）
+scn00_24_0249 | - | 俺はココロの声に返事をしたはずだった。 | I thought I responded to Cocoro like normal. | 我应该是出声回复了心才对。
+scn00_24_0250 | ひなた(Hinata) | （ココロ？） | (Cocoro?) | （心？）
+scn00_24_0251 | - | 変だ。声に出そうとしているのに、のどからひゅぅひゅぅと空気が抜けていくだけで音にならない。 | Something's weird. I thought I was speaking, but the only thing coming out of my throat is air. There's no sound. | 好奇怪，我明明想要说话，喉咙却只能发出呼呼的气流声。
+scn00_24_0252 | - | 悪寒が背筋を[な]撫でる。 | A chill runs down my spine. | 一阵恶寒涌上了后背。
+scn00_24_0253 | - | 知っている、この感覚……。 | I know this feeling... | 我知道这种感觉……
+scn00_24_0254 | ひなた(Hinata) | （ココロ……。ココロ！！！） | (Cocoro... Cocoro!!!) | （心……心！！！）
+scn00_24_0255 | ココロ(Cocoro) | 「ひなたさん？　どうされましたか？」 | "Hinata-san? What's the matter?" | “日向先生？　您怎么了？”
+scn00_24_0256 | ひなた(Hinata) | （……声が……出せない……） | (My voice... I can't speak...) | （……我……发不出声音了……）
+scn00_24_0257 | ココロ(Cocoro) | 「？」 | "Huh?" | “？”
+scn00_24_0258 | - | [えさ]餌を求める[こい]鯉みたいにパクパクと口を開け閉めする俺を見て、ココロがきょとんとする。 | Cocoro stares at me blankly. I must be flapping my mouth like a koi fish begging for food. | 看到我如同渴望饵料的锦鲤一般阿巴阿巴张口闭口的样子，心呆住了。
+scn00_24_0259 | - | 俺はまた、声を失ってしまった。 | Once again, I've lost my ability to speak. | 我再次失声了。

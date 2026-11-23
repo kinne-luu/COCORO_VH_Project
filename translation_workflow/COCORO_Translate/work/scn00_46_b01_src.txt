@@ -1,0 +1,64 @@
+# scene=scn00_46 batch=1/3 dòng 1-60 / 161
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_46_0001 | - | 部屋を綺麗に片付け終えた俺は、荷物を背負う。 | I've finished tidying up the apartment. I hoist my backpack onto my shoulder. | 收拾干净房间后，我便背上了行李。
+scn00_46_0002 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_46_0003 | - | 夏休みの一時を過ごしただけの部屋だけど、それらの時間が濃密すぎて、出ていくのが寂しかった。 | I only spent a few short weeks here during summer break, but so much has happened in that time that it pains me to leave. | 虽然只是暑假中住了一段时间的房间，但这段时间发生的事情太多了，离开的时候感觉有些寂寞。
+scn00_46_0004 | - | しかし、ここに居続ける限り、俺は想い出の中から抜け出せない。 | However, if I stay here any longer, I'll be trapped in my memories forever. | 可是，如果继续住在这里，我就永远无法从回忆里走出来。
+scn00_46_0005 | ひなた(Hinata) | 「……もう夏休みはおしまいだから」 | "...Summer break is almost over." | “……毕竟暑假已经结束了”
+scn00_46_0006 | - | 未練を振り切って、部屋を出た。 | I shake off my lingering attachment as I turn around and leave the apartment behind me. | 我挥去留恋，走出了房间。
+scn00_46_0007 | - | 外へ出て、マウンテンバイクに[また]跨がると、 | Once outside, I grab my mountain bike and swing myself onto the saddle. | 我刚出门跨上山地自行车。
+scn00_46_0008 | ナツ(Natsu) | 「ワンワン！！」 | "Woof, woof!!" | “汪汪！！”
+scn00_46_0009 | - | ナツが尻尾を振って駆け寄ってきた。 | Natsu comes up to me, his tail wagging. | 夏天便摇着尾巴跑了过来。
+scn00_46_0010 | ひなた(Hinata) | 「元気でな、ナツ。みんなに可愛がってもらうんだぞ」 | "Stay healthy, Natsu. Make sure that everyone takes good care of you, okay?" | “你要保重啊，夏天，要让大家都疼爱你哦”
+scn00_46_0011 | - | 軽く頭を撫でて行こうとすると、 | I give him some pets on his head before I try to leave, but... | 我轻轻摸了摸它的头，正想离开的时候。
+scn00_46_0012 | ナツ(Natsu) | 「ワン！！　ワンワン！！！」 | "Woof!! Woof woof!!!" | “汪！！　汪汪！！！”
+scn00_46_0013 | - | しつこく吠えて、俺のズボンの裾を[か]噛んで引っ張る。 | He barks incessantly and bites at my pants. | 它却不停地叫着，并咬着我的裤腿拽着我。
+scn00_46_0014 | ひなた(Hinata) | 「俺が街を出ようとしてるのが分かるのか……？」 | "Does he understand that I'm about to leave?" | “是知道我要离开这条街了吗……？”
+scn00_46_0015 | - | 気配を察しているのかと思ったが、そうでもなさそうだ。ナツは俺をどこかへ引っ張っていこうとしている。 | I wonder if he can tell somehow, but it doesn't seem like that's it. He's trying to pull me somewhere by the leg of my pants. | 我本来以为它是察觉到我要离开了，但似乎并不是这样。夏天是想拉我去个什么地方。
+scn00_46_0016 | - | しょうがないので、一度自転車から降りる。 | I can't go anywhere like this, so I get off my bike. | 我没办法，只能先从自行车上下来了。
+scn00_46_0017 | ひなた(Hinata) | 「なんだよ……」 | "What's wrong?" | “怎么了啊……”
+scn00_46_0018 | - | 行ってみるとそこに、子犬がいた。 | I follow Natsu's lead, and he brings me to a puppy. | 我过去一看，发现有一只小狗在那里。
+scn00_46_0019 | - | だが、ホンモノの犬じゃない。 | But it doesn't seem to be a real one. | 但是，这并不是真正的狗。
+scn00_46_0020 | - | 子犬の姿をしたロボット。 | It's a puppy-shaped robot. | 而是小狗外形的机器人。
+scn00_46_0021 | ひなた(Hinata) | 「ＣＣＲ－０２……？」 | "CCR-02...?" | “CCR-02？”
+scn00_46_0022 | - | 俺が呼ぶと、ＣＣＲ－０２は首を『ちがう』という感じで振る。 | When I call out to her, CCR-02 shakes her head. | 听到我这样叫她后，CCR-02摇了摇头，像是在说‘不对’一样。
+scn00_46_0023 | シラユキ(Shirayuki) | 『わ……ワタシ……の名前は……シラユキ』 | "M-My... name is... Shirayuki." | ‘我……我的……名字是……白雪’
+scn00_46_0024 | ひなた(Hinata) | 「シラユキ？」 | "Shirayuki?" | “白雪？”
+scn00_46_0025 | シラユキ(Shirayuki) | 『ハイ……ココロお姉ちゃんが……名付けてくれたの』 | "Yes... My sister Cocoro... gave me that name." | ‘是的……是心姐姐……给我取的名字’
+scn00_46_0026 | ひなた(Hinata) | 「そう……なのか。わかったよ、シラユキ」 | "I see... Shirayuki, got it." | “这样啊……我知道了，白雪”
+scn00_46_0027 | - | 俺が呼ぶと、シラユキは嬉しそうにふるふると小さな体をゆすった。 | When I call her name, Shirayuki happily wiggles her little body back and forth. | 听到我这样称呼她后，白雪开心地摇晃起了小小的身体。
+scn00_46_0028 | ひなた(Hinata) | 「……元の姿に戻ったんだな」 | "...You went back to your original form?" | “……你变回原本的样子了啊”
+scn00_46_0029 | - | ジャンクパーツを寄せ集めたキメラのような姿ではなくなっている。 | The monstrous robot we called the Jabberwock was an amalgamation of various robot parts. | 贾巴沃克已经不是用零件组成的奇美拉了。
+scn00_46_0030 | ナツ(Natsu) | 「ワン！　ワン！」 | "Woof! Woof!" | “汪！　汪！”
+scn00_46_0031 | ひなた(Hinata) | 「ナツが保護してやってたのか？」 | "Natsu, have you been taking care of her?" | “是夏天把她带回来的吗？”
+scn00_46_0032 | - | シラユキが自分でここへ来たんだろうか。それとも、どこかで見付けてナツが連れて来たんだろうか。 | Did Shirayuki make her way into town by herself? Or did Natsu find her somewhere and bring her here? | 白雪是自己来到这里的呢，还是夏天不知道从哪里找到她然后带回来的呢。
+scn00_46_0033 | シラユキ(Shirayuki) | 『ナツ…………かけがえのない季節』 | "Natsu... A season filled with irreplaceable memories." | ‘夏天…………独一无二的季节’
+scn00_46_0034 | ひなた(Hinata) | 「？」 | "Hmm?" | “？”
+scn00_46_0035 | シラユキ(Shirayuki) | 『ワタシは……幸せでした……』 | "I've been... happy all along." | ‘我……很幸福……’
+scn00_46_0036 | ひなた(Hinata) | 「シラユキ……何を言ってるんだ？」 | "Shirayuki... What did you just say?" | “白雪……你在说什么？”
+scn00_46_0037 | シラユキ(Shirayuki) | 『……あぁ、なんて美しい……一緒に見たかったなぁ……』 | "Oh... How very beautiful... I wish we could've seen this together." | ‘……啊，真美丽啊……真想和你一起看看啊……’
+scn00_46_0038 | ひなた(Hinata) | 「…………」 | "..." | “…………”
+scn00_46_0039 | - | 俺はリュックから壊れたままのドローンを出して、代わりにシラユキを入れた。シラユキはリュックの口から頭だけ出している。 | I take my broken drone out of my backpack and put Shirayuki in it instead. Her head sticks out from the top. | 我将坏掉的无人机从背包里拿了出来，取而代之的是将白雪放了进去。白雪将头从背包的开口处探了出来。
+scn00_46_0040 | ひなた(Hinata) | 「ナツ、ありがとな」 | "Natsu, thanks." | “夏天，谢谢你”
+scn00_46_0041 | ナツ(Natsu) | 「ワン！！」 | "Woof!!" | “汪！！”
+scn00_46_0042 | - | 撫でてやると、ナツは嬉しそうに尻尾を振った。 | When I pat his head, Natsu wags his tail happily. | 我摸了摸夏天，它便开心地摇起了尾巴。
+scn00_46_0043 | ひなた(Hinata) | 「霧香さん、いる？」 | "Kirika-san, are you here?" | “雾香小姐，在吗？”
+scn00_46_0044 | 霧香(Kirika) | 「ひなた……どうしたの？」 | "Hinata... What's wrong?" | “日向……怎么了？”
+scn00_46_0045 | - | 霧香さんは相変わらず、ここに[こ]籠もりきりのようだった。 | Kirika-san is still holed up in the maintenance room, probably working on her research. | 雾香小姐似乎还是老样子，一直待在这里。
+scn00_46_0046 | ひなた(Hinata) | 「こいつを見付けたんだ」 | "Look what I found." | “我找到这家伙了”
+scn00_46_0047 | - | 俺はリュックからシラユキを出してやる。 | I take Shirayuki out of my backpack. | 我将白雪从背包里拿了出来。
+scn00_46_0048 | 霧香(Kirika) | 「この子は……ＣＣＲ－０２？」 | "Is that... CCR-02?" | “她是……CCR-02？”
+scn00_46_0049 | - | シラユキは残骸が回収されていたが、外殻パーツだけで中身は行方不明だった。 | The investigation team collected the wreckage that remained of Shirayuki, but all they found was the outer shell. The inside was missing. | 虽然已经对白雪的残骸进行了回收，但也只回收到了外壳部分的零件，中心部分则不知所踪。
+scn00_46_0050 | 霧香(Kirika) | 「ありがとう、助かったわ」 | "Thanks, this will be a great help." | “谢谢，帮大忙了”
+scn00_46_0051 | シラユキ(Shirayuki) | 『……お姉ちゃん……どこ？』 | "Where is... my sister?" | ‘……姐姐……在哪里？’
+scn00_46_0052 | 霧香(Kirika) | 「ココロならそこにいるわ」 | "Cocoro is over there." | “心的话就在这里”
+scn00_46_0053 | シラユキ(Shirayuki) | 『お姉ちゃん……』 | "Sister..." | ‘姐姐……’
+scn00_46_0054 | - | シラユキは破損したココロのボディが寝かされたところへ、ちょこちょこと駆け寄る。 | Shirayuki waggles over to the table where Cocoro's damaged body lies. | 白雪朝放置着心破损身体的地方小步快跑了过去。
+scn00_46_0055 | シラユキ(Shirayuki) | 『お姉ちゃん……寝てるの？』 | "Sister... Is she sleeping?" | ‘姐姐……睡着了吗？’
+scn00_46_0056 | 霧香(Kirika) | 「ええ」 | "Yes." | “是啊”
+scn00_46_0057 | シラユキ(Shirayuki) | 『どうして？　壊れちゃったから？』 | "Why? Because she's broken?" | ‘为什么？　是因为坏掉了吗？’
+scn00_46_0058 | 霧香(Kirika) | 「そうよ」 | "That's right." | “是啊”
+scn00_46_0059 | シラユキ(Shirayuki) | 『お姉ちゃんの事、直してあげて』 | "Please repair her." | ‘把姐姐修好吧’
+scn00_46_0060 | 霧香(Kirika) | 「そのつもりよ。でも、今はまだパーツが足りないの」 | "I intend to, but I don't have all the required parts yet." | “我就是要修好她啊，但现在零件还不够”

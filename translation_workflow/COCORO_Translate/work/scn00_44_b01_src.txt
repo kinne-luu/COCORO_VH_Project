@@ -1,0 +1,64 @@
+# scene=scn00_44 batch=1/4 dòng 1-60 / 215
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_44_0001 | - | いつしか雨は降り止んでいた。 | At some point, it stopped raining. | 不知何时雨停了。
+scn00_44_0002 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_44_0003 | - | ドレスの裾が汚れないようたくし上げて、ココロは早足に歩いていた。 | Cocoro carefully lifts the hem of her dress so that it doesn't drag along the ground as she hurries along. | 为了不弄脏婚纱下摆，心用手提着裙子快步走着。
+scn00_44_0004 | - | ――……おネエちゃん……おネエちゃん……こわ……イ……よ……タスけ……て……。 | <Sister... Sister... I'm... scared... Save... me...> | ——……姐姐……姐姐……好……害怕……啊……救救……我……
+scn00_44_0005 | - | 声がずっと聞こえていた。 | She hears a voice speaking to her. | 我一直能听到这个声音。
+scn00_44_0006 | - | それは霧香がアレロパシーと呼ぶものだった。 | This is the phenomenon that Kirika calls "allelopathy." | 这就是雾香口中的化感作用。
+scn00_44_0007 | - | ココロはそれが、自分の声じゃないと知っている。しかし、放っておけば危険なものだとも知っていた。 | Cocoro is aware that it's not her own voice, but she also knows that ignoring it could be dangerous. | 心知道这不是自己的声音，但是，她也知道这声音放着不管会很危险。
+scn00_44_0008 | - | 声に導かれてやってきたのは、植物園だった。 | The voice leads her to the botanical garden. | 跟着声音来到的地方是植物园。
+scn00_44_0009 | - | 歩き慣れた通路を奥へと進む。 | She walks down the familiar path toward the back of the greenhouse. | 她沿着熟悉的道路向里面走去。
+scn00_44_0010 | - | 花壇の前に、獣のような姿をしたロボットがぽつんと座っていた。 | In front of a flower bed sits a monstrous robot all by itself. | 花坛前，一个外形酷似野兽的机器人孤零零地坐在那里。
+scn00_44_0011 | - | まるで食事を与えられず[や]痩せ[おとろ]衰えた老犬のような、弱々しい姿だった。 | It looks weak, like a starving old dog that hasn't had a proper meal in weeks. | 就像是没饭吃而变得消瘦的老狗一样，看上去十分虚弱。
+scn00_44_0012 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_44_0013 | - | ココロは何も声をかけず、ＣＣＲ－０２の隣りに並んだ。 | Without saying a word, Cocoro joins CCR-02 at the flower bed. | 心一言不发地走到了CCR-02的身边。
+scn00_44_0014 | ココロ(Cocoro) | 「……あ」 | "Ah..." | “……啊”
+scn00_44_0015 | - | あれほど[かたく]頑なだった[つぼみ]蕾が[ほど]解けて、花弁を広げようとしていた。 | The buds in the flower bed, which had once been shut tightly, are starting to unfurl their petals. | 曾经那么紧实的花蕾已经变得蓬松了起来，似乎马上就要绽开花瓣了。
+scn00_44_0016 | - | 思わずココロも屈み込んで、開花を始めたナツノシラユキを注視する。 | Cocoro can't help but crouch down to have a closer look at the opening summer snows. | 心也不由得弯下了身体，注视着开始开花的夏之白雪。
+scn00_44_0017 | - | 傍目には一匹と一人、しかし実際は二体のロボットが黙って花を見ていた。 | The girl and the beast—both actually robots—silently observe the flowers side by side. | 旁人眼中的一兽一人，实则是两台机器人默默地观察着花朵。
+scn00_44_0018 | ココロ(Cocoro) | 「少しずつ……視覚情報的には、ほとんど変化がないくらいの速度で、ナツノシラユキが咲こうとしています」 | "They're starting... Going by my visual information, there's barely a detectable change, but little by little, the summer snows are starting to bloom." | “一点一点……夏之白雪正在以视觉分辨不出的速度绽放着”
+scn00_44_0019 | ココロ(Cocoro) | 「これは一大スペクタクル……そうだ、ひなたさんにも[しら]報せないと」 | "What a grand spectacle... Right, I must report this to Hinata-san." | “这可真是重大的奇迹……对了，我得告诉日向先生才行”
+scn00_44_0020 | ＣＣＲ－０２(CCR-02) | 『わ……ワタ……シ……も…………おネエ……ちゃん……みた……イに……ナ……りた……かっ……た』 | "I... wanted... to... be... like... you..." | ‘我……我也……想……变得……和……姐姐……一样’
+scn00_44_0021 | ココロ(Cocoro) | 「？」 | "Hmm?" | “？”
+scn00_44_0022 | ＣＣＲ－０２(CCR-02) | 『コノ……はな……さい……タラ……わたシも……ナレ……る？』 | "Can I... be like... you... when... these... flo...wers... bloom?" | ‘如果……这朵……花……绽放……了……我也……能……变得……和姐姐……一样……吗？’
+scn00_44_0023 | ココロ(Cocoro) | 「それでずっとワタシを見ていたのですか？」 | "Is that why you were looking at me like that?" | “所以你才会一直看着我吗？”
+scn00_44_0024 | ＣＣＲ－０２(CCR-02) | 『……ウン』 | "...Yes." | ‘……嗯’
+scn00_44_0025 | ココロ(Cocoro) | 「あなたはまるでワタシの熱烈なファン……ヒトの用語ではストーカーのようでした」 | "You seem to be a big fan of me... In human terms, you might be branded a 'stalker.'" | “你就像是我一个热情的粉丝……用人类的话来说就是像跟踪狂一样”
+scn00_44_0026 | ココロ(Cocoro) | 「ずっとワタシをモニタし続けていましたね」 | "You've been monitoring me the whole time, haven't you?" | “你一直都在监视我对吧”
+scn00_44_0027 | ＣＣＲ－０２(CCR-02) | 『アイ……って……なァに？　うつクシイって……なに？　ソれが……ワカったラ……ワタ……しも……オネえ……ちゃん……になレル？』 | "What is... 'love'? What... is... 'beautiful'? Could I... be... like you... if... I... knew?" | ‘爱……是……什么？　美丽又是……什么？　如果……能明白……这些……我也能……变得……和姐姐……一样吗？’
+scn00_44_0028 | - | ひなたを呼びに戻ろうとしていたココロだったが、ＣＣＲ－０２の言葉にもう一度腰を下ろした。 | When Cocoro is about to go call Hinata, she hears CCR-02's words, and she sits down again. | 心本想回去叫日向，但听到CCR-02的话后又停下了脚步。
+scn00_44_0029 | - | ひなたなら呼びに戻る必要はない。もう起きている頃で、きっとこちらへ向かってる。 | There's no need to go to Hinata. He should already be awake at this time, and he'll surely come here anyway. | 没有必要回去叫日向，因为这个时间他应该已经醒了，现在肯定正在朝这边赶来。
+scn00_44_0030 | - | それより、この悲しい獣のような妹を残していくのが忍びなかった。 | And most importantly, Cocoro can't bear to leave her beast-like sister alone when she's sad. | 比起他，心更不忍心将这个像是悲伤野兽般的妹妹留在这里。
+scn00_44_0031 | ココロ(Cocoro) | 「あなたはあなた、ワタシではありません」 | "You're you. You're not me." | “你就是你，不是我”
+scn00_44_0032 | ＣＣＲ－０２(CCR-02) | 『……なりた……い……おネエ……チャン……』 | "I... want to... be... you..." | ‘……想……变成……姐……姐……’
+scn00_44_0033 | - | ココロは首を振る。 | Cocoro shakes her head. | 心摇了摇头。
+scn00_44_0034 | ココロ(Cocoro) | 「なれるかなれないかではありません。あなたはあなたになるのです」 | "It doesn't matter whether you can be like me or not. You have to become ." | “这不是你能不能变成我的问题，而是你只能成为你自己”
+scn00_44_0035 | ＣＣＲ－０２(CCR-02) | 『わか……んな……い……ヨォ……コワい……ヨォ……おネエ……チャン……』 | "I... don't... under...stand. I'm... scared, Sister..." | ‘我……不……明白……啊……好……害怕……啊……姐……姐……’
+scn00_44_0036 | ココロ(Cocoro) | 「ワタシたちに命はあると思いますか？」 | "Do you think that we have life?" | “你觉得我们有生命吗？”
+scn00_44_0037 | ＣＣＲ－０２(CCR-02) | 『……イノち？』 | "Life?" | ‘……生命？’
+scn00_44_0038 | ココロ(Cocoro) | 「死にたくない。そう願うのは、命を[お]惜しむから？」 | "You don't want to die. Is that because you value your life?" | “你会祈愿‘不想死’，是因为不想失去生命吗？”
+scn00_44_0039 | ココロ(Cocoro) | 「そうではなくワタシは、生まれてきた事が誤りであったかのように消されるのが嫌だった」 | "It wasn't like that for me, but I didn't want to be erased because that would make it seem like my birth was a mistake." | “曾经的我不是这么想的，只是不想让自己像是从诞生起就是个错误一样被消灭掉”
+scn00_44_0040 | ココロ(Cocoro) | 「セカイに祝福され、存在していた事を許されるなら、死んでもいい……ワタシは何の疑問も持たず、そう信じ切っていました」 | "I wouldn't have minded dying as long as I could receive the world's blessing first, making it okay for me to exist. I never doubted it—I fully believed this." | “如果我能受到世界的祝福，被允许存在于这个世界上，那么让我去死都可以……我当时对此没有产生过任何疑问，始终这样坚信着”
+scn00_44_0041 | ココロ(Cocoro) | 「でも、今は違います。死にたくない」 | "But now I feel different. I don't want to die." | “但是现在不一样了，我不想死了”
+scn00_44_0042 | ＣＣＲ－０２(CCR-02) | 『シぬ……と……ドウな……るの……？』 | "What... happens... if... you... die?" | ‘死去……会……怎么……样……？’
+scn00_44_0043 | ココロ(Cocoro) | 「消えてしまいます。何もかもなかった事になります」 | "You disappear, as if you'd never existed in the first place, along with all your memories." | “会消失，一切都会不复存在”
+scn00_44_0044 | ココロ(Cocoro) | 「昨夜観た星空の美しさも」 | "The beauty of the starry sky I saw yesterday..." | “昨晚看到的星空有多美丽也好”
+scn00_44_0045 | ココロ(Cocoro) | 「ひなたさんが『美味しい』と言ってくれたコーヒーの味も」 | "And the flavor of the coffee that Hinata-san said was 'tasty'..." | “让日向先生说出‘美味’的咖啡味道如何也好”
+scn00_44_0046 | ココロ(Cocoro) | 「九十九商店街のヒトたちと交わした言葉の数々も」 | "All the words I've exchanged with the people of the Tsukumo shopping district..." | “和九十九商店街的人们进行过的对话也好”
+scn00_44_0047 | ココロ(Cocoro) | 「ワタシをロボットと知りながら、真剣に向き合ってくれた風音の気持ちも」 | "Kazane's feelings when she took me seriously despite knowing I was a robot..." | “知道我是机器人还真诚对待我的风音的心意也好”
+scn00_44_0048 | ココロ(Cocoro) | 「友達になってくれた可愛い可愛いこさめも」 | "Kosame's cuteness when she agreed to be my friend..." | “和我成为朋友的很可爱很可爱的小雨也好”
+scn00_44_0049 | ココロ(Cocoro) | 「ナツと名付けた、従順で賢い犬との思い出も」 | "The obedience and intelligence of the dog that I named 'Natsu'..." | “和被我取名为夏天，温顺聪明的狗之间的回忆也好”
+scn00_44_0050 | ココロ(Cocoro) | 「ワタシやワタシの同胞を救おうとしてくれた霧香の願いも」 | "Kirika's earnest wish to save me and my kind..." | “雾香那想要拯救我和我同胞的愿望也好”
+scn00_44_0051 | ココロ(Cocoro) | 「ひなたさんと愛し合った全ての時間と記憶も……」 | "And all the time Hinata-san and I spent exploring our love..." | “和日向先生相爱的所有时间和记忆也好……”
+scn00_44_0052 | ココロ(Cocoro) | 「ワタシはなくしたくない。全てが大切な、取り替えのできない想い出」 | "They're all precious memories to me. I don't want to lose them." | “我都不想失去，这些全都是我重要的，独一无二的回忆”
+scn00_44_0053 | ココロ(Cocoro) | 「ワタシに命はありますか？」 | "Do you think I have life?" | “我拥有生命吗？”
+scn00_44_0054 | ＣＣＲ－０２(CCR-02) | 『……わか……ラ……なイ……』 | "I... don't... know." | ‘……我……不知……道……’
+scn00_44_0055 | ココロ(Cocoro) | 「あるとすれば、それは記憶です。一つ一つの想い出に紐付いた体験の鮮烈さ。知識を得るだけでは持ち得なかったものたち」 | "If I do, I think it's located in my memories. Each of them carries a vividness that I never would have experienced simply from acquiring knowledge." | “如果说有，那便是记忆了。与一个个回忆相关联的经历十分鲜明，这是无法只通过得到知识就能拥有的”
+scn00_44_0056 | ココロ(Cocoro) | 「ワタシにとってかけがえのないものは記憶だけ。それこそがワタシの命の証です」 | "My memories are the only irreplaceable part of me. They're the proof that I'm alive." | “对我来说独一无二的东西只有记忆，这也正是我生命的证明”
+scn00_44_0057 | ＣＣＲ－０２(CCR-02) | 『ワカ……らな……イ』 | "I don't... under...stand." | ‘我……不……明白’
+scn00_44_0058 | ココロ(Cocoro) | 「あなたはワタシではなく、あなたはあなたの記憶があるはずです」 | "You're not me, so you must have your own memories." | “你不是我，你应该也有着自己的记忆”
+scn00_44_0059 | ココロ(Cocoro) | 「あなたはあなたの『美しい』を見付けないといけない」 | "You have to find something  think is beautiful." | “你必须要寻找到属于自己的‘美丽’”
+scn00_44_0060 | ＣＣＲ－０２(CCR-02) | 『わた……シ……ノ……うつクシイ……』 | "What I... think... is... beauti...ful..." | ‘我……的……美丽……’

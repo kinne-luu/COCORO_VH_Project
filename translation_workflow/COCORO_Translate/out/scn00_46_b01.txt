@@ -1,0 +1,60 @@
+scn00_46_0001 | Thu dọn căn phòng ngăn nắp xong xuôi, tôi đeo hành lý lên vai.
+scn00_46_0002 | "..."
+scn00_46_0003 | Dù đây chỉ là căn phòng tôi trọ lại trong một thoáng kỳ nghỉ hè, nhưng những ngày tháng trôi qua nơi này quá đỗi sâu đậm, khiến lúc phải rời đi lòng tôi không khỏi dâng lên niềm lưu luyến.
+scn00_46_0004 | Thế nhưng, nếu cứ tiếp tục ở lại đây, tôi sẽ mãi mãi không thể thoát ra khỏi những miền ký ức.
+scn00_46_0005 | "...Bởi kỳ nghỉ hè cũng đã kết thúc rồi."
+scn00_46_0006 | Gạt bỏ những vương vấn trong lòng, tôi bước chân ra khỏi phòng.
+scn00_46_0007 | Vừa bước ra ngoài và trèo lên chiếc xe đạp leo núi,
+scn00_46_0008 | "Gâu gâu!!"
+scn00_46_0009 | Natsu liền vẫy đuôi rối rít chạy ùa lại gần.
+scn00_46_0010 | "Bảo trọng nhé, Natsu. Phải ngoan để mọi người thương yêu đấy."
+scn00_46_0011 | Tôi xoa nhẹ đầu nó rồi toan rời đi, nhưng...
+scn00_46_0012 | "Gâu!! Gâu gâu!!!"
+scn00_46_0013 | Nó sủa vang không ngớt rồi ngoạm lấy gấu quần tôi giằng lại.
+scn00_46_0014 | "Mày biết tao sắp rời khỏi thị trấn này sao...?"
+scn00_46_0015 | Cứ ngỡ nó nhận ra tôi sắp đi xa, nhưng dường như không phải vậy. Natsu đang cố kéo tôi đi về hướng nào đó.
+scn00_46_0016 | Chẳng còn cách nào khác, tôi đành bước xuống xe đạp.
+scn00_46_0017 | "Chuyện gì thế..."
+scn00_46_0018 | Đi theo nó tới nơi, tôi thấy một chú cún con đang ở đó.
+scn00_46_0019 | Nhưng đó không phải là một chú chó thật.
+scn00_46_0020 | Đó là một robot mang hình dáng chú cún con.
+scn00_46_0021 | "CCR-02...?"
+scn00_46_0022 | Nghe tôi cất tiếng gọi, CCR-02 lắc đầu như muốn bảo rằng 'không phải'.
+scn00_46_0023 | <T... Tên của em... là... Shirayuki.>
+scn00_46_0024 | "Shirayuki?"
+scn00_46_0025 | <Vâng... Chị Cocoro... đã đặt tên cho em đó.>
+scn00_46_0026 | "Hóa ra... là vậy sao. Anh hiểu rồi, Shirayuki."
+scn00_46_0027 | Nghe tôi gọi tên, Shirayuki lắc lư thân mình nhỏ bé đầy vẻ vui sướng.
+scn00_46_0028 | "...Em đã trở lại hình dáng ban đầu rồi nhỉ."
+scn00_46_0029 | Con bé không còn mang dáng dấp quái vật chimera chắp vá từ đống linh kiện phế thải kia nữa.
+scn00_46_0030 | "Gâu! Gâu!"
+scn00_46_0031 | "Natsu bảo vệ và che chở cho em ấy sao?"
+scn00_46_0032 | Liệu Shirayuki đã tự mình tới đây, hay là do Natsu tìm thấy ở nơi nào đó rồi dẫn về nhỉ.
+scn00_46_0033 | <Mùa hè... mùa hoa vô giá...>
+scn00_46_0034 | "?"
+scn00_46_0035 | <Tôi... đã rất hạnh phúc...>
+scn00_46_0036 | "Shirayuki... em đang nói gì thế?"
+scn00_46_0037 | <...Ôi, đẹp xiết bao... Ước gì tôi có thể cùng ngắm cảnh này với cậu...>
+scn00_46_0038 | "..."
+scn00_46_0039 | Tôi lấy chiếc drone hỏng ra khỏi balo rồi đặt Shirayuki vào thay thế. Shirayuki chỉ ló chiếc đầu nhỏ xinh ra khỏi miệng balo.
+scn00_46_0040 | "Cảm ơn mày nhé, Natsu."
+scn00_46_0041 | "Gâu!!"
+scn00_46_0042 | Được tôi vuốt ve, Natsu vui vẻ vẫy đuôi.
+scn00_46_0043 | "Dì Kirika ơi, dì có đó không?"
+scn00_46_0044 | "Hinata... Có chuyện gì thế cháu?"
+scn00_46_0045 | Dì Kirika dường như vẫn ru rú suốt trong phòng nghiên cứu như mọi khi.
+scn00_46_0046 | "Cháu tìm thấy bé này ạ."
+scn00_46_0047 | Tôi bế Shirayuki ra khỏi balo.
+scn00_46_0048 | "Đứa bé này là... CCR-02 sao?"
+scn00_46_0049 | Tàn tích của Shirayuki từng được thu gom về, nhưng chỉ có phần vỏ ngoài còn bộ phận lõi bên trong thì mất tích.
+scn00_46_0050 | "Cảm ơn cháu nhé, may quá rồi."
+scn00_46_0051 | <...Chị... ở đâu rồi ạ?>
+scn00_46_0052 | "Cocoro thì ở ngay đằng kia kìa."
+scn00_46_0053 | <Chị ơi...>
+scn00_46_0054 | Shirayuki lăng xăng chạy lại nơi thân xác hư hỏng của Cocoro đang nằm yên.
+scn00_46_0055 | <Chị... đang ngủ ạ?>
+scn00_46_0056 | "Ừ."
+scn00_46_0057 | <Tại sao ạ? Vì chị bị hỏng rồi sao?>
+scn00_46_0058 | "Đúng vậy cháu à."
+scn00_46_0059 | <Xin hãy sửa chữa cho chị ấy đi ạ.>
+scn00_46_0060 | "Dì cũng tính thế đây. Nhưng lúc này vẫn chưa đủ linh kiện."

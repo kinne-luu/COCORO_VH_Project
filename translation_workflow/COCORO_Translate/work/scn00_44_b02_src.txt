@@ -1,0 +1,63 @@
+# scene=scn00_44 batch=2/4 dòng 61-119 / 215
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_44_0061 | ココロ(Cocoro) | 「美しさとは個性ですから。何を美しいと感じるかはあなた次第。ワタシではなく、自分の心に尋ねるといいですよ」 | "Beauty is in the eye of the beholder. It depends on your personality what you find beautiful. You should search within your own soul instead of asking me." | “美也是一种个性，会对什么感到美丽取决于你自己。你不应该问我，而是应该问自己的内心”
+scn00_44_0062 | ＣＣＲ－０２(CCR-02) | 『ジブん……の……ここ……ロ……』 | "My own... soul..." | ‘自己……的……心……’
+scn00_44_0063 | ＣＣＲ－０２(CCR-02) | 『ワカ……らナい……ワタし……ハ……ここ……ロ？』 | "I don't... under...stand. Am I... Coco...ro?" | ‘我……不……明白……我……是……心？’
+scn00_44_0064 | ココロ(Cocoro) | 「ココロはワタシです。あなたは……」 | "Cocoro means 'heart' or 'soul', but I'm Cocoro. You're..." | “心是我，你是……”
+scn00_44_0065 | ココロ(Cocoro) | 「……あなたにも名前を付けてあげます。型番とは異なる、固有の名称です」 | "...I'll give you a name. A unique, personal name that's not just your model number." | “……我也给你取个名字吧，和型号不同的固有名称”
+scn00_44_0066 | ＣＣＲ－０２(CCR-02) | 『な……マエ……？』 | "A... name?" | ‘名……字……？’
+scn00_44_0067 | ココロ(Cocoro) | 「あなたは強そうな見た目をしているので……ベヒモス……バハムート……呂布……金属バット……なんかちがう」 | "You look strong, so maybe... Behemoth... Bahamut... Lü Bu... Baseball Bat... No, none of those sound right." | “你外表看上去很厉害的话……贝希摩斯……巴哈姆特……吕布……金属球棒……感觉都不太对”
+scn00_44_0068 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_44_0069 | ココロ(Cocoro) | 「シラユキ……」 | "Shirayuki..." | “白雪……”
+scn00_44_0070 | ＣＣＲ－０２(CCR-02) | 『シラゆキ？』 | "Shirayuki?" | ‘白雪？’
+scn00_44_0071 | ココロ(Cocoro) | 「この花の名です。何年もの間、我慢して、ある日純白のとても美しい花を咲かせます」 | "It's the Japanese name of these flowers. They bide their time for many years until it's time to bloom, and when they do, they grow beautiful, pure-white flowers." | “就是这朵花的名字，它会忍耐数年，然后再某一天开出非常美丽的纯白色花朵”
+scn00_44_0072 | ココロ(Cocoro) | 「あなたの心が、花開きますように」 | "May your heart blossom one day, too." | “愿你的心就像花朵绽放一样”
+scn00_44_0073 | シラユキ(Shirayuki) | 『しらユキ……シ……ラユ……き……シラユキ……』 | "Shirayuki... Shi...rayu...ki... Shirayuki..." | ‘白雪……白……雪……白雪……’
+scn00_44_0074 | ココロ(Cocoro) | 「気に入っていただけたようですね。お姉ちゃんの面目躍如ですね」 | "It seems that you like it. I couldn't very well disappoint you as your big sister." | “看来你很中意这个名字呢，姐姐真是有才呢”
+scn00_44_0075 | ココロ(Cocoro) | 「まあ、ワタシはこう見えて、名付けのプロですから。きっと上手くいくだろうと予測はしていました」 | "I may not look like it, but I'm actually a pro at coming up with names. I was confident I could come up with a good one." | “毕竟，我可是起名字的专家，我已经预料到会很顺利了”
+scn00_44_0076 | シラユキ(Shirayuki) | 『おネエちゃん……』 | "Sister..." | ‘姐姐……’
+scn00_44_0077 | ココロ(Cocoro) | 「なんですか？」 | "What?" | “怎么了？”
+scn00_44_0078 | シラユキ(Shirayuki) | 『……ス……き……』 | "I... love you..." | ‘……喜……欢……’
+scn00_44_0079 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_44_0080 | ココロ(Cocoro) | 「……言えたじゃないですか。それがあなたの感情です」 | "So you  say it. See? Those are your feelings." | “……你这不是说出来了嘛，这就是你的感情”
+scn00_44_0081 | ココロ(Cocoro) | 「ちなみに、ワタシもあなたが好きです。たったひとりの妹ちゃんですから。よしよししてあげます」 | "I love you too, by the way. You're my only little sister, after all. Let me pat your head." | “顺带一提，我也喜欢你，毕竟你是我唯一的妹妹，让我摸摸你的头吧”
+scn00_44_0082 | シラユキ(Shirayuki) | 『……ハワワ……』 | "Wahh..." | ‘……哈呜……’
+scn00_44_0083 | ココロ(Cocoro) | 「あなたがワタシの目を直してくれたおかげで、ナツノシラユキが咲くところが見られます。ありがとうですよ、シラユキ」 | "Thanks to you fixing my eyes, I'm now able to see the summer snows bloom. Thank you so much, Shirayuki." | “多亏你修好了我的眼睛，我才能看到夏之白雪开花的样子，谢谢你，白雪”
+scn00_44_0084 | シラユキ(Shirayuki) | 『…………ナオ……して……ヨカッ……たァ…………』 | "I'm... glad... I fixed... you..." | ‘…………修好……了……真是……太好了……’
+scn00_44_0085 | ひなた(Hinata) | 『ココロ！　ココロ！！』 | <Cocoro! Cocoro!!> | ‘心！　心！！’
+scn00_44_0086 | ココロ(Cocoro) | 「ひなたさん？　起きたのですね。今すぐ植物園へ来てください。今まさに一大スペクタクルの始まりです」 | "Hinata-san? You finally woke up. You have to come to the botanical garden immediately. There's a grand spectacle about to start." | “日向先生？　你醒了啊，请立刻到植物园里来，现在正要上演重大的奇迹”
+scn00_44_0087 | ひなた(Hinata) | 『植物園にいるんだね、わかった！』 | <You're at the garden? Great!> | ‘你在植物园里啊，我知道了！’
+scn00_44_0088 | ココロ(Cocoro) | 「ひなたさんがお寝坊しなくてよかった。ですが、声に焦りがあるようでしたね。もしかして、心配をかけてしまったでしょうか」 | "I'm glad you didn't oversleep. I'm detecting a slight panic in your voice, though. Did I make you worry?" | “还好日向先生没有睡过头。不过他的声音似乎有些焦急啊，难道说，是我让他担心了吗”
+scn00_44_0089 | ココロ(Cocoro) | 「なんにせよ、間に合いそうでよかったです」 | "Either way, I'm glad you made it." | “不管怎样，能赶上就好”
+scn00_44_0090 | - | ガサッ…… | Rustle... | 沙沙……
+scn00_44_0091 | - | ふいに葉がこすれる音がした。 | Something seems to be moving through the garden. | 突然传来了树叶摩擦的声音。
+scn00_44_0092 | - | ガラスドームは一部が破れていて、風が吹き込んでくる。 | It's not unusual for the wind to blow in through the broken glass dome. | 玻璃穹顶的一部分被打破了，有风吹了进来。
+scn00_44_0093 | - | しかし、今朝はほとんど風はなくドーム内は[おだ]穏やかなものだ。 | However, there's barely any wind this particular morning, so the air inside the dome is still. | 可是，今早基本上没有风，穹顶内也十分安静。
+scn00_44_0094 | ココロ(Cocoro) | 「？」 | "Huh?" | “？”
+scn00_44_0095 | - | ココロが振り返ると、通路に誰かが立っていた。 | Cocoro turns around. Somebody is standing in the pathway. | 心回过头，发现有人站在路上。
+scn00_44_0096 | 駆除隊隊長(Extermination Squad Leader) | 「見付けたぞ……」 | "Found you..." | “找到了……”
+scn00_44_0097 | シラユキ(Shirayuki) | 『グルルルルルル…………！！』 | "Grrrrr...!!" | ‘咕噜噜噜噜…………！！’
+scn00_44_0098 | 駆除隊隊長(Extermination Squad Leader) | 「見付けたぞバケモノども！！！！！」 | "I finally found you, you monsters!!!" | “我找到你们了，怪物们！！！！！”
+scn00_44_0099 | ココロ(Cocoro) | 「あなたは――」 | "You're the—" | “你是——”
+scn00_44_0100 | シラユキ(Shirayuki) | 『ギャウッ！！？』 | "Ghahhh!?" | ‘啊呜！！？’
+scn00_44_0101 | 駆除隊隊長(Extermination Squad Leader) | 『見付けたぞバケモノども！！！！！』 | <I finally found you, you monsters!!!> | ‘我找到你们了，怪物们！！！！！’
+scn00_44_0102 | ひなた(Hinata) | 「ッ――！！？」 | "Huh!?" | “——！！？”
+scn00_44_0103 | - | ココロの聞いた音が、そのまま俺のイヤホンに転送されてきていた。 | The audio that Cocoro is hearing is being fed into my headset. | 心听到的声音原原本本地传到了我的耳机中。
+scn00_44_0104 | ひなた(Hinata) | 「ココロ？　今の声は？　ココロ！！！」 | "Cocoro? What was that voice? Cocoro!" | “心？　刚刚是谁的声音？　心！！！”
+scn00_44_0105 | - | 呼びかけるが返事はない。 | I call out, but there's no response. | 但我的呼喊并没有得到回应。
+scn00_44_0106 | ココロ(Cocoro) | 『あなたは――』 | <You're the—> | ‘你是——’
+scn00_44_0107 | - | ココロの緊迫した声のすぐ後に、発砲音が聞こえた。 | Cocoro's urgent voice is cut off by the sound of gunfire. | 在心发出了急迫的声音后，便立刻响起了开枪声。
+scn00_44_0108 | ひなた(Hinata) | 「ココロ！　何が起こってるんだ、ココロ！」 | "Cocoro! What's happening, Cocoro!?" | “心！　发生什么事了，心！”
+scn00_44_0109 | - | 返事はない。聞こえていないのか、それどころではないのか。 | Still no response. Either she can't hear me, or she doesn't have the time to respond. | 没有回应，不知道是没听到还是没时间。
+scn00_44_0110 | ココロ(Cocoro) | 『なにを……』 | <What are you—> | ‘你要做什么……’
+scn00_44_0111 | 駆除隊隊長(Extermination Squad Leader) | 『おまえたちを駆除する。このセカイから消し去ってやる』 | <I'm here to exterminate you. I'll erase you from this world forever.> | ‘我要将你们驱除掉，给我从这个世界上消失吧’
+scn00_44_0112 | - | この声は、駆除隊隊長の―― | That sounds like the extermination squad leader... | 这个声音是驱除队队长——
+scn00_44_0113 | - | 何かよくない事が起こっている。 | Whatever's happening, it's not good. | 发生了什么不好的事。
+scn00_44_0114 | ひなた(Hinata) | （ココロ……ココロ……） | (Cocoro... Cocoro...) | （心……心……）
+scn00_44_0115 | - | 空を覆っていた雲が裂け、隙間から朝陽が差し込んできていた。 | The clouds that covered the morning sky are parting, and beams of sunlight shine through the gaps. | 遮蔽天空的乌云逐渐分散开来，朝阳从缝隙中照射了下来。
+scn00_44_0116 | - | 美しい光景に目もくれず、俺はペダルをありったけの力を込めて[こ]漕ぎ続けた。 | But I'm too preoccupied to appreciate the beautiful scenery as I pedal my bike as fast as I can. | 我完全没有去看这美丽的光景，用尽全力不停踩着踏板。
+scn00_44_0117 | シラユキ(Shirayuki) | 『グルルルルル…………ガァァアアアア！！！！！』 | "Grrrr... Gahhhh!!!" | ‘咕噜噜噜噜噜…………吼————！！！！！’
+scn00_44_0118 | - | シラユキが駆除隊隊長に向かって飛びかかった。 | Shirayuki jumps at the former extermination squad leader. | 白雪朝着驱除队队长扑了过去。
+scn00_44_0119 | ココロ(Cocoro) | 「シラユキッ」 | "Shirayuki!" | “白雪”

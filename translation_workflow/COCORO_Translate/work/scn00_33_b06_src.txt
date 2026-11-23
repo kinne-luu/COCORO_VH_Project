@@ -1,0 +1,65 @@
+# scene=scn00_33 batch=6/7 dòng 305-365 / 428
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_33_0305 | - | 撫でようと手を伸ばすと、ボスはグルルルルと低いうなり声をあげた。 | I reached out to pet Boss, and he immediately let out a low hiss. | 我伸出手正要去摸它，Boss便发出了咕噜噜噜噜的低吼声。
+scn00_33_0306 | - | これ以上近づいたら、その手を引っ掻くぞという目で睨み付けている。 | He was glaring at me, as if he would scratch me the moment I touched him. | 眼睛里写着，靠近一点我就抓烂你的手。
+scn00_33_0307 | ひなた(Hinata) | 「母さんっ」 | "Mom...!" | “妈妈”
+scn00_33_0308 | 母(Mom) | 「嫌がってるみたいね、やめておきましょう」 | "Looks like he's not in the mood. Let's leave him alone." | “看来你被讨厌了啊，还是算了吧”
+scn00_33_0309 | - | 母さんがおかしそうに笑いながら言う。 | She let out an amused giggle. | 妈妈忍俊不禁地说道。
+scn00_33_0310 | 母(Mom) | 「今、ボスの心が見えなかった？」 | "We saw into Boss's mind just now, didn't we?" | “刚刚，你看到Boss的心了吗？”
+scn00_33_0311 | ひなた(Hinata) | 「ボスの心？」 | "We did?" | “Boss的心？”
+scn00_33_0312 | 母(Mom) | 「ひなたに撫でられるのが嫌だっていう」 | "He didn't want you to pet him." | “就是不想被日向摸的想法”
+scn00_33_0313 | ひなた(Hinata) | 「……見えた……かも」 | "Yeah... I saw that, I think." | “……可能是……看到了吧”
+scn00_33_0314 | - | いまいち釈然としないが、ボスは実際に俺に撫でられるのを嫌がっていて、その気持ちは俺に伝わった。 | I still wasn't sure if that cleared up my doubts, but I understood that Boss didn't want me to pet him, and that his feelings got through to me. | 虽然无法完全释怀，但Boss确实不喜欢被我摸，而这个心情也传给了我。
+scn00_33_0315 | 母(Mom) | 「ネコにもちゃんと心はあるのね」 | "See? Cats have minds of their own, too." | “猫也是有心的啊”
+scn00_33_0316 | ひなた(Hinata) | 「……」 | "..." | “……”
+scn00_33_0317 | - | 俺が言いたいのはそういう事じゃない。 | That wasn't quite what I was getting at, though. | 我想说的并不是这个。
+scn00_33_0318 | - | 父の気持ちが分からないから、目に見えたらいいのにという話をしたのだ。 | What I meant to say was that I didn't understand Dad's feelings, so I wished I could see them. | 我是想说自己不明白父亲的想法，所以如果能用眼睛看到就好了。
+scn00_33_0319 | - | [す]拗ねていじける俺の前に、母さんが左手を差し出した。 | Noticing the sullen look on my face, Mom showed me her left hand. | 妈妈对着闹起别扭的我伸出了左手。
+scn00_33_0320 | - | 薬指に綺麗な指輪がはまっていた。 | She was wearing a pretty ring on her ring finger. | 无名指上戴着一枚漂亮的戒指。
+scn00_33_0321 | 母(Mom) | 「これはね、あなたのお父さんがくれたものよ」 | "Look. I got this ring from your dad." | “这个可是日向的爸爸送给我的哦”
+scn00_33_0322 | 母(Mom) | 「言ってくれたの。結婚しようって」 | "He gave it to me when he asked me to marry him." | “还对我说了‘和我结婚吧’这句话”
+scn00_33_0323 | 母(Mom) | 「私の事、全部知って、とってもとーっても悲しんで……それでもあの人は、約束を守ってくれた」 | "He knew  about me, and it made him very sad... But he still kept his promise." | “他知道我的一切后，非常非常悲伤……但即便如此，他也遵守了约定”
+scn00_33_0324 | 母(Mom) | 「嬉しかったなぁ」 | "It made me really happy." | “当时真开心啊”
+scn00_33_0325 | - | 母さんが左手の指を包み込むようにして言う。その表情はとても幸福そうだった。 | Mom cupped her left hand with her right and held the ring close to her heart with a blissful expression on her face. | 妈妈用右手包着左手手指说道，表情看上去十分幸福。
+scn00_33_0326 | 母(Mom) | 「あぁ、この人は自分がとてつもない悲しみを背負う事になるって分かってるのに、私といる事を選んでくれたんだって」 | "To think that he chose to be with me, even though he knew he would end up being devastated..." | “当时就觉得，啊，他明知道自己将会背负起巨大悲伤的情况下，却还是选择了和我在一起”
+scn00_33_0327 | 母(Mom) | 「……」 | "..." | “……”
+scn00_33_0328 | 母(Mom) | 「この指輪はね、約束の証。私の宝物よ」 | "This ring is a reminder of our promise. It's my dearest treasure." | “这枚戒指呢，就是约定的证明，是我的宝物哦”
+scn00_33_0329 | - | 幸せそうに指輪を見つめる母だったけど、俺には難しくてよく分からなかった。 | At the time, I didn't understand why my mom looked so happy as she gazed at her ring. | 虽然母亲一脸幸福地盯着戒指看，但这对我来说十分难以理解。
+scn00_33_0330 | ひなた(Hinata) | 「……わかんないよ、ボスの尻尾とそれとどう関係があるの？」 | "...I don't get it. What's that got to do with Boss's tail?" | “……我不明白，Boss的尾巴和这又有什么关系？”
+scn00_33_0331 | 母(Mom) | 「うーん……ひなたにはまだ難しかったか」 | "Hmm... Maybe you're still too young to understand." | “唔……对日向来说还有点难懂啊”
+scn00_33_0332 | 母(Mom) | 「ようするにね、父さんと母さんはとっても愛し合っていて、おかげであなたが生まれたってわけ」 | "Basically, your dad and I love each other very much, and that's why you were born." | “总之就是，爸爸妈妈十分相爱，所以才会生下你”
+scn00_33_0333 | 母(Mom) | 「ひなたは私たち夫婦の愛の結晶。すごいわ、愛が目に見えて、触れるだなんて」 | "You're the fruit of our love. It's amazing how love can become visible and tangible that way, isn't it?" | “日向是我们夫妇爱情的结晶。很厉害吧，爱能用眼睛看到，也能被触摸到”
+scn00_33_0334 | - | 母さんはおどけながら俺の頭を撫で回した。 | Mom stroked my hair with a smitten look. | 妈妈一边说笑一边来回抚摸着我的头。
+scn00_33_0335 | - | 意味は分からなかったけど、愛の結晶と言われて少しだけ嬉しかった。 | I didn't understand what she meant, but it made me happy to hear that I was born out of their love. | 我虽然还是不太明白，但听到自己被称为爱情的结晶后还是有些开心的。
+scn00_33_0336 | - | 父さんと母さんはちゃんと愛し合っていて、だから俺は生まれたんだ。 | Mom and Dad loved each other. That's why I was born. | 爸爸妈妈十分相爱，所以才会生下我。
+scn00_33_0337 | - | あの時は、まだ小さくてピンとこなかったが、父は母の病気の事を知っていて、それでもプロポーズして結婚をしたんだろう。 | At the time, I was still too young for it to make sense, but I figure that Dad proposed to Mom while knowing about her illness. | 当时的我还小所以没能理解，但父亲应该是在知道母亲病情的情况下，依旧选择了向母亲求婚并与母亲结婚吧。
+scn00_33_0338 | - | 母はそれが嬉しかった。 | And that made Mom happy. | 母亲对此感到很开心。
+scn00_33_0339 | - | 父の弱さを知っていて、どれほど傷付くかを覚悟しながら結婚してくれた事が。 | She knew about his weakness, and that he married her despite knowing he would end up hurt when she passed away. | 她知晓父亲的软弱，不知道他究竟做了多大心理准备，对明知会受伤却依旧和她结了婚这件事感到很开心。
+scn00_33_0340 | ひなた(Hinata) | （母さんにとってあの指輪は、父さんの愛情が形になったもので、だから大切な宝物だったのか） | (For Mom, that ring was a physical manifestation of Dad's love. That's why she treasured it so much.) | （对妈妈来说那枚戒指就是爸爸爱情的形状，所以才会是她重要的宝物啊）
+scn00_33_0341 | - | あの尻尾がボスのものだったかは証明できない。 | There was no way to prove that the tail we saw really belonged to Boss. | 无法证明那个尾巴是不是Boss的。
+scn00_33_0342 | - | 父が本当は母を愛していなかった可能性はゼロではない。でも、指輪がなんらかの気持ちの表れである事に違いはない。 | The possibility that my dad didn't really love my mom isn't zero. But it's certain that the ring was a reflection of some kind of feeling. | 父亲其实并不爱母亲的可能性也不为零。但是，戒指毫无疑问就是某种感情的表现。
+scn00_33_0343 | ひなた(Hinata) | （心は目に見える……か） | (So people's feelings  be seen...) | （眼睛能看到人心……）
+scn00_33_0344 | - | 開けっぱなしの窓から、そよそよと風が吹いてきて、汗ばんだ肌を撫でていく。 | A gentle breeze blows in through the open window, caressing my sweaty skin. | 一阵阵的风从打开的窗户吹了进来，抚摸着我布满汗水的皮肤。
+scn00_33_0345 | - | 心地いい気分。 | It feels nice. | 感觉十分舒适。
+scn00_33_0346 | - | これも心があるから感じるんだろう。 | Does this feeling come from my soul? | 这也是拥有人心才能感受到的吧。
+scn00_33_0347 | ひなた(Hinata) | （心って何なんだろう……） | (What  the soul, anyway...?) | （人心到底是什么啊……）
+scn00_33_0348 | - | 分からなくなって、ぼんやりと窓の外を見る。 | Lost in thought, I blankly stare out of the window. | 我迷茫了起来，呆呆地看着窗外。
+scn00_33_0349 | - | 虫が飛んできて、窓辺の鉢植えの花に止まった。 | An insect flies in and lands on one of the petunia's flowers. | 虫子飞了进来，落在了窗边花盆里的花上。
+scn00_33_0350 | - | 花弁の中へ[もぐ]潜り込んでいく。 | It burrows down in between the petals. | 然后钻进了花朵中。
+scn00_33_0351 | - | 虫は蜜を飲み、代わりに花粉を運んで受粉を助ける。 | Insects take the plant's nectar, and in return they carry its pollen. | 昆虫吸食花蜜，作为交换则会搬运花粉帮忙授粉。
+scn00_33_0352 | - | ああして虫が花を見付けられるのは、香りだったり花の色や形で存在を虫たちに教えているからだ。 | Plants attract insects through the scent, color, and shape of their flowers. | 昆虫之所以能找到花，是因为花用气味颜色形状将自己的存在告诉了昆虫。
+scn00_33_0353 | - | 最初からそうだったわけじゃない。 | But they weren't always that way. | 并非一开始就是这样。
+scn00_33_0354 | - | 最初に花粉を運んだ昆虫はコガネムシの仲間だったという。その頃、まだ花は存在しなかった。 | The first insects that carried pollen were scarab beetles. At that time, plants didn't have flowers yet. | 据说最先运送花粉的昆虫是金龟子的亲戚，当时还不存在花。
+scn00_33_0355 | - | 花粉を食べるためにやってくるコガネムシは害虫だったが、その身体に花粉が付着したまま、また他へ行くために受粉が促されるようになった。 | The first beetles that fed on pollen were pests, but even those pests assisted in pollination thanks to the pollen that stuck to their bodies. | 为了吃花粉而来的金龟子虽然是害虫，但它身体附着着花粉去了其他地方的行为却为授粉提供了帮助。
+scn00_33_0356 | - | そうして虫を媒介した受粉方法が進化した。 | Thanks to that, these plants developed a synergistic relationship with the beetles, and they evolved to attract their pollinators. | 就这样植物进化出了以昆虫为媒介进行授粉的方式。
+scn00_33_0357 | - | 花だ。 | They started growing flowers. | 就是花。
+scn00_33_0358 | - | 花は虫たちに見付けてもらうために進化した機能だと考えられる。 | It's said that the main purpose of flowers is to help insects find the plant. | 可以认为花是为了让昆虫们找到自己而进化出来的机能。
+scn00_33_0359 | - | 媒介する虫や動物に合わせて、色や形、香りや大きさ、季節、開花する時間帯、方向などを進化させていき、今の姿になった。 | They evolved in color, shape, fragrance, and size, and they optimized the season and time in which they bloom to suit the needs of the insects and other animals that assisted them. That's why flowers look the way they do today. | 植物迎合着作为媒介的昆虫和动物，在颜色、形状、气味、大小、季节、开花时间、开花方向等等方面进行了进化，最终变成了现在的样子。
+scn00_33_0360 | - | 虫たちも、花に合わせた進化をしてきた。 | And insects continued to evolve along with the flowers. | 昆虫们也配合着花朵发生了进化。
+scn00_33_0361 | - | 別に、虫と花が話し合って決めたわけじゃない。全ての生き物は、自分の都合のいいように進化するだけ。 | It's not as if they could talk to each other and decide the best course of action. All living beings evolved to their own advantage. | 这并不是昆虫和花朵商量好后决定的，所有的生物，都只是为了自身而进化的。
+scn00_33_0362 | - | こういった関係を共進化という。 | This relationship between organisms is called "coevolution." | 这种关系被称为协同进化。
+scn00_33_0363 | - | 恐らくは無数の失敗を繰り返して、互いが得をする環境が形作られていったんだろう。 | Perhaps they formed a mutually beneficial environment through countless repeated failures. | 恐怕是在经历了无数次失败后，才形成了互利共赢的环境吧。
+scn00_33_0364 | - | 悠久の果てに現在の姿を獲得した。 | They came to be what they are today through a process spanning millions of years. | 经过了悠久的时间后才获得了现在的样子。
+scn00_33_0365 | - | その事実だけで、充分に美しいと言えるだろう。 | That fact alone is already beautiful. | 光是这一事实，就足以被称为美丽了吧。

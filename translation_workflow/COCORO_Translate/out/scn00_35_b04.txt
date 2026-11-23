@@ -1,0 +1,58 @@
+scn00_35_0181 | Đứa bé kia, hôm nay cũng lại đến nữa rồi.
+scn00_35_0182 | Dạo gần đây, ngày nào cũng có một cậu bé đến thăm vườn bách thảo.
+scn00_35_0183 | Trước đây thỉnh thoảng tôi cũng có bắt gặp bóng dáng cậu bé. Nhưng giờ đây ngày nào cậu cũng có mặt, xấp xỉ đúng vào khoảng thời gian ngay sau khi Tiến sĩ Mitsumine Yoko qua đời.
+scn00_35_0184 | Dựa theo ngoại hình để phán đoán, lẽ ra đây phải là thời gian cậu đang ngồi trong lớp học tiểu học, nhưng không hiểu sao cậu lại có mặt ở vườn bách thảo.
+scn00_35_0185 | Tôi suy đoán rằng cậu bé cũng giống như thiết lập thân phận của tôi, vì bản tính quá nhút nhát rụt rè nên không thể đến trường học.
+scn00_35_0186 | Ngày nào cậu bé cũng đến đây và cặm cụi phác thảo lại những bông hoa và cây cỏ.
+scn00_35_0187 | Tiếp đón những vị khách như vậy chính là bổn phận của một nhân viên tình nguyện viên.
+scn00_35_0188 | Hơn nữa, giao lưu với con người để học hỏi cảm xúc cũng là sứ mệnh của một robot như tôi.
+scn00_35_0189 | "Sao em không chụp ảnh lại ạ?"
+scn00_35_0190 | Tôi cất lời hỏi về điều mà mình vẫn hằng thắc mắc.
+scn00_35_0191 | Xét về cả tính chân thực lẫn khả năng lưu trữ, chụp ảnh tĩnh hoặc quay video chắc chắn vượt trội hơn nhiều. Tại sao cậu lại cố sao chép lại bằng nét vẽ tay không hoàn hảo ấy chứ?
+scn00_35_0192 | Tôi tự nhủ biết đâu trong hành động đó lại ẩn chứa 'tính người' mà loài robot chúng tôi khó lòng lĩnh hội được.
+scn00_35_0193 | Thế rồi, cậu bé liền...
+scn00_35_0194 | "...... a... ư...... a... ư......"
+scn00_35_0195 | Cậu bé dường như muốn đáp lại, nhưng chỉ có thể rặn ra những âm thanh ú ớ từ cổ họng chứ không thốt nên lời.
+scn00_35_0196 | Trong khi tôi còn đang ngơ ngác bối rối thì khuôn mặt cậu bé đã đỏ bừng lên từ lúc nào, đôi mắt ngân ngấn lệ rồi cúi gằm mặt xuống.
+scn00_35_0197 | Có vẻ như mình đã làm khó em ấy mất rồi...
+scn00_35_0198 | Là do cậu bé cực kỳ hay xấu hổ sao?
+scn00_35_0199 | Biết đâu em ấy lại không thể nghe được chăng.
+scn00_35_0200 | Tôi mượn cây bút chì từ tay cậu bé, rồi nắn nót viết vài dòng chữ lên mép góc cuốn sổ vẽ.
+scn00_35_0201 | \n\n\n\n\n\n\n\n%R<Vì sao em lại vẽ tranh thay vì chụp ảnh vậy?>
+scn00_35_0202 | "......"
+scn00_35_0203 | "......?"
+scn00_35_0204 | Trong lúc tôi kiên nhẫn chờ đợi câu trả lời, cậu bé liền cầm lấy chiếc bút chì từ tay tôi rồi hí hoáy viết tiếp một dòng chữ ngay bên dưới.
+scn00_35_0205 | \n\n\n\n\n\n\n\n<Để quan sát tỉ mỉ đến từng chi tiết của thực vật>
+scn00_35_0206 | %n;<Mỗi một cấu trúc của cây cỏ đều có vai trò và ý nghĩa riêng. Em muốn tìm hiểu điều đó>
+scn00_35_0207 | "Vai trò......"
+scn00_35_0208 | Đó quả là một câu trả lời vô cùng thú vị đối với tôi.
+scn00_35_0209 | Robot chúng tôi sinh ra đều mang trên mình một vai trò nhất định. Toàn bộ các bộ phận cấu thành nên cơ thể tôi cũng đều gánh vác một vai trò nào đó.
+scn00_35_0210 | Vai trò chính là ý nghĩa tồn tại của một công cụ như robot.
+scn00_35_0211 | Thế nhưng tôi vẫn chưa thể hoàn thành được vai trò ấy của mình.
+scn00_35_0212 | Biết được con người suy nghĩ như thế nào về thứ gọi là 'vai trò' có lẽ sẽ trở thành manh mối giúp tôi tìm ra lời giải cho vai trò của chính bản thân mình.
+scn00_35_0213 | \n\n\n\n\n\n\n\n%R<Chị có thể xem tranh của em được không?>
+scn00_35_0214 | Tôi được cậu bé đưa cho xem cuốn sổ phác thảo.
+scn00_35_0215 | Tuy nét vẽ không quá chân thực, nhưng từng chi tiết nhỏ của cây cỏ đều được quan sát vô cùng kỹ lưỡng, đặc biệt những phần mà cậu bé lưu tâm đều được phác họa nổi bật hơn hẳn.
+scn00_35_0216 | Vừa ngắm nhìn những bức vẽ vừa đặt câu hỏi, cậu bé đã chia sẻ cho tôi rất nhiều kiến thức phong phú về thế giới thực vật.
+scn00_35_0217 | Biết đâu chừng, đứa bé này lại biết được câu trả lời.
+scn00_35_0218 | Câu trả lời cho câu đố hóc búa mà tôi buộc phải vượt qua, để có thể hoàn thành vai trò 'vượt qua bài kiểm tra' được giao phó.
+scn00_35_0219 | \n\n\n\n\n\n\n\n%R<Vậy, em có thể dạy cho chị biết được không?>
+scn00_35_0220 | %n;<Vì sao hoa lại đẹp đẽ đến thế?>
+scn00_35_0221 | Cậu bé vốn đang hào hứng, thoăn thoắt viết từng dòng chữ bỗng nhiên chết sững ngay khi nhìn thấy câu hỏi của tôi.
+scn00_35_0222 | ......?
+scn00_35_0223 | "...... a... ư...... a... ư... ư......"
+scn00_35_0224 | Từ khóe mắt cậu bé, những giọt lệ thi nhau lã chã rơi xuống.
+scn00_35_0225 | Nước mắt ư...?
+scn00_35_0226 | Đây là lần đầu tiên tôi được nhìn thấy.
+scn00_35_0227 | Những người mà tôi tiếp xúc trước nay chỉ toàn là các nhà nghiên cứu, hoặc nhân viên và khách tham quan ra vào vườn bách thảo.
+scn00_35_0228 | Chưa từng có một ai bộc lộ cảm xúc mãnh liệt đến nhường này.
+scn00_35_0229 | Tại sao đứa bé này lại khóc nhỉ?
+scn00_35_0230 | Tôi không hiểu.
+scn00_35_0231 | Tôi không thể nào thấu hiểu được trái tim của con người.
+scn00_35_0232 | Tôi không hiểu.
+scn00_35_0233 | Tôi cũng không hiểu vì sao hoa lại đẹp đẽ đến thế.
+scn00_35_0234 | Tôi không hiểu.
+scn00_35_0235 | Bởi vì tôi chỉ là một cỗ máy thử nghiệm dở dang và chưa hoàn thiện.
+scn00_35_0236 | Cậu bé lại cầm lấy chiếc bút chì, run rẩy viết từng dòng chữ bằng bàn tay ướt đẫm nước mắt.
+scn00_35_0237 | \n\n\n\n\n\n\n\n<Em là đóa hoa cả đời này sẽ mãi chỉ là nụ búp, chẳng thể nào nở bung rực rỡ>
+scn00_35_0238 | "Đóa hoa không thể nở sao......?"

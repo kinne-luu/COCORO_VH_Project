@@ -1,0 +1,60 @@
+scn00_30_0061 | "Tôi phản đối hành động đó. Tự mong muốn cái 'chết' của bản thân là vi phạm nguyên tắc của robot."
+scn00_30_0062 | "Không, không hề vi phạm. Nếu bản thân có nguy cơ gây hại cho con người thì phải chủ động ngừng hoạt động."
+scn00_30_0063 | "Không có chuyện đó đâu."
+scn00_30_0064 | "Không, tôi cần phải bị tiêu hủy."
+scn00_30_0065 | "Tôi không muốn chết."
+scn00_30_0066 | "Robot không sở hữu sinh mệnh thì làm gì có khái niệm 'chết'."
+scn00_30_0067 | Những luồng tư duy trái ngược cứ luẩn quẩn xoay vòng, khiến các vi mạch nóng bừng lên.
+scn00_30_0068 | Nếu tiếp tục nghĩ ngợi về vấn đề này thêm nữa, mạch tư duy có thể sẽ bị cháy khét mất.
+scn00_30_0069 | Đó có lẽ là phương thức tự kết liễu duy nhất mà Cocoro có thể làm được.
+scn00_30_0070 | "A, chị Coco kìa."
+scn00_30_0071 | "...Kosame."
+scn00_30_0072 | Bé Kosame cất tiếng gọi cô.
+scn00_30_0073 | Cô bé là bạn. Kosame rất quấn quýt bên Cocoro và lúc nào cũng đối xử ân cần, tử tế với cô.
+scn00_30_0074 | "Gâu!"
+scn00_30_0075 | Dường như Kosame đang dắt chó đi dạo, vừa thấy bóng Cocoro, chú chó liền tung tăng chạy ùa tới toan quấn lấy chân cô.
+scn00_30_0076 | "Này chó, lông sẽ dính vào quần áo đấy, mau tránh xa tôi ra."
+scn00_30_0077 | "Gâu! Gâu!"
+scn00_30_0078 | Chó có trí thông minh thấp, chỉ có thể tiếp nhận những phương thức giao tiếp cực kỳ đơn giản.
+scn00_30_0079 | Chính vì vậy, dù Cocoro có truyền đạt bao nhiêu điều cấm kỵ đi chăng nữa thì nó cũng chẳng thể hiểu nổi. Đúng là một sinh vật phiền toái.
+scn00_30_0080 | "Chị sao thế chị Coco? Sắc mặt chị trông chẳng tốt chút nào kìa?"
+scn00_30_0081 | Bởi mạch tư duy đang phát sinh lỗi, cô đã chẳng thể nào tạo ra được "biểu cảm giống con người" nữa.
+scn00_30_0082 | "Gặp em ở đây đúng lúc lắm. Tôi muốn nói lời từ biệt với em."
+scn00_30_0083 | "Ơ, chị định đi đâu sao ạ...?"
+scn00_30_0084 | "Lên đường, sang thế giới bên kia, quy tiên, con người dùng rất nhiều cách nói ẩn dụ khác nhau, nhưng đối với trường hợp của tôi thì chính là xóa bỏ - Delete."
+scn00_30_0085 | "Nhân cách mang tính khái niệm được sinh ra từ hiện tượng vật lý của mạch điện tử, xóa bỏ toàn bộ dữ liệu bộ nhớ khắc ghi trên thiết bị lưu trữ."
+scn00_30_0086 | "Tôi sẽ biến mất khỏi thế giới này."
+scn00_30_0087 | "...Khó hiểu quá em không biết đâu, chị đang nói chuyện gì thế ạ?"
+scn00_30_0088 | "Vốn dĩ việc tôi tồn tại đã là một sai lầm. Sai lầm thì cần phải được uốn nắn sửa chữa. Tức là mọi thứ sẽ trở nên tinh tươm sạch sẽ, hệt như bãi cát trên bờ biển Tsukumo vậy."
+scn00_30_0089 | Dường như chẳng thể hiểu nổi ý tứ trong lời nói của Cocoro, Kosame chỉ lặng lẽ lắc đầu.
+scn00_30_0090 | Thế nhưng khóe mắt cô bé đã ngân ngấn lệ, tựa như ít nhiều cảm nhận được một điều gì đó đau buồn sắp sửa ập đến.
+scn00_30_0091 | "..."
+scn00_30_0092 | Cocoro nhận định rằng việc kể tường tận những điều sắp xảy ra cho Kosame nghe có phần hơi tàn nhẫn.
+scn00_30_0093 | "Tôi sẽ đến chỗ của Kirika."
+scn00_30_0094 | "Gì cơ, hóa ra là chị đi gặp dì Kirika à. Đi thôi nào, Wanta."
+scn00_30_0095 | "Gâu!"
+scn00_30_0096 | Kosame dắt theo chú chó lẽo đẽo đi theo sau.
+scn00_30_0097 | Cocoro chẳng buồn bận tâm, cứ thế rảo bước đi trước.
+scn00_30_0098 | Nếu bản thân biến thành Mutant Drone, biết đâu cô sẽ làm tổn thương Kosame. Đó là một trong những viễn cảnh mà cô không mong muốn xảy ra nhất.
+scn00_30_0099 | "Cần phải nhanh lên mới được."
+scn00_30_0100 | "Thế ạ? Vậy chúng mình đi nhanh lên nào."
+scn00_30_0101 | Để theo kịp những bước chân thoăn thoắt của Cocoro, Kosame ra sức lăn bánh xe lăn.
+scn00_30_0102 | Thế nhưng đường sá gồ ghề, lại thêm một tay còn bận giữ dây xích chó, nên dù có vội vã đến mấy cô bé vẫn dần bị tụt lại phía sau.
+scn00_30_0103 | Cocoro cứ thế cắm cúi bước đi thật nhanh về phía trước như muốn bỏ rơi Kosame lại.
+scn00_30_0104 | "Đợi em với, chị Coco ơi!"
+scn00_30_0105 | Đúng lúc khoảng cách giữa cô và Kosame bị kéo giãn ra xa, một chiếc xe hơi bất ngờ dừng lại ngay trước mắt.
+scn00_30_0106 | "Cocoro."
+scn00_30_0107 | "Kirika."
+scn00_30_0108 | Từ ghế phụ của chiếc xe, Kirika bước xuống.
+scn00_30_0109 | Ở ghế lái chính là chú Kotaro.
+scn00_30_0110 | "Dì đang đi tìm cháu đây."
+scn00_30_0111 | "Tôi cũng đang trên đường đi gặp cô đây."
+scn00_30_0112 | "Thế à? Có chuyện gì xảy ra sao?"
+scn00_30_0113 | "Vâng, tôi có một việc muốn nhờ cậy cô."
+scn00_30_0114 | "Xin hãy... tôi... t-tôi... xin hãy..."
+scn00_30_0115 | ...Hãy tiêu hủy tôi đi.
+scn00_30_0116 | Vừa định thốt ra lời đó, một thứ gì đó bỗng cản trở khiến giọng cô tắc nghẹn lại.
+scn00_30_0117 | Và rồi, tín hiệu SOS vang lên inh ỏi trong tâm trí cô tựa như một hồi còi báo động không kích.
+scn00_30_0118 | SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS, SOS...
+scn00_30_0119 | "Xin hãy... tiêu hủy... tôi... đừng mà... hãy..."
+scn00_30_0120 | "Cháu sao thế hả Cocoro, cháu muốn nói điều gì cơ?"

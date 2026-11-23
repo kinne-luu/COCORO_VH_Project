@@ -1,0 +1,59 @@
+scn00_40_0001 | Rời khỏi chỗ dì Kirika, trước khi quay về khu phố, chúng tôi quyết định ghé qua vườn bách thảo một lát.
+scn00_40_0002 | "...... Úi chà!"
+scn00_40_0003 | Cocoro bỗng lảo đảo vấp chân suýt ngã ngay giữa khoảng đất bằng phẳng chẳng có lấy một vật cản.
+scn00_40_0004 | Tôi vội vàng giang tay đỡ lấy em.
+scn00_40_0005 | "Tôi xin lỗi, do tôi tính toán khoảng cách bằng mắt bị sai lệch mất rồi."
+scn00_40_0006 | "Cậu không sao chứ......?"
+scn00_40_0007 | "Do phải hứng chịu nhiều chấn động mạnh liên tiếp, trục căn chỉnh cân bằng của tôi đã xuất hiện độ lệch."
+scn00_40_0008 | "Nhưng không sao đâu ạ, chỉ cần điều chỉnh bù trừ cho cảm giác thăng bằng là sẽ ổn thỏa thôi."
+scn00_40_0009 | Dù Cocoro mỉm cười đáp lại, lòng tôi vẫn không khỏi gợn lên nỗi lo âu.
+scn00_40_0010 | "Nắm lấy tay tớ này. Nào."
+scn00_40_0011 | "Nghĩa là hai chúng ta sẽ dìu dắt, nương tựa vào nhau đúng không. Rất ra dáng một đôi vợ chồng đấy, tôi đánh giá rất cao điều này."
+scn00_40_0012 | Chúng tôi nắm lấy tay nhau và cùng cất bước.
+scn00_40_0013 | "Chào nhé, mấy cô cậu nhóc."
+scn00_40_0014 | "...... Hóa ra đã có khách đến trước rồi."
+scn00_40_0015 | "Gì thế, chú làm phiền hai đứa à?"
+scn00_40_0016 | "Dạ đâu có, không có gì đâu ạ."
+scn00_40_0017 | "...... Hứ."
+scn00_40_0018 | "Tất cả lộ hết lên mặt rồi kìa, Cocoro."
+scn00_40_0019 | "Thất lễ quá rồi. Tôi cứ đinh ninh hiếm hoi lắm mới có dịp chỉ có hai người bên nhau để nắm tay cậu Hinata hẹn hò nơi vườn bách thảo cơ đấy."
+scn00_40_0020 | Em ấy còn nói toẹt luôn cả thành lời nữa cơ.
+scn00_40_0021 | "...... Cơ mà, chú vẫn thấy khó tin thật đấy. Rằng cô bé này lại là robot."
+scn00_40_0022 | "Chú Kotaro thất lễ quá đấy nhé. Nếu bị người ta bảo rằng: 'Không thể tin nổi cái loại người này lại là con người', thì chú sẽ cảm thấy thế nào hả?"
+scn00_40_0023 | "Ấy chết...... chú xin lỗi nhé. Chú vẫn chưa quen giao tiếp với humanoid cho lắm."
+scn00_40_0024 | "Chú đang làm gì ở chỗ này thế ạ?"
+scn00_40_0025 | "Chú vừa được giải thoát khỏi nhiệm vụ bên Đội Tiêu Trừ, nên nhân tiện đi dạo kiểm tra tình hình quanh Phân khu Trung tâm ấy mà."
+scn00_40_0026 | "Chú là... Điều tra viên Công an Điều tra nhỉ."
+scn00_40_0027 | "Quên vụ đó giùm chú đi. Bằng không chú lại bị cấp trên mắng té tát cho bây giờ."
+scn00_40_0028 | Đáng lẽ ra chú phải giữ kín danh tính để thực thi nhiệm vụ đến cùng. Sở dĩ chú phải để lộ thân phận, chính là để bảo vệ Cocoro và chúng tôi.
+scn00_40_0029 | "Lúc nãy chú có nói mục đích của Đội Tiêu Trừ là tiêu hủy chứng cứ về 'Ách Tai', rốt cuộc chuyện đó là thế nào vậy ạ?"
+scn00_40_0030 | Tại sao họ lại phải làm một việc như thế chứ.
+scn00_40_0031 | "Bởi vì nếu nguyên nhân 'Ách Tai' bị phơi bày ra ánh sáng thì sẽ có những kẻ phải gánh chịu hậu quả và chịu trách nhiệm. Thế giới của người lớn thật là bẩn thỉu phức tạp."
+scn00_40_0032 | Nói cách khác, bọn họ đã giật dây Đội Tiêu Trừ bám theo đội điều tra, hòng phi tang mọi chứng cứ trước khi dì Kirika kịp chạm tay tới.
+scn00_40_0033 | Điều này đã giải thích thỏa đáng cho mọi hành tung bất thường của Đội Tiêu Trừ từ trước đến nay.
+scn00_40_0034 | Để ngăn chặn âm mưu đó, chú Kotaro mới phải thâm nhập điều tra nội gián. Thật là một nhiệm vụ hiểm nguy cận kề cái chết.
+scn00_40_0035 | Tên đội trưởng từng bảo gã được ai đó thuê mướn...
+scn00_40_0036 | Nếu nguyên nhân bắt nguồn từ chính các cuộc nghiên cứu diễn ra tại Phân khu Trung tâm, thì trách nhiệm chắc chắn không chỉ dừng lại ở phạm vi một doanh nghiệp đơn thuần.
+scn00_40_0037 | Và vì lẽ đó mà có những kẻ nhẫn tâm muốn xóa sổ hoàn toàn sự tồn tại của Cocoro sao.
+scn00_40_0038 | "Chú có thể bảo đảm an toàn tính mạng cho dì Kirika được không ạ?"
+scn00_40_0039 | "Dĩ nhiên rồi. Nhiệm vụ hiện tại của chú là hộ tống bảo vệ Chủ nhiệm Kizuki, đồng thời che chở cho bé Cocoro... người vừa là bằng chứng sống, vừa là niềm hy vọng của tương lai."
+scn00_40_0040 | "Thế nên là, nếu bé Cocoro chịu đi cùng chú thì tốt biết mấy."
+scn00_40_0041 | Chú Kotaro đưa bàn tay ra.
+scn00_40_0042 | "Cậu nhóc Hinata vốn chỉ là chủ nhân tạm thời được thiết lập trong tình huống khẩn cấp thôi đúng không."
+scn00_40_0043 | "Vâng ạ."
+scn00_40_0044 | "Chú có thể coi là người đại diện của chủ sở hữu hợp pháp của cháu. Cháu hiểu ý chú chứ?"
+scn00_40_0045 | "......"
+scn00_40_0046 | Cocoro toan đưa tay ra nắm lấy tay chú Kotaro.
+scn00_40_0047 | Robot không thể kháng lệnh con người. Huống hồ đó lại là người có quyền hạn chính đáng.
+scn00_40_0048 | Bốp! Cocoro dứt khoát gạt phắt bàn tay ấy ra.
+scn00_40_0049 | "Về mặt pháp lý thì có lẽ là như vậy thật. Nếu như tôi chỉ là một món đồ vật vô tri."
+scn00_40_0050 | "Thế nhưng, tôi có ý chí và nguyện vọng của riêng mình. Và chính cậu Hinata đã giúp tôi nhận thức được điều đó."
+scn00_40_0051 | "Dùng ý chí của riêng mình để phá vỡ quy tắc, cự tuyệt cả mệnh lệnh chính đáng... Cháu là đồng minh hay kẻ thù của nhân loại đây?"
+scn00_40_0052 | "Tôi không muốn là kẻ thù, cũng chẳng màng làm đồng minh, mà tôi muốn trở thành bạn bè."
+scn00_40_0053 | "......"
+scn00_40_0054 | Chú Kotaro trừng mắt nhìn Cocoro với vẻ mặt đầy nghiêm nghị đáng sợ.
+scn00_40_0055 | Thế nhưng ngay sau đó, chú lại nở nụ cười quen thuộc.
+scn00_40_0056 | "Hừm... Chú cũng hy vọng mọi chuyện có thể được như thế. Chính vì vậy mà chú muốn trở thành chỗ dựa giúp sức cho Chủ nhiệm Kizuki."
+scn00_40_0057 | "Dì Kirika nhờ cả vào chú đấy ạ."
+scn00_40_0058 | "Để làm được điều đó thì chú phải thắt chặt tình cảm với Chủ nhiệm hơn nữa. Nhóc ơi, có thông tin nội bộ hữu ích nào không hé lộ cho chú tí coi?"
+scn00_40_0059 | "Thông tin hữu ích ư......"

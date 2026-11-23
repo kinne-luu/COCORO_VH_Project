@@ -1,0 +1,60 @@
+scn00_42_0181 | "Hai đứa này lại phát cơm chó cho mọi người ăn đấy à."
+scn00_42_0182 | "Oa~~"
+scn00_42_0183 | "Ê nè, tôi đã bảo là bỏ qua phần này rồi cơ mà!!?"
+scn00_42_0184 | "Kìa, Cocoro."
+scn00_42_0185 | "?"
+scn00_42_0186 | Nhận thấy phản ứng của mọi người, Cocoro ngơ ngác nghiêng đầu thắc mắc.
+scn00_42_0187 | "Tôi lại làm sai điều gì nữa rồi sao?"
+scn00_42_0188 | "À thì... thôi, thế cũng tốt mà nhỉ? Để mọi người thấy rõ sự chân thành và nghiêm túc của hai người."
+scn00_42_0189 | Dù là những người tới tham gia diễn tập hay những người chỉ tò mò ghé qua xem, hẳn ai nấy cũng đều cảm nhận được chúng tôi thật lòng yêu thương nhau đến nhường nào.
+scn00_42_0190 | "Rồi, sau đó là nghi thức tiến bước rời khỏi lễ đường... coi như xong phần này ha."
+scn00_42_0191 | "Tiếp theo là di chuyển sang địa điểm tổ chức tiệc mừng đúng không!"
+scn00_42_0192 | Địa điểm tiệc mừng là tòa nhà từng là nhà văn hóa cộng đồng, nằm rất gần bờ biển.
+scn00_42_0193 | Một phần vì chưa rõ lượng khách tham dự đông đến đâu, nên chúng tôi đã quyết định tổ chức tiệc nướng BBQ ngay trên bãi cát ven biển.
+scn00_42_0194 | Tôi và Cocoro sẽ trực tiếp đứng bếp nấu nướng để thết đãi bà con.
+scn00_42_0195 | "Tôi đang hăng hái muốn trổ tài lắm rồi đây. Tôi sẽ cho toàn thể các vị quan khách thấy rõ thế nào là 'vị ngon đỉnh chóp' của mình."
+scn00_42_0196 | Cocoro đang tràn đầy khí thế ngút trời.
+scn00_42_0197 | "Bánh kem thì tao cũng sẽ chuẩn bị một chiếc đặc biệt thượng hạng, cứ việc ngóng chờ đi nhé!"
+scn00_42_0198 | Daichi cũng tỏ ra vô cùng nhiệt tình hăng hái.
+scn00_42_0199 | "Xem nào, liệu tụi mình còn bỏ sót điều gì nữa không ta..."
+scn00_42_0200 | "..."
+scn00_42_0201 | Tranh thủ lúc rảnh rỗi trong lúc chờ đợi, Cocoro ngồi thụp người xuống.
+scn00_42_0202 | "Chị Coco đang ngắm nhìn gì thế ạ?"
+scn00_42_0203 | "Là hoa đấy em."
+scn00_42_0204 | "? Đã nở đâu ạ."
+scn00_42_0205 | "Đúng thế. Đóa hoa này tên là Tuyết Trắng Mùa Hạ, chắc hẳn chẳng bao lâu nữa là sẽ bung nở rồi."
+scn00_42_0206 | "Ồ ra vậy ạ."
+scn00_42_0207 | "...Tôi từng có lời hẹn ước rằng khi loài hoa này nở, vị hôn phu sẽ quay lại tìm tôi và cưới tôi làm vợ."
+scn00_42_0208 | "Vị hôn phu ấy chính là anh Hinata sao ạ?"
+scn00_42_0209 | "Ừ, đúng thế đấy."
+scn00_42_0210 | "..."
+scn00_42_0211 | Nhìn góc nghiêng gương mặt của Cocoro phảng phất đôi nét ưu tư bất an.
+scn00_42_0212 | "...Có chuyện gì sao chị?"
+scn00_42_0213 | "Chúng tôi vẫn còn một lời ước hẹn thứ hai nữa."
+scn00_42_0214 | "...Rằng khi đóa Tuyết Trắng Mùa Hạ nở rộ, nhất định tôi cũng sẽ thấu hiểu được vì sao hoa lại đẹp."
+scn00_42_0215 | "Đó chính là điều kiện tiên quyết để tôi có tư cách kết hôn với vị hôn phu của mình."
+scn00_42_0216 | "Hoa chính là trái tim của thực vật. ...Liệu tôi có thể đón nhận trọn vẹn trái tim của đóa Tuyết Trắng Mùa Hạ hay không."
+scn00_42_0217 | "Cứ nghĩ đến cảnh lỡ như bản thân chẳng cảm nhận được điều gì, tôi lại thấy..."
+scn00_42_0218 | "Chị Coco..."
+scn00_42_0219 | Năm xưa mẹ tôi vì cớ làm sao lại cặm cụi vun trồng hoa trong góc vườn nhỉ.
+scn00_42_0220 | Có lẽ là bởi khi loài cây mình dốc lòng chăm sóc nở ra những bông hoa kiều diễm, trong lòng sẽ ngập tràn niềm vui sướng.
+scn00_42_0221 | Nhưng tại sao mẹ lại thấy vui sướng?
+scn00_42_0222 | Đó chắc hẳn là bởi việc đơm hoa kết nhụy tựa như một lời hồi đáp mà cỏ cây đáp đền tấm lòng của người chăm sóc.
+scn00_42_0223 | Vì thế nên những đóa hoa ấy mới càng thêm phần diễm lệ khôn cùng.
+scn00_42_0224 | Sau biến cố Ách Tai khi bóng người đã vắng bóng, Cocoro vẫn đơn độc một mình chăm nom vườn bách thảo.
+scn00_42_0225 | Với mong mỏi đóa Tuyết Trắng Mùa Hạ một ngày nào đó sẽ nở, ngày nào cậu ấy cũng cần mẫn tưới nước và chăm chú quan sát.
+scn00_42_0226 | Kỳ vọng càng lớn thì khi bị phản bội, nỗi thất vọng sẽ càng sâu sắc bấy nhiêu. Dự cảm được điều đó, Cocoro mới cảm thấy bất an lo sợ.
+scn00_42_0227 | Không sao đâu, Cocoro của hiện tại chắc chắn sẽ cảm nhận được vẻ đẹp ấy mà thôi.
+scn00_42_0228 | Ở đằng xa bỗng vang lên tiếng chuông reo của máy bộ đàm.
+scn00_42_0229 | "Tôi nghe đây, Kotaro đây. ...Cái gì cơ? Được rồi, tôi tới ngay."
+scn00_42_0230 | "Có chuyện gì thế?"
+scn00_42_0231 | "Jabberwock..."
+scn00_42_0232 | "Anh nói sao cơ?"
+scn00_42_0233 | Chú Kotaro và dì Kirika vội vã hớt hải rời đi.
+scn00_42_0234 | Vừa rồi họ bảo là Jabberwock ư...
+scn00_42_0235 | "Rồi, hoàn hảo! Giờ chỉ còn việc hoàn tất trang trí, rồi luyện tập các tiết mục hát hò nhảy múa cho tiệc cưới nữa thôi nha."
+scn00_42_0236 | "Phải múa hát thật đấy hả trời..."
+scn00_42_0237 | "Chứ còn sao nữa! Tụi mình là đại diện cho hội bạn thân cơ mà?"
+scn00_42_0238 | "..."
+scn00_42_0239 | "Cocoro?"
+scn00_42_0240 | Cocoro, người vừa mới còn chăm chú ngắm nhìn đóa Tuyết Trắng Mùa Hạ, lúc này lại đang đăm đăm phóng tầm mắt về một nơi nào đó rất xa xăm.

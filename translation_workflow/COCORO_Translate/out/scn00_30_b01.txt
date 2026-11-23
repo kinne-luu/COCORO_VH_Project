@@ -1,0 +1,60 @@
+scn00_30_0001 | Sau khi rời khỏi khu nhà trọ, Cocoro một mình cất bước dọc theo con phố mua bán.
+scn00_30_0002 | Bước chân của cô xiêu vẹo loạng choạng một cách đầy gượng gạo.
+scn00_30_0003 | "..."
+scn00_30_0004 | Bộ truyền động dường như phát sinh trục trặc, khiến khả năng kiểm soát khớp đầu gối bị lỗi.
+scn00_30_0005 | Ngoài ra còn có rất nhiều linh kiện khác cũng đang gặp sự cố, cô hiểu rõ nếu không lập tức bảo trì, sớm muộn gì cơ thể cũng sẽ chịu những tổn hại không thể nào phục hồi.
+scn00_30_0006 | "Cơ thể này không chỉ thuộc về riêng mình tôi."
+scn00_30_0007 | Cô khẽ thì thầm tự nhủ như muốn nhắc nhở chính bản thân mình.
+scn00_30_0008 | Đối với Cocoro, thể xác chẳng qua chỉ là một linh kiện có thể thay thế được.
+scn00_30_0009 | Và ngay cả phần mà Cocoro tự nhận thức là "chính mình", thực chất cũng chỉ là một mảnh linh kiện có thể hoán đổi.
+scn00_30_0010 | Đó là phần cốt lõi của người nhân tạo mang mã hiệu CCR-01, nhưng việc thay thế nó vốn đã được ấn định từ trước.
+scn00_30_0011 | Nếu diễn đạt theo cách của con người, thì đó chính là thay thế trái tim được đặt vào bên trong cơ thể.
+scn00_30_0012 | Bởi lẽ linh kiện mang tên "Cocoro" vốn là một sản phẩm thất bại đối với CCR-01.
+scn00_30_0013 | Sau khi hoán đổi, có lẽ nó sẽ được đánh số thứ tự là CCR-03.
+scn00_30_0014 | Trong bộ não ấy, dựa trên dữ liệu mà Cocoro để lại, một "Cocoro tiếp theo" sẽ được cài đặt vào.
+scn00_30_0015 | "Cocoro là tôi. Chỉ mình tôi thôi. 'Cocoro' là danh xưng riêng biệt mà cậu Hinata đã trao cho duy nhất một mình tôi."
+scn00_30_0016 | Phát hiện lỗi, phát hiện lỗi, phát hiện lỗi, phát hiện lỗi, yêu cầu khôi phục ngay lập tức...
+scn00_30_0017 | Ngay lúc này trong đầu cô, những hồi chuông cảnh báo vẫn không ngừng dồn dập rền vang.
+scn00_30_0018 | Hệ thống đang cố gắng loại bỏ những luồng tư duy mâu thuẫn ra khỏi mạch suy nghĩ của Cocoro.
+scn00_30_0019 | "Xin đừng xóa bỏ tôi mà..."
+scn00_30_0020 | Cocoro thậm chí còn chẳng nhận thức được rằng mình vừa vô thức lẩm bẩm thành tiếng.
+scn00_30_0021 | Hôm qua, cô đã nhìn thấy Mitsumine Hinata qua ống kính của flycam.
+scn00_30_0022 | Tại sao cô lại làm như vậy?
+scn00_30_0023 | Bởi một mối hoài nghi đã nảy sinh trong lòng.
+scn00_30_0024 | Kết quả đối soát cho thấy độ trùng khớp giữa Mitsumine Hinata và vị hôn phu là 84%.
+scn00_30_0025 | Qua mô phỏng diện mạo khi trưởng thành của người hôn phu thuở còn là một cậu bé, hệ thống ước tính Mitsumine Hinata gần như chính là người đó.
+scn00_30_0026 | "Nhưng dấu vân giọng nói lại khác."
+scn00_30_0027 | Nam giới loài người sẽ vỡ giọng ở tuổi dậy thì. Việc giọng nói của Mitsumine Hinata khác biệt so với ký ức về người hôn phu mà Cocoro lưu giữ vốn chẳng hề có gì mâu thuẫn.
+scn00_30_0028 | Cách ăn nói, vị trí nốt ruồi, cử chỉ điệu bộ, lý lịch trong quá khứ cùng vô số dữ liệu khác đều hoàn toàn trùng khớp.
+scn00_30_0029 | Thế nhưng, lại có một điểm vô cùng kỳ lạ.
+scn00_30_0030 | "Tại sao cậu lại giấu giếm cơ chứ?"
+scn00_30_0031 | Hinata vốn có tính cách rất thẳng thắn, bộc trực. Ngoại trừ mối quan hệ với cha, cậu ấy hiếm khi tỏ thái độ quanh co hay lươn lẹo.
+scn00_30_0032 | Nếu nhân cách mà cậu ấy thể hiện trước mặt mọi người không phải là giả mạo, thì chẳng thể nghĩ ra lý do vì sao cậu ấy lại giấu giếm thân phận.
+scn00_30_0033 | Trong số những đáp án mà mạch tư duy của Cocoro phân tích được, giả thuyết có khả năng cao nhất chính là...
+scn00_30_0034 | "...Bởi vì tôi là một robot."
+scn00_30_0035 | Vị hôn phu từng xem Cocoro là một con người. Chính vì vậy cậu ấy mới ngỏ lời cầu hôn.
+scn00_30_0036 | Thế nhưng Hinata giờ đây đã biết rõ Cocoro là người nhân tạo.
+scn00_30_0037 | Vì thế cậu ấy mới giấu giếm.
+scn00_30_0038 | Không, diễn đạt cho chuẩn xác hơn thì cậu ấy đã từ bỏ việc thừa nhận thân phận hôn phu của mình.
+scn00_30_0039 | Suốt 4 năm ròng rã, cô đã không ngừng đợi chờ người hôn phu ghé thăm khu vườn bách thảo hoang phế. Thế nhưng...
+scn00_30_0040 | "Việc tôi nhận được lời chúc phúc từ thế giới này... sẽ chẳng bao giờ thành hiện thực nữa rồi."
+scn00_30_0041 | Từng giọt nước tí tách lăn dài trên gò má rồi rơi xuống đất.
+scn00_30_0042 | Dung dịch tẩy rửa nhãn cầu lại gặp sự cố rò rỉ nữa rồi.
+scn00_30_0043 | Chắc chắn là đã hỏng mất rồi. Trên cơ thể Cocoro, giờ đây chẳng còn lấy một bộ phận nào có thể vận hành bình thường.
+scn00_30_0044 | "Rốt cuộc mình đang định đi đâu thế này?"
+scn00_30_0045 | Chẳng có một ai đáp lại câu hỏi ấy của cô.
+scn00_30_0046 | Cocoro thực chất đâu có muốn đi đến một nơi nào cụ thể.
+scn00_30_0047 | Đơn thuần là cô không muốn tiếp tục ở lại nơi này.
+scn00_30_0048 | Cô không muốn ở lại bên cạnh Hinata nữa.
+scn00_30_0049 | Vì vậy, chỉ cần là một nơi không có Hinata, bất cứ đâu cũng được.
+scn00_30_0050 | "Tôi là một sản phẩm thất bại. Về lý mà nói, đáng lẽ tôi phải bị đem đi tiêu hủy từ lâu rồi."
+scn00_30_0051 | Chẳng qua chỉ là ngẫu nhiên thảm họa "Ách Tai" bùng nổ trước ngày xử lý, khiến những con người có nhiệm vụ thi hành lệnh tiêu hủy biến mất mà thôi.
+scn00_30_0052 | "Tôi cần phải bị tiêu hủy ngay lập tức. Bằng không, chẳng ai biết trước sau này các lỗi hệ thống sẽ khiến tôi gây ra những hành vi nguy hiểm tới mức nào."
+scn00_30_0053 | Tưởng tượng đến cảnh chính mình sẽ tấn công con người giống như bầy robot đáng thương mà người ta gọi là Mutant Drone, Cocoro bất giác run rẩy.
+scn00_30_0054 | Cô không muốn làm phiền hay gây hại cho những cư dân tốt bụng của thị trấn này.
+scn00_30_0055 | Không, chẳng phải như thế.
+scn00_30_0056 | "Tôi không muốn bị bại lộ mình là robot rồi bị mọi người ghét bỏ."
+scn00_30_0057 | Trước khi chuyện đó xảy ra, làm thế nào để bản thân được bí mật tiêu hủy đây?
+scn00_30_0058 | "Tôi nhận định nhờ cậy Kirika là phương án tốt nhất."
+scn00_30_0059 | Kirika vốn đã biết rõ thân phận của Cocoro, và đội điều tra do cô làm chủ nhiệm cũng đang đảm nhận nhiệm vụ tiêu trừ robot.
+scn00_30_0060 | Đôi chân Cocoro liền chuyển hướng, rảo bước về phía khu cư xá của Kirika.

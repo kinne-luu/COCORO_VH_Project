@@ -1,0 +1,72 @@
+# scene=scn00_42 batch=7/7 dòng 361-428 / 428
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_42_0361 | ココロ(Cocoro) | 「……」 | "..." | “……”
+scn00_42_0362 | 犬(Dog) | 「……クゥン」 | "Woo..." | “……呜”
+scn00_42_0363 | ココロ(Cocoro) | 「そうだ」 | "I know." | “对了”
+scn00_42_0364 | - | ココロが急に、何か[ひらめ]閃いたって顔をする。 | Cocoro suddenly snaps to attention. | 心一副突然想到了什么的表情。
+scn00_42_0365 | 犬(Dog) | 「ワゥ？」 | "Awoo?" | “呜？”
+scn00_42_0366 | ココロ(Cocoro) | 「あなたの名前を決めました」 | "I know what your name is going to be." | “我决定好要给你取什么名字了”
+scn00_42_0367 | ひなた(Hinata) | 「え、いま？」 | "Huh? You decided just now?" | “哎，现在吗？”
+scn00_42_0368 | ココロ(Cocoro) | 「はい。ずっとここまで出かかっていたんです」 | "Yes, but it's been in here all along." | “是的，以前一直梗在这里说不出口”
+scn00_42_0369 | - | 胸元を手で撫でながら言うと、ココロは犬の目をじっと覗き込んだ。 | Cocoro looks the dog in the eyes as she puts her hand to her chest. | 心用手摸着胸口说完这句话后，便盯着狗的眼睛看了起来。
+scn00_42_0370 | ココロ(Cocoro) | 「ワタシにとって大切な、かけがえのない季節――ナツ。それがあなたの名前です」 | "Something that I like... A season filled with irreplaceable memories. 'Natsu.' It means summer—that's your name." | “对我来说最重要的，独一无二的季节——夏天，这就是你的名字了”
+scn00_42_0371 | ひなた(Hinata) | 「ナツ……いい名前だね」 | "Natsu... That's a good name." | “夏天……是个好名字呢”
+scn00_42_0372 | ナツ(Natsu) | 「ワゥ？」 | "Woo?" | “呜？”
+scn00_42_0373 | ココロ(Cocoro) | 「ナツ」 | "Natsu." | “夏天”
+scn00_42_0374 | ナツ(Natsu) | 「ワン！」 | "Woof!" | “汪！”
+scn00_42_0375 | ココロ(Cocoro) | 「そうです。犬」 | "That's it. Good dog." | “就是这样，狗”
+scn00_42_0376 | ナツ(Natsu) | 「ワンワン！！」 | "Woof woof!!" | “汪汪！！”
+scn00_42_0377 | ココロ(Cocoro) | 「ちがいます。あなたはもう犬ではありません。いえ、犬ではあるのですが、それはワタシがヒューマノイドであるのと同じで」 | "No, not that. You're not 'Dog' anymore. Well, you  a dog, but that's the same as me being a humanoid." | “不对，你已经不是狗了，不，你虽然还是狗，就和我是仿生人一样”
+scn00_42_0378 | ココロ(Cocoro) | 「ワタシがココロであるように、あなたはナツになったのです。ナツ」 | "I, the individual, am 'Cocoro.' And now you've become 'Natsu,' Natsu." | “但也正如我是心一样，你也变成夏天了，夏天”
+scn00_42_0379 | ナツ(Natsu) | 「ワンワン！！」 | "Woof woof!!" | “汪汪！！”
+scn00_42_0380 | ひなた(Hinata) | 「あらためてよろしくな、ナツ」 | "I hope you like it, Natsu." | “今后也请多关照了，夏天”
+scn00_42_0381 | ナツ(Natsu) | 「ワン！！」 | "Woof!" | “汪！”
+scn00_42_0382 | - | 言葉が通じているわけではないだろう。でも、ナツにはココロや俺の気持ちが伝わっているのだ。 | I don't think he understands what we're saying, but I'm sure our feelings are getting through to him. | 它应该听不懂话吧，不过，夏天应该领会到我和心的感情了。
+scn00_42_0383 | - | だから嬉しそうに尻尾を振って、喜んでいる。 | That's why he's wagging his tail. He's happy. | 它也因此开心地摇起了尾巴，显得十分高兴。
+scn00_42_0384 | ココロ(Cocoro) | 「はぁぁ～～～、のどのつっかえが取れてスッキリしました」 | "Hahhhh! I suddenly feel like there's a weight off my chest." | “哈～～～，把卡在喉咙里的东西说出来后舒服多了”
+scn00_42_0385 | ココロ(Cocoro) | 「正直、ひなたさんから名前を付けてやれと言われてからずっと、プレッシャーでした」 | "To be honest, I've been under a lot of pressure since you told me to give him a name." | “说实话，自从日向先生说让我给它取名之后，我就一直压力很大”
+scn00_42_0386 | ココロ(Cocoro) | 「ワタシがココロという名をいただいたように、このもふもふの動物に適した名を与えてあげられるだろうかと」 | "I wasn't sure if I'd be able to give this fluffy creature a name that suited him as perfectly as the name 'Cocoro' suits me." | “一直在想我真的能给这个毛茸茸的动物起个像我的心这个名字一样合适的名字吗”
+scn00_42_0387 | ひなた(Hinata) | 「そんなに……？　なんかごめん」 | "Was it really that hard? I'm sorry..." | “你原来这么为难吗……？　感觉有点对不起你”
+scn00_42_0388 | ココロ(Cocoro) | 「いえ、ですが今、ぴったりな名を与えられました。感無量とはこの事です」 | "It's okay. I'm confident that I've given him the perfect name, and I'm overjoyed that I have." | “没事，不过现在我已经为它取了一个合适的名字。感慨万千说的就是我现在的心情吧”
+scn00_42_0389 | ナツ(Natsu) | 「ワン！　ワンワン！！」 | "Woof! Woof woof!" | “汪！　汪汪！！”
+scn00_42_0390 | - | ナツは砂を蹴り上げてはしゃいでいる。 | Natsu frolics on the beach, kicking up sand. | 夏天在沙子上撒起了欢。
+scn00_42_0391 | - | ココロはすっきりしたって顔で、夜空を見上げる。 | Cocoro looks up at the sky with an expression of utter relief. | 心一脸清爽地抬头望着夜空。
+scn00_42_0392 | ココロ(Cocoro) | 「……？　見てください、ひなたさんっ」 | "Huh? Look, Hinata-san!" | “……？　快看，日向先生”
+scn00_42_0393 | ひなた(Hinata) | 「なに？　ＵＦＯでもいた？」 | "What? Did you spot a UFO?" | “怎么了？　看见UFO了吗？”
+scn00_42_0394 | - | 何か驚くようなものが、空に浮かんでいるんだろうか？ | What could be there in the sky that's so surprising to her? | 是有什么不得了的东西浮在了空中吗？
+scn00_42_0395 | ココロ(Cocoro) | 「星が……」 | "The stars..." | “星星……”
+scn00_42_0396 | ココロ(Cocoro) | 「沢山の星が光輝いてて…………とっても…………綺麗」 | "There are so many stars sparkling in the sky... They're so... beautiful." | “数不清的星星闪烁着光芒……非常的……漂亮”
+scn00_42_0397 | ひなた(Hinata) | 「うん……」 | "Yeah..." | “嗯……”
+scn00_42_0398 | ココロ(Cocoro) | 「……わぁ……」 | "Wow..." | “……哇……”
+scn00_42_0399 | - | ココロは初めて星空を観るみたいに、ぽかんとして見上げている。 | Cocoro looks up with a wide-eyed expression of wonder, as if she's never seen a starry sky before. | 心就像是第一次看到星空一般，呆呆地抬头望着天空。
+scn00_42_0400 | ココロ(Cocoro) | 「視覚センサーが故障した時……その方がいいと判断しました」 | "When my optical sensors were malfunctioning... I'd decided that it was better that way." | “视觉传感器发生故障的时候……我认为坏了反而比较好”
+scn00_42_0401 | ひなた(Hinata) | 「どうして？」 | "But why?" | “为什么？”
+scn00_42_0402 | ココロ(Cocoro) | 「…………」 | "..." | “…………”
+scn00_42_0403 | ココロ(Cocoro) | 「ナツノシラユキが咲いて、それをワタシが見ても……美しさが何なのか、理解できないと考えたからです」 | "Because I thought that, when the summer snows bloomed and I saw them with my own eyes... I still wouldn't be able to understand their beauty." | “因为我当时认为就算看到了夏之白雪开花……也无法理解什么是美丽”
+scn00_42_0404 | ココロ(Cocoro) | 「……ならば見えない方がいいと。今思うとそれは、ワタシの臆病さゆえでした」 | "So, I decided that it would be better if I didn't. But now, I realize I was just a coward." | “……所以觉得既然如此还是看不见比较好。但现在想想，这种想法是源自于我的胆小”
+scn00_42_0405 | - | その頃はまだ、それが『臆病である』と判断できなかったろう。ココロは自分の中に心があると自覚できていなかったから。 | At the time, she probably wasn't able to identify her behavior as "cowardice" because she wasn't aware of the soul inside her yet. | 当时她也无法判断出那是‘因为胆小’吧，毕竟那时的心还没有意识到自己也是拥有人心的。
+scn00_42_0406 | ココロ(Cocoro) | 「でも、見たいって思った出来事がありました」 | "But something changed my mind and made me want to see them." | “但是，我也有过‘想看’的想法”
+scn00_42_0407 | ココロ(Cocoro) | 「ひなたさんと風音が、ここで星空を見ていたんです」 | "It was when you and Kazane were looking at the stars here on the beach." | “日向先生和风音就是在这里看的星空”
+scn00_42_0408 | - | 海開きした日の夜か。 | Right, the day we celebrated the re-opening of the beach. | 她说的应该是开海那天的晚上吧。
+scn00_42_0409 | 風音(Kazane) | 『綺麗だなぁ……』 | "It's so pretty..." | “真漂亮啊……”
+scn00_42_0410 | ひなた(Hinata) | 『ああ』 | "Yeah." | “嗯”
+scn00_42_0411 | 風音(Kazane) | 『『厄災』があってから大変な事ばっかで、ほんとは逃げ出したくなった事も何回もあったけど……』 | "Things have been really tough since the Calamity... There's been so many times I've just wanted to run away from everything." | “‘灾厄’发生后遇到的尽是一些难事，其实我已经好几次想逃走了……”
+scn00_42_0412 | 風音(Kazane) | 『そんな時に、ひなたが帰ってきてくれた。ココロちゃんを連れてきて、街を変えてくれた』 | "But then you came back, Hinata. And you brought Cocoro-chan with you. You two changed the whole town for the better." | “就在这时，日向回来了，带着心一起让整条街都发生了变化”
+scn00_42_0413 | ひなた(Hinata) | 『大げさだよ』 | "Now you're exaggerating." | “太夸张啦”
+scn00_42_0414 | 風音(Kazane) | 『そう、大げさに考えちゃってたんだよ』 | "Well, I think it's a really big deal." | “是啊，我确实想得很夸张”
+scn00_42_0415 | 風音(Kazane) | 『同じ星空を見て綺麗だって言える、ほんとの幸せってそういうのを言うんじゃないかって思うよ』 | "I can look up at the stars and say that they're beautiful. I think that means that I'm happy now." | “我觉得能够望着同一片星空共诉其美丽，说是真正的幸福应该也不为过吧”
+scn00_42_0416 | ココロ(Cocoro) | 『……』 | "..." | “……”
+scn00_42_0417 | こさめ(Kosame) | 『ココちゃんどうかした？』 | "Coco-chan, what's the matter?" | “心儿你怎么了？”
+scn00_42_0418 | ココロ(Cocoro) | 『こさめ、星は綺麗ですか？』 | "Kosame, are the stars beautiful?" | “小雨，星星美丽吗？”
+scn00_42_0419 | こさめ(Kosame) | 『え？　そうだねぇ、綺麗だよ。ほら、ココロちゃんも見てみなよ』 | "Huh? Yeah, they're really pretty. Just look at them, Coco-chan." | “哎？　是啊，很美丽哦，快快快，心儿也来看看吧”
+scn00_42_0420 | ココロ(Cocoro) | 『……見えません』 | "...I don't see it." | “……看不到”
+scn00_42_0421 | ココロ(Cocoro) | 『ワタシには、綺麗が解りません』 | "I don't understand what 'beautiful' means." | “我理解不了什么是美丽”
+scn00_42_0422 | ココロ(Cocoro) | 「ワタシは今、ひなたさんと一緒に星空を見上げて、同じ感情を感じられていますか？」 | "I wonder, do I feel the same thing you do when we look up at the stars together?" | “现在，我能够和日向先生一起望着星空，感受着同样的心情吗？”
+scn00_42_0423 | ひなた(Hinata) | 「ああ」 | "I'm sure you do." | “嗯”
+scn00_42_0424 | ココロ(Cocoro) | 「……ならやはり、この感情が幸せ」 | "Then this feeling must be 'happiness.'" | “……那么这份感情果然会让人感觉很幸福”
+scn00_42_0425 | ココロ(Cocoro) | 「ひなたさん、ワタシは幸せです」 | "Hinata-san, I'm happy." | “日向先生，我很幸福”
+scn00_42_0426 | ナツ(Natsu) | 「ワン！」 | "Woof!" | “汪！”
+scn00_42_0427 | ココロ(Cocoro) | 「かけがえのない季節が、たとえ終わろうとも。想い出が残る限り、ワタシが今感じている感情は消えません」 | "Even if this precious season comes to an end, these feelings won't disappear as long as I have my memories." | “即便这独一无二的季节结束了，只要回忆还在，我内心现在感受到的感情便不会消失”
+scn00_42_0428 | - | 次の季節が訪れたとしても、俺たちの未来には幸福しか待っていない。そう信じられた。 | Right now, I could actually believe that nothing but happiness awaits us in our future together, even when the seasons change. | 我相信，即使下一个季节到来，在未来等待着我们的也只有幸福。

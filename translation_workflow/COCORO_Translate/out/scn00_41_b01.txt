@@ -1,0 +1,60 @@
+scn00_41_0001 | Kể từ ngày hôm sau, tình hình đã hoàn toàn thay đổi.
+scn00_41_0002 | "Bác nghe con bé Kazane kể lại rồi. Xin hãy để Hội thương nhân phố Tsukumo này chuẩn bị địa điểm tổ chức tiệc cưới cho hai cháu nhé."
+scn00_41_0003 | "Cỗ bàn tiệc cưới thì cứ giao cho tôi lo được không? Trông tôi thế này thôi chứ trước biến cố Ách Tai tôi từng làm đầu bếp đấy."
+scn00_41_0004 | "Thật vậy có được không ạ?"
+scn00_41_0005 | "Được chứ. Đổi lại, cháu có thể cho bà con lối xóm trong thị trấn cùng đến chung vui dự tiệc cưới được không?"
+scn00_41_0006 | "Dạ chuyện đó thì hoàn toàn được ạ, nhưng mà..."
+scn00_41_0007 | Nhớ lại thái độ của mọi người ngày hôm qua, tôi chẳng dám nghĩ sẽ có nhiều người chịu đến tham dự.
+scn00_41_0008 | "Mọi người chỉ là cần thời gian để tiếp nhận sự thật thôi mà. Chuyện bé Cocoro là robot..."
+scn00_41_0009 | "Vâng, cháu là Cocoro đây ạ."
+scn00_41_0010 | "Đến tận bây giờ bác vẫn thấy thật khó mà tin nổi."
+scn00_41_0011 | "Người ta cũng hay nói với cháu như vậy. Cháu là người máy hình người nổi tiếng với độ giống người rất cao ạ."
+scn00_41_0012 | "Thế nhưng, cháu Hinata và bé Cocoro... hai cháu đã giúp đỡ thị trấn này rất nhiều."
+scn00_41_0013 | "Ừ, chuẩn xác là như thế đấy."
+scn00_41_0014 | "Nhờ có hai cháu mà khu phố này mới lấy lại được sức sống, rồi hai cháu còn cứu mạng cả con bé Kosame nữa."
+scn00_41_0015 | "Lại còn đuổi cổ được cả lũ thu gom đất đai đi nữa chứ!"
+scn00_41_0016 | "Cháu xin cảm ơn các bác rất nhiều. Vậy chúng cháu xin phép đón nhận tấm lòng của mọi người ạ."
+scn00_41_0017 | "Cháu xin cảm ơn mọi người ạ."
+scn00_41_0018 | "Có vẻ như địa điểm tiệc cưới đã được chốt xong xuôi rồi nhỉ."
+scn00_41_0019 | Trong lúc chúng tôi tiễn bác trưởng khu phố và mọi người ra về, từ phía sau Daichi cất tiếng gọi.
+scn00_41_0020 | "Tự dưng mọi chuyện được quyết định nhanh thật đấy."
+scn00_41_0021 | "Cơ mà này, những thứ cần thiết cho đám cưới vẫn còn thiếu món khác nữa đúng không?"
+scn00_41_0022 | "Váy cưới có rồi, lễ đường thì... để tôi bàn với dì Kirika xem sao, tiệc cưới thì cũng coi như ổn thỏa rồi..."
+scn00_41_0023 | "Là bánh cưới đấy!"
+scn00_41_0024 | "A―"
+scn00_41_0025 | Daichi vỗ ngực cái bốp đầy quả quyết.
+scn00_41_0026 | "Cứ để tiệm bánh nhà tao lo liệu tất."
+scn00_41_0027 | "Thật vậy có được không?"
+scn00_41_0028 | "Ơn nghĩa của tụi mày đối với nhà tao có trả bao nhiêu cũng chẳng hết. Xin hãy nhất quyết để tiệm tao làm cái bánh này."
+scn00_41_0029 | "Ừ, thế thì nhờ cậy vào cậu nhé."
+scn00_41_0030 | "Xin nhờ cậy bạn nhé."
+scn00_41_0031 | Cứ như vậy, chẳng mấy chốc mà khâu chuẩn bị cho hôn lễ đã dần được thu xếp đâu ra đấy.
+scn00_41_0032 | "Mọi chuyện là như vậy đấy ạ. Dì có thể cấp giấy phép sử dụng vườn bách thảo cho tụi cháu được không dì?"
+scn00_41_0033 | "Dì đồng ý cấp phép."
+scn00_41_0034 | "Nhanh thế ạ. Dì duyệt cái rụp dễ dàng thế thật sao?"
+scn00_41_0035 | "Dễ hay không gì chứ, dì đã nói rồi còn gì. Dì luôn hết lòng ủng hộ cuộc hôn nhân của hai đứa."
+scn00_41_0036 | "Việc nhận được sự đồng thuận và thấu hiểu của người dân thị trấn là một điều vô cùng ý nghĩa. Bởi chắc chắn nó sẽ liên quan mật thiết đến vị thế xã hội của Cocoro sau này."
+scn00_41_0037 | "...Dạ vâng."
+scn00_41_0038 | Liệu sự tồn tại của Cocoro có được xã hội rộng lớn ngoài kia chấp nhận hay không.
+scn00_41_0039 | Dù có chứng minh được cậu ấy không phải là căn nguyên gây ra Ách Tai, thì tự do của Cocoro cũng đâu thể được bảo đảm trọn vẹn.
+scn00_41_0040 | "Dì sẽ làm tất cả những gì có thể trong khả năng. Vì thế cháu cứ yên tâm đi."
+scn00_41_0041 | "Cháu cảm ơn dì Kirika nhiều lắm ạ."
+scn00_41_0042 | "Quan trọng hơn là cháu phải nghĩ cho con đường tương lai của mình đấy. Chuyện trường lớp cháu tính sao đây?"
+scn00_41_0043 | "Ái chà..."
+scn00_41_0044 | "Cháu... không thể dắt Cocoro theo cùng được... đúng không dì?"
+scn00_41_0045 | "Ừm, chuyện đó là bất khả thi rồi."
+scn00_41_0046 | "Vốn dĩ theo đúng nguyên tắc thì phải đưa con bé vào diện cách ly giam giữ ngay lập tức, nhưng vì dì tin tưởng hai đứa nên mới đang mắt nhắm mắt mở làm ngơ đấy."
+scn00_41_0047 | "Hơn nữa, cơ thể của Cocoro có thể hỏng hóc bất cứ lúc nào. Lúc này chưa thể sửa chữa hoàn toàn được ngay, nên việc rời khỏi cơ sở nghiên cứu này là cực kỳ nguy hiểm."
+scn00_41_0048 | "...Đúng là thế thật dì nhỉ."
+scn00_41_0049 | Dì Kirika ân cần mỉm cười dịu dàng để trấn an tôi.
+scn00_41_0050 | "Trong khoảng thời gian cháu vắng nhà, dì sẽ thay cháu chăm sóc Cocoro. Dì nhất định có thể bảo vệ được con bé."
+scn00_41_0051 | "Cháu cảm ơn dì, dì Kirika."
+scn00_41_0052 | "Vậy rốt cuộc cháu dự định sẽ làm thế nào? Nói cho dì nghe xem nào."
+scn00_41_0053 | "Dì nói trước nhé, dì tuyệt đối không cho phép cháu bỏ học chỉ vì lý do muốn ở cạnh Cocoro đâu đấy. Làm vậy thì dì chẳng còn mặt mũi nào nhìn chị gái của dì dưới suối vàng nữa cả."
+scn00_41_0054 | "...Nếu là chuyển trường thì sao ạ?"
+scn00_41_0055 | "Chà, chuyện đó cũng được thôi. Nhưng mà, ngày thành phố Tsukumo được dỡ bỏ phong tỏa vẫn còn xa lắm đấy."
+scn00_41_0056 | Ngay cả khi đã xác nhận biến cố Ách Tai đã hoàn toàn chấm dứt, thì việc dỡ phong tỏa thành phố Tsukumo vẫn sẽ cần thêm rất nhiều thời gian.
+scn00_41_0057 | Cho dù tôi có chuyển tới một ngôi trường ở đô thị lân cận, cũng chẳng thể nào tùy tiện ra vào nơi này một cách dễ dàng được.
+scn00_41_0058 | "Dù vậy, cháu vẫn muốn được ở gần cậu ấy thêm một chút nào hay chút nấy."
+scn00_41_0059 | "Ừ, vậy cháu cứ làm thế đi nhé."
+scn00_41_0060 | Dì Kirika dịu dàng vỗ nhẹ lên vai tôi.

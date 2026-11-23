@@ -1,0 +1,64 @@
+# scene=scn00_46 batch=2/3 dòng 61-120 / 161
+# ĐỊNH DẠNG: ID | Speaker | Japanese | English | Chinese(Simp)   (⏎ = xuống dòng trong ô)
+# Furigana [よみ]漢字: chỉ là cách đọc, BỎ khi dịch. Mã %n; %R %L %C %130; \n: GIỮ NGUYÊN.
+# --- CẦN DỊCH
+scn00_46_0061 | シラユキ(Shirayuki) | 『ワタシのを使って』 | "Use me." | ‘使用我的吧’
+scn00_46_0062 | 霧香(Kirika) | 「……あなたのパーツを流用すれば、修理できるかもしれない。でも、そうしたらあなたが壊れてしまうわ」 | "...Your parts should be compatible with hers, so it's true that I could fix her if I used them. But then  would be left incomplete." | “……如果挪用你的零件，或许能进行修理，但是，这么做的话你就会坏掉的”
+scn00_46_0063 | シラユキ(Shirayuki) | 『いいよ。ワタシは壊れていい。ワタシの事、お姉ちゃんが祝福してくれたの』 | "That's okay. It doesn't matter if I break. My sister has already given me her blessing." | ‘没关系，我就算坏掉了也没关系，因为姐姐已经祝福过我了’
+scn00_46_0064 | 霧香(Kirika) | 「？」 | "Huh?" | “？”
+scn00_46_0065 | ひなた(Hinata) | 「ココロが最期に、こいつに名前を付けてあげたんだ」 | "Cocoro gave her a name." | “心在最后的时候，给她取了个名字”
+scn00_46_0066 | シラユキ(Shirayuki) | 『うん。ワタシはシラユキ。お姉ちゃんが名前をくれた』 | "Yes. I'm Shirayuki. My sister gave me that name." | ‘嗯，我是白雪，是姐姐给我取的名字’
+scn00_46_0067 | 霧香(Kirika) | 「シラユキ……いい名前ね」 | "Shirayuki... That's a good name." | “白雪……真是个好名字啊”
+scn00_46_0068 | シラユキ(Shirayuki) | 『それでね、それでね……綺麗なものを見せてくれたの。嬉しい事も。それと、とっても悲しい事も……』 | "And then, you know... She showed me beautiful things... Happy things... And very sad things, too..." | ‘然后呢，然后呢……姐姐还让我看到了美丽的事物，以及开心的事，和无比悲伤的事……’
+scn00_46_0069 | - | はしゃいでいたシラユキが、項垂れてめそめそと泣き始める。 | Shirayuki, who had been frolicking happily, now droops her head and starts crying. | 欢闹着的白雪低下头抽泣了起来。
+scn00_46_0070 | 霧香(Kirika) | 「……そうなの。でもね、あなたのパーツを流用しても、直せないものが一つあるの。ココロのメモリーだけは、取り戻せない」 | "I see. But listen, even if I used your parts to repair Cocoro's body, there's one part of her I can't fix. There's no way to recover her memory." | “……这样啊，但是，即使挪用你的零件，也有一个修不好的地方，唯独心的记忆是再也回不来了”
+scn00_46_0071 | - | 電撃を受けたメモリーユニットは、完全に壊れてしまっていた。 | Her memory unit received a powerful electric shock and is far beyond repair. | 遭受了电击的记忆芯片已经完全损坏了。
+scn00_46_0072 | 霧香(Kirika) | 「ボディを修復しても、ココロだった頃の記憶は戻ってはこない……」 | "Even if her body is restored, she won't have any memories of the time she spent as 'Cocoro'..." | “就算修复了身体，心曾经的记忆也不会回来了……”
+scn00_46_0073 | シラユキ(Shirayuki) | 『……』 | "..." | ‘……’
+scn00_46_0074 | ひなた(Hinata) | 「……じゃあ、俺行くよ」 | "All right, I'll be going now." | “……那我就先走了”
+scn00_46_0075 | 霧香(Kirika) | 「寮に戻るの？」 | "Are you heading back to your dorm?" | “要回宿舍了吗？”
+scn00_46_0076 | ひなた(Hinata) | 「うん。もう夏休みも終わりだから」 | "Yeah. Summer break is almost over." | “嗯，毕竟暑假已经结束了”
+scn00_46_0077 | 霧香(Kirika) | 「そう……」 | "I see..." | “是吗……”
+scn00_46_0078 | ひなた(Hinata) | 「色々ありがとう。仕事頑張りすぎて、無理しないでね」 | "Thanks for everything. Don't work too hard, okay?" | “感谢你各方面的照顾，工作别太拼命了，别太勉强自己了啊”
+scn00_46_0079 | 霧香(Kirika) | 「たまには顔を見せに来てね」 | "Don't forget to come visit me sometimes." | “记得要偶尔来露个脸啊”
+scn00_46_0080 | - | 俺は軽く霧香さんとハグを交わして、その場を後にする。 | Kirika-san and I share a light hug before I'm on my way. | 我轻轻地和雾香小姐拥抱了一下，然后便离开了。
+scn00_46_0081 | - | 長居すると、また悲しい想い出が[よみがえ]蘇ってきてしまいそうだった。 | I feel like if I stayed any longer, I'd only end up reliving my painful memories. | 停留太长时间的话，感觉悲伤的回忆又会复苏。
+scn00_46_0082 | 霧香(Kirika) | 「ちょっと何をしているの、やめなさいっ」 | "Hey, what are you doing? Stop that!" | “你在干什么啊，快停下来”
+scn00_46_0083 | - | 出て行こうとしたところへ、霧香さんの[するど]鋭い声が聞こえて足を止めた。 | Just as I'm about to shut the door, Kirika-san's sharp voice stops me in my tracks. | 就在我正要离开的时候，雾香小姐的尖锐声音让我停下了脚步。
+scn00_46_0084 | - | 振り返ると、コンソールの上にシラユキが飛び乗って何かやろうとしていた。 | I look back and see that Shirayuki has jumped onto the control panel. | 回头一看，发现白雪跳上了控制台正试图做着什么。
+scn00_46_0085 | - | メインモニタの映像がぐちゃぐちゃになって、明らかなエラー状態になる。 | The main monitor is flickering. Clearly, some kind of error is occurring. | 主显示器的影像变得乱七八糟的，很明显是进入了出错状态。
+scn00_46_0086 | - | ひやりとしたものが、背筋を伝う。 | A chill runs down my spine. | 一股寒意窜上我的脊背。
+scn00_46_0087 | - | シラユキは『厄災』の元凶となったアレロパシーを発した張本人。また何か事故を引き起こそうとしている―― | Shirayuki is the one who emitted the allelopathy that caused the Calamity. Is she trying to cause another incident!? | 白雪就是发出成为了‘灾厄’元凶的化感作用信号的本人，她是又想引发什么事故——
+scn00_46_0088 | 霧香(Kirika) | 「今すぐ接続を切りなさい！　でないとあなたを駆除しなければいけなくなるわ！」 | "Disconnect from that immediately! If you don't, I'll be forced to exterminate you." | “现在立刻切断连接！　不然我就只能驱除掉你了！”
+scn00_46_0089 | - | 霧香さんが[かたわ]傍らにあったライフルを手に取った。 | Kirika-san reaches for a rifle that's lying off to the side. | 雾香小姐拿起了旁边的步枪。
+scn00_46_0090 | - | それは駆除隊が装備していた対ミュータントドローン用のライフルだ。駆除隊が解体された今、護身用もかねて霧香さんが持っていたものだ。 | It's one of the rifles the extermination squad uses against the mutant drones. Now that the squad has been disbanded, Kirika-san keeps one of them with her for self-defense purposes. | 这是驱除队针对变异无人机专用的步枪，而现如今驱除队已经被解体了，这枪便到了雾香小姐手里，顺便还能用它护身。
+scn00_46_0091 | ひなた(Hinata) | 「シラユキ、やめるんだ！」 | "Shirayuki, stop that!" | “白雪，快停下来！”
+scn00_46_0092 | シラユキ(Shirayuki) | 『…………』 | "..." | ‘…………’
+scn00_46_0093 | - | 銃口を向けられてもシラユキはやめない。 | Even with the muzzle trained on her, Shirayuki doesn't stop whatever it is she's doing. | 就算被枪口指着白雪也没有停下动作。
+scn00_46_0094 | - | 愛らしい姿と、会話が成立したかのようなやりとりに誤魔化されていたが、やはりこの子の本質はあのキメラのような怪物だったのか？ | She had us fooled with her cute looks and conversational ability, but maybe she's still that chimera-like, ferocious monster on the inside... | 我们被她那可爱的外表和似乎能够进行对话的样子蒙蔽住了，她的本质果然还是那个奇美拉一样的怪物吗？
+scn00_46_0095 | - | 霧香さんの指がトリガーにかかった。 | Kirika-san's finger hovers over the trigger. | 雾香小姐将手指放到了扳机上。
+scn00_46_0096 | ひなた(Hinata) | 「霧香さん、待って！」 | "Kirika-san, wait!" | “雾香小姐，等一下！”
+scn00_46_0097 | 霧香(Kirika) | 「邪魔をしないで、もう二度と『厄災』を起こさせるわけにはいかない！」 | "Stay out of the way! We can't allow a second Calamity to happen!" | “别来阻止我，不能再让‘灾厄’发生了！”
+scn00_46_0098 | ひなた(Hinata) | 「モニタを見て――」 | "Look at the monitor!" | “看显示器——”
+scn00_46_0099 | - | 混線したアナログテレビのようにぐちゃぐちゃだったモニタに、ある映像が浮かび上がった。 | A video begins playing on the monitor, which has showed but nothing but gray static like an analog TV up until now. | 像是串线了的模拟电视一样乱七八糟的显示器上，浮现出了一个画面。
+scn00_46_0100 | 霧香(Kirika) | 「なに、この映像は……」 | "What's this...?" | “这影像是……”
+scn00_46_0101 | - | 暗い部屋。 | We see a dark room. | 阴暗的房间。
+scn00_46_0102 | - | 鏡がある。 | There's a mirror... | 有一面镜子。
+scn00_46_0103 | - | そこに映っているのは―― | And in the mirror... | 镜子中映出的是——
+scn00_46_0104 | ココロ(Cocoro) | 『……とってもカワイイと判断します……えへへ』 | <I've determined that I look very cute... Hehehe...> | ‘……我认为这非常可爱……哎嘿嘿’
+scn00_46_0105 | ひなた(Hinata) | 「ココロ……」 | "Cocoro..." | “心……”
+scn00_46_0106 | - | 暗くてはっきり見えないが、ココロだ。 | Her silhouette is fuzzy in the darkness, but it's definitely Cocoro. | 虽然很黑看不太清，但这就是心。
+scn00_46_0107 | - | でも、これはいつの映像だ？　誰が撮影したんだ？ | When was this video taken? And who took it? | 但是，这是什么时候的影像？　又是谁拍摄的？
+scn00_46_0108 | ココロ(Cocoro) | 『早くこのドレスを着て、ひなたさんと永遠を誓い合い祝福を受けたいです』 | <I want to wear this and make my eternal vows with Hinata-san as soon as possible so we can receive our blessing.> | ‘好想赶快穿上这件婚纱，和日向先生立下永远的誓言，然后受到大家的祝福’
+scn00_46_0109 | ココロ(Cocoro) | 『……』 | <...> | ‘……’
+scn00_46_0110 | ココロ(Cocoro) | 『ワタシは幸福になってもいいのでしょうか？』 | <But is it okay for me to become happy?> | ‘我真有资格获得幸福吗？’
+scn00_46_0111 | ココロ(Cocoro) | 『沢山のロボットが廃棄されているというのに、ワタシだけ……』 | <So many robots have been destroyed. I'm the only one who gets to...> | ‘许多的机器人都被废弃掉了，只有我……’
+scn00_46_0112 | ココロ(Cocoro) | 『？』 | <Huh?> | ‘？’
+scn00_46_0113 | ココロ(Cocoro) | 『誰か、ワタシを呼びましたか？』 | <Did someone just call me?> | ‘是有谁在叫我吗？’
+scn00_46_0114 | ココロ(Cocoro) | 『……』 | <...> | ‘……’
+scn00_46_0115 | - | ココロは誰かに呼ばれたようで、部屋を出ていった。 | Cocoro leaves the room, as if somebody called to her from offscreen. | 心就像是听到了某人的呼唤一般离开了房间。
+scn00_46_0116 | - | その時、ちらりと眠っている俺の姿が映ったように見えた。 | I catch a brief glimpse of myself sleeping in the background. | 这时，我有一瞬间隐约看到正在睡觉的我也出现在了影像中。
+scn00_46_0117 | ひなた(Hinata) | 「あの日の朝……」 | "It's that morning..." | “是那天早上……”
+scn00_46_0118 | - | そして、この映像はココロ視点で撮影されていた。 | The video is showing Cocoro's point of view. | 然后，这份影像是以心的视角拍摄的。
+scn00_46_0119 | - | つまり、ココロが見ていた景色だ。 | This is what she saw that day. | 也就是说，这是心眼中的景象。
+scn00_46_0120 | シラユキ(Shirayuki) | 『これはワタシ……？』 | "Is that me...?" | ‘这是我……？’

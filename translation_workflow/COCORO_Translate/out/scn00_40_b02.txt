@@ -1,0 +1,60 @@
+scn00_40_0060 | "Nếu là chuyện đó thì để tôi chỉ cho chú nhé. Bí quyết pha cà phê đúng chuẩn gu yêu thích của dì Kirika."
+scn00_40_0061 | "Dì Kirika thích uống cà phê có thật nhiều sữa. Vì vậy mẹo nhỏ là phải pha cà phê đậm vị hơi đắng hơn một chút."
+scn00_40_0062 | "Cảm ơn cháu nhé. Nhân loại chúng tôi từ nay cho đến thiên thu vạn đại sẽ mãi mãi là những người bạn tốt của các cháu."
+scn00_40_0063 | "Gọi là bạn thân chí cốt trọn đời đấy nhỉ."
+scn00_40_0064 | Siết chặt! Hai người bắt tay nhau thật nồng nhiệt.
+scn00_40_0065 | "Nhân tiện thì chú Kotaro ơi, tôi có một điều muốn hỏi chú."
+scn00_40_0066 | "Chuyện gì thế cháu?"
+scn00_40_0067 | "Em gái của tôi rồi sẽ ra sao ạ?"
+scn00_40_0068 | "Em gái á? Ý cháu là con Jabberwock ấy à?"
+scn00_40_0069 | Nghe cách gọi đó, Cocoro khẽ chau mày đôi chút rồi gật đầu.
+scn00_40_0070 | "Đồng nghiệp của chú đang lần theo tung tích của nó. Nếu tìm thấy... ừm, nó sẽ là đối tượng cần phải bắt giữ nguyên trạng."
+scn00_40_0071 | "Nghĩa là con bé sẽ không bị tiêu trừ đúng không ạ."
+scn00_40_0072 | "Ừ, chú bảo đảm điều đó. Nếu đúng như giả thuyết của Chủ nhiệm Kizuki thì Jabberwock chính là ngọn nguồn của 'Ách Tai'. Bắt giữ nó để phục vụ điều tra là điều tối quan trọng."
+scn00_40_0073 | "Ra là vậy, tôi đã hiểu. Cảm ơn chú nhiều."
+scn00_40_0074 | "Dì Kirika ấy mà, hễ xoa xoa đầu là sẽ thoái lui thành một đứa bé con mít ướt đấy nhé."
+scn00_40_0075 | "Thật á!?"
+scn00_40_0076 | "Đấy là khi đối phương là cháu hoặc Cocoro thôi, chú Kotaro mà dám làm thế là xảy ra án mạng đấy!!!"
+scn00_40_0077 | "Ờ ha, chú cũng nghĩ thế............ hú hồn thật đấy."
+scn00_40_0078 | "Tôi lại chỉ dẫn sai chuyện gì nữa rồi sao?"
+scn00_40_0079 | Suýt chút nữa là em ấy đã gây ra một vụ tai nạn, à không, một vụ thảm án nghiêm trọng rồi.
+scn00_40_0080 | "Thôi, chú phải đi đây. Chú phải đi pha một tách cà phê ngập tràn sữa cho Chủ nhiệm Kizuki mới được."
+scn00_40_0081 | "Nếu hai đứa biết được tung tích của Jabberwock hay tìm thấy manh mối gì thì báo cho chú hay nhé. Biết đâu chừng nó lại xuất hiện trước mặt cháu đấy."
+scn00_40_0082 | "Tôi rõ rồi ạ."
+scn00_40_0083 | "...... Không ngờ Chủ nhiệm Kizuki lại có nét tính cách như thế, đây gọi là nét quyến rũ tương phản đấy nhỉ."
+scn00_40_0084 | Chú Kotaro vừa lẩm bẩm một mình vừa cất bước rời đi.
+scn00_40_0085 | "Cậu nhìn xem kìa, những nụ hoa rõ ràng đã phình to đẫy đà hơn hẳn lúc trước rồi."
+scn00_40_0086 | Được Cocoro vẫy tay gọi với vẻ đầy phấn khích, tôi cũng bước tới ngồi xổm xuống trước khóm Tuyết Trắng Mùa Hạ.
+scn00_40_0087 | "Đúng thật này."
+scn00_40_0088 | "Thế này thì chẳng phải sắp nở rồi sao? Không chừng ngay ngày mai là hoa sẽ bung nở rồi cũng nên??"
+scn00_40_0089 | "Có lẽ vậy thật."
+scn00_40_0090 | "Ngày mai tôi sẽ cài chuông báo thức lúc 4 giờ sáng. Đừng lo, trong người tôi có đồng hồ tích hợp sẵn nên độ chuẩn xác về mặt thời gian là tuyệt đối."
+scn00_40_0091 | Cocoro hào hứng nói bằng giọng điệu đầy trông mong.
+scn00_40_0092 | "Điều kiện để Tuyết Trắng Mùa Hạ nở là vào mùa hè, lúc rạng đông hé sáng, và còn một điều nữa hình như là độ ẩm phải thật cao đủ để sương mù giăng kín."
+scn00_40_0093 | "Nghe bảo hoa thường nở rộ vào buổi sáng sớm sau những cơn mưa."
+scn00_40_0094 | Cứ nhìn những búp hoa căng tràn sắp bung cánh thế này, thì điều kiện còn thiếu duy nhất có lẽ chỉ là độ ẩm mà thôi.
+scn00_40_0095 | "Độ ẩm cao ư...... Gay go rồi, ánh nắng gay gắt quá làm độ ẩm bốc hơi cạn kiệt mất rồi."
+scn00_40_0096 | Đất quanh gốc cây khô cằn ráo hoảnh.
+scn00_40_0097 | Nhiệt độ và độ ẩm bên trong vòm kính vốn được điều hòa tự động, và hệ thống ấy xem ra hiện giờ vẫn đang vận hành.
+scn00_40_0098 | Thế nhưng, vì các tấm kính đã bị vỡ khiến không khí bên ngoài lọt vào, vả lại bản thân hệ thống cũng khó lòng coi là hoạt động hoàn hảo được.
+scn00_40_0099 | "Để cây không bị khô héo, chúng ta hãy tranh thủ tưới thật nhiều nước ngay từ lúc này nhé."
+scn00_40_0100 | Cocoro chạy đi lấy bình tưới cây.
+scn00_40_0101 | Còn lại một mình, tôi chăm chú ngắm nhìn khóm Tuyết Trắng Mùa Hạ dường như sắp nở vào sáng mai.
+scn00_40_0102 | Khi đóa hoa này bung nở, tôi đã hẹn ước sẽ kết hôn với Cocoro.
+scn00_40_0103 | Tấm chân tình khi tôi ngỏ lời cầu hôn em tuyệt nhiên không một chút dối lừa.
+scn00_40_0104 | Thế nhưng, hôn nhân không đơn thuần chỉ là câu chuyện của cảm xúc, mà tôi còn phải suy tính thấu đáo cụ thể cho tương lai của hai đứa sau này.
+scn00_40_0105 | Việc học ở trường thì tính sao?
+scn00_40_0106 | Mình sẽ sống ở đâu cùng với Cocoro?
+scn00_40_0107 | Làm thế nào để trang trải cuộc sống?
+scn00_40_0108 | Không, trước cả những chuyện đó, còn một nan đề thực tế và trước mắt hơn nhiều.
+scn00_40_0109 | Đám cưới thì phải tổ chức thế nào đây nhỉ......
+scn00_40_0110 | Trước hết là phải làm lễ cưới đã.
+scn00_40_0111 | Tôi chưa từng bao giờ nghĩ một học sinh cấp ba như mình lại đi lấy vợ, nên ngay cả việc hình dung tôi cũng chưa từng tưởng tượng qua.
+scn00_40_0112 | Tôi ngơ ngẩn ngước nhìn lên vòm kính bên trên.
+scn00_40_0113 | Vòm kính phản chiếu những tia nắng mặt trời lấp lánh rực rỡ, đẹp đến nao lòng.
+scn00_40_0114 | "...... Vì Cocoro, mình nhất định phải tổ chức một lễ cưới thật đàng hoàng tử tế."
+scn00_40_0115 | Bởi vì bấy lâu nay, em chỉ mòn mỏi mong chờ mỗi điều đó mà thôi.
+scn00_40_0116 | "Cậu Hinata? ...... Có chuyện gì thế ạ?"
+scn00_40_0117 | Chẳng biết từ lúc nào, Cocoro đã xách chiếc bình tưới đầy nước quay trở lại.
+scn00_40_0118 | "Tớ chỉ đang mải suy nghĩ chút chuyện vẩn vơ thôi."
+scn00_40_0119 | "Chẳng hay cậu đang thấy mệt mỏi sao? Cũng tại tôi mà làm cậu phải bận lòng lo nghĩ nhiều như vậy."
