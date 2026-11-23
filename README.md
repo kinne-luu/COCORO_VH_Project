@@ -1,6 +1,5 @@
 # COCORO — Technical Documentation & Vietnamese Localization Project
 
-Repository: `https://github.com/kinne-luu/COCORO_VH_Project`  
 Engine: Kirikiri Z 32-bit `COCORO.exe`, KAG Framework, Frontwing HXV4 / CxdecV2
 
 [Tiếng Việt](#tieng-viet) | [English](#english)
